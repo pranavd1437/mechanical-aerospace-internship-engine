@@ -1,0 +1,418 @@
+{
+ "companies": {
+  "amazon": {
+   "name": "Amazon",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2025-12-17",
+     "role_ids": [
+      "amazon:amazon:3145033"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "anduril": {
+   "name": "Anduril",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-06-11",
+     "role_ids": [
+      "greenhouse:andurilindustries:5153187007",
+      "greenhouse:andurilindustries:5153218007"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "applied materials": {
+   "name": "Applied Materials",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-04-01",
+     "role_ids": [
+      "workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503",
+      "workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Mechanical-Engineer-Co-op---BS-MS--Gloucester--MA-_R2611501",
+      "workday:amat:/job/HudsonMA/XMLNAME-2026-Fall-Process-Integration-Engineer-Co-op--Cambridge--MA-_R2618309-1"
+     ],
+     "count": 3
+    }
+   }
+  },
+  "bosch": {
+   "name": "Bosch",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-21",
+     "role_ids": [
+      "smartrecruiters:BoschGroup:744000138864841"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "caterpillar": {
+   "name": "Caterpillar Inc.",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-07-01",
+     "role_ids": [
+      "workday:cat:/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "draper": {
+   "name": "Draper",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-03",
+     "role_ids": [
+      "workday:draper:/job/Houston-TX/Space-GNC-Co-Op--Fall-2026-_JR002721"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "field ai": {
+   "name": "Field AI",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-03-22",
+     "role_ids": [
+      "lever:field-ai:8a3b5d4b-f88f-4704-bfdd-74e8dcd30704"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "figure": {
+   "name": "Figure",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2023-11-09",
+     "role_ids": [
+      "greenhouse:figureai:4303098006",
+      "greenhouse:figureai:4606072006",
+      "greenhouse:figureai:4702104006"
+     ],
+     "count": 3
+    }
+   }
+  },
+  "flextronics international": {
+   "name": "Flextronics International",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-27",
+     "role_ids": [
+      "workday:flextronics:/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357",
+      "workday:flextronics:/job/USA-SC-Orangeburg/Quality-Engineering-Co-Op---Fall-2026_WD226046"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "general motors": {
+   "name": "General Motors",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-30",
+     "role_ids": [
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--Materials-Science---Metallurgical-Engineering_JR-202612790"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "gevernova": {
+   "name": "Gevernova",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-07-31",
+     "role_ids": [
+      "workday:gevernova:/job/Wilmington-NC-USA/GE-Vernova-Nuclear---Manufacturing---Supply-Chain-Intern--Summer-2027-_R5049016-2"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "hermeus": {
+   "name": "Hermeus",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2025-09-30",
+     "role_ids": [
+      "lever:hermeus:31513d2a-8e08-424b-b125-4f972fcfc805",
+      "lever:hermeus:6b6afa4a-b37d-4033-ac3b-e6501a951b98",
+      "lever:hermeus:922ee234-94aa-473b-8464-03f28a709872",
+      "lever:hermeus:a949f158-6900-42e1-890d-fb3ec339c3d0"
+     ],
+     "count": 4
+    }
+   }
+  },
+  "hntb": {
+   "name": "HNTB",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-04-13",
+     "role_ids": [
+      "workday:hntb:/job/Philadelphia-PA-Pennsylvania/Co-op-Engineer--Structures---Fall-Winter-2026-2027_R-29875"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "howmet aerospace": {
+   "name": "Howmet Aerospace",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-07",
+     "role_ids": [
+      "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:118356"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "kairos power": {
+   "name": "Kairos Power",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-07-23",
+     "role_ids": [
+      "greenhouse:kairospower:6123676004"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "lawrence livermore national laboratory llnl": {
+   "name": "Lawrence Livermore National Laboratory (LLNL)",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-05-21",
+     "role_ids": [
+      "smartrecruiters:LLNL:3743990013250937",
+      "smartrecruiters:LLNL:3743990013626030"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "menasha": {
+   "name": "Menasha Corporation",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-05-18",
+     "role_ids": [
+      "workday:menasha:/job/Piedmont-South-Carolina/Custom-Packaging-Design-Engineer-Co-Op--Summer-Fall-2026-_R13995"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "merck": {
+   "name": "Merck",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-04",
+     "role_ids": [
+      "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---Manufacturing-and-Reliability-Engineering-Co-Op_R395901",
+      "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---Vaccine-Manufacturing-Co-op_R395900"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "mosaic": {
+   "name": "Mosaic",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-07-22",
+     "role_ids": [
+      "workday:mosaic:/job/US---Tampa-FL-Lithia-area/Structural-Engineer-Co-Op-Intern---Summer-2027_64448"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "northrop grumman": {
+   "name": "Northrop Grumman",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-03",
+     "role_ids": [
+      "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2026-Fall-Co-op-Manufacturing-Engineering---Baltimore-MD_R10243390-1"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "phoenix contact": {
+   "name": "Phoenix Contact",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-04",
+     "role_ids": [
+      "greenhouse:phoenixcontact:7817228003"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "quera computing": {
+   "name": "QuEra Computing",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-24",
+     "role_ids": [
+      "greenhouse:queracomputinginc:5370312008"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "reflect orbital": {
+   "name": "Reflect Orbital",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-15",
+     "role_ids": [
+      "ashby:reflect-orbital:51d75a91-c088-4f00-89bc-4be8250b09f9"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "rendezvous robotics": {
+   "name": "Rendezvous Robotics",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-22",
+     "role_ids": [
+      "greenhouse:rendezvousrobotics:4329113009",
+      "greenhouse:rendezvousrobotics:4332076009",
+      "greenhouse:rendezvousrobotics:4332459009"
+     ],
+     "count": 3
+    }
+   }
+  },
+  "rocket lab": {
+   "name": "Rocket Lab",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-05-19",
+     "role_ids": [
+      "greenhouse:rocketlab:7728969003",
+      "greenhouse:rocketlab:7733900003",
+      "greenhouse:rocketlab:7736140003"
+     ],
+     "count": 3
+    }
+   }
+  },
+  "sharkninja": {
+   "name": "SharkNinja",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-01-21",
+     "role_ids": [
+      "greenhouse:sharkninjaoperatingllc:4646272006"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "stantec": {
+   "name": "Stantec",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-06-18",
+     "role_ids": [
+      "oracle:hdhl.fa.us6.oraclecloud.com:1006349"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "sunday robotics": {
+   "name": "Sunday Robotics",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-07",
+     "role_ids": [
+      "ashby:sunday:08feb65a-08b0-462d-aebf-4f0239a16ed8"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "toshiba global commerce": {
+   "name": "Toshiba Global Commerce",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-26",
+     "role_ids": [
+      "greenhouse:toshibaglobalcommercesolutions:5187159007"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "varda space": {
+   "name": "Varda Space",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-03-24",
+     "role_ids": [
+      "greenhouse:vardaspace:7670782003"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "vast": {
+   "name": "VAST",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-06-25",
+     "role_ids": [
+      "greenhouse:vast:4691428006",
+      "greenhouse:vast:4694238006",
+      "greenhouse:vast:4694905006"
+     ],
+     "count": 3
+    }
+   }
+  },
+  "western digital": {
+   "name": "Western Digital",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-23",
+     "role_ids": [
+      "smartrecruiters:WesternDigital:744000139338269"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "westlake": {
+   "name": "Westlake",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-04-22",
+     "role_ids": [
+      "workday:westlake:/job/US---Houston-TX/XMLNAME-2026-Intern---Mechanical-Engineer_R30240"
+     ],
+     "count": 1
+    }
+   }
+  }
+ },
+ "updated_at": "2026-08-05T06:24:39Z"
+}

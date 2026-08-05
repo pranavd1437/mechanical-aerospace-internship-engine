@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml</id>
+  <title>Summer 2027 &amp; Fall 2026 Mechanical &amp; Aerospace Internships — new roles</title>
+  <subtitle>Auto-detected internships, newest finds first.</subtitle>
+  <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
+  <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
+  <updated>2026-08-05T15:57:04Z</updated>
+  <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:3145033</id>
+    <title>Amazon: Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more)</title>
+    <link href="https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Materials Engineering · Westboro, Massachusetts, USA · CAD · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:1x:e7b4aaf5-5c55-4e2f-abcd-5c250657bede</id>
+    <title>1X: CNC Machine Park Internship</title>
+    <link href="https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · San Carlos, CA · $25 per hour · CNC</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:reflect-orbital:51d75a91-c088-4f00-89bc-4be8250b09f9</id>
+    <title>Reflect Orbital: Composites Engineering Intern (Fall 2026)</title>
+    <link href="https://jobs.ashbyhq.com/reflect-orbital/51d75a91-c088-4f00-89bc-4be8250b09f9"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Materials Engineering · Hawthorne, CA · $27 – $31 per hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:skydio:ce482813-99c2-4eaa-a165-2ed201249182</id>
+    <title>Skydio: Product Design Engineer Intern</title>
+    <link href="https://jobs.ashbyhq.com/skydio/ce482813-99c2-4eaa-a165-2ed201249182"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · San Mateo, California, United States · $41/hr · CATIA, CAD, CNC, DFM/DFA · H-1B track record: ~26 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:sunday:08feb65a-08b0-462d-aebf-4f0239a16ed8</id>
+    <title>Sunday Robotics: Manufacturing Engineering Intern (Fall 2026)</title>
+    <link href="https://jobs.ashbyhq.com/sunday/08feb65a-08b0-462d-aebf-4f0239a16ed8"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Manufacturing &amp; Quality · Redwood City, CA · SolidWorks, CAD, DFM/DFA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:the-exploration-company:90170478-eb9d-46cd-bdf2-7967875919a6</id>
+    <title>The Exploration Company: Crew Systems Engineering Intern - Mechanical/Structures 🇺🇸</title>
+    <link href="https://jobs.ashbyhq.com/the-exploration-company/90170478-eb9d-46cd-bdf2-7967875919a6"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Structures &amp; FEA · Houston, Texas · CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:andurilindustries:5153187007</id>
+    <title>Anduril: 2027 Mechanical Engineer Intern 🇺🇸</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States · SolidWorks, Siemens NX, CAD, FEA, CFD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:andurilindustries:5153218007</id>
+    <title>Anduril: 2027 Manufacturing Engineer Intern 🇺🇸</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States · Computer Vision · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:figureai:4303098006</id>
+    <title>Figure: Mechanical Engineer Intern [Fall 2026]</title>
+    <link href="https://job-boards.greenhouse.io/figureai/jobs/4303098006"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · San Jose, CA · Python, MATLAB, CATIA, CAD, GD&amp;T</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:figureai:4606072006</id>
+    <title>Figure: Validation Engineering Intern [Fall 2026]</title>
+    <link href="https://job-boards.greenhouse.io/figureai/jobs/4606072006"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Test &amp; Validation · San Jose, CA · Python, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:figureai:4702104006</id>
+    <title>Figure: Power Systems Integration Intern [Fall 2026]</title>
+    <link href="https://job-boards.greenhouse.io/figureai/jobs/4702104006"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Systems Engineering · San Jose, CA · $40–$45/hr · Python, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:kairospower:6123676004</id>
+    <title>Kairos Power: Mechanical and Manufacturing Engineering Internship - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/kairospower/jobs/6123676004"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Alameda, CA, Albuquerque, NM, or Oak Ridge, TN · MATLAB, SolidWorks, AutoCAD, CAD, GD&amp;T</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:metoxinternationalinc:5349699008</id>
+    <title>MetOx International: Mechanical Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5349699008"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Houston, TX · SolidWorks, FEA, CFD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:neuralink:7808233003</id>
+    <title>Neuralink: R&amp;D Materials Engineer Intern</title>
+    <link href="https://boards.greenhouse.io/neuralink/jobs/7808233003?gh_jid=7808233003"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Materials Engineering · South San Francisco, California, United States · $35/hr · SolidWorks, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:queracomputinginc:5370312008</id>
+    <title>QuEra Computing: Mechanical Engineering Co-Op - Fall 2026</title>
+    <link href="https://job-boards.greenhouse.io/queracomputinginc/jobs/5370312008"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · Boston, MA, USA · CAD, GD&amp;T, PLM, DFM/DFA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rendezvousrobotics:4329113009</id>
+    <title>Rendezvous Robotics: Mechanical Engineering Intern (Fall 2026) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329113009"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · Golden, CO · SolidWorks, Siemens NX, CAD, ANSYS, FEA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rendezvousrobotics:4332076009</id>
+    <title>Rendezvous Robotics: Manufacturing and Test Engineering Intern (Fall 2026) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4332076009"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Manufacturing &amp; Quality · Golden, CO · Python, LabVIEW · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rendezvousrobotics:4332459009</id>
+    <title>Rendezvous Robotics: GNC Intern (Fall 2026) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4332459009"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Controls &amp; Mechatronics · Golden, CO · Python, C++, MATLAB, Simulink, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7728969003</id>
+    <title>Rocket Lab: Mechanical Engineering Intern Fall 2026 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7728969003"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · Long Beach, CA · Siemens NX, CAD, GD&amp;T, ANSYS, Nastran · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7733900003</id>
+    <title>Rocket Lab: Manufacturing Engineering Intern Fall 2026 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7733900003"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Manufacturing &amp; Quality · Long Beach, CA · CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7736140003</id>
+    <title>Rocket Lab: Turbomachinery Intern Fall 2026 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7736140003"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Thermal, Fluids &amp; Propulsion · Long Beach, CA · Python, MATLAB, SolidWorks, Siemens NX, CATIA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4646272006</id>
+    <title>SharkNinja: Fall 2026: Product Design Engineering Co-op, Advanced Development (July/August to December)</title>
+    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646272006"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · Needham, MA, United States · SolidWorks, Creo, CAD · H-1B track record: ~23 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:toshibaglobalcommercesolutions:5187159007</id>
+    <title>Toshiba Global Commerce: Mechanical Engineering Intern 🛂</title>
+    <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5187159007"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · Durham, NC · SolidWorks · sponsorship: no-sponsorship · H-1B track record: ~77 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:vardaspace:7670782003</id>
+    <title>Varda Space: Mechanical Engineering Internship - Fall 2026 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/vardaspace/jobs/7670782003"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · El Segundo, California, United States · MATLAB, Siemens NX, CAD, GD&amp;T, Nastran · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:vast:4691428006</id>
+    <title>VAST: 2026 Fall Internship - Supplier Quality Engineering Intern 🇺🇸</title>
+    <link href="https://boards.greenhouse.io/vast/jobs/4691428006?gh_jid=4691428006"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Manufacturing &amp; Quality · Long Beach, California, United States · $35/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:vast:4694238006</id>
+    <title>VAST: 2026 Fall Internship - Manufacturing 🇺🇸</title>
+    <link href="https://boards.greenhouse.io/vast/jobs/4694238006?gh_jid=4694238006"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Manufacturing &amp; Quality · Long Beach, California, United States · $35/hr · SolidWorks, CATIA, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:vast:4694905006</id>
+    <title>VAST: 2026 Fall Internship - Mechanical / Aerospace 🇺🇸</title>
+    <link href="https://boards.greenhouse.io/vast/jobs/4694905006?gh_jid=4694905006"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · Long Beach, California, United States · SolidWorks, CATIA, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:field-ai:8a3b5d4b-f88f-4704-bfdd-74e8dcd30704</id>
+    <title>Field AI: Internship - Robot Control Systems (Fall 2026)</title>
+    <link href="https://jobs.lever.co/field-ai/8a3b5d4b-f88f-4704-bfdd-74e8dcd30704"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Controls &amp; Mechatronics · Irvine, CA · 47–53 USD/hr · Python, C++, CUDA, Kubernetes, Docker</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:31513d2a-8e08-424b-b125-4f972fcfc805</id>
+    <title>Hermeus: Propulsion Test Engineering Intern - Fall 2026 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Thermal, Fluids &amp; Propulsion · Jacksonville, FL · 25–33 USD/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:6b6afa4a-b37d-4033-ac3b-e6501a951b98</id>
+    <title>Hermeus: Mechanical Engineering Intern  - Fall 2026 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · Los Angeles, CA · 25–33 USD/hr · FEA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:922ee234-94aa-473b-8464-03f28a709872</id>
+    <title>Hermeus: Manufacturing Engineering Intern - Fall 2026 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Manufacturing &amp; Quality · Atlanta, GA · 25–33 USD/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:a949f158-6900-42e1-890d-fb3ec339c3d0</id>
+    <title>Hermeus: Propulsion Engineer Intern - Fall 2026 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Thermal, Fluids &amp; Propulsion · Los Angeles, CA · 25–33 USD/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:etyy.fa.ap2.oraclecloud.com:11568</id>
+    <title>Kulicke &amp; Soffa: Intern, AS Mechanical</title>
+    <link href="https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11568"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Fort Washington, PA, United States · H-1B track record: ~17 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:118356</id>
+    <title>Howmet Aerospace: Co-Op - Electrical/Automation Engineering (Fall 2026) 🛂</title>
+    <link href="https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118356"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Controls &amp; Mechatronics · Barberton, OH, United States · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000138864841</id>
+    <title>Bosch: Quality Engineering Intern / Co-op - Fall 2026</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000138864841"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Manufacturing &amp; Quality · Florence, KY, United States · FMEA · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000141334799</id>
+    <title>Bosch: Project Management / Test Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000141334799"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Plymouth, MI, United States · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:LLNL:3743990013626030</id>
+    <title>Lawrence Livermore National Laboratory (LLNL): Materials Science Division Undergraduate Intern - Fall 2026 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/LLNL/3743990013626030"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Materials Engineering · Livermore, CA, United States · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:SmithsGroup2:744000135011634</id>
+    <title>Smiths Detection Group: Customer Reliability Engineer Intern (PT)</title>
+    <link href="https://jobs.smartrecruiters.com/SmithsGroup2/744000135011634"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Port Arthur, TX, United States · CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000139338269</id>
+    <title>Western Digital: Fall 2026 Intern - Failure Analysis Automation Engineering</title>
+    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000139338269"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Controls &amp; Mechatronics · San Jose, CA, United States · Python, SQL, PyTorch, TensorFlow, scikit-learn · H-1B track record: ~286 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Production-Engineer-Co-op_R00212452</id>
+    <title>Nissan: Production Engineer Co-op</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Production-Engineer-Co-op_R00212452"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Smyrna, Tennessee - United States of America · AutoCAD, CAD · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Mechanical-Engineer-Co-op---BS-MS--Gloucester--MA-_R2611501</id>
+    <title>Applied Materials: 2026 Fall Mechanical Engineer Co-op - BS/MS (Gloucester, MA)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Mechanical-Engineer-Co-op---BS-MS--Gloucester--MA-_R2611501"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · Gloucester,MA · $31–$41/hr · Creo, ANSYS · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cat:/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506</id>
+    <title>Caterpillar Inc.: 2027 Engineering Corporate Internship Program Welding 🛂</title>
+    <link href="https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Mossville, Illinois · sponsorship: no-sponsorship · H-1B track record: ~411 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cranecompany:/job/Cincinnati-Ohio/Manufacturing-Intern_JR102251</id>
+    <title>Crane Co.: Manufacturing Intern</title>
+    <link href="https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/Manufacturing-Intern_JR102251"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Cincinnati, Ohio · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:draper:/job/Cambridge-MA/Metrology-Co-Op_JR002717</id>
+    <title>Draper: Metrology Co-Op</title>
+    <link href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Metrology-Co-Op_JR002717"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Cambridge, MA · Python, MATLAB, SolidWorks, ANSYS, COMSOL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:draper:/job/Houston-TX/Space-GNC-Co-Op--Fall-2026-_JR002721</id>
+    <title>Draper: Space GNC Co-Op (Fall 2026) 🇺🇸</title>
+    <link href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Houston-TX/Space-GNC-Co-Op--Fall-2026-_JR002721"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Controls &amp; Mechatronics · Houston, TX · Python, C++, MATLAB, Simulink · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:flextronics:/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357</id>
+    <title>Flextronics International: Industrial Engineering Co-Op - Fall 2026</title>
+    <link href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Manufacturing &amp; Quality · USA, SC, Orangeburg · Six Sigma, Lean Manufacturing · sponsorship: offers · H-1B track record: ~65 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:flextronics:/job/USA-SC-Orangeburg/Quality-Engineering-Co-Op---Fall-2026_WD226046</id>
+    <title>Flextronics International: Quality Engineering Co-Op - Fall 2026</title>
+    <link href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Quality-Engineering-Co-Op---Fall-2026_WD226046"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Manufacturing &amp; Quality · USA, SC, Orangeburg · sponsorship: offers · H-1B track record: ~65 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--Materials-Science---Metallurgical-Engineering_JR-202612790</id>
+    <title>General Motors: 2026 Fall Intern - Research &amp; Development: Materials Science / Metallurgical Engineering 🇺🇸</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--Materials-Science---Metallurgical-Engineering_JR-202612790"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Materials Engineering · Warren, Michigan, United States of America · sponsorship: citizens-only · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:graco:/job/Anoka-Minnesota-USA/CNC-Machine-Mechanic-Intern_R0023183</id>
+    <title>Graco: CNC Machine Mechanic Intern 🛂</title>
+    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Anoka-Minnesota-USA/CNC-Machine-Mechanic-Intern_R0023183"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Anoka, Minnesota, USA · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:huntsman:/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Mechanical-Engineering-Intern_J-020026</id>
+    <title>Huntsman: Mechanical Engineering Intern 🛂</title>
+    <link href="https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Mechanical-Engineering-Intern_J-020026"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · USA - Texas - Houston - The Woodlands - Corporate Office · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kiongroup:/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-Op_JR-0094003</id>
+    <title>Dematic: Controls Engineering Intern/Co-Op</title>
+    <link href="https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-Op_JR-0094003"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Grand Rapids, MI, United States · $20–$29/hr · CAD · H-1B track record: ~59 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:magna:/job/Auburn-Hills-Michigan-US/Intern---System-Test_R00246431</id>
+    <title>Magna International: Intern - System Test</title>
+    <link href="https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Intern---System-Test_R00246431"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Auburn Hills, Michigan, US · H-1B track record: ~141 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:masco:/job/US---California---Santa-Ana/Quality-Engineer-Intern_REQ53902-1</id>
+    <title>Masco: Quality Engineer Intern</title>
+    <link href="https://masco.wd1.myworkdayjobs.com/Masco/job/US---California---Santa-Ana/Quality-Engineer-Intern_REQ53902-1"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · US - California - Santa Ana · Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:menasha:/job/Piedmont-South-Carolina/Custom-Packaging-Design-Engineer-Co-Op--Summer-Fall-2026-_R13995</id>
+    <title>Menasha Corporation: Custom Packaging Design Engineer Co-Op (Summer/Fall 2026) 🛂</title>
+    <link href="https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Piedmont-South-Carolina/Custom-Packaging-Design-Engineer-Co-Op--Summer-Fall-2026-_R13995"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · Piedmont, South Carolina · SolidWorks, AutoCAD · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mosaic:/job/US---Tampa-FL-Lithia-area/Structural-Engineer-Co-Op-Intern---Summer-2027_64448</id>
+    <title>Mosaic: Structural Engineer Co-Op/Intern - Summer 2027</title>
+    <link href="https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Structural-Engineer-Co-Op-Intern---Summer-2027_64448"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · US - Tampa, FL (Lithia area)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---Manufacturing-and-Reliability-Engineering-Co-Op_R395901</id>
+    <title>Merck: 2026 Future Talent Program – Manufacturing and Reliability Engineering Co-Op</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---Manufacturing-and-Reliability-Engineering-Co-Op_R395901"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Manufacturing &amp; Quality · USA - Pennsylvania - West Point</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2026-Fall-Co-op-Manufacturing-Engineering---Baltimore-MD_R10243390-1</id>
+    <title>Northrop Grumman: 2026 Fall Co-op Manufacturing Engineering - Baltimore MD 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2026-Fall-Co-op-Manufacturing-Engineering---Baltimore-MD_R10243390-1"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Manufacturing &amp; Quality · United States-Maryland-Linthicum · $19.75–$36.25/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nidec:/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Test-Lab-Engineer-Co-op_R0016732</id>
+    <title>Nidec: Test Lab Engineer Co-op</title>
+    <link href="https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Test-Lab-Engineer-Co-op_R0016732"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · North America/USA/Missouri/St. Louis - WPE, MO · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tsc:/job/Washington-DC---Naval-Research-Laboratory/Aerospace-Mechanical-Engineering-Intern_JR2683</id>
+    <title>TSC: Aerospace/Mechanical Engineering Intern 🇺🇸</title>
+    <link href="https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Washington-DC---Naval-Research-Laboratory/Aerospace-Mechanical-Engineering-Intern_JR2683"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Washington, DC - Naval Research Laboratory · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:westlake:/job/US---Houston-TX/XMLNAME-2026-Intern---Mechanical-Engineer_R30240</id>
+    <title>Westlake: 2026 Intern - Mechanical Engineer 🛂</title>
+    <link href="https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Houston-TX/XMLNAME-2026-Intern---Mechanical-Engineer_R30240"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · US - Houston, TX · sponsorship: no-sponsorship</summary>
+  </entry>
+</feed>

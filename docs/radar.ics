@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//intern-engine//Drop Radar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Internship Drop Radar (Summer 2027)
+X-WR-CALDESC:Expected opening dates for mechanical & aerospace internships.
+  Dates come from employers' own career APIs or hand-checked opening months
+ ; treat them as when to start watching.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:radar-john deere-20260801@intern-engine
+DTSTAMP:20260805T155705Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:John Deere — typically opens (Summer 2027)
+DESCRIPTION:John Deere typically opens around this date.  hand-checked typi
+ cal opening month (month-level\, not a day)  opens late summer  Radar: htt
+ ps://pranavd1437.github.io/mechanical-aerospace-internship-engine/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:John Deere internships open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-tesla-20260801@intern-engine
+DTSTAMP:20260805T155705Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Tesla — typically opens (Summer 2027)
+DESCRIPTION:Tesla typically opens around this date.  hand-checked typical o
+ pening month (month-level\, not a day)  rolling from late summer  Radar: h
+ ttps://pranavd1437.github.io/mechanical-aerospace-internship-engine/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Tesla internships open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-blue origin-20260901@intern-engine
+DTSTAMP:20260805T155705Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Blue Origin — typically opens (Summer 2027)
+DESCRIPTION:Blue Origin typically opens around this date.  hand-checked typ
+ ical opening month (month-level\, not a day)  fall opening for next summer
+   Radar: https://pranavd1437.github.io/mechanical-aerospace-internship-eng
+ ine/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Blue Origin internships open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-boeing-20260901@intern-engine
+DTSTAMP:20260805T155705Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Boeing — typically opens (Summer 2027)
+DESCRIPTION:Boeing typically opens around this date.  hand-checked typical 
+ opening month (month-level\, not a day)  fall opening  Radar: https://pran
+ avd1437.github.io/mechanical-aerospace-internship-engine/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Boeing internships open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-ford-20260901@intern-engine
+DTSTAMP:20260805T155705Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Ford — typically opens (Summer 2027)
+DESCRIPTION:Ford typically opens around this date.  hand-checked typical op
+ ening month (month-level\, not a day)  fall opening  Radar: https://pranav
+ d1437.github.io/mechanical-aerospace-internship-engine/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Ford internships open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-general motors-20260901@intern-engine
+DTSTAMP:20260805T155705Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:General Motors — typically opens (Summer 2027)
+DESCRIPTION:General Motors typically opens around this date.  hand-checked 
+ typical opening month (month-level\, not a day)  fall opening  Radar: http
+ s://pranavd1437.github.io/mechanical-aerospace-internship-engine/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:General Motors internships open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-honeywell-20260901@intern-engine
+DTSTAMP:20260805T155705Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Honeywell — typically opens (Summer 2027)
+DESCRIPTION:Honeywell typically opens around this date.  hand-checked typic
+ al opening month (month-level\, not a day)  fall opening  Radar: https://p
+ ranavd1437.github.io/mechanical-aerospace-internship-engine/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Honeywell internships open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-lockheed martin-20260901@intern-engine
+DTSTAMP:20260805T155705Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Lockheed Martin — typically opens (Summer 2027)
+DESCRIPTION:Lockheed Martin typically opens around this date.  hand-checked
+  typical opening month (month-level\, not a day)  fall opening\, many role
+ s need clearance  Radar: https://pranavd1437.github.io/mechanical-aerospac
+ e-internship-engine/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Lockheed Martin internships open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-northrop grumman-20260901@intern-engine
+DTSTAMP:20260805T155705Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Northrop Grumman — typically opens (Summer 2027)
+DESCRIPTION:Northrop Grumman typically opens around this date.  hand-checke
+ d typical opening month (month-level\, not a day)  fall opening\, many rol
+ es need clearance  Radar: https://pranavd1437.github.io/mechanical-aerospa
+ ce-internship-engine/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Northrop Grumman internships open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-rivian-20260901@intern-engine
+DTSTAMP:20260805T155705Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Rivian — typically opens (Summer 2027)
+DESCRIPTION:Rivian typically opens around this date.  hand-checked typical 
+ opening month (month-level\, not a day)  fall opening  Radar: https://pran
+ avd1437.github.io/mechanical-aerospace-internship-engine/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Rivian internships open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-rtx-20260901@intern-engine
+DTSTAMP:20260805T155705Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:RTX — typically opens (Summer 2027)
+DESCRIPTION:RTX typically opens around this date.  hand-checked typical ope
+ ning month (month-level\, not a day)  fall opening\, many roles need clear
+ ance  Radar: https://pranavd1437.github.io/mechanical-aerospace-internship
+ -engine/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:RTX internships open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-spacex-20260901@intern-engine
+DTSTAMP:20260805T155705Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:SpaceX — typically opens (Summer 2027)
+DESCRIPTION:SpaceX typically opens around this date.  hand-checked typical 
+ opening month (month-level\, not a day)  rolling from fall\, very competit
+ ive  Radar: https://pranavd1437.github.io/mechanical-aerospace-internship-
+ engine/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:SpaceX internships open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-rocket lab-20261001@intern-engine
+DTSTAMP:20260805T155705Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Rocket Lab — typically opens (Summer 2027)
+DESCRIPTION:Rocket Lab typically opens around this date.  hand-checked typi
+ cal opening month (month-level\, not a day)  fall opening  Radar: https://
+ pranavd1437.github.io/mechanical-aerospace-internship-engine/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Rocket Lab internships open soon
+END:VALARM
+END:VEVENT
+END:VCALENDAR

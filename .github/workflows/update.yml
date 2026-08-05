@@ -1,0 +1,82 @@
+name: Update internships
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every six hours (UTC), off the top of the hour
+  workflow_dispatch:          # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write             # needed so the bot can commit the refreshed data
+
+concurrency:
+  group: update-internships
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Set up Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run the engine
+        env:
+          # Optional: WORKDAY_PROXY lets the cloud runner reach Workday tenants
+          # that block datacenter IPs. Unset = Workday runs direct.
+          WORKDAY_PROXY: ${{ secrets.WORKDAY_PROXY }}
+          # Optional: set these repo secrets to mirror each run into Postgres.
+          # Unset = the engine still runs and exports README/CSV as normal.
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python run.py update
+
+      # The gate between "we produced output" and "the world sees it". Checks
+      # every open role against the accuracy invariants AND the run as a whole
+      # (volume floor, fetch collapse). If this fails the job stops here with
+      # the previous good build still live on Pages.
+      - name: Verify accuracy before publishing
+        env:
+          # Mechanical/aerospace is a narrower scope than the upstream tech
+          # list. Keep a non-trivial collapse guard without requiring the old
+          # tech-sized inventory during bootstrap.
+          MIN_OPEN_ROLES: "5"
+        run: python tools/verify_accuracy.py
+
+      # Alerts are sent by a LATER step, on purpose: an alert promises the role
+      # is on the list, so nothing goes out until this push actually lands.
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md data/jobs.json data/internships.csv data/stats.json \
+                  data/health.json data/history.jsonl data/mail_state.json \
+                  data/observed.json data/known_windows.json data/outbox.json \
+                  docs/index.html docs/feed.xml docs/internships.csv \
+                  docs/radar.ics docs/trends-light.svg docs/trends-dark.svg \
+                  docs/api/jobs.json docs/api/stats.json docs/api/radar.json
+          if git diff --staged --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "chore: update internships ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          # Hourly cadence can overlap the daily discovery push; rebase onto
+          # whatever landed (different files, so this auto-merges) and retry.
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then
+              exit 0
+            fi
+            echo "push race, retrying ($attempt)…"
+            sleep 5
+          done
+          # Without this the loop's trailing `sleep` was the step's last command
+          # — it succeeds, so the job went green having published nothing.
+          echo "::error::push failed after 3 attempts; run not published"
+          exit 1

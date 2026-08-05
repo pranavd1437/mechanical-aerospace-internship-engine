@@ -1,0 +1,104 @@
+{
+  "note": "Mechanical/aerospace fork seed windows; employer careers pages, month precision only. Live ATS observations supersede these estimates.",
+  "verified_at": "2026-07-21",
+  "companies": [
+    {
+      "name": "Blue Origin",
+      "opens": "09",
+      "precision": "month",
+      "note": "fall opening for next summer",
+      "src": "https://www.blueorigin.com/careers"
+    },
+    {
+      "name": "Boeing",
+      "opens": "09",
+      "precision": "month",
+      "note": "fall opening",
+      "src": "https://jobs.boeing.com/"
+    },
+    {
+      "name": "Caterpillar",
+      "opens": "09",
+      "precision": "month",
+      "note": "fall opening",
+      "src": "https://careers.caterpillar.com/"
+    },
+    {
+      "name": "Ford",
+      "opens": "09",
+      "precision": "month",
+      "note": "fall opening",
+      "src": "https://corporate.ford.com/careers.html"
+    },
+    {
+      "name": "General Motors",
+      "opens": "09",
+      "precision": "month",
+      "note": "fall opening",
+      "src": "https://search-careers.gm.com/en/"
+    },
+    {
+      "name": "Honeywell",
+      "opens": "09",
+      "precision": "month",
+      "note": "fall opening",
+      "src": "https://careers.honeywell.com/"
+    },
+    {
+      "name": "John Deere",
+      "opens": "08",
+      "precision": "month",
+      "note": "opens late summer",
+      "src": "https://careers.deere.com/"
+    },
+    {
+      "name": "Lockheed Martin",
+      "opens": "09",
+      "precision": "month",
+      "note": "fall opening, many roles need clearance",
+      "src": "https://www.lockheedmartinjobs.com/"
+    },
+    {
+      "name": "Northrop Grumman",
+      "opens": "09",
+      "precision": "month",
+      "note": "fall opening, many roles need clearance",
+      "src": "https://www.northropgrumman.com/careers"
+    },
+    {
+      "name": "Rivian",
+      "opens": "09",
+      "precision": "month",
+      "note": "fall opening",
+      "src": "https://careers.rivian.com/"
+    },
+    {
+      "name": "Rocket Lab",
+      "opens": "10",
+      "precision": "month",
+      "note": "fall opening",
+      "src": "https://www.rocketlabusa.com/careers/"
+    },
+    {
+      "name": "RTX",
+      "opens": "09",
+      "precision": "month",
+      "note": "fall opening, many roles need clearance",
+      "src": "https://careers.rtx.com/"
+    },
+    {
+      "name": "SpaceX",
+      "opens": "09",
+      "precision": "month",
+      "note": "rolling from fall, very competitive",
+      "src": "https://www.spacex.com/careers/"
+    },
+    {
+      "name": "Tesla",
+      "opens": "08",
+      "precision": "month",
+      "note": "rolling from late summer",
+      "src": "https://www.tesla.com/careers"
+    }
+  ]
+}
