@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-05T15:57:04Z",
+ "generated_at": "2026-08-05T20:05:21Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -57,6 +57,20 @@
    "days_until": -13,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/kairospower/jobs/6123676004",
+   "note": ""
+  },
+  {
+   "company": "Kraft Heinz",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-31",
+   "days_until": -5,
+   "status": "open",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Kirksville-MO/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Kirksville--Missouri_R-105273",
    "note": ""
   },
   {
@@ -256,5 +270,5 @@
    "note": ""
   }
  ],
- "count": 18
+ "count": 19
 }

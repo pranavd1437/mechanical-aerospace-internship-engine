@@ -189,6 +189,18 @@
     }
    }
   },
+  "kraft heinz": {
+   "name": "Kraft Heinz",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-07-31",
+     "role_ids": [
+      "workday:heinz:/job/Kirksville-MO/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Kirksville--Missouri_R-105273"
+     ],
+     "count": 1
+    }
+   }
+  },
   "lawrence livermore national laboratory llnl": {
    "name": "Lawrence Livermore National Laboratory (LLNL)",
    "cycles": {
@@ -414,5 +426,5 @@
    }
   }
  },
- "updated_at": "2026-08-05T06:24:39Z"
+ "updated_at": "2026-08-05T20:05:21Z"
 }
