@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T20:05:21Z",
-  "duration_seconds": 379.9,
+  "generated_at": "2026-08-06T03:51:15Z",
+  "duration_seconds": 399.3,
   "companies_total": 4044,
   "companies_by_source": {
     "greenhouse": 1027,
@@ -16,53 +16,52 @@
     "breezy": 12,
     "eightfold": 1
   },
-  "quarantined": 190,
-  "fetched_ok": 3744,
-  "fetch_errors": 110,
+  "quarantined": 208,
+  "fetched_ok": 3808,
+  "fetch_errors": 28,
   "errors_by_source": {
-    "greenhouse": 7,
-    "workday": 101,
-    "lever": 1,
-    "ashby": 1
+    "greenhouse": 2,
+    "ashby": 3,
+    "workday": 23
   },
-  "fetch_success_rate": 0.971,
-  "fetch_success_rate_registry": 0.926,
-  "snapshots_complete": 3630,
-  "snapshots_partial": 114,
-  "roles_matched": 61,
-  "dropped_no_year_in_title": 84,
+  "fetch_success_rate": 0.993,
+  "fetch_success_rate_registry": 0.942,
+  "snapshots_complete": 3714,
+  "snapshots_partial": 94,
+  "roles_matched": 59,
+  "dropped_no_year_in_title": 81,
   "dropped_offcycle_by_text": 20,
   "dropped_by_description_scope": 0,
-  "roles_cycle_inferred": 23,
+  "roles_cycle_inferred": 22,
   "roles_by_source": {
     "amazon": 1,
-    "ashby": 5,
-    "greenhouse": 21,
+    "ashby": 4,
+    "greenhouse": 19,
     "lever": 6,
     "oracle": 2,
     "smartrecruiters": 5,
     "workday": 27
   },
   "roles_by_cycle": {
-    "Fall 2026": 38,
-    "Not stated": 23,
+    "Fall 2026": 36,
+    "Not stated": 22,
     "Summer 2027": 6
   },
   "roles_by_region": {
-    "US": 67
+    "US": 64
   },
   "sponsorship_counts": {
     "unknown": 32,
-    "citizens-only": 24,
+    "citizens-only": 21,
     "no-sponsorship": 9,
     "offers": 2
   },
   "posted_date_coverage": 1.0,
-  "enriched_this_run": 6,
-  "enrichment_detail_fetches": 6,
+  "enriched_this_run": 0,
+  "enrichment_detail_fetches": 1,
   "purged_this_run": 0,
-  "new_this_run": 6,
-  "open_total": 67,
+  "new_this_run": 0,
+  "open_total": 64,
   "detection_latency": {
     "median_minutes": 2098.4,
     "p95_minutes": 8559.3,
@@ -71,7 +70,7 @@
     "basis": "roles published in the window with an exact source timestamp"
   },
   "posting_lifetime": {
-    "median_days": 27.0,
-    "sample_size": 8
+    "median_days": 48,
+    "sample_size": 11
   }
 }

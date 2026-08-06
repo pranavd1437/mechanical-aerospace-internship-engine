@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-05T20:05:21Z",
+ "generated_at": "2026-08-06T03:51:16Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 67,
+ "count": 64,
  "jobs": [
   {
    "id": "workday:alfalaval:/job/Warminster-PA/Automation-Engineer-Intern_JR0047292",
@@ -1036,29 +1036,6 @@
    "remote": false
   },
   {
-   "id": "ashby:the-exploration-company:90170478-eb9d-46cd-bdf2-7967875919a6",
-   "company": "The Exploration Company",
-   "title": "Crew Systems Engineering Intern - Mechanical/Structures",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Structures & FEA",
-   "location": "Houston, Texas",
-   "url": "https://jobs.ashbyhq.com/the-exploration-company/90170478-eb9d-46cd-bdf2-7967875919a6",
-   "posted_at": "2026-07-04T01:54:22.150+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-05T06:24:39Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "CAD"
-   ],
-   "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:cat:/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506",
    "company": "Caterpillar Inc.",
    "title": "2027 Engineering Corporate Internship Program Welding",
@@ -1213,66 +1190,6 @@
    "salary": null,
    "skills": [
     "CAD"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:rocketlab:7728969003",
-   "company": "Rocket Lab",
-   "title": "Mechanical Engineering Intern Fall 2026",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Mechanical Design",
-   "location": "Long Beach, CA",
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728969003",
-   "posted_at": "2026-05-19T15:16:49-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-05T06:24:39Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Siemens NX",
-    "CAD",
-    "GD&T",
-    "ANSYS",
-    "Nastran",
-    "FEA",
-    "Teamcenter",
-    "CAM"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:rocketlab:7736140003",
-   "company": "Rocket Lab",
-   "title": "Turbomachinery Intern Fall 2026",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Thermal, Fluids & Propulsion",
-   "location": "Long Beach, CA",
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7736140003",
-   "posted_at": "2026-05-19T18:06:10-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-05T06:24:39Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Python",
-    "MATLAB",
-    "SolidWorks",
-    "Siemens NX",
-    "CATIA",
-    "CAD",
-    "GD&T",
-    "ANSYS"
    ],
    "source": "greenhouse",
    "h1b_approvals": null,

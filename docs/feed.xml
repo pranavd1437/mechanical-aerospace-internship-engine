@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-05T20:05:21Z</updated>
+  <updated>2026-08-06T03:51:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:pivotal:b05be1f0-20ff-4264-8839-4f18f97cbfb7</id>
+    <title>Pivotal Software: Internship, GNC Engineering (Fall) 🇺🇸</title>
+    <link href="https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7"/>
+    <updated>2026-08-05T20:05:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Palo Alto, CA · 25 USD/hr · Python, MATLAB, Simulink, Git · sponsorship: citizens-only · H-1B track record: ~24 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:alfalaval:/job/Warminster-PA/Automation-Engineer-Intern_JR0047292</id>
     <title>ALFA LAVAL: Automation Engineer Intern</title>
@@ -24,14 +32,6 @@
     <summary>Not stated · Mechanical Design · Arlington, TX · SolidWorks, Creo, CAD, GD&amp;T · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:jabil:/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898</id>
-    <title>Jabil: Manufacturing Engineer - Intern</title>
-    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898"/>
-    <updated>2026-08-05T20:05:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · West Chester, PA · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:heinz:/job/Kirksville-MO/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Kirksville--Missouri_R-105273</id>
     <title>Kraft Heinz: 2027 US Manufacturing Internship Program – Manufacturing Facility Kirksville, Missouri</title>
     <link href="https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Kirksville-MO/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Kirksville--Missouri_R-105273"/>
@@ -40,20 +40,20 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Kirksville, MO · H-1B track record: ~27 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:jabil:/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898</id>
+    <title>Jabil: Manufacturing Engineer - Intern</title>
+    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898"/>
+    <updated>2026-08-05T20:05:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · West Chester, PA · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:motorolasolutions:/job/Washington-DC-Remote-Work/CAD-RMS-Technical-Co-op-Program_R64127</id>
     <title>Motorola: CAD/RMS System Administrator - Internship 🛂</title>
     <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Washington-DC-Remote-Work/CAD-RMS-Technical-Co-op-Program_R64127"/>
     <updated>2026-08-05T20:05:21Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Washington DC Remote Work, More... · CAD, SQL · sponsorship: no-sponsorship · H-1B track record: ~191 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:pivotal:b05be1f0-20ff-4264-8839-4f18f97cbfb7</id>
-    <title>Pivotal Software: Internship, GNC Engineering (Fall) 🇺🇸</title>
-    <link href="https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7"/>
-    <updated>2026-08-05T20:05:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Palo Alto, CA · 25 USD/hr · Python, MATLAB, Simulink, Git · sponsorship: citizens-only · H-1B track record: ~24 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:3145033</id>
@@ -94,14 +94,6 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Manufacturing &amp; Quality · Redwood City, CA · SolidWorks, CAD, DFM/DFA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:the-exploration-company:90170478-eb9d-46cd-bdf2-7967875919a6</id>
-    <title>The Exploration Company: Crew Systems Engineering Intern - Mechanical/Structures 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/the-exploration-company/90170478-eb9d-46cd-bdf2-7967875919a6"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Structures &amp; FEA · Houston, Texas · CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:andurilindustries:5153187007</id>
@@ -200,28 +192,12 @@
     <summary>Fall 2026 · Controls &amp; Mechatronics · Golden, CO · Python, C++, MATLAB, Simulink, Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7728969003</id>
-    <title>Rocket Lab: Mechanical Engineering Intern Fall 2026 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7728969003"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Mechanical Design · Long Beach, CA · Siemens NX, CAD, GD&amp;T, ANSYS, Nastran · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:rocketlab:7733900003</id>
     <title>Rocket Lab: Manufacturing Engineering Intern Fall 2026 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7733900003"/>
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Manufacturing &amp; Quality · Long Beach, CA · CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7736140003</id>
-    <title>Rocket Lab: Turbomachinery Intern Fall 2026 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7736140003"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Thermal, Fluids &amp; Propulsion · Long Beach, CA · Python, MATLAB, SolidWorks, Siemens NX, CATIA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4646272006</id>
