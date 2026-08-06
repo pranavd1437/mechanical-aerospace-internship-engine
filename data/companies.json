@@ -143,6 +143,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "A-TEK",
+    "slug": "atek",
+    "ats": "greenhouse"
+  },
+  {
     "name": "AAA Club Alliance",
     "slug": "aaamidatlantic",
     "ats": "workday",
@@ -4007,6 +4012,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Canva",
+    "slug": "Canva",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Canvas Worldwide",
     "slug": "canvasww",
     "ats": "lever"
@@ -4102,6 +4112,11 @@
     "name": "CarbonChain",
     "slug": "carbonchain",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Cardamom Health",
+    "slug": "cardamom",
+    "ats": "rippling"
   },
   {
     "name": "Cardinal Health",
@@ -4848,6 +4863,11 @@
     "ats": "rippling"
   },
   {
+    "name": "Civica",
+    "slug": "civica-uk-ltd-1",
+    "ats": "workable"
+  },
+  {
     "name": "CivilGrid",
     "slug": "civilgrid",
     "ats": "ashby"
@@ -5070,6 +5090,11 @@
     "name": "CloudKitchens",
     "slug": "css",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Cloudscaler",
+    "slug": "cloudscaler",
+    "ats": "ashby"
   },
   {
     "name": "CMC Markets",
@@ -6371,6 +6396,11 @@
     "ats": "rippling"
   },
   {
+    "name": "Densityai",
+    "slug": "densityai",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Dentsu",
     "slug": "dentsuaegis",
     "ats": "workday",
@@ -6640,6 +6670,11 @@
   {
     "name": "DOOR",
     "slug": "door",
+    "ats": "rippling"
+  },
+  {
+    "name": "Door Controls",
+    "slug": "door-controls-usa",
     "ats": "rippling"
   },
   {
@@ -6932,6 +6967,13 @@
     "name": "Eastern Research Group",
     "slug": "erg",
     "ats": "lever"
+  },
+  {
+    "name": "Eastern Shipbuilding Group",
+    "slug": "easternshipbuilding",
+    "ats": "workday",
+    "wd": "wd12",
+    "site": "EasternShipbuildingGroupsystem"
   },
   {
     "name": "Easy Street Capital",
@@ -7515,6 +7557,11 @@
     "ats": "workday",
     "wd": "wd108",
     "site": "external"
+  },
+  {
+    "name": "Eridu AI",
+    "slug": "eridu-ai",
+    "ats": "rippling"
   },
   {
     "name": "ERM",
@@ -8895,6 +8942,11 @@
     "site": "GEHC_ExternalSite"
   },
   {
+    "name": "Gearset",
+    "slug": "gearset",
+    "ats": "ashby"
+  },
+  {
     "name": "Gecko Robotics",
     "slug": "gecko-robotics",
     "ats": "ashby"
@@ -9170,6 +9222,13 @@
     "name": "GitLab",
     "slug": "gitlab",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Gladstone Institutes",
+    "slug": "gladstone",
+    "ats": "workday",
+    "wd": "wd503",
+    "site": "careers"
   },
   {
     "name": "Glass Roots Construction, LLC",
@@ -10072,6 +10131,11 @@
     "site": "Jobsathpe"
   },
   {
+    "name": "Hex",
+    "slug": "hex",
+    "ats": "ashby"
+  },
+  {
     "name": "HEXAWARE",
     "slug": "fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com",
     "ats": "oracle",
@@ -10452,6 +10516,13 @@
     "name": "HumanSignal",
     "slug": "humansignal",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Hunt Electric",
+    "slug": "huntelec",
+    "ats": "workday",
+    "wd": "wd501",
+    "site": "HuntElectric_Careers"
   },
   {
     "name": "Hunt Oil Company",
@@ -11116,6 +11187,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "interstatebatteries-careers"
+  },
+  {
+    "name": "InterSystems",
+    "slug": "intersystems",
+    "ats": "greenhouse"
   },
   {
     "name": "Intertek",
@@ -14357,6 +14433,13 @@
     "name": "NBCUniversal",
     "slug": "NBCUniversal3",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "NBT Bank",
+    "slug": "nbtbancorp",
+    "ats": "workday",
+    "wd": "wd12",
+    "site": "NBT-B"
   },
   {
     "name": "Ncino",
@@ -18051,6 +18134,11 @@
     "site": "saab_careers"
   },
   {
+    "name": "Saalex",
+    "slug": "saalex",
+    "ats": "workable"
+  },
+  {
     "name": "Sabre",
     "slug": "sabre",
     "ats": "workday",
@@ -18725,6 +18813,13 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "Shipt_External"
+  },
+  {
+    "name": "Shirley Ryan AbilityLab",
+    "slug": "sralab",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "SRAlabCareers"
   },
   {
     "name": "Shoppers Drug Mart",
@@ -20122,6 +20217,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Tacit",
+    "slug": "tacit",
+    "ats": "ashby"
+  },
+  {
     "name": "Tahoe Therapeutics",
     "slug": "tahoebio-ai",
     "ats": "lever"
@@ -21274,6 +21374,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "TRIUMF",
+    "slug": "triumf",
+    "ats": "workday",
+    "wd": "wd10",
+    "site": "careers-at-triumf-job-postings"
+  },
+  {
     "name": "Triumph",
     "slug": "triumph-arcade",
     "ats": "ashby"
@@ -21868,6 +21975,13 @@
     "ats": "ashby"
   },
   {
+    "name": "US Acute Care Solutions",
+    "slug": "usacs",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "usacscareers"
+  },
+  {
     "name": "US Conec",
     "slug": "usconec",
     "ats": "greenhouse"
@@ -21970,6 +22084,11 @@
     "name": "Valsoft",
     "slug": "valsoft-corp",
     "ats": "workable"
+  },
+  {
+    "name": "Valstad",
+    "slug": "valstad",
+    "ats": "ashby"
   },
   {
     "name": "Vanderbilt Health",
@@ -22929,6 +23048,13 @@
     "name": "Wing Assistant",
     "slug": "getwingapp",
     "ats": "lever"
+  },
+  {
+    "name": "Winland Foods",
+    "slug": "winlandfoods",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "external"
   },
   {
     "name": "Winsupply",
