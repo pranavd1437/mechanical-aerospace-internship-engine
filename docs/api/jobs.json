@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-06T03:51:16Z",
+ "generated_at": "2026-08-06T09:17:57Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 64,
+ "count": 63,
  "jobs": [
   {
    "id": "workday:alfalaval:/job/Warminster-PA/Automation-Engineer-Intern_JR0047292",
@@ -231,27 +231,6 @@
    "skills": [],
    "source": "smartrecruiters",
    "h1b_approvals": 188,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:cranecompany:/job/Cincinnati-Ohio/Manufacturing-Intern_JR102251",
-   "company": "Crane Co.",
-   "title": "Manufacturing Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Manufacturing & Quality",
-   "location": "Cincinnati, Ohio",
-   "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/Manufacturing-Intern_JR102251",
-   "posted_at": "2026-08-03T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-05T06:24:39Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 12,
    "program": "Internship",
    "remote": false
   },
