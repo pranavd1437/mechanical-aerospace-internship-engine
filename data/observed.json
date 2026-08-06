@@ -45,9 +45,10 @@
     "Fall 2026": {
      "first_posted": "2026-07-21",
      "role_ids": [
-      "smartrecruiters:BoschGroup:744000138864841"
+      "smartrecruiters:BoschGroup:744000138864841",
+      "smartrecruiters:BoschGroup:744000141923029"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -135,6 +136,19 @@
       "workday:gevernova:/job/Wilmington-NC-USA/GE-Vernova-Nuclear---Manufacturing---Supply-Chain-Intern--Summer-2027-_R5049016-2"
      ],
      "count": 1
+    }
+   }
+  },
+  "globalfoundries": {
+   "name": "GlobalFoundries",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-06",
+     "role_ids": [
+      "workday:globalfoundries:/job/USA---New-York---Malta/Factory-Automation-Engineering-Intern--Fall-2026-_JR-2503358",
+      "workday:globalfoundries:/job/USA---Texas---Richardson/XMLNAME-1H-University-Intern---PVD-Equipment_JR-2502699"
+     ],
+     "count": 2
     }
    }
   },
@@ -426,5 +440,5 @@
    }
   }
  },
- "updated_at": "2026-08-06T09:17:56Z"
+ "updated_at": "2026-08-06T14:45:46Z"
 }

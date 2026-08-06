@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-06T09:17:57Z</updated>
+  <updated>2026-08-06T14:45:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000141923029</id>
+    <title>Bosch: Quality Engineering Co-op - Fall 2026</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000141923029"/>
+    <updated>2026-08-06T14:45:46Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Manufacturing &amp; Quality · Pineville, NC, United States · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalfoundries:/job/USA---Texas---Richardson/XMLNAME-1H-University-Intern---PVD-Equipment_JR-2502699</id>
+    <title>GlobalFoundries: IP &amp; Design Engineering Intern (Fall 2026)</title>
+    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/XMLNAME-1H-University-Intern---PVD-Equipment_JR-2502699"/>
+    <updated>2026-08-06T14:45:46Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · USA - Texas - Richardson · H-1B track record: ~110 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Factory-Automation-Engineering-Intern--Fall-2026-_JR-2503358</id>
+    <title>GlobalFoundries: Factory Automation Engineering Intern (Fall 2026)</title>
+    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Factory-Automation-Engineering-Intern--Fall-2026-_JR-2503358"/>
+    <updated>2026-08-06T14:45:46Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Controls &amp; Mechatronics · USA - New York - Malta · Bash, Linux · H-1B track record: ~110 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:winlandfoods:/job/USA-IL-Oak-Brook/Packaging-Engineer-COOP_R28809</id>
+    <title>Winland Foods: Packaging Engineer COOP</title>
+    <link href="https://winlandfoods.wd1.myworkdayjobs.com/external/job/USA-IL-Oak-Brook/Packaging-Engineer-COOP_R28809"/>
+    <updated>2026-08-06T14:45:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · USA-IL Oak Brook · $27.5/hr</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:pivotal:b05be1f0-20ff-4264-8839-4f18f97cbfb7</id>
     <title>Pivotal Software: Internship, GNC Engineering (Fall) 🇺🇸</title>
