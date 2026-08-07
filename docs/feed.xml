@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-07T00:25:39Z</updated>
+  <updated>2026-08-07T07:52:56Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
     <id>urn:intern-engine:ashby:alloyenterprises:946e7ae1-d2ac-4889-a72a-268b0aeda9bd</id>
@@ -16,20 +16,20 @@
     <summary>Fall 2026 · Thermal, Fluids &amp; Propulsion · Burlington, MA · $23–$28/hr · Python, MATLAB, SolidWorks, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:make-rain:87613e64-cc8f-47ab-a053-0b2c3ee93ebd</id>
-    <title>Rainmaker: Mechanical Engineering Intern - Fall</title>
-    <link href="https://jobs.lever.co/make-rain/87613e64-cc8f-47ab-a053-0b2c3ee93ebd"/>
-    <updated>2026-08-07T00:25:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · El Segundo, CA · 3,000–5,000 USD/mo · SolidWorks, CAD, FEA</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:solidpower:6138210004</id>
     <title>Solid Power: Materials Engineering Intern 🛂</title>
     <link href="https://job-boards.greenhouse.io/solidpower/jobs/6138210004"/>
     <updated>2026-08-07T00:25:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Materials Engineering · 486 S. Pierce Ave, Suite E, Louisville, CO 80027 · $25/hr · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:make-rain:87613e64-cc8f-47ab-a053-0b2c3ee93ebd</id>
+    <title>Rainmaker: Mechanical Engineering Intern - Fall</title>
+    <link href="https://jobs.lever.co/make-rain/87613e64-cc8f-47ab-a053-0b2c3ee93ebd"/>
+    <updated>2026-08-07T00:25:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · El Segundo, CA · 3,000–5,000 USD/mo · SolidWorks, CAD, FEA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000141923029</id>
