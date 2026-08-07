@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-06T14:45:47Z</updated>
+  <updated>2026-08-07T00:25:39Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:alloyenterprises:946e7ae1-d2ac-4889-a72a-268b0aeda9bd</id>
+    <title>Alloy Enterprises: Co-Op, Thermal Test Engineer, Fall 2026 (July-December) 🇺🇸</title>
+    <link href="https://jobs.ashbyhq.com/alloyenterprises/946e7ae1-d2ac-4889-a72a-268b0aeda9bd"/>
+    <updated>2026-08-07T00:25:38Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Thermal, Fluids &amp; Propulsion · Burlington, MA · $23–$28/hr · Python, MATLAB, SolidWorks, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:make-rain:87613e64-cc8f-47ab-a053-0b2c3ee93ebd</id>
+    <title>Rainmaker: Mechanical Engineering Intern - Fall</title>
+    <link href="https://jobs.lever.co/make-rain/87613e64-cc8f-47ab-a053-0b2c3ee93ebd"/>
+    <updated>2026-08-07T00:25:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · El Segundo, CA · 3,000–5,000 USD/mo · SolidWorks, CAD, FEA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:solidpower:6138210004</id>
+    <title>Solid Power: Materials Engineering Intern 🛂</title>
+    <link href="https://job-boards.greenhouse.io/solidpower/jobs/6138210004"/>
+    <updated>2026-08-07T00:25:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Materials Engineering · 486 S. Pierce Ave, Suite E, Louisville, CO 80027 · $25/hr · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000141923029</id>
     <title>Bosch: Quality Engineering Co-op - Fall 2026</title>
@@ -16,20 +40,20 @@
     <summary>Fall 2026 · Manufacturing &amp; Quality · Pineville, NC, United States · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---Texas---Richardson/XMLNAME-1H-University-Intern---PVD-Equipment_JR-2502699</id>
-    <title>GlobalFoundries: IP &amp; Design Engineering Intern (Fall 2026)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/XMLNAME-1H-University-Intern---PVD-Equipment_JR-2502699"/>
-    <updated>2026-08-06T14:45:46Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Mechanical Design · USA - Texas - Richardson · H-1B track record: ~110 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Factory-Automation-Engineering-Intern--Fall-2026-_JR-2503358</id>
     <title>GlobalFoundries: Factory Automation Engineering Intern (Fall 2026)</title>
     <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Factory-Automation-Engineering-Intern--Fall-2026-_JR-2503358"/>
     <updated>2026-08-06T14:45:46Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Controls &amp; Mechatronics · USA - New York - Malta · Bash, Linux · H-1B track record: ~110 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalfoundries:/job/USA---Texas---Richardson/XMLNAME-1H-University-Intern---PVD-Equipment_JR-2502699</id>
+    <title>GlobalFoundries: IP &amp; Design Engineering Intern (Fall 2026)</title>
+    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/XMLNAME-1H-University-Intern---PVD-Equipment_JR-2502699"/>
+    <updated>2026-08-06T14:45:46Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · USA - Texas - Richardson · H-1B track record: ~110 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:winlandfoods:/job/USA-IL-Oak-Brook/Packaging-Engineer-COOP_R28809</id>
@@ -70,14 +94,6 @@
     <updated>2026-08-05T20:05:21Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Kirksville, MO · H-1B track record: ~27 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jabil:/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898</id>
-    <title>Jabil: Manufacturing Engineer - Intern</title>
-    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898"/>
-    <updated>2026-08-05T20:05:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · West Chester, PA · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:motorolasolutions:/job/Washington-DC-Remote-Work/CAD-RMS-Technical-Co-op-Program_R64127</id>

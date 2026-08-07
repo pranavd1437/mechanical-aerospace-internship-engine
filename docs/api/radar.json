@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-06T14:45:47Z",
+ "generated_at": "2026-08-07T00:25:39Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -12,7 +12,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-06-11",
-   "days_until": -56,
+   "days_until": -57,
    "status": "open",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007",
    "note": ""
@@ -26,7 +26,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-01",
-   "days_until": -36,
+   "days_until": -37,
    "status": "open",
    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506",
    "note": "fall opening"
@@ -40,7 +40,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-22",
-   "days_until": -15,
+   "days_until": -16,
    "status": "open",
    "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Structural-Engineer-Co-Op-Intern---Summer-2027_64448",
    "note": ""
@@ -54,7 +54,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-23",
-   "days_until": -14,
+   "days_until": -15,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/kairospower/jobs/6123676004",
    "note": ""
@@ -68,7 +68,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-31",
-   "days_until": -6,
+   "days_until": -7,
    "status": "open",
    "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Kirksville-MO/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Kirksville--Missouri_R-105273",
    "note": ""
@@ -82,7 +82,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -5,
+   "days_until": -6,
    "status": "waiting",
    "url": "",
    "note": "opens late summer"
@@ -96,7 +96,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -5,
+   "days_until": -6,
    "status": "waiting",
    "url": "",
    "note": "rolling from late summer"
@@ -110,7 +110,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 26,
+   "days_until": 25,
    "status": "waiting",
    "url": "",
    "note": "fall opening for next summer"
@@ -124,7 +124,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 26,
+   "days_until": 25,
    "status": "waiting",
    "url": "",
    "note": "fall opening"
@@ -138,7 +138,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 26,
+   "days_until": 25,
    "status": "waiting",
    "url": "",
    "note": "fall opening"
@@ -152,7 +152,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 26,
+   "days_until": 25,
    "status": "waiting",
    "url": "",
    "note": "fall opening"
@@ -166,7 +166,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 26,
+   "days_until": 25,
    "status": "waiting",
    "url": "",
    "note": "fall opening"
@@ -180,7 +180,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 26,
+   "days_until": 25,
    "status": "waiting",
    "url": "",
    "note": "fall opening, many roles need clearance"
@@ -194,7 +194,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 26,
+   "days_until": 25,
    "status": "waiting",
    "url": "",
    "note": "fall opening, many roles need clearance"
@@ -208,7 +208,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 26,
+   "days_until": 25,
    "status": "waiting",
    "url": "",
    "note": "fall opening"
@@ -222,7 +222,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 26,
+   "days_until": 25,
    "status": "waiting",
    "url": "",
    "note": "fall opening, many roles need clearance"
@@ -236,7 +236,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 26,
+   "days_until": 25,
    "status": "waiting",
    "url": "",
    "note": "rolling from fall, very competitive"
@@ -250,7 +250,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-10-01",
-   "days_until": 56,
+   "days_until": 55,
    "status": "waiting",
    "url": "",
    "note": "fall opening"
@@ -264,7 +264,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-31",
-   "days_until": -6,
+   "days_until": -7,
    "status": "dropped",
    "url": "",
    "note": ""

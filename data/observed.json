@@ -1,5 +1,17 @@
 {
  "companies": {
+  "alloy enterprises": {
+   "name": "Alloy Enterprises",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-03-25",
+     "role_ids": [
+      "ashby:alloyenterprises:946e7ae1-d2ac-4889-a72a-268b0aeda9bd"
+     ],
+     "count": 1
+    }
+   }
+  },
   "amazon": {
    "name": "Amazon",
    "cycles": {
@@ -440,5 +452,5 @@
    }
   }
  },
- "updated_at": "2026-08-06T14:45:46Z"
+ "updated_at": "2026-08-07T00:25:38Z"
 }
