@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-07T13:49:36Z</updated>
+  <updated>2026-08-07T19:28:54Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:heinz:/job/Winchester-VA/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Winchester--Virginia_R-105276</id>
-    <title>Kraft Heinz: 2027 US Manufacturing Internship Program – Manufacturing Facility Winchester, Virginia</title>
-    <link href="https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Winchester-VA/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Winchester--Virginia_R-105276"/>
-    <updated>2026-08-07T13:49:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Winchester, VA · H-1B track record: ~27 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000142173185</id>
+    <title>Bosch: Internship Vehicle Thermal Systems Engineering</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000142173185"/>
+    <updated>2026-08-07T19:28:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Farmington Hills, MI, United States · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319</id>
+    <title>Moog: Intern, Industrial Engineering</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319"/>
+    <updated>2026-08-07T19:28:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Buffalo, NY</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:heinz:/job/Fremont-OH/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Fremont--Ohio_R-105282</id>
@@ -22,6 +30,14 @@
     <updated>2026-08-07T13:49:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Fremont, OH · H-1B track record: ~27 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:heinz:/job/Winchester-VA/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Winchester--Virginia_R-105276</id>
+    <title>Kraft Heinz: 2027 US Manufacturing Internship Program – Manufacturing Facility Winchester, Virginia</title>
+    <link href="https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Winchester-VA/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Winchester--Virginia_R-105276"/>
+    <updated>2026-08-07T13:49:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Winchester, VA · H-1B track record: ~27 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:alloyenterprises:946e7ae1-d2ac-4889-a72a-268b0aeda9bd</id>
