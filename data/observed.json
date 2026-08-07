@@ -221,9 +221,11 @@
     "Summer 2027": {
      "first_posted": "2026-07-31",
      "role_ids": [
-      "workday:heinz:/job/Kirksville-MO/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Kirksville--Missouri_R-105273"
+      "workday:heinz:/job/Fremont-OH/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Fremont--Ohio_R-105282",
+      "workday:heinz:/job/Kirksville-MO/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Kirksville--Missouri_R-105273",
+      "workday:heinz:/job/Winchester-VA/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Winchester--Virginia_R-105276"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -452,5 +454,5 @@
    }
   }
  },
- "updated_at": "2026-08-07T07:52:55Z"
+ "updated_at": "2026-08-07T13:49:35Z"
 }
