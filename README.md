@@ -8,7 +8,7 @@
 
 ### 75 open roles (73 listed below) · 75 new this week
 
-4,018 employers tracked · updated Aug 08, 2026 at 13:20 UTC
+4,018 employers tracked · updated Aug 08, 2026 at 19:09 UTC
 
 _51 have a cycle the employer stated · 24 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -103,9 +103,9 @@ If it helps you, a star means a lot and tells me to keep going.
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Flextronics International ✓ | Mechanical Engineering Co-op - Fall 2026 🆕 | Mechanical Design | USA, SC, Orangeburg | SolidWorks, CAD, Six Sigma | Aug 07, 2026 | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049) |
-| Bosch ✓ | Quality Engineering Co-op - Fall 2026 🆕 | Manufacturing & Quality | Pineville, NC, United States | No skills listed | Aug 06, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000141923029) |
-| GlobalFoundries ✓ | Factory Automation Engineering Intern (Fall 2026) 🆕 | Controls & Mechatronics | USA - New York - Malta | Bash, Linux | Aug 06, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Factory-Automation-Engineering-Intern--Fall-2026-_JR-2503358) |
-| GlobalFoundries ✓ | IP & Design Engineering Intern (Fall 2026) 🆕 | Mechanical Design | USA - Texas - Richardson | No skills listed | Aug 06, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/XMLNAME-1H-University-Intern---PVD-Equipment_JR-2502699) |
+| Bosch ✓ | Quality Engineering Co-op - Fall 2026 | Manufacturing & Quality | Pineville, NC, United States | No skills listed | Aug 06, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000141923029) |
+| GlobalFoundries ✓ | Factory Automation Engineering Intern (Fall 2026) | Controls & Mechatronics | USA - New York - Malta | Bash, Linux | Aug 06, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Factory-Automation-Engineering-Intern--Fall-2026-_JR-2503358) |
+| GlobalFoundries ✓ | IP & Design Engineering Intern (Fall 2026) | Mechanical Design | USA - Texas - Richardson | No skills listed | Aug 06, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/XMLNAME-1H-University-Intern---PVD-Equipment_JR-2502699) |
 | Merck | 2026 Future Talent Program – Manufacturing and Reliability Engineering Co-Op | Manufacturing & Quality | USA - Pennsylvania - West Point | No skills listed | Aug 04, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---Manufacturing-and-Reliability-Engineering-Co-Op_R395901) |
 | Figure | Power Systems Integration Intern [Fall 2026] | Systems Engineering | San Jose, CA | Python, Linux | Aug 03, 2026 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4702104006) |
 | Draper | Space GNC Co-Op (Fall 2026) 🇺🇸 | Controls & Mechatronics | Houston, TX | Python, C++, MATLAB, Simulink | Aug 03, 2026 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Houston-TX/Space-GNC-Co-Op--Fall-2026-_JR002721) |
@@ -153,7 +153,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Moog | Intern, Industrial Engineering 🆕 | Manufacturing & Quality | Buffalo, NY | No skills listed | Aug 07, 2026 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319) |
 | Solid Power | Materials Engineering Intern 🛂 🆕 | Materials Engineering | 486 S. Pierce Ave +3 more | No skills listed | Aug 06, 2026 | [Apply](https://job-boards.greenhouse.io/solidpower/jobs/6138210004) |
 | Rainmaker | Mechanical Engineering Intern - Fall 🆕 | Mechanical Design | El Segundo, CA | SolidWorks, CAD, FEA | Aug 06, 2026 | [Apply](https://jobs.lever.co/make-rain/87613e64-cc8f-47ab-a053-0b2c3ee93ebd) |
-| Winland Foods | Packaging Engineer COOP 🆕 | Mechanical Design | USA-IL Oak Brook | No skills listed | Aug 05, 2026 | [Apply](https://winlandfoods.wd1.myworkdayjobs.com/external/job/USA-IL-Oak-Brook/Packaging-Engineer-COOP_R28809) |
+| Winland Foods | Packaging Engineer COOP | Mechanical Design | USA-IL Oak Brook | No skills listed | Aug 05, 2026 | [Apply](https://winlandfoods.wd1.myworkdayjobs.com/external/job/USA-IL-Oak-Brook/Packaging-Engineer-COOP_R28809) |
 | ALFA LAVAL | Automation Engineer Intern | Controls & Mechatronics | Warminster, PA | AutoCAD | Aug 05, 2026 | [Apply](https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Warminster-PA/Automation-Engineer-Intern_JR0047292) |
 | CAE | Mechanical Engineering Intern 🇺🇸 | Mechanical Design | Arlington, TX | SolidWorks, Creo, CAD, GD&T | Aug 05, 2026 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Mechanical-Engineering-Intern_122210) |
 | Motorola ✓ 🆁 | CAD/RMS System Administrator - Internship 🛂 | Mechanical Design | Washington DC Remote Work, More... | CAD, SQL | Aug 05, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Washington-DC-Remote-Work/CAD-RMS-Technical-Co-op-Program_R64127) |
@@ -240,7 +240,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,883 of 4,116 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 94% of the full registry) · completed in 262.4s · 96 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,849 of 4,116 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 93% of the full registry) · completed in 403.9s · 99 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
