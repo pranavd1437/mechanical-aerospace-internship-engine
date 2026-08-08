@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-07T19:28:54Z</updated>
+  <updated>2026-08-08T02:31:49Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049</id>
+    <title>Flextronics International: Mechanical Engineering Co-op - Fall 2026</title>
+    <link href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049"/>
+    <updated>2026-08-08T02:31:48Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · USA, SC, Orangeburg · SolidWorks, CAD, Six Sigma · sponsorship: offers · H-1B track record: ~65 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597</id>
+    <title>Northrop Grumman: 2027 Operations Manufacturing Engineering Intern 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597"/>
+    <updated>2026-08-08T02:31:48Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · United States-California-Palmdale · $21.5–$39/hr · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000142173185</id>
     <title>Bosch: Internship Vehicle Thermal Systems Engineering</title>
@@ -510,14 +526,6 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · USA - Texas - Houston - The Woodlands - Corporate Office · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:kiongroup:/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-Op_JR-0094003</id>
-    <title>Dematic: Controls Engineering Intern/Co-Op</title>
-    <link href="https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-Op_JR-0094003"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Grand Rapids, MI, United States · $20–$29/hr · CAD · H-1B track record: ~59 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:magna:/job/Auburn-Hills-Michigan-US/Intern---System-Test_R00246431</id>

@@ -1,9 +1,55 @@
 {
- "generated_at": "2026-08-07T19:28:54Z",
+ "generated_at": "2026-08-08T02:31:49Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 73,
+ "count": 74,
  "jobs": [
+  {
+   "id": "workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049",
+   "company": "Flextronics International",
+   "title": "Mechanical Engineering Co-op - Fall 2026",
+   "season": "Fall 2026",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Mechanical Design",
+   "location": "USA, SC, Orangeburg",
+   "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049",
+   "posted_at": "2026-08-07T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-08T02:31:48Z",
+   "sponsorship": "offers",
+   "salary": null,
+   "skills": [
+    "SolidWorks",
+    "CAD",
+    "Six Sigma"
+   ],
+   "source": "workday",
+   "h1b_approvals": 65,
+   "program": "Co-op",
+   "remote": false
+  },
+  {
+   "id": "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
+   "company": "Northrop Grumman",
+   "title": "2027 Operations Manufacturing Engineering Intern",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Manufacturing & Quality",
+   "location": "United States-California-Palmdale",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
+   "posted_at": "2026-08-07T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-08T02:31:48Z",
+   "sponsorship": "citizens-only",
+   "salary": "$21.5–$39/hr",
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "smartrecruiters:BoschGroup:744000142173185",
    "company": "Bosch",
@@ -274,29 +320,6 @@
    "source": "workday",
    "h1b_approvals": 16,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:kiongroup:/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-Op_JR-0094003",
-   "company": "Dematic",
-   "title": "Controls Engineering Intern/Co-Op",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Controls & Mechatronics",
-   "location": "Grand Rapids, MI, United States",
-   "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-Op_JR-0094003",
-   "posted_at": "2026-08-04T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-05T06:24:39Z",
-   "sponsorship": "unknown",
-   "salary": "$20–$29/hr",
-   "skills": [
-    "CAD"
-   ],
-   "source": "workday",
-   "h1b_approvals": 59,
-   "program": "Internship / Co-op",
    "remote": false
   },
   {

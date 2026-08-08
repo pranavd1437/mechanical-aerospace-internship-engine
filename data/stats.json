@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T19:28:54Z",
-  "duration_seconds": 403.0,
+  "generated_at": "2026-08-08T02:31:48Z",
+  "duration_seconds": 424.1,
   "companies_total": 4087,
   "companies_by_source": {
     "greenhouse": 1032,
@@ -16,24 +16,25 @@
     "breezy": 12,
     "eightfold": 1
   },
-  "quarantined": 210,
-  "fetched_ok": 3825,
-  "fetch_errors": 52,
+  "quarantined": 201,
+  "fetched_ok": 3824,
+  "fetch_errors": 62,
   "errors_by_source": {
-    "workday": 42,
-    "greenhouse": 2,
-    "ashby": 7,
-    "lever": 1
+    "greenhouse": 7,
+    "workday": 49,
+    "oracle": 2,
+    "ashby": 2,
+    "lever": 2
   },
-  "fetch_success_rate": 0.987,
+  "fetch_success_rate": 0.984,
   "fetch_success_rate_registry": 0.936,
-  "snapshots_complete": 3713,
-  "snapshots_partial": 112,
-  "roles_matched": 71,
+  "snapshots_complete": 3728,
+  "snapshots_partial": 96,
+  "roles_matched": 72,
   "dropped_no_year_in_title": 90,
   "dropped_offcycle_by_text": 29,
   "dropped_by_description_scope": 0,
-  "roles_cycle_inferred": 25,
+  "roles_cycle_inferred": 24,
   "roles_by_source": {
     "amazon": 1,
     "ashby": 5,
@@ -41,28 +42,28 @@
     "lever": 7,
     "oracle": 2,
     "smartrecruiters": 7,
-    "workday": 31
+    "workday": 32
   },
   "roles_by_cycle": {
-    "Fall 2026": 40,
-    "Not stated": 25,
-    "Summer 2027": 8
+    "Fall 2026": 41,
+    "Not stated": 24,
+    "Summer 2027": 9
   },
   "roles_by_region": {
-    "US": 73
+    "US": 74
   },
   "sponsorship_counts": {
-    "unknown": 39,
-    "citizens-only": 22,
+    "unknown": 38,
+    "citizens-only": 23,
     "no-sponsorship": 10,
-    "offers": 2
+    "offers": 3
   },
   "posted_date_coverage": 1.0,
   "enriched_this_run": 2,
   "enrichment_detail_fetches": 3,
   "purged_this_run": 0,
   "new_this_run": 2,
-  "open_total": 73,
+  "open_total": 74,
   "detection_latency": {
     "median_minutes": 492.6,
     "p95_minutes": 2292.3,
@@ -71,7 +72,7 @@
     "basis": "roles published in the window with an exact source timestamp"
   },
   "posting_lifetime": {
-    "median_days": 33,
-    "sample_size": 13
+    "median_days": 19.5,
+    "sample_size": 14
   }
 }

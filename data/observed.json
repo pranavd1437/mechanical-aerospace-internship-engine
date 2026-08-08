@@ -121,9 +121,10 @@
      "first_posted": "2026-07-27",
      "role_ids": [
       "workday:flextronics:/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357",
+      "workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049",
       "workday:flextronics:/job/USA-SC-Orangeburg/Quality-Engineering-Co-Op---Fall-2026_WD226046"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -286,6 +287,13 @@
      "first_posted": "2026-08-03",
      "role_ids": [
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2026-Fall-Co-op-Manufacturing-Engineering---Baltimore-MD_R10243390-1"
+     ],
+     "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-08-07",
+     "role_ids": [
+      "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597"
      ],
      "count": 1
     }
@@ -454,5 +462,5 @@
    }
   }
  },
- "updated_at": "2026-08-07T19:28:54Z"
+ "updated_at": "2026-08-08T02:31:48Z"
 }
