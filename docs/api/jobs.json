@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-08T07:22:57Z",
+ "generated_at": "2026-08-08T13:20:09Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 74,
+ "count": 75,
  "jobs": [
   {
    "id": "workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049",
@@ -341,6 +341,27 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Co-op",
+   "remote": false
+  },
+  {
+   "id": "workday:heinz:/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352",
+   "company": "Kraft Heinz",
+   "title": "2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Manufacturing & Quality",
+   "location": "Garland, TX",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352",
+   "posted_at": "2026-08-03T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-08T13:20:09Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": 27,
+   "program": "Internship",
    "remote": false
   },
   {

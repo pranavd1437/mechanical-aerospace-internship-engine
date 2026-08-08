@@ -223,10 +223,11 @@
      "first_posted": "2026-07-31",
      "role_ids": [
       "workday:heinz:/job/Fremont-OH/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Fremont--Ohio_R-105282",
+      "workday:heinz:/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352",
       "workday:heinz:/job/Kirksville-MO/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Kirksville--Missouri_R-105273",
       "workday:heinz:/job/Winchester-VA/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Winchester--Virginia_R-105276"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -462,5 +463,5 @@
    }
   }
  },
- "updated_at": "2026-08-08T07:22:57Z"
+ "updated_at": "2026-08-08T13:20:09Z"
 }
