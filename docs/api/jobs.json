@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-09T07:33:39Z",
+ "generated_at": "2026-08-09T13:26:31Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 75,
+ "count": 74,
  "jobs": [
   {
    "id": "workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049",
@@ -632,27 +632,6 @@
    "source": "workday",
    "h1b_approvals": 65,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--Materials-Science---Metallurgical-Engineering_JR-202612790",
-   "company": "General Motors",
-   "title": "2026 Fall Intern - Research & Development: Materials Science / Metallurgical Engineering",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Materials Engineering",
-   "location": "Warren, Michigan, United States of America",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--Materials-Science---Metallurgical-Engineering_JR-202612790",
-   "posted_at": "2026-07-30T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-05T06:24:39Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 928,
-   "program": "Internship",
    "remote": false
   },
   {
