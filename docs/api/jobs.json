@@ -1,9 +1,57 @@
 {
- "generated_at": "2026-08-10T08:16:40Z",
+ "generated_at": "2026-08-10T13:58:03Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 75,
+ "count": 77,
  "jobs": [
+  {
+   "id": "workday:jabil:/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247",
+   "company": "Jabil",
+   "title": "Industrial Engineer Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Manufacturing & Quality",
+   "location": "San Jose, CA",
+   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247",
+   "posted_at": "2026-08-10T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-10T13:58:02Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "AutoCAD",
+    "Six Sigma",
+    "Lean Manufacturing"
+   ],
+   "source": "workday",
+   "h1b_approvals": 69,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:flir:/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562",
+   "company": "Teledyne",
+   "title": "Mechanical Engineering Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Mechanical Design",
+   "location": "US - Miamisburg, OH",
+   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562",
+   "posted_at": "2026-08-10T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-10T13:58:02Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [
+    "SolidWorks"
+   ],
+   "source": "workday",
+   "h1b_approvals": 5,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "lever:field-ai:88f05d6e-ee93-4fc5-80cd-efe6854e22bc",
    "company": "Field AI",
