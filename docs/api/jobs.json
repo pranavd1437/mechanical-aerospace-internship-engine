@@ -1,9 +1,39 @@
 {
- "generated_at": "2026-08-09T19:12:33Z",
+ "generated_at": "2026-08-10T02:45:25Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 74,
+ "count": 75,
  "jobs": [
+  {
+   "id": "lever:field-ai:88f05d6e-ee93-4fc5-80cd-efe6854e22bc",
+   "company": "Field AI",
+   "title": "Mechanical Engineer, Robotics Hardware - Part-Time Internship",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Mechanical Design",
+   "location": "Irvine, CA",
+   "url": "https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc",
+   "posted_at": "2026-08-10T00:24:50Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-10T02:45:25Z",
+   "sponsorship": "unknown",
+   "salary": "35–45 USD/hr",
+   "skills": [
+    "SolidWorks",
+    "CAD",
+    "GD&T",
+    "FEA",
+    "CNC",
+    "DFM/DFA",
+    "Linux",
+    "Airflow"
+   ],
+   "source": "lever",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049",
    "company": "Flextronics International",
