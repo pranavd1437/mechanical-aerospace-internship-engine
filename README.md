@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/pranavd1437/mechanical-aerospace-internship-engine/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/pranavd1437/mechanical-aerospace-internship-engine/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fpranavd1437.github.io%2Fmechanical-aerospace-internship-engine%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%206%20hours-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)
 
-### 77 open roles (75 listed below) · 77 new this week
+### 79 open roles (77 listed below) · 79 new this week
 
-4,021 employers tracked · updated Aug 10, 2026 at 13:58 UTC
+4,021 employers tracked · updated Aug 10, 2026 at 19:32 UTC
 
-_50 have a cycle the employer stated · 27 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_51 have a cycle the employer stated · 28 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)** · **[📡 RSS](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)** · **[⚙️ JSON API](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/api/jobs.json)**
 
@@ -98,10 +98,11 @@ If it helps you, a star means a lot and tells me to keep going.
 | Anduril | 2027 Mechanical Engineer Intern 🇺🇸 | Mechanical Design | Atlanta +17 more | SolidWorks, Siemens NX, CAD, FEA | Jun 11, 2026 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
 | Anduril | 2027 Manufacturing Engineer Intern 🇺🇸 | Manufacturing & Quality | Atlanta +14 more | Computer Vision | Jun 11, 2026 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
 
-## Fall 2026  (39 employer-stated)
+## Fall 2026  (40 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Johnson Electric | Quality Engineering Intern - Fall Term 2026 🆕 | Manufacturing & Quality | United States, Plymouth, MI | No skills listed | Aug 10, 2026 | [Apply](https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/United-States-Plymouth-MI/Quality-Engineering-Intern---Fall-Term_R00030162) |
 | Flextronics International ✓ | Mechanical Engineering Co-op - Fall 2026 | Mechanical Design | USA, SC, Orangeburg | SolidWorks, CAD, Six Sigma | Aug 07, 2026 | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049) |
 | Bosch ✓ | Quality Engineering Co-op - Fall 2026 | Manufacturing & Quality | Pineville, NC, United States | No skills listed | Aug 06, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000141923029) |
 | GlobalFoundries ✓ | Factory Automation Engineering Intern (Fall 2026) | Controls & Mechatronics | USA - New York - Malta | Bash, Linux | Aug 06, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Factory-Automation-Engineering-Intern--Fall-2026-_JR-2503358) |
@@ -142,14 +143,15 @@ If it helps you, a star means a lot and tells me to keep going.
 | Figure | Validation Engineering Intern [Fall 2026] | Test & Validation | San Jose, CA | Python, Git | Oct 01, 2025 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4606072006) |
 | Figure | Mechanical Engineer Intern [Fall 2026] | Mechanical Design | San Jose, CA | Python, MATLAB, CATIA, CAD | Nov 09, 2023 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4303098006) |
 
-## Recently posted — cycle not stated  (27 roles)
+## Recently posted — cycle not stated  (28 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent mechanical & aerospace internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Jabil ✓ | Industrial Engineer Intern 🆕 | Manufacturing & Quality | San Jose, CA | AutoCAD, Six Sigma, Lean Manufacturing | Aug 10, 2026 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247) |
+| Heart Aerospace | Mechanical Design Intern, Structures (Summer / Fall) 🆕 | Structures & FEA | Los Angeles, CA | SolidWorks, Siemens NX, CATIA, CAD | Aug 10, 2026 | [Apply](https://job-boards.greenhouse.io/heartaerospace/jobs/4361702009) |
 | Teledyne | Mechanical Engineering Intern 🇺🇸 🆕 | Mechanical Design | US - Miamisburg, OH | SolidWorks | Aug 10, 2026 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562) |
+| Jabil ✓ | Industrial Engineer Intern 🆕 | Manufacturing & Quality | San Jose, CA | AutoCAD, Six Sigma, Lean Manufacturing | Aug 10, 2026 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247) |
 | Field AI | Mechanical Engineer, Robotics Hardware - Part-Time Internship 🆕 | Mechanical Design | Irvine, CA | SolidWorks, CAD, GD&T, FEA | Aug 10, 2026 | [Apply](https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc) |
 | Bosch ✓ | Internship Vehicle Thermal Systems Engineering | Thermal, Fluids & Propulsion | Farmington Hills, MI, United States | No skills listed | Aug 07, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) |
 | Moog | Intern, Industrial Engineering | Manufacturing & Quality | Buffalo, NY | No skills listed | Aug 07, 2026 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319) |
@@ -243,7 +245,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,879 of 4,119 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 94% of the full registry) · completed in 539.2s · 127 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,830 of 4,119 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 93% of the full registry) · completed in 415.6s · 120 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-10T13:58:03Z</updated>
+  <updated>2026-08-10T19:32:05Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:jabil:/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247</id>
-    <title>Jabil: Industrial Engineer Intern</title>
-    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247"/>
-    <updated>2026-08-10T13:58:02Z</updated>
+    <id>urn:intern-engine:greenhouse:heartaerospace:4361702009</id>
+    <title>Heart Aerospace: Mechanical Design Intern, Structures (Summer / Fall)</title>
+    <link href="https://job-boards.greenhouse.io/heartaerospace/jobs/4361702009"/>
+    <updated>2026-08-10T19:32:04Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · San Jose, CA · AutoCAD, Six Sigma, Lean Manufacturing · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Structures &amp; FEA · Los Angeles, CA · $30/hr · SolidWorks, Siemens NX, CATIA, CAD, GD&amp;T</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:johnsonelectric:/job/United-States-Plymouth-MI/Quality-Engineering-Intern---Fall-Term_R00030162</id>
+    <title>Johnson Electric: Quality Engineering Intern - Fall Term 2026</title>
+    <link href="https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/United-States-Plymouth-MI/Quality-Engineering-Intern---Fall-Term_R00030162"/>
+    <updated>2026-08-10T19:32:04Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Manufacturing &amp; Quality · United States, Plymouth, MI · $20–$22/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:flir:/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562</id>
@@ -22,6 +30,14 @@
     <updated>2026-08-10T13:58:02Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · US - Miamisburg, OH · SolidWorks · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jabil:/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247</id>
+    <title>Jabil: Industrial Engineer Intern</title>
+    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247"/>
+    <updated>2026-08-10T13:58:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · San Jose, CA · AutoCAD, Six Sigma, Lean Manufacturing · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:field-ai:88f05d6e-ee93-4fc5-80cd-efe6854e22bc</id>

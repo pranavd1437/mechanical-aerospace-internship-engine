@@ -204,6 +204,18 @@
     }
    }
   },
+  "johnson electric": {
+   "name": "Johnson Electric",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-10",
+     "role_ids": [
+      "workday:johnsonelectric:/job/United-States-Plymouth-MI/Quality-Engineering-Intern---Fall-Term_R00030162"
+     ],
+     "count": 1
+    }
+   }
+  },
   "kairos power": {
    "name": "Kairos Power",
    "cycles": {
@@ -463,5 +475,5 @@
    }
   }
  },
- "updated_at": "2026-08-10T13:58:02Z"
+ "updated_at": "2026-08-10T19:32:04Z"
 }
