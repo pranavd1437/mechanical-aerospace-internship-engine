@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-11T07:49:51Z",
+ "generated_at": "2026-08-11T13:54:51Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 76,
+ "count": 77,
  "jobs": [
   {
    "id": "workday:micron:/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448",
@@ -473,6 +473,27 @@
    ],
    "source": "workday",
    "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:jabil:/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898",
+   "company": "Jabil",
+   "title": "Manufacturing Engineer - Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Manufacturing & Quality",
+   "location": "West Chester, PA",
+   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898",
+   "posted_at": "2026-08-05T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-05T20:05:21Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": 69,
    "program": "Internship",
    "remote": false
   },

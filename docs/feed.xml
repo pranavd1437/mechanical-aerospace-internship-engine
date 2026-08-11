@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-11T07:49:51Z</updated>
+  <updated>2026-08-11T13:54:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
     <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448</id>
@@ -206,6 +206,14 @@
     <updated>2026-08-05T20:05:21Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Kirksville, MO · H-1B track record: ~27 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jabil:/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898</id>
+    <title>Jabil: Manufacturing Engineer - Intern</title>
+    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898"/>
+    <updated>2026-08-05T20:05:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · West Chester, PA · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:motorolasolutions:/job/Washington-DC-Remote-Work/CAD-RMS-Technical-Co-op-Program_R64127</id>
