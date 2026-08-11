@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-11T02:37:44Z</updated>
+  <updated>2026-08-11T07:49:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448</id>
+    <title>Micron Technology: Intern - DRAM Design Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448"/>
+    <updated>2026-08-11T07:49:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Boise, ID - Main Site · Verilog · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468</id>
+    <title>Micron Technology: Intern - DRAM Design Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468"/>
+    <updated>2026-08-11T07:49:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Boise, ID - Main Site · CAD, LLMs · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471</id>
+    <title>Micron Technology: Intern - DRAM IP Circuits Design Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471"/>
+    <updated>2026-08-11T07:49:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Boise, ID - Main Site · Python, MATLAB, LLMs, Verilog · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:1x:7d93444c-01f5-485c-89ef-24164f30441d</id>
     <title>1X: Internship - Manufacturing Engineering (Fall)</title>
@@ -40,28 +64,12 @@
     <summary>Not stated · Mechanical Design · US - Miamisburg, OH · SolidWorks · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:jabil:/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247</id>
-    <title>Jabil: Industrial Engineer Intern</title>
-    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247"/>
-    <updated>2026-08-10T13:58:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · San Jose, CA · AutoCAD, Six Sigma, Lean Manufacturing · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:lever:field-ai:88f05d6e-ee93-4fc5-80cd-efe6854e22bc</id>
     <title>Field AI: Mechanical Engineer, Robotics Hardware - Part-Time Internship</title>
     <link href="https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc"/>
     <updated>2026-08-10T02:45:25Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Irvine, CA · 35–45 USD/hr · SolidWorks, CAD, GD&amp;T, FEA, CNC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:heinz:/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352</id>
-    <title>Kraft Heinz: 2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas</title>
-    <link href="https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352"/>
-    <updated>2026-08-08T13:20:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Garland, TX · H-1B track record: ~27 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049</id>
@@ -376,22 +384,6 @@
     <summary>Fall 2026 · Manufacturing &amp; Quality · Long Beach, California, United States · $35/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:vast:4694238006</id>
-    <title>VAST: 2026 Fall Internship - Manufacturing 🇺🇸</title>
-    <link href="https://boards.greenhouse.io/vast/jobs/4694238006?gh_jid=4694238006"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Manufacturing &amp; Quality · Long Beach, California, United States · $35/hr · SolidWorks, CATIA, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:vast:4694905006</id>
-    <title>VAST: 2026 Fall Internship - Mechanical / Aerospace 🇺🇸</title>
-    <link href="https://boards.greenhouse.io/vast/jobs/4694905006?gh_jid=4694905006"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Mechanical Design · Long Beach, California, United States · SolidWorks, CATIA, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:lever:field-ai:8a3b5d4b-f88f-4704-bfdd-74e8dcd30704</id>
     <title>Field AI: Internship - Robot Control Systems (Fall 2026)</title>
     <link href="https://jobs.lever.co/field-ai/8a3b5d4b-f88f-4704-bfdd-74e8dcd30704"/>
@@ -614,14 +606,6 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Test &amp; Validation · North America/USA/Missouri/St. Louis - WPE, MO · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tsc:/job/Washington-DC---Naval-Research-Laboratory/Aerospace-Mechanical-Engineering-Intern_JR2683</id>
-    <title>TSC: Aerospace/Mechanical Engineering Intern 🇺🇸</title>
-    <link href="https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Washington-DC---Naval-Research-Laboratory/Aerospace-Mechanical-Engineering-Intern_JR2683"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Washington, DC - Naval Research Laboratory · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:westlake:/job/US---Houston-TX/XMLNAME-2026-Intern---Mechanical-Engineer_R30240</id>
