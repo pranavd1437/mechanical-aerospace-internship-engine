@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-10T19:32:05Z</updated>
+  <updated>2026-08-11T02:37:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:1x:7d93444c-01f5-485c-89ef-24164f30441d</id>
+    <title>1X: Internship - Manufacturing Engineering (Fall)</title>
+    <link href="https://jobs.ashbyhq.com/1x/7d93444c-01f5-485c-89ef-24164f30441d"/>
+    <updated>2026-08-11T02:37:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · San Carlos, CA · $25 – $35 per hour · SolidWorks, CAD, DFM/DFA</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:heartaerospace:4361702009</id>
     <title>Heart Aerospace: Mechanical Design Intern, Structures (Summer / Fall)</title>
@@ -352,14 +360,6 @@
     <summary>Fall 2026 · Mechanical Design · Needham, MA, United States · SolidWorks, Creo, CAD · H-1B track record: ~23 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:toshibaglobalcommercesolutions:5187159007</id>
-    <title>Toshiba Global Commerce: Mechanical Engineering Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5187159007"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Mechanical Design · Durham, NC · SolidWorks · sponsorship: no-sponsorship · H-1B track record: ~77 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:vardaspace:7670782003</id>
     <title>Varda Space: Mechanical Engineering Internship - Fall 2026 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/vardaspace/jobs/7670782003"/>
@@ -494,14 +494,6 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Smyrna, Tennessee - United States of America · AutoCAD, CAD · H-1B track record: ~16 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Mechanical-Engineer-Co-op---BS-MS--Gloucester--MA-_R2611501</id>
-    <title>Applied Materials: 2026 Fall Mechanical Engineer Co-op - BS/MS (Gloucester, MA)</title>
-    <link href="https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Mechanical-Engineer-Co-op---BS-MS--Gloucester--MA-_R2611501"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Mechanical Design · Gloucester,MA · $31–$41/hr · Creo, ANSYS · H-1B track record: ~650 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cat:/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506</id>

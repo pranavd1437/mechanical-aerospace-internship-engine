@@ -1,9 +1,34 @@
 {
- "generated_at": "2026-08-10T19:32:05Z",
+ "generated_at": "2026-08-11T02:37:44Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 79,
+ "count": 78,
  "jobs": [
+  {
+   "id": "ashby:1x:7d93444c-01f5-485c-89ef-24164f30441d",
+   "company": "1X",
+   "title": "Internship - Manufacturing Engineering (Fall)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Manufacturing & Quality",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/7d93444c-01f5-485c-89ef-24164f30441d",
+   "posted_at": "2026-08-10T20:51:22.443+00:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-11T02:37:44Z",
+   "sponsorship": "unknown",
+   "salary": "$25 – $35 per hour",
+   "skills": [
+    "SolidWorks",
+    "CAD",
+    "DFM/DFA"
+   ],
+   "source": "ashby",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "greenhouse:heartaerospace:4361702009",
    "company": "Heart Aerospace",
@@ -914,29 +939,6 @@
    "remote": false
   },
   {
-   "id": "greenhouse:toshibaglobalcommercesolutions:5187159007",
-   "company": "Toshiba Global Commerce",
-   "title": "Mechanical Engineering Intern",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Mechanical Design",
-   "location": "Durham, NC",
-   "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5187159007",
-   "posted_at": "2026-07-26T20:23:47-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-05T06:24:39Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [
-    "SolidWorks"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 77,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "greenhouse:queracomputinginc:5370312008",
    "company": "QuEra Computing",
    "title": "Mechanical Engineering Co-Op - Fall 2026",
@@ -1036,30 +1038,6 @@
    "source": "smartrecruiters",
    "h1b_approvals": 286,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Mechanical-Engineer-Co-op---BS-MS--Gloucester--MA-_R2611501",
-   "company": "Applied Materials",
-   "title": "2026 Fall Mechanical Engineer Co-op - BS/MS (Gloucester, MA)",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Mechanical Design",
-   "location": "Gloucester,MA",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Mechanical-Engineer-Co-op---BS-MS--Gloucester--MA-_R2611501",
-   "posted_at": "2026-07-23T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-05T06:24:39Z",
-   "sponsorship": "unknown",
-   "salary": "$31–$41/hr",
-   "skills": [
-    "Creo",
-    "ANSYS"
-   ],
-   "source": "workday",
-   "h1b_approvals": 650,
-   "program": "Co-op",
    "remote": false
   },
   {
