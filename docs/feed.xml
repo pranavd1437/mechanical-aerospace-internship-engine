@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-12T02:57:03Z</updated>
+  <updated>2026-08-12T08:03:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1</id>
-    <title>Ameren: Mechanical Engineering Spring Co-Op</title>
-    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1"/>
+    <id>urn:intern-engine:ashby:odys-aviation:8f5e460a-98a4-4fd8-b880-d22071faa29f</id>
+    <title>Odys Aviation: Mechanical Engineering Intern/Co-Op [Propulsion]</title>
+    <link href="https://jobs.ashbyhq.com/odys-aviation/8f5e460a-98a4-4fd8-b880-d22071faa29f"/>
     <updated>2026-08-12T02:57:02Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Long Beach CA · SolidWorks, Siemens NX, CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1</id>
@@ -24,12 +24,12 @@
     <summary>Not stated · Mechanical Design · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:odys-aviation:8f5e460a-98a4-4fd8-b880-d22071faa29f</id>
-    <title>Odys Aviation: Mechanical Engineering Intern/Co-Op [Propulsion]</title>
-    <link href="https://jobs.ashbyhq.com/odys-aviation/8f5e460a-98a4-4fd8-b880-d22071faa29f"/>
+    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1</id>
+    <title>Ameren: Mechanical Engineering Spring Co-Op</title>
+    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1"/>
     <updated>2026-08-12T02:57:02Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Long Beach CA · SolidWorks, Siemens NX, CAD</summary>
+    <summary>Not stated · Mechanical Design · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:son:/job/Lincoln-NE/Roadway-Design-Engineering-Intern_JR2026-00028611</id>
@@ -256,14 +256,6 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Kirksville, MO · H-1B track record: ~27 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:jabil:/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898</id>
-    <title>Jabil: Manufacturing Engineer - Intern</title>
-    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898"/>
-    <updated>2026-08-05T20:05:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · West Chester, PA · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:motorolasolutions:/job/Washington-DC-Remote-Work/CAD-RMS-Technical-Co-op-Program_R64127</id>
     <title>Motorola: CAD/RMS System Administrator - Internship 🛂</title>
     <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Washington-DC-Remote-Work/CAD-RMS-Technical-Co-op-Program_R64127"/>
@@ -422,14 +414,6 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Mechanical Design · Needham, MA, United States · SolidWorks, Creo, CAD · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:vardaspace:7670782003</id>
-    <title>Varda Space: Mechanical Engineering Internship - Fall 2026 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/vardaspace/jobs/7670782003"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Mechanical Design · El Segundo, California, United States · MATLAB, Siemens NX, CAD, GD&amp;T, Nastran · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:vast:4691428006</id>
