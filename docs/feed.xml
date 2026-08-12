@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-12T08:03:03Z</updated>
+  <updated>2026-08-12T14:00:31Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
     <id>urn:intern-engine:ashby:odys-aviation:8f5e460a-98a4-4fd8-b880-d22071faa29f</id>
@@ -46,14 +46,6 @@
     <updated>2026-08-11T19:37:08Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Structures &amp; FEA · Boston, MA, United States · $24.76–$32.22/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jll:/job/Seattle-WA/HVAC-Technician-Intern_REQ528097</id>
-    <title>Jones Lang LaSalle (JLL): HVAC Technician Intern 🛂</title>
-    <link href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/HVAC-Technician-Intern_REQ528097"/>
-    <updated>2026-08-11T19:37:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Seattle, WA · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:mksinst:/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744</id>

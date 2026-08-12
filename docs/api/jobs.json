@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-12T08:03:04Z",
+ "generated_at": "2026-08-12T14:00:31Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 81,
+ "count": 80,
  "jobs": [
   {
    "id": "ashby:odys-aviation:8f5e460a-98a4-4fd8-b880-d22071faa29f",
@@ -113,27 +113,6 @@
    "source": "oracle",
    "h1b_approvals": null,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:jll:/job/Seattle-WA/HVAC-Technician-Intern_REQ528097",
-   "company": "Jones Lang LaSalle (JLL)",
-   "title": "HVAC Technician Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Thermal, Fluids & Propulsion",
-   "location": "Seattle, WA",
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/HVAC-Technician-Intern_REQ528097",
-   "posted_at": "2026-08-11T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-11T19:37:08Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
    "remote": false
   },
   {
