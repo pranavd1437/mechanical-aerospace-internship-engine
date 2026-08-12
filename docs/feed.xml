@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-11T19:37:09Z</updated>
+  <updated>2026-08-12T02:57:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1</id>
+    <title>Ameren: Mechanical Engineering Spring Co-Op</title>
+    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1"/>
+    <updated>2026-08-12T02:57:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1</id>
+    <title>Ameren: Mechanical Engineering Fall Co-Op</title>
+    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1"/>
+    <updated>2026-08-12T02:57:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:odys-aviation:8f5e460a-98a4-4fd8-b880-d22071faa29f</id>
+    <title>Odys Aviation: Mechanical Engineering Intern/Co-Op [Propulsion]</title>
+    <link href="https://jobs.ashbyhq.com/odys-aviation/8f5e460a-98a4-4fd8-b880-d22071faa29f"/>
+    <updated>2026-08-12T02:57:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Long Beach CA · SolidWorks, Siemens NX, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:son:/job/Lincoln-NE/Roadway-Design-Engineering-Intern_JR2026-00028611</id>
+    <title>State of Nebraska: Roadway Design Engineering Intern</title>
+    <link href="https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Roadway-Design-Engineering-Intern_JR2026-00028611"/>
+    <updated>2026-08-12T02:57:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Lincoln, NE · HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93007</id>
+    <title>WSP: Structural Engineering Co-Op - Fall 2026</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93007"/>
+    <updated>2026-08-11T19:37:08Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Structures &amp; FEA · Boston, MA, United States · $24.76–$32.22/hr</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:jll:/job/Seattle-WA/HVAC-Technician-Intern_REQ528097</id>
     <title>Jones Lang LaSalle (JLL): HVAC Technician Intern 🛂</title>
@@ -22,14 +62,6 @@
     <updated>2026-08-11T19:37:08Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Controls &amp; Mechatronics · Milpitas, CA · $27–$31/hr · Python, SolidWorks, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93007</id>
-    <title>WSP: Structural Engineering Co-Op - Fall 2026</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93007"/>
-    <updated>2026-08-11T19:37:08Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Structures &amp; FEA · Boston, MA, United States · $24.76–$32.22/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448</id>
@@ -62,14 +94,6 @@
     <updated>2026-08-11T02:37:44Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · San Carlos, CA · $25 – $35 per hour · SolidWorks, CAD, DFM/DFA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:heartaerospace:4361702009</id>
-    <title>Heart Aerospace: Mechanical Design Intern, Structures (Summer / Fall)</title>
-    <link href="https://job-boards.greenhouse.io/heartaerospace/jobs/4361702009"/>
-    <updated>2026-08-10T19:32:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Structures &amp; FEA · Los Angeles, CA · $30/hr · SolidWorks, Siemens NX, CATIA, CAD, GD&amp;T</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:johnsonelectric:/job/United-States-Plymouth-MI/Quality-Engineering-Intern---Fall-Term_R00030162</id>
