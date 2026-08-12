@@ -8,7 +8,7 @@
 
 ### 80 open roles (79 listed below) · 31 new this week
 
-4,079 employers tracked · updated Aug 12, 2026 at 14:00 UTC
+4,079 employers tracked · updated Aug 12, 2026 at 19:39 UTC
 
 _47 have a cycle the employer stated · 33 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -104,7 +104,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | WSP | Structural Engineering Co-Op - Fall 2026 🆕 | Structures & FEA | Boston, MA, United States | No skills listed | Aug 11, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93007) |
-| Johnson Electric | Quality Engineering Intern - Fall Term 2026 🆕 | Manufacturing & Quality | United States, Plymouth, MI | No skills listed | Aug 10, 2026 | [Apply](https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/United-States-Plymouth-MI/Quality-Engineering-Intern---Fall-Term_R00030162) |
+| Johnson Electric | Quality Engineering Intern - Fall Term 2026 | Manufacturing & Quality | United States, Plymouth, MI | No skills listed | Aug 10, 2026 | [Apply](https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/United-States-Plymouth-MI/Quality-Engineering-Intern---Fall-Term_R00030162) |
 | Flextronics International ✓ | Mechanical Engineering Co-op - Fall 2026 | Mechanical Design | USA, SC, Orangeburg | SolidWorks, CAD, Six Sigma | Aug 07, 2026 | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049) |
 | Bosch ✓ | Quality Engineering Co-op - Fall 2026 | Manufacturing & Quality | Pineville, NC, United States | No skills listed | Aug 06, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000141923029) |
 | GlobalFoundries ✓ | Factory Automation Engineering Intern (Fall 2026) | Controls & Mechatronics | USA - New York - Malta | Bash, Linux | Aug 06, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Factory-Automation-Engineering-Intern--Fall-2026-_JR-2503358) |
@@ -254,7 +254,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,931 of 4,177 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 94% of the full registry) · completed in 467.5s · 136 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,896 of 4,177 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 93% of the full registry) · completed in 511.0s · 115 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
