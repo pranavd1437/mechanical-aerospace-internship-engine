@@ -8,7 +8,7 @@
 
 ### 79 open roles (78 listed below) · 27 new this week
 
-4,079 employers tracked · updated Aug 13, 2026 at 03:10 UTC
+4,079 employers tracked · updated Aug 13, 2026 at 08:03 UTC
 
 _47 have a cycle the employer stated · 32 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -150,9 +150,9 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Ameren ✓ | Mechanical Engineering Fall Co-Op 🆕 | Mechanical Design | St. Louis, MO | No skills listed | Aug 11, 2026 | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1) |
 | Ameren ✓ | Mechanical Engineering Spring Co-Op 🆕 | Mechanical Design | St. Louis, MO | No skills listed | Aug 11, 2026 | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1) |
 | State of Nebraska | Roadway Design Engineering Intern 🆕 | Mechanical Design | Lincoln, NE | HTML/CSS | Aug 11, 2026 | [Apply](https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Roadway-Design-Engineering-Intern_JR2026-00028611) |
-| Micron Technology ✓ | Intern - DRAM Design Engineer 🆕 | Mechanical Design | Boise, ID - Main Site | Verilog | Aug 10, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448) |
-| Micron Technology ✓ | Intern - DRAM Design Engineer 🆕 | Mechanical Design | Boise, ID - Main Site | CAD, LLMs | Aug 10, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468) |
-| Micron Technology ✓ | Intern - DRAM IP Circuits Design Engineer 🆕 | Mechanical Design | Boise, ID - Main Site | Python, MATLAB, LLMs, Verilog | Aug 10, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471) |
+| Micron Technology ✓ | Intern - DRAM Design Engineer | Mechanical Design | Boise, ID - Main Site | Verilog | Aug 10, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448) |
+| Micron Technology ✓ | Intern - DRAM Design Engineer | Mechanical Design | Boise, ID - Main Site | CAD, LLMs | Aug 10, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468) |
+| Micron Technology ✓ | Intern - DRAM IP Circuits Design Engineer | Mechanical Design | Boise, ID - Main Site | Python, MATLAB, LLMs, Verilog | Aug 10, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471) |
 | 1X | Internship - Manufacturing Engineering (Fall) | Manufacturing & Quality | San Carlos, CA | SolidWorks, CAD, DFM/DFA | Aug 10, 2026 | [Apply](https://jobs.ashbyhq.com/1x/7d93444c-01f5-485c-89ef-24164f30441d) |
 | Teledyne | Mechanical Engineering Intern 🇺🇸 | Mechanical Design | US - Miamisburg, OH | SolidWorks | Aug 10, 2026 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562) |
 | Field AI | Mechanical Engineer, Robotics Hardware - Part-Time Internship | Mechanical Design | Irvine, CA | SolidWorks, CAD, GD&T, FEA | Aug 10, 2026 | [Apply](https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc) |
@@ -255,7 +255,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,896 of 4,177 registered boards returned successfully across 12 ATS platforms (94% of boards attempted, 93% of the full registry) · completed in 491.1s · 99 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,935 of 4,177 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 94% of the full registry) · completed in 378.9s · 115 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
