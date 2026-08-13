@@ -36,6 +36,19 @@
     }
    }
   },
+  "american express": {
+   "name": "American Express",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-13",
+     "role_ids": [
+      "oracle:egug.fa.us2.oraclecloud.com:26012319",
+      "oracle:egug.fa.us2.oraclecloud.com:26012325"
+     ],
+     "count": 2
+    }
+   }
+  },
   "anduril": {
    "name": "Anduril",
    "cycles": {
@@ -406,9 +419,10 @@
     "Fall 2026": {
      "first_posted": "2026-01-21",
      "role_ids": [
-      "greenhouse:sharkninjaoperatingllc:4646272006"
+      "greenhouse:sharkninjaoperatingllc:4646272006",
+      "greenhouse:sharkninjaoperatingllc:4646894006"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -511,5 +525,5 @@
    }
   }
  },
- "updated_at": "2026-08-13T13:58:54Z"
+ "updated_at": "2026-08-13T19:38:30Z"
 }

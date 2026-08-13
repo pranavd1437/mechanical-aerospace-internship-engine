@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-13T13:58:55Z</updated>
+  <updated>2026-08-13T19:38:30Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012319</id>
+    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Industrial Engineering, Global Servicing- Phoenix, AZ</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012319"/>
+    <updated>2026-08-13T19:38:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Phoenix, AZ, United States · SQL, Six Sigma · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012325</id>
+    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Industrial Engineering, Global Servicing- Sunrise, FL</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012325"/>
+    <updated>2026-08-13T19:38:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Sunrise, FL, United States · SQL, Six Sigma · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:diversified-automation:02ac2964-5362-4ff2-934c-b122ba26c365</id>
+    <title>Diversified Automation: Controls Engineering Co-op</title>
+    <link href="https://jobs.lever.co/diversified-automation/02ac2964-5362-4ff2-934c-b122ba26c365"/>
+    <updated>2026-08-13T19:38:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Louisville, KY</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533</id>
+    <title>Micron Technology: Intern - Digital IP Design Engineer, DRAM</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533"/>
+    <updated>2026-08-13T19:38:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Boise, ID - Main Site · Python, MATLAB, LLMs, Verilog · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4646894006</id>
+    <title>SharkNinja: Fall 2026: SQA Automation Engineering Co-op (August to December)</title>
+    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646894006"/>
+    <updated>2026-08-13T19:38:30Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Controls &amp; Mechatronics · Needham, MA, United States · Python, C++ · H-1B track record: ~23 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ekcf.fa.us6.oraclecloud.com:7604</id>
     <title>Powell: College Co-Op, Manufacturing Engineering</title>
@@ -462,14 +502,6 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Thermal, Fluids &amp; Propulsion · Los Angeles, CA · 25–33 USD/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:etyy.fa.ap2.oraclecloud.com:11568</id>
-    <title>Kulicke &amp; Soffa: Intern, AS Mechanical</title>
-    <link href="https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11568"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Fort Washington, PA, United States · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000138864841</id>
