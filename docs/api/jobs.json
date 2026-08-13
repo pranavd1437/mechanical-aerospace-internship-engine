@@ -1,9 +1,30 @@
 {
- "generated_at": "2026-08-13T08:03:47Z",
+ "generated_at": "2026-08-13T13:58:55Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 79,
+ "count": 80,
  "jobs": [
+  {
+   "id": "oracle:ekcf.fa.us6.oraclecloud.com:7604",
+   "company": "Powell",
+   "title": "College Co-Op, Manufacturing Engineering",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Manufacturing & Quality",
+   "location": "North Canton, OH, United States",
+   "url": "https://ekcf.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7604",
+   "posted_at": "2026-08-13",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-13T13:58:54Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [],
+   "source": "oracle",
+   "h1b_approvals": 2,
+   "program": "Co-op",
+   "remote": false
+  },
   {
    "id": "workday:ameren:/job/St-Louis-MO/CAD-Technician-Co-op_033920-1",
    "company": "Ameren",

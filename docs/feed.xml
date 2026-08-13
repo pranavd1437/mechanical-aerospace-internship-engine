@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-13T08:03:47Z</updated>
+  <updated>2026-08-13T13:58:55Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:ekcf.fa.us6.oraclecloud.com:7604</id>
+    <title>Powell: College Co-Op, Manufacturing Engineering</title>
+    <link href="https://ekcf.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7604"/>
+    <updated>2026-08-13T13:58:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · North Canton, OH, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/CAD-Technician-Co-op_033920-1</id>
     <title>Ameren: CAD Technician Co-op</title>
