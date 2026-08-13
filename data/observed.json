@@ -24,6 +24,18 @@
     }
    }
   },
+  "ameren": {
+   "name": "Ameren",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-12",
+     "role_ids": [
+      "workday:ameren:/job/St-Louis-MO/CAD-Technician-Co-op_033920-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "anduril": {
    "name": "Anduril",
    "cycles": {
@@ -499,5 +511,5 @@
    }
   }
  },
- "updated_at": "2026-08-12T19:39:11Z"
+ "updated_at": "2026-08-13T03:10:46Z"
 }

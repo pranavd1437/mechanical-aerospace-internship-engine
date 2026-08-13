@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-12T19:39:12Z</updated>
+  <updated>2026-08-13T03:10:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/CAD-Technician-Co-op_033920-1</id>
+    <title>Ameren: CAD Technician Co-op</title>
+    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/CAD-Technician-Co-op_033920-1"/>
+    <updated>2026-08-13T03:10:46Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:odys-aviation:8f5e460a-98a4-4fd8-b880-d22071faa29f</id>
     <title>Odys Aviation: Mechanical Engineering Intern/Co-Op [Propulsion]</title>
@@ -232,14 +240,6 @@
     <summary>Not stated · Controls &amp; Mechatronics · Warminster, PA · AutoCAD</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:cae:/job/Arlington-TX/Mechanical-Engineering-Intern_122210</id>
-    <title>CAE: Mechanical Engineering Intern 🇺🇸</title>
-    <link href="https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Mechanical-Engineering-Intern_122210"/>
-    <updated>2026-08-05T20:05:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Arlington, TX · SolidWorks, Creo, CAD, GD&amp;T · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:heinz:/job/Kirksville-MO/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Kirksville--Missouri_R-105273</id>
     <title>Kraft Heinz: 2027 US Manufacturing Internship Program – Manufacturing Facility Kirksville, Missouri</title>
     <link href="https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Kirksville-MO/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Kirksville--Missouri_R-105273"/>
@@ -462,14 +462,6 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Fort Washington, PA, United States · H-1B track record: ~17 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:118356</id>
-    <title>Howmet Aerospace: Co-Op - Electrical/Automation Engineering (Fall 2026) 🛂</title>
-    <link href="https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118356"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Controls &amp; Mechatronics · Barberton, OH, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000138864841</id>

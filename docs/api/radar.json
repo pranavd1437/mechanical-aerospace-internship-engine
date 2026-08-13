@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T19:39:12Z",
+ "generated_at": "2026-08-13T03:10:47Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -12,7 +12,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-06-11",
-   "days_until": -62,
+   "days_until": -63,
    "status": "open",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007",
    "note": ""
@@ -26,7 +26,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-01",
-   "days_until": -42,
+   "days_until": -43,
    "status": "open",
    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506",
    "note": "fall opening"
@@ -40,7 +40,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-22",
-   "days_until": -21,
+   "days_until": -22,
    "status": "open",
    "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Structural-Engineer-Co-Op-Intern---Summer-2027_64448",
    "note": ""
@@ -54,7 +54,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-23",
-   "days_until": -20,
+   "days_until": -21,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/kairospower/jobs/6123676004",
    "note": ""
@@ -68,7 +68,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-31",
-   "days_until": -12,
+   "days_until": -13,
    "status": "open",
    "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Fremont-OH/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Fremont--Ohio_R-105282",
    "note": ""
@@ -82,7 +82,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-07",
-   "days_until": -5,
+   "days_until": -6,
    "status": "open",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
    "note": "fall opening, many roles need clearance"
@@ -96,9 +96,23 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-11",
-   "days_until": -1,
+   "days_until": -2,
    "status": "open",
    "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744",
+   "note": ""
+  },
+  {
+   "company": "Ameren",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-12",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-12",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/CAD-Technician-Co-op_033920-1",
    "note": ""
   },
   {
@@ -110,7 +124,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -11,
+   "days_until": -12,
    "status": "waiting",
    "url": "",
    "note": "opens late summer"
@@ -124,7 +138,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -11,
+   "days_until": -12,
    "status": "waiting",
    "url": "",
    "note": "rolling from late summer"
@@ -138,7 +152,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 20,
+   "days_until": 19,
    "status": "waiting",
    "url": "",
    "note": "fall opening for next summer"
@@ -152,7 +166,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 20,
+   "days_until": 19,
    "status": "waiting",
    "url": "",
    "note": "fall opening"
@@ -166,7 +180,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 20,
+   "days_until": 19,
    "status": "waiting",
    "url": "",
    "note": "fall opening"
@@ -180,7 +194,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 20,
+   "days_until": 19,
    "status": "waiting",
    "url": "",
    "note": "fall opening"
@@ -194,7 +208,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 20,
+   "days_until": 19,
    "status": "waiting",
    "url": "",
    "note": "fall opening"
@@ -208,7 +222,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 20,
+   "days_until": 19,
    "status": "waiting",
    "url": "",
    "note": "fall opening, many roles need clearance"
@@ -222,7 +236,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 20,
+   "days_until": 19,
    "status": "waiting",
    "url": "",
    "note": "fall opening"
@@ -236,7 +250,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 20,
+   "days_until": 19,
    "status": "waiting",
    "url": "",
    "note": "fall opening, many roles need clearance"
@@ -250,7 +264,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 20,
+   "days_until": 19,
    "status": "waiting",
    "url": "",
    "note": "rolling from fall, very competitive"
@@ -264,7 +278,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-10-01",
-   "days_until": 50,
+   "days_until": 49,
    "status": "waiting",
    "url": "",
    "note": "fall opening"
@@ -278,11 +292,11 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-31",
-   "days_until": -12,
+   "days_until": -13,
    "status": "dropped",
    "url": "",
    "note": ""
   }
  ],
- "count": 20
+ "count": 21
 }
