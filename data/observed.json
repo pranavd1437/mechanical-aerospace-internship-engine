@@ -21,6 +21,13 @@
       "amazon:amazon:3145033"
      ],
      "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-08-13",
+     "role_ids": [
+      "amazon:amazon:10501526"
+     ],
+     "count": 1
     }
    }
   },
@@ -212,6 +219,13 @@
      "first_posted": "2026-04-13",
      "role_ids": [
       "workday:hntb:/job/Philadelphia-PA-Pennsylvania/Co-op-Engineer--Structures---Fall-Winter-2026-2027_R-29875"
+     ],
+     "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-08-13",
+     "role_ids": [
+      "workday:hntb:/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165"
      ],
      "count": 1
     }
@@ -525,5 +539,5 @@
    }
   }
  },
- "updated_at": "2026-08-13T19:38:30Z"
+ "updated_at": "2026-08-14T03:09:41Z"
 }
