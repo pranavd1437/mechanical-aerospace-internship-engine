@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-15T07:04:42Z</updated>
+  <updated>2026-08-15T13:10:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
     <id>urn:intern-engine:workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656</id>
@@ -182,6 +182,14 @@
     <updated>2026-08-10T02:45:25Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Irvine, CA · 35–45 USD/hr · SolidWorks, CAD, GD&amp;T, FEA, CNC</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:heinz:/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352</id>
+    <title>Kraft Heinz: 2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas</title>
+    <link href="https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352"/>
+    <updated>2026-08-08T13:20:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Garland, TX · H-1B track record: ~27 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049</id>
@@ -614,14 +622,6 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Structures &amp; FEA · Philadelphia, PA (Pennsylvania) · AutoCAD, CAD · sponsorship: no-sponsorship · H-1B track record: ~30 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:huntsman:/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Mechanical-Engineering-Intern_J-020026</id>
-    <title>Huntsman: Mechanical Engineering Intern 🛂</title>
-    <link href="https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Mechanical-Engineering-Intern_J-020026"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · USA - Texas - Houston - The Woodlands - Corporate Office · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:magna:/job/Auburn-Hills-Michigan-US/Intern---System-Test_R00246431</id>
