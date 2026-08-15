@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T01:59:56Z",
+ "generated_at": "2026-08-15T07:04:42Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -113,20 +113,6 @@
    "days_until": -3,
    "status": "open",
    "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/CAD-Technician-Co-op_033920-1",
-   "note": ""
-  },
-  {
-   "company": "Amazon",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-13",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-13",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://www.amazon.jobs/en/jobs/10501526/automation-engineer-intern-nationwide-summer-2027",
    "note": ""
   },
   {
@@ -349,6 +335,20 @@
    "source": "engine",
    "expected": "2026-07-31",
    "days_until": -15,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Amazon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-13",
+   "days_until": -2,
    "status": "dropped",
    "url": "",
    "note": ""

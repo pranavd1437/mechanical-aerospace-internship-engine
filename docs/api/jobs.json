@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-15T01:59:56Z",
+ "generated_at": "2026-08-15T07:04:42Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 86,
+ "count": 85,
  "jobs": [
   {
    "id": "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656",
@@ -46,27 +46,6 @@
    ],
    "source": "workday",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "amazon:amazon:10501526",
-   "company": "Amazon",
-   "title": "Automation Engineer Intern, (Nationwide) - Summer 2027",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Controls & Mechatronics",
-   "location": "Mt. Juliet, Tennessee, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10501526/automation-engineer-intern-nationwide-summer-2027",
-   "posted_at": "2026-08-13T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-14T03:09:41Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [],
-   "source": "amazon",
-   "h1b_approvals": 23139,
    "program": "Internship",
    "remote": false
   },
