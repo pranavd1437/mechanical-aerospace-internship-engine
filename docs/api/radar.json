@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T13:10:29Z",
+ "generated_at": "2026-08-15T18:56:26Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -16,20 +16,6 @@
    "status": "open",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007",
    "note": ""
-  },
-  {
-   "company": "Caterpillar",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-01",
-   "days_until": -45,
-   "status": "open",
-   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506",
-   "note": "fall opening"
   },
   {
    "company": "Mosaic",
@@ -322,6 +308,20 @@
    "expected": "2026-10-01",
    "days_until": 47,
    "status": "waiting",
+   "url": "",
+   "note": "fall opening"
+  },
+  {
+   "company": "Caterpillar",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-01",
+   "days_until": -45,
+   "status": "dropped",
    "url": "",
    "note": "fall opening"
   },
