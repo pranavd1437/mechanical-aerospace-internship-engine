@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/pranavd1437/mechanical-aerospace-internship-engine/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/pranavd1437/mechanical-aerospace-internship-engine/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fpranavd1437.github.io%2Fmechanical-aerospace-internship-engine%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%206%20hours-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)
 
-### 87 open roles (85 listed below) · 27 new this week
+### 86 open roles (84 listed below) · 25 new this week
 
-4,110 employers tracked · updated Aug 14, 2026 at 19:23 UTC
+4,110 employers tracked · updated Aug 15, 2026 at 01:59 UTC
 
-_54 have a cycle the employer stated · 33 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_54 have a cycle the employer stated · 32 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)** · **[📡 RSS](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)** · **[⚙️ JSON API](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/api/jobs.json)**
 
@@ -147,7 +147,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Figure | Validation Engineering Intern [Fall 2026] | Test & Validation | San Jose, CA | Python, Git | Oct 01, 2025 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4606072006) |
 | Figure | Mechanical Engineer Intern [Fall 2026] | Mechanical Design | San Jose, CA | Python, MATLAB, CATIA, CAD | Nov 09, 2023 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4303098006) |
 
-## Recently posted — cycle not stated  (32 roles)
+## Recently posted — cycle not stated  (31 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent mechanical & aerospace internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -184,7 +184,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Nidec ✓ | Test Lab Engineer Co-op | Test & Validation | North America/USA/Missouri/St. Louis - WPE +1 more | No skills listed | Jul 17, 2026 | [Apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Test-Lab-Engineer-Co-op_R0016732) |
 | Huntsman | Mechanical Engineering Intern 🛂 | Mechanical Design | USA - Texas - Houston - The Woodlands -… | No skills listed | Jul 16, 2026 | [Apply](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Mechanical-Engineering-Intern_J-020026) |
 | MetOx International | Mechanical Engineering Intern | Mechanical Design | Houston, TX | SolidWorks, FEA, CFD | Jul 14, 2026 | [Apply](https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5349699008) |
-| Smiths Detection Group | Customer Reliability Engineer Intern (PT) | Test & Validation | Port Arthur, TX, United States | CAD | Jun 30, 2026 | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000135011634) |
 
 <a id="drop-radar"></a>
 
@@ -198,15 +197,15 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 |---|---|---|---|
 | John Deere | ~Aug | ~Aug · any day now | ⏳ waiting |
 | Tesla | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Blue Origin | ~Sep | ~Sep · in ~18d | ⏳ waiting |
-| Boeing | ~Sep | ~Sep · in ~18d | ⏳ waiting |
-| Ford | ~Sep | ~Sep · in ~18d | ⏳ waiting |
-| General Motors | ~Sep | ~Sep · in ~18d | ⏳ waiting |
-| Honeywell | ~Sep | ~Sep · in ~18d | ⏳ waiting |
-| Lockheed Martin | ~Sep | ~Sep · in ~18d | ⏳ waiting |
-| Rivian | ~Sep | ~Sep · in ~18d | ⏳ waiting |
-| RTX | ~Sep | ~Sep · in ~18d | ⏳ waiting |
-| SpaceX | ~Sep | ~Sep · in ~18d | ⏳ waiting |
+| Blue Origin | ~Sep | ~Sep · in ~17d | ⏳ waiting |
+| Boeing | ~Sep | ~Sep · in ~17d | ⏳ waiting |
+| Ford | ~Sep | ~Sep · in ~17d | ⏳ waiting |
+| General Motors | ~Sep | ~Sep · in ~17d | ⏳ waiting |
+| Honeywell | ~Sep | ~Sep · in ~17d | ⏳ waiting |
+| Lockheed Martin | ~Sep | ~Sep · in ~17d | ⏳ waiting |
+| Rivian | ~Sep | ~Sep · in ~17d | ⏳ waiting |
+| RTX | ~Sep | ~Sep · in ~17d | ⏳ waiting |
+| SpaceX | ~Sep | ~Sep · in ~17d | ⏳ waiting |
 | Rocket Lab | ~Oct | ~Oct | ⏳ waiting |
 | 🎯 Anduril | Jun 11 | dropped Jun 11 | ✅ [open now](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
 | 🎯 Caterpillar | Jul 01 | dropped Jul 01 | ✅ [open now](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506) |
@@ -262,7 +261,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,969 of 4,209 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 94% of the full registry) · completed in 379.8s · 120 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,934 of 4,209 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 93% of the full registry) · completed in 435.5s · 99 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
