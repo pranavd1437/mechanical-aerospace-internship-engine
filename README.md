@@ -8,7 +8,7 @@
 
 ### 84 open roles (81 listed below) · 22 new this week
 
-4,122 employers tracked · updated Aug 15, 2026 at 18:56 UTC
+4,122 employers tracked · updated Aug 16, 2026 at 02:07 UTC
 
 _53 have a cycle the employer stated · 31 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -90,8 +90,8 @@ If it helps you, a star means a lot and tells me to keep going.
 |---|---|---|---|---|---|---|
 | GlobalFoundries ✓ | US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027) 🆕 | Manufacturing & Quality | USA - Vermont - Essex Junction | No skills listed | Aug 14, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656) |
 | HNTB ✓ | WED - 2027 New Grad Mechanical & Fire Protection Engineer I  (For Current & Recent HNTB Interns Only) 🛂 🆕 | Mechanical Design | Oakland, CA | No skills listed | Aug 13, 2026 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165) |
-| American Express ✓ | Campus Undergraduate Summer Internship Program - 2027 Industrial Engineering, Global Servicing- Phoenix, AZ 🆕 | Manufacturing & Quality | Phoenix, AZ, United States | SQL, Six Sigma | Aug 13, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012319) |
-| American Express ✓ | Campus Undergraduate Summer Internship Program - 2027 Industrial Engineering, Global Servicing- Sunrise, FL 🆕 | Manufacturing & Quality | Sunrise, FL, United States | SQL, Six Sigma | Aug 13, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012325) |
+| American Express ✓ | Campus Undergraduate Summer Internship Program - 2027 Industrial Engineering, Global Servicing- Phoenix, AZ | Manufacturing & Quality | Phoenix, AZ, United States | SQL, Six Sigma | Aug 13, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012319) |
+| American Express ✓ | Campus Undergraduate Summer Internship Program - 2027 Industrial Engineering, Global Servicing- Sunrise, FL | Manufacturing & Quality | Sunrise, FL, United States | SQL, Six Sigma | Aug 13, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012325) |
 | Ameren ✓ | CAD Technician Co-op | Mechanical Design | St. Louis, MO | No skills listed | Aug 12, 2026 | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/CAD-Technician-Co-op_033920-1) |
 | MKS Instruments | 2027 Summer Mechanical Automation Engineering Intern 🇺🇸 | Controls & Mechatronics | Milpitas, CA | Python, SolidWorks, CAD | Aug 11, 2026 | [Apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744) |
 | Northrop Grumman | 2027 Operations Manufacturing Engineering Intern 🇺🇸 | Manufacturing & Quality | United States-California-Palmdale | No skills listed | Aug 07, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597) |
@@ -139,7 +139,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Hermeus | Propulsion Test Engineering Intern - Fall 2026 🇺🇸 | Thermal, Fluids & Propulsion | Jacksonville, FL | No skills listed | Mar 16, 2026 | [Apply](https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805) |
 | Hermeus | Mechanical Engineering Intern  - Fall 2026 🇺🇸 | Mechanical Design | Los Angeles, CA | FEA | Mar 09, 2026 | [Apply](https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98) |
 | Hermeus | Propulsion Engineer Intern - Fall 2026 🇺🇸 | Thermal, Fluids & Propulsion | Los Angeles, CA | No skills listed | Mar 04, 2026 | [Apply](https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0) |
-| SharkNinja ✓ | Fall 2026: SQA Automation Engineering Co-op (August to December) 🆕 | Controls & Mechatronics | Needham, MA, United States | Python, C++ | Jan 21, 2026 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646894006) |
+| SharkNinja ✓ | Fall 2026: SQA Automation Engineering Co-op (August to December) | Controls & Mechatronics | Needham, MA, United States | Python, C++ | Jan 21, 2026 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646894006) |
 | SharkNinja ✓ | Fall 2026: Product Design Engineering Co-op, Advanced Development (July/August to December) | Mechanical Design | Needham, MA, United States | SolidWorks, Creo, CAD | Jan 21, 2026 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646272006) |
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Materials Engineering | Westboro, Massachusetts, USA | CAD | Dec 17, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 | Figure | Validation Engineering Intern [Fall 2026] | Test & Validation | San Jose, CA | Python, Git | Oct 01, 2025 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4606072006) |
@@ -151,8 +151,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Diversified Automation | Controls Engineering Co-op 🆕 | Controls & Mechatronics | Louisville, KY | No skills listed | Aug 13, 2026 | [Apply](https://jobs.lever.co/diversified-automation/02ac2964-5362-4ff2-934c-b122ba26c365) |
-| Micron Technology ✓ | Intern - Digital IP Design Engineer, DRAM 🆕 | Mechanical Design | Boise, ID - Main Site | Python, MATLAB, LLMs, Verilog | Aug 13, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) |
+| Diversified Automation | Controls Engineering Co-op | Controls & Mechatronics | Louisville, KY | No skills listed | Aug 13, 2026 | [Apply](https://jobs.lever.co/diversified-automation/02ac2964-5362-4ff2-934c-b122ba26c365) |
+| Micron Technology ✓ | Intern - Digital IP Design Engineer, DRAM | Mechanical Design | Boise, ID - Main Site | Python, MATLAB, LLMs, Verilog | Aug 13, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) |
 | Powell | College Co-Op, Manufacturing Engineering | Manufacturing & Quality | North Canton, OH, United States | No skills listed | Aug 13, 2026 | [Apply](https://ekcf.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7604) |
 | Odys Aviation | Mechanical Engineering Intern/Co-Op [Propulsion] | Thermal, Fluids & Propulsion | Long Beach CA | SolidWorks, Siemens NX, CAD | Aug 11, 2026 | [Apply](https://jobs.ashbyhq.com/odys-aviation/8f5e460a-98a4-4fd8-b880-d22071faa29f) |
 | Ameren ✓ | Mechanical Engineering Fall Co-Op | Mechanical Design | St. Louis, MO | No skills listed | Aug 11, 2026 | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1) |
@@ -194,15 +194,15 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 |---|---|---|---|
 | John Deere | ~Aug | ~Aug · any day now | ⏳ waiting |
 | Tesla | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Blue Origin | ~Sep | ~Sep · in ~17d | ⏳ waiting |
-| Boeing | ~Sep | ~Sep · in ~17d | ⏳ waiting |
-| Ford | ~Sep | ~Sep · in ~17d | ⏳ waiting |
-| General Motors | ~Sep | ~Sep · in ~17d | ⏳ waiting |
-| Honeywell | ~Sep | ~Sep · in ~17d | ⏳ waiting |
-| Lockheed Martin | ~Sep | ~Sep · in ~17d | ⏳ waiting |
-| Rivian | ~Sep | ~Sep · in ~17d | ⏳ waiting |
-| RTX | ~Sep | ~Sep · in ~17d | ⏳ waiting |
-| SpaceX | ~Sep | ~Sep · in ~17d | ⏳ waiting |
+| Blue Origin | ~Sep | ~Sep · in ~16d | ⏳ waiting |
+| Boeing | ~Sep | ~Sep · in ~16d | ⏳ waiting |
+| Ford | ~Sep | ~Sep · in ~16d | ⏳ waiting |
+| General Motors | ~Sep | ~Sep · in ~16d | ⏳ waiting |
+| Honeywell | ~Sep | ~Sep · in ~16d | ⏳ waiting |
+| Lockheed Martin | ~Sep | ~Sep · in ~16d | ⏳ waiting |
+| Rivian | ~Sep | ~Sep · in ~16d | ⏳ waiting |
+| RTX | ~Sep | ~Sep · in ~16d | ⏳ waiting |
+| SpaceX | ~Sep | ~Sep · in ~16d | ⏳ waiting |
 | Rocket Lab | ~Oct | ~Oct | ⏳ waiting |
 | 🎯 Anduril | Jun 11 | dropped Jun 11 | ✅ [open now](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
 | 🎯 Mosaic | Jul 22 | dropped Jul 22 | ✅ [open now](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Structural-Engineer-Co-Op-Intern---Summer-2027_64448) |
@@ -261,7 +261,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,968 of 4,221 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 94% of the full registry) · completed in 336.6s · 98 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,967 of 4,221 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 94% of the full registry) · completed in 464.4s · 100 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
