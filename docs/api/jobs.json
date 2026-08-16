@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-16T02:07:59Z",
+ "generated_at": "2026-08-16T07:11:25Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 84,
+ "count": 83,
  "jobs": [
   {
    "id": "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656",
@@ -1420,27 +1420,6 @@
    "source": "greenhouse",
    "h1b_approvals": 7,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:nidec:/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Test-Lab-Engineer-Co-op_R0016732",
-   "company": "Nidec",
-   "title": "Test Lab Engineer Co-op",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Test & Validation",
-   "location": "North America/USA/Missouri/St. Louis - WPE, MO",
-   "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Test-Lab-Engineer-Co-op_R0016732",
-   "posted_at": "2026-07-17T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-05T06:24:39Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 10,
-   "program": "Co-op",
    "remote": false
   },
   {
