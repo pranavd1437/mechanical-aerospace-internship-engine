@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-17T02:04:59Z</updated>
+  <updated>2026-08-17T07:33:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:chemours:/job/US---KY---Louisville/Mechanical-Engineer-Co-op_JR14931</id>
+    <title>Chemours: Mechanical Engineer Co-op</title>
+    <link href="https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---KY---Louisville/Mechanical-Engineer-Co-op_JR14931"/>
+    <updated>2026-08-17T07:33:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · US - KY - Louisville · SolidWorks, AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458</id>
+    <title>Micron Technology: Intern - DRAM Design Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458"/>
+    <updated>2026-08-17T07:33:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Boise, ID - Main Site · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:hermeus:a1f3aa29-72ea-4843-b2ea-801f3bef73ae</id>
     <title>Hermeus: Manufacturing Engineering Intern - Fall 2026 🇺🇸</title>
@@ -518,14 +534,6 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Mechanical Design · Los Angeles, CA · 25–33 USD/hr · FEA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:hermeus:922ee234-94aa-473b-8464-03f28a709872</id>
-    <title>Hermeus: Manufacturing Engineering Intern - Fall 2026 🇺🇸</title>
-    <link href="https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Manufacturing &amp; Quality · Atlanta, GA · 25–33 USD/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:hermeus:a949f158-6900-42e1-890d-fb3ec339c3d0</id>
