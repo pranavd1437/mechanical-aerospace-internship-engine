@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T13:16:48Z",
+ "generated_at": "2026-08-17T19:09:09Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -16,6 +16,20 @@
    "status": "open",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007",
    "note": ""
+  },
+  {
+   "company": "Caterpillar",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-01",
+   "days_until": -47,
+   "status": "open",
+   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506",
+   "note": "fall opening"
   },
   {
    "company": "Mosaic",
@@ -127,6 +141,34 @@
    "days_until": -3,
    "status": "open",
    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656",
+   "note": ""
+  },
+  {
+   "company": "IMEG",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014",
+   "note": ""
+  },
+  {
+   "company": "WSP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93152",
    "note": ""
   },
   {
@@ -298,20 +340,6 @@
    "note": "fall opening"
   },
   {
-   "company": "Caterpillar",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-01",
-   "days_until": -47,
-   "status": "dropped",
-   "url": "",
-   "note": "fall opening"
-  },
-  {
    "company": "Gevernova",
    "last_cycle_posted": "",
    "posted_on": "2026-07-31",
@@ -354,5 +382,5 @@
    "note": ""
   }
  ],
- "count": 25
+ "count": 27
 }

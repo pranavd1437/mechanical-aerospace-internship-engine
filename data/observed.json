@@ -251,6 +251,23 @@
     }
    }
   },
+  "imeg": {
+   "name": "IMEG",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-17",
+     "role_ids": [
+      "workday:imeg:/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424",
+      "workday:imeg:/job/Fort-Worth-TX/Structural-Engineering-Intern---Fort-Worth--TX_R-16423",
+      "workday:imeg:/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014",
+      "workday:imeg:/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461",
+      "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16451",
+      "workday:imeg:/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495"
+     ],
+     "count": 6
+    }
+   }
+  },
   "johnson electric": {
    "name": "Johnson Electric",
    "cycles": {
@@ -421,6 +438,18 @@
     }
    }
   },
+  "renesas electronics": {
+   "name": "Renesas Electronics",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-17",
+     "role_ids": [
+      "smartrecruiters:RenesasElectronics:744000143898939"
+     ],
+     "count": 1
+    }
+   }
+  },
   "rocket lab": {
    "name": "Rocket Lab",
    "cycles": {
@@ -555,9 +584,16 @@
       "oracle:emit.fa.ca3.oraclecloud.com:93007"
      ],
      "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-08-17",
+     "role_ids": [
+      "oracle:emit.fa.ca3.oraclecloud.com:93152"
+     ],
+     "count": 1
     }
    }
   }
  },
- "updated_at": "2026-08-17T13:16:48Z"
+ "updated_at": "2026-08-17T19:09:08Z"
 }
