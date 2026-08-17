@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-17T07:33:46Z</updated>
+  <updated>2026-08-17T13:16:48Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
     <id>urn:intern-engine:workday:chemours:/job/US---KY---Louisville/Mechanical-Engineer-Co-op_JR14931</id>
@@ -70,22 +70,6 @@
     <updated>2026-08-13T19:38:30Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Controls &amp; Mechatronics · Louisville, KY</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012319</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Industrial Engineering, Global Servicing- Phoenix, AZ</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012319"/>
-    <updated>2026-08-13T19:38:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Phoenix, AZ, United States · SQL, Six Sigma · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012325</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Industrial Engineering, Global Servicing- Sunrise, FL</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012325"/>
-    <updated>2026-08-13T19:38:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Sunrise, FL, United States · SQL, Six Sigma · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533</id>
@@ -534,14 +518,6 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Mechanical Design · Los Angeles, CA · 25–33 USD/hr · FEA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:hermeus:a949f158-6900-42e1-890d-fb3ec339c3d0</id>
-    <title>Hermeus: Propulsion Engineer Intern - Fall 2026 🇺🇸</title>
-    <link href="https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Thermal, Fluids &amp; Propulsion · Los Angeles, CA · 25–33 USD/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000138864841</id>

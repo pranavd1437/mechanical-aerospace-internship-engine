@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T07:33:47Z",
+ "generated_at": "2026-08-17T13:16:48Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -99,20 +99,6 @@
    "days_until": -5,
    "status": "open",
    "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/CAD-Technician-Co-op_033920-1",
-   "note": ""
-  },
-  {
-   "company": "American Express",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-13",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-13",
-   "days_until": -4,
-   "status": "open",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012319",
    "note": ""
   },
   {
@@ -341,6 +327,20 @@
   },
   {
    "company": "Amazon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-13",
+   "days_until": -4,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "American Express",
    "last_cycle_posted": "",
    "posted_on": "2026-08-13",
    "precision": "day",
