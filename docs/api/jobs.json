@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-16T18:56:33Z",
+ "generated_at": "2026-08-17T02:04:59Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 83,
+ "count": 84,
  "jobs": [
   {
    "id": "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656",
@@ -1891,6 +1891,27 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": 4,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "lever:hermeus:a1f3aa29-72ea-4843-b2ea-801f3bef73ae",
+   "company": "Hermeus",
+   "title": "Manufacturing Engineering Intern - Fall 2026",
+   "season": "Fall 2026",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Manufacturing & Quality",
+   "location": "Los Angeles, CA",
+   "url": "https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae",
+   "posted_at": "2025-09-30T01:10:25Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-17T02:04:58Z",
+   "sponsorship": "citizens-only",
+   "salary": "25–33 USD/hr",
+   "skills": [],
+   "source": "lever",
+   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
