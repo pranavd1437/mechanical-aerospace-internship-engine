@@ -261,10 +261,11 @@
       "workday:imeg:/job/Fort-Worth-TX/Structural-Engineering-Intern---Fort-Worth--TX_R-16423",
       "workday:imeg:/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014",
       "workday:imeg:/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461",
+      "workday:imeg:/job/Minneapolis-MN/Mechanical-Engineering-Intern---Minneapolis--MN_R-16463",
       "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16451",
       "workday:imeg:/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -444,9 +445,10 @@
     "Fall 2026": {
      "first_posted": "2026-08-17",
      "role_ids": [
-      "smartrecruiters:RenesasElectronics:744000143898939"
+      "smartrecruiters:RenesasElectronics:744000143898939",
+      "smartrecruiters:RenesasElectronics:744000143930119"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -595,5 +597,5 @@
    }
   }
  },
- "updated_at": "2026-08-17T19:09:08Z"
+ "updated_at": "2026-08-18T02:00:42Z"
 }
