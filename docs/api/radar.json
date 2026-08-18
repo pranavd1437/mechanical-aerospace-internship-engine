@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T13:18:46Z",
+ "generated_at": "2026-08-18T19:07:57Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -155,6 +155,34 @@
    "days_until": -1,
    "status": "open",
    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93152",
+   "note": ""
+  },
+  {
+   "company": "Freeform",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-18",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003",
+   "note": ""
+  },
+  {
+   "company": "H3X Technologies",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-18",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/h3x-technologies/6af49576-a61d-480c-b155-3e034e2ed5be",
    "note": ""
   },
   {
@@ -382,5 +410,5 @@
    "note": ""
   }
  ],
- "count": 27
+ "count": 29
 }

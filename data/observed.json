@@ -160,6 +160,18 @@
     }
    }
   },
+  "freeform": {
+   "name": "Freeform",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-18",
+     "role_ids": [
+      "greenhouse:freeformfuturecorp:7894117003"
+     ],
+     "count": 1
+    }
+   }
+  },
   "general motors": {
    "name": "General Motors",
    "cycles": {
@@ -201,6 +213,19 @@
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656"
      ],
      "count": 1
+    }
+   }
+  },
+  "h3x technologies": {
+   "name": "H3X Technologies",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-18",
+     "role_ids": [
+      "ashby:h3x-technologies:6af49576-a61d-480c-b155-3e034e2ed5be",
+      "ashby:h3x-technologies:be8855c5-f8c7-4f09-bd3f-04ecbcf4b42d"
+     ],
+     "count": 2
     }
    }
   },
@@ -263,9 +288,11 @@
       "workday:imeg:/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461",
       "workday:imeg:/job/Minneapolis-MN/Mechanical-Engineering-Intern---Minneapolis--MN_R-16463",
       "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16451",
+      "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366",
+      "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375",
       "workday:imeg:/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495"
      ],
-     "count": 7
+     "count": 9
     }
    }
   },
@@ -383,9 +410,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-07",
      "role_ids": [
-      "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597"
+      "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
+      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -597,5 +625,5 @@
    }
   }
  },
- "updated_at": "2026-08-18T13:18:45Z"
+ "updated_at": "2026-08-18T19:07:57Z"
 }

@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-18T13:18:46Z</updated>
+  <updated>2026-08-18T19:07:57Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:freeformfuturecorp:7894117003</id>
+    <title>Freeform: Mechanical Engineering Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003"/>
+    <updated>2026-08-18T19:07:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Los Angeles, CA (On-site) · $30/hr · Tolerance Analysis</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:h3x-technologies:7add5fe2-8e3e-4817-b88a-34d803ba86f9</id>
+    <title>H3X Technologies: Mechanical Design Engineer Intern (Spring)</title>
+    <link href="https://jobs.ashbyhq.com/h3x-technologies/7add5fe2-8e3e-4817-b88a-34d803ba86f9"/>
+    <updated>2026-08-18T19:07:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Louisville, Colorado · $23–$37/hr · SolidWorks, GD&amp;T, FEA, CFD, Tolerance Analysis</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:h3x-technologies:6af49576-a61d-480c-b155-3e034e2ed5be</id>
+    <title>H3X Technologies: Advanced Manufacturing Engineering Intern (Spring)</title>
+    <link href="https://jobs.ashbyhq.com/h3x-technologies/6af49576-a61d-480c-b155-3e034e2ed5be"/>
+    <updated>2026-08-18T19:07:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Louisville, Colorado · $23–$37/hr · SolidWorks, GD&amp;T, Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:h3x-technologies:be8855c5-f8c7-4f09-bd3f-04ecbcf4b42d</id>
+    <title>H3X Technologies: Test Engineering Intern (Spring)</title>
+    <link href="https://jobs.ashbyhq.com/h3x-technologies/be8855c5-f8c7-4f09-bd3f-04ecbcf4b42d"/>
+    <updated>2026-08-18T19:07:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Louisville, Colorado · $23–$37/hr · SolidWorks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375</id>
+    <title>IMEG: Mechanical Engineering Intern | Rock Island, IL</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375"/>
+    <updated>2026-08-18T19:07:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Rock Island, IL · $22–$24/hr · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366</id>
+    <title>IMEG: Mechanical Engineering Intern | Rock Island, IL</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366"/>
+    <updated>2026-08-18T19:07:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Rock Island, IL · $22–$24/hr · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322</id>
+    <title>Northrop Grumman: 2027 Guidance Navigation and Control Intern Dulles VA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322"/>
+    <updated>2026-08-18T19:07:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · United States-Virginia-Dulles · C++, MATLAB, Simulink, Git · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:jj:/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380</id>
     <title>Johnson &amp; Johnson: Materials Engineering Co-op</title>
