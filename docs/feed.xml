@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-18T02:00:43Z</updated>
+  <updated>2026-08-18T07:15:53Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000143930119</id>
+    <title>Renesas Electronics: Digital Design Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000143930119"/>
+    <updated>2026-08-18T02:00:42Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · Duluth, GEORGIA, United States · Python, Bash, Linux, Git, Verilog · H-1B track record: ~68 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Minneapolis-MN/Mechanical-Engineering-Intern---Minneapolis--MN_R-16463</id>
     <title>IMEG: Mechanical Engineering Intern | Minneapolis, MN</title>
@@ -22,14 +30,6 @@
     <updated>2026-08-18T02:00:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Materials Engineering · Jacksonville, Florida, United States of America</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000143930119</id>
-    <title>Renesas Electronics: Digital Design Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000143930119"/>
-    <updated>2026-08-18T02:00:42Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Mechanical Design · Duluth, GEORGIA, United States · Python, Bash, Linux, Git, Verilog · H-1B track record: ~68 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93152</id>

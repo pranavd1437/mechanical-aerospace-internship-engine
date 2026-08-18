@@ -1,9 +1,36 @@
 {
- "generated_at": "2026-08-18T02:00:43Z",
+ "generated_at": "2026-08-18T07:15:53Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
  "count": 90,
  "jobs": [
+  {
+   "id": "smartrecruiters:RenesasElectronics:744000143930119",
+   "company": "Renesas Electronics",
+   "title": "Digital Design Engineer Intern",
+   "season": "Fall 2026",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Mechanical Design",
+   "location": "Duluth, GEORGIA, United States",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143930119",
+   "posted_at": "2026-08-17T21:10:34.293Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-18T02:00:42Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Bash",
+    "Linux",
+    "Git",
+    "Verilog"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": 68,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:imeg:/job/Minneapolis-MN/Mechanical-Engineering-Intern---Minneapolis--MN_R-16463",
    "company": "IMEG",
@@ -46,33 +73,6 @@
    "source": "workday",
    "h1b_approvals": 8,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "smartrecruiters:RenesasElectronics:744000143930119",
-   "company": "Renesas Electronics",
-   "title": "Digital Design Engineer Intern",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Mechanical Design",
-   "location": "Duluth, GEORGIA, United States",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143930119",
-   "posted_at": "2026-08-17T21:10:34.293Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-18T02:00:42Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Bash",
-    "Linux",
-    "Git",
-    "Verilog"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": 68,
-   "program": "Internship",
    "remote": false
   },
   {
