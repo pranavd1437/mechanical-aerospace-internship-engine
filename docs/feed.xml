@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-18T07:15:53Z</updated>
+  <updated>2026-08-18T13:18:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380</id>
+    <title>Johnson &amp; Johnson: Materials Engineering Co-op</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380"/>
+    <updated>2026-08-18T13:18:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Materials Engineering · Jacksonville, Florida, United States of America</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000143930119</id>
     <title>Renesas Electronics: Digital Design Engineer Intern</title>
@@ -206,14 +214,6 @@
     <updated>2026-08-11T19:37:08Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Structures &amp; FEA · Boston, MA, United States · $24.76–$32.22/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:mksinst:/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744</id>
-    <title>MKS Instruments: 2027 Summer Mechanical Automation Engineering Intern 🇺🇸</title>
-    <link href="https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744"/>
-    <updated>2026-08-11T19:37:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · Milpitas, CA · $27–$31/hr · Python, SolidWorks, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448</id>
