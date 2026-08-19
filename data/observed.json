@@ -108,6 +108,18 @@
     }
    }
   },
+  "conagra brands": {
+   "name": "Conagra Brands",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-18",
+     "role_ids": [
+      "workday:conagrabrands:/job/Waterloo-Iowa/Manufacturing-Co-Op_Req-039806"
+     ],
+     "count": 1
+    }
+   }
+  },
   "draper": {
    "name": "Draper",
    "cycles": {
@@ -287,12 +299,13 @@
       "workday:imeg:/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014",
       "workday:imeg:/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461",
       "workday:imeg:/job/Minneapolis-MN/Mechanical-Engineering-Intern---Minneapolis--MN_R-16463",
+      "workday:imeg:/job/Minneapolis-MN/Structural-Engineering-Intern---Minneapolis--MN_R-16483",
       "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16451",
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366",
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375",
       "workday:imeg:/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -555,6 +568,18 @@
     }
    }
   },
+  "true anomaly": {
+   "name": "True Anomaly",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-18",
+     "role_ids": [
+      "greenhouse:trueanomalyinc:5213706007"
+     ],
+     "count": 1
+    }
+   }
+  },
   "varda space": {
    "name": "Varda Space",
    "cycles": {
@@ -625,5 +650,5 @@
    }
   }
  },
- "updated_at": "2026-08-18T19:07:57Z"
+ "updated_at": "2026-08-19T02:03:07Z"
 }
