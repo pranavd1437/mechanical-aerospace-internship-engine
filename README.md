@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/pranavd1437/mechanical-aerospace-internship-engine/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/pranavd1437/mechanical-aerospace-internship-engine/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fpranavd1437.github.io%2Fmechanical-aerospace-internship-engine%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%206%20hours-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)
 
-### 99 open roles (89 listed below) · 34 new this week
+### 98 open roles (88 listed below) · 31 new this week
 
-4,164 employers tracked · updated Aug 19, 2026 at 02:03 UTC
+4,164 employers tracked · updated Aug 19, 2026 at 07:16 UTC
 
-_65 have a cycle the employer stated · 34 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_64 have a cycle the employer stated · 34 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)** · **[📡 RSS](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)** · **[⚙️ JSON API](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/api/jobs.json)**
 
@@ -108,12 +108,12 @@ If it helps you, a star means a lot and tells me to keep going.
 | Anduril | 2027 Mechanical Engineer Intern 🇺🇸 | Mechanical Design | Atlanta +17 more | SolidWorks, Siemens NX, CAD, FEA | Jun 11, 2026 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
 | Anduril | 2027 Manufacturing Engineer Intern 🇺🇸 | Manufacturing & Quality | Atlanta +14 more | Computer Vision | Jun 11, 2026 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
 
-## Fall 2026  (38 employer-stated)
+## Fall 2026  (37 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Conagra Brands ✓ | Manufacturing Co-Op 🆕 | Manufacturing & Quality | Waterloo, Iowa | No skills listed | Aug 18, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Waterloo-Iowa/Manufacturing-Co-Op_Req-039806) |
 | True Anomaly | Propulsion and Fluids Intern 🇺🇸 🆕 | Thermal, Fluids & Propulsion | Long Beach, CA | Python, MATLAB, CAD, LabVIEW | Aug 18, 2026 | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5213706007) |
+| Conagra Brands ✓ | Manufacturing Co-Op 🆕 | Manufacturing & Quality | Waterloo, Iowa | No skills listed | Aug 18, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Waterloo-Iowa/Manufacturing-Co-Op_Req-039806) |
 | Renesas Electronics ✓ | Digital Design Engineer Intern 🆕 | Mechanical Design | Duluth, GEORGIA, United States | Python, Bash, Linux, Git | Aug 17, 2026 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000143930119) |
 | Renesas Electronics ✓ | Validation Engineer Intern 🆕 | Test & Validation | San Jose, CALIFORNIA, United States | Python, C++ | Aug 17, 2026 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000143898939) |
 | Sierra Space | Fall 2026 Mechanical Engineering Intern 🇺🇸 | Mechanical Design | Centennial, CO | MATLAB, CAD | Aug 14, 2026 | [Apply](https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Fall-2026-Mechanical-Engineering-Intern_R26120) |
@@ -138,7 +138,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Sunday Robotics | Manufacturing Engineering Intern (Fall 2026) | Manufacturing & Quality | Redwood City, CA | SolidWorks, CAD, DFM/DFA | Jul 07, 2026 | [Apply](https://jobs.ashbyhq.com/sunday/08feb65a-08b0-462d-aebf-4f0239a16ed8) |
 | VAST | 2026 Fall Internship - Supplier Quality Engineering Intern 🇺🇸 | Manufacturing & Quality | Long Beach, California, United States | No skills listed | Jun 25, 2026 | [Apply](https://boards.greenhouse.io/vast/jobs/4691428006?gh_jid=4691428006) |
 | Lawrence Livermore National Laboratory (LLNL) | Materials Science Division Undergraduate Intern - Fall 2026 🇺🇸 | Materials Engineering | Livermore, CA, United States | No skills listed | Jun 15, 2026 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990013626030) |
-| Rocket Lab | Manufacturing Engineering Intern Fall 2026 🇺🇸 | Manufacturing & Quality | Long Beach, CA | CAD | May 21, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7733900003) |
 | Menasha Corporation | Custom Packaging Design Engineer Co-Op (Summer/Fall 2026) 🛂 | Mechanical Design | Piedmont, South Carolina | SolidWorks, AutoCAD | May 18, 2026 | [Apply](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Piedmont-South-Carolina/Custom-Packaging-Design-Engineer-Co-Op--Summer-Fall-2026-_R13995) |
 | Westlake | 2026 Intern - Mechanical Engineer 🛂 | Mechanical Design | US - Houston, TX | No skills listed | Apr 22, 2026 | [Apply](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Houston-TX/XMLNAME-2026-Intern---Mechanical-Engineer_R30240) |
 | HNTB ✓ | Co-op Engineer: Structures - Fall/Winter 2026-2027 🛂 | Structures & FEA | Philadelphia, PA (Pennsylvania) | AutoCAD, CAD | Apr 13, 2026 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Philadelphia-PA-Pennsylvania/Co-op-Engineer--Structures---Fall-Winter-2026-2027_R-29875) |
@@ -149,7 +148,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | SharkNinja ✓ | Fall 2026: SQA Automation Engineering Co-op (August to December) | Controls & Mechatronics | Needham, MA, United States | Python, C++ | Jan 21, 2026 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646894006) |
 | SharkNinja ✓ | Fall 2026: Product Design Engineering Co-op, Advanced Development (July/August to December) | Mechanical Design | Needham, MA, United States | SolidWorks, Creo, CAD | Jan 21, 2026 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646272006) |
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Materials Engineering | Westboro, Massachusetts, USA | CAD | Dec 17, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
-| Hermeus | Manufacturing Engineering Intern - Fall 2026 🇺🇸 🆕 | Manufacturing & Quality | Los Angeles, CA | No skills listed | Sep 30, 2025 | [Apply](https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae) |
+| Hermeus | Manufacturing Engineering Intern - Fall 2026 🇺🇸 | Manufacturing & Quality | Los Angeles, CA | No skills listed | Sep 30, 2025 | [Apply](https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae) |
 
 ## Recently posted — cycle not stated  (32 roles)
 
@@ -228,12 +227,13 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _29 companies on the [full radar](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/#radar). **17** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 26 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 20 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Rocket Lab | Manufacturing Engineering Intern Fall 2026 | Fall 2026 | 2026-08-19 | gone from feed |
 | WSP | Power Distribution Design Engineering Intern - Summer 2027 | Summer 2027 | 2026-08-19 | gone from feed |
 | MKS Instruments | 2027 Summer Mechanical Automation Engineering Intern | Summer 2027 | 2026-08-18 | gone from feed |
 | Figure | Mechanical Engineer Intern [Fall 2026] | Fall 2026 | 2026-08-18 | gone from feed |
@@ -253,13 +253,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | General Motors | 2026 Fall Intern - Research & Development: Materials Science / Metallurgical Engineering | Fall 2026 | 2026-08-09 | gone from feed |
 | Rocket Lab | Mechanical Engineering Intern Fall 2026 | Fall 2026 | 2026-08-06 | gone from feed |
 | Rocket Lab | Turbomachinery Intern Fall 2026 | Fall 2026 | 2026-08-06 | gone from feed |
-| Phoenix Contact | Manufacturing Co-Op - High School Students | Fall 2026 | 2026-08-05 | out of scope |
-| Stantec | Structural Engineering Intern/Co-op - Transportation (Fall 2026) | Fall 2026 | 2026-08-05 | out of scope |
-| Lawrence Livermore National Laboratory (LLNL) | Materials Science Division Graduate Intern - Fall 2026 | Fall 2026 | 2026-08-05 | out of scope |
-| Applied Materials | 2026 Fall Materials Engineering Co-op (TCAD Modeling) - Doctorate (Gloucester, MA) | Fall 2026 | 2026-08-05 | out of scope |
-| Applied Materials | 2026 Fall Process Integration Engineer Co-op (Cambridge, MA) | Fall 2026 | 2026-08-05 | out of scope |
-| Gevernova | GE Vernova Nuclear - Manufacturing / Supply Chain Intern (Summer 2027) | Summer 2027 | 2026-08-05 | out of scope |
-| Merck | 2026 Future Talent Program - Vaccine Manufacturing Co-op | Fall 2026 | 2026-08-05 | out of scope |
 
 </details>
 
@@ -278,7 +271,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,023 of 4,267 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 94% of the full registry) · completed in 437.6s · 102 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,015 of 4,267 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 94% of the full registry) · completed in 418.0s · 112 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

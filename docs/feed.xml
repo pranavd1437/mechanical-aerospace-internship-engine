@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-19T02:03:07Z</updated>
+  <updated>2026-08-19T07:16:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:trueanomalyinc:5213706007</id>
+    <title>True Anomaly: Propulsion and Fluids Intern 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5213706007"/>
+    <updated>2026-08-19T02:03:07Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Thermal, Fluids &amp; Propulsion · Long Beach, CA · $28–$32/hr · Python, MATLAB, CAD, LabVIEW · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:conagrabrands:/job/Waterloo-Iowa/Manufacturing-Co-Op_Req-039806</id>
     <title>Conagra Brands: Manufacturing Co-Op</title>
@@ -22,14 +30,6 @@
     <updated>2026-08-19T02:03:07Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · Minneapolis, MN · $22–$24/hr · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:trueanomalyinc:5213706007</id>
-    <title>True Anomaly: Propulsion and Fluids Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5213706007"/>
-    <updated>2026-08-19T02:03:07Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Thermal, Fluids &amp; Propulsion · Long Beach, CA · $28–$32/hr · Python, MATLAB, CAD, LabVIEW · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:h3x-technologies:6af49576-a61d-480c-b155-3e034e2ed5be</id>
@@ -598,14 +598,6 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Controls &amp; Mechatronics · Golden, CO · Python, C++, MATLAB, Simulink, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7733900003</id>
-    <title>Rocket Lab: Manufacturing Engineering Intern Fall 2026 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7733900003"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Manufacturing &amp; Quality · Long Beach, CA · CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4646272006</id>

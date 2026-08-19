@@ -1,9 +1,35 @@
 {
- "generated_at": "2026-08-19T02:03:07Z",
+ "generated_at": "2026-08-19T07:16:20Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 99,
+ "count": 98,
  "jobs": [
+  {
+   "id": "greenhouse:trueanomalyinc:5213706007",
+   "company": "True Anomaly",
+   "title": "Propulsion and Fluids Intern",
+   "season": "Fall 2026",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Thermal, Fluids & Propulsion",
+   "location": "Long Beach, CA",
+   "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5213706007",
+   "posted_at": "2026-08-18T16:28:25-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-19T02:03:07Z",
+   "sponsorship": "citizens-only",
+   "salary": "$28–$32/hr",
+   "skills": [
+    "Python",
+    "MATLAB",
+    "CAD",
+    "LabVIEW"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:conagrabrands:/job/Waterloo-Iowa/Manufacturing-Co-Op_Req-039806",
    "company": "Conagra Brands",
@@ -45,32 +71,6 @@
    ],
    "source": "workday",
    "h1b_approvals": 10,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:trueanomalyinc:5213706007",
-   "company": "True Anomaly",
-   "title": "Propulsion and Fluids Intern",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Thermal, Fluids & Propulsion",
-   "location": "Long Beach, CA",
-   "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5213706007",
-   "posted_at": "2026-08-18T16:28:25-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-19T02:03:07Z",
-   "sponsorship": "citizens-only",
-   "salary": "$28–$32/hr",
-   "skills": [
-    "Python",
-    "MATLAB",
-    "CAD",
-    "LabVIEW"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
@@ -2018,29 +2018,6 @@
    "salary": null,
    "skills": [
     "Computer Vision"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:rocketlab:7733900003",
-   "company": "Rocket Lab",
-   "title": "Manufacturing Engineering Intern Fall 2026",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Manufacturing & Quality",
-   "location": "Long Beach, CA",
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733900003",
-   "posted_at": "2026-05-21T13:01:52-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-05T06:24:39Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "CAD"
    ],
    "source": "greenhouse",
    "h1b_approvals": null,
