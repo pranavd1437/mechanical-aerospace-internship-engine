@@ -1,5 +1,17 @@
 {
  "companies": {
+  "abb": {
+   "name": "ABB",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-19",
+     "role_ids": [
+      "workday:abb:/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298"
+     ],
+     "count": 1
+    }
+   }
+  },
   "alloy enterprises": {
    "name": "Alloy Enterprises",
    "cycles": {
@@ -295,17 +307,20 @@
      "first_posted": "2026-08-17",
      "role_ids": [
       "workday:imeg:/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424",
+      "workday:imeg:/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16558",
       "workday:imeg:/job/Fort-Worth-TX/Structural-Engineering-Intern---Fort-Worth--TX_R-16423",
+      "workday:imeg:/job/Germantown-MD/Mechanical-Intern-Technician---Germantown--MD_R-16567",
       "workday:imeg:/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014",
       "workday:imeg:/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461",
       "workday:imeg:/job/Minneapolis-MN/Mechanical-Engineering-Intern---Minneapolis--MN_R-16463",
       "workday:imeg:/job/Minneapolis-MN/Structural-Engineering-Intern---Minneapolis--MN_R-16483",
       "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16451",
+      "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16471",
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366",
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375",
       "workday:imeg:/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495"
      ],
-     "count": 10
+     "count": 13
     }
    }
   },
@@ -650,5 +665,5 @@
    }
   }
  },
- "updated_at": "2026-08-19T13:22:25Z"
+ "updated_at": "2026-08-19T19:06:01Z"
 }

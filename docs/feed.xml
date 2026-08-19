@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-19T13:22:25Z</updated>
+  <updated>2026-08-19T19:06:02Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:abb:/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298</id>
+    <title>ABB: Manufacturing Engineering/Documentation Intern - Fall 2026 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298"/>
+    <updated>2026-08-19T19:06:01Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Manufacturing &amp; Quality · USA, AR, Jonesboro · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16471</id>
+    <title>IMEG: Mechanical Engineering Intern | Naperville, IL</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16471"/>
+    <updated>2026-08-19T19:06:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Naperville, IL · $22–$24/hr · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Germantown-MD/Mechanical-Intern-Technician---Germantown--MD_R-16567</id>
+    <title>IMEG: Mechanical Intern Technician | Germantown, MD 🇺🇸</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Germantown-MD/Mechanical-Intern-Technician---Germantown--MD_R-16567"/>
+    <updated>2026-08-19T19:06:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Germantown, MD · $22–$24/hr · CAD, CFD · sponsorship: citizens-only · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16558</id>
+    <title>IMEG: Mechanical Engineering Intern | Greenwood Village, CO</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16558"/>
+    <updated>2026-08-19T19:06:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Denver Metro, CO · $22–$24/hr · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Santa-Clara-California-United-States-of-America/Automation---Robotics-Engineering-Spring-Co-op_R-093526</id>
+    <title>Johnson &amp; Johnson: Automation &amp; Robotics Engineering Spring Co-op</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Automation---Robotics-Engineering-Spring-Co-op_R-093526"/>
+    <updated>2026-08-19T19:06:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Santa Clara, California, United States of America · $27/hr · Python, C++, MATLAB, Computer Vision, ROS</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:trueanomalyinc:5213706007</id>
     <title>True Anomaly: Propulsion and Fluids Intern 🇺🇸</title>
@@ -766,13 +806,5 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Manufacturing &amp; Quality · United States-Maryland-Linthicum · $19.75–$36.25/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:westlake:/job/US---Houston-TX/XMLNAME-2026-Intern---Mechanical-Engineer_R30240</id>
-    <title>Westlake: 2026 Intern - Mechanical Engineer 🛂</title>
-    <link href="https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Houston-TX/XMLNAME-2026-Intern---Mechanical-Engineer_R30240"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Mechanical Design · US - Houston, TX · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>
