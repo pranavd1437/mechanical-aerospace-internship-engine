@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-19T07:16:20Z</updated>
+  <updated>2026-08-19T13:22:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:trueanomalyinc:5213706007</id>
@@ -118,14 +118,6 @@
     <updated>2026-08-18T02:00:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Materials Engineering · Jacksonville, Florida, United States of America</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000143898939</id>
-    <title>Renesas Electronics: Validation Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000143898939"/>
-    <updated>2026-08-17T19:09:08Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Test &amp; Validation · San Jose, CALIFORNIA, United States · $41.5/hr · Python, C++ · H-1B track record: ~68 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424</id>
@@ -342,14 +334,6 @@
     <updated>2026-08-10T02:45:25Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Irvine, CA · 35–45 USD/hr · SolidWorks, CAD, GD&amp;T, FEA, CNC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:heinz:/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352</id>
-    <title>Kraft Heinz: 2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas</title>
-    <link href="https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352"/>
-    <updated>2026-08-08T13:20:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Garland, TX · H-1B track record: ~27 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049</id>
