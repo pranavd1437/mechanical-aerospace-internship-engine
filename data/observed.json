@@ -12,6 +12,18 @@
     }
    }
   },
+  "airbus": {
+   "name": "Airbus",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-19",
+     "role_ids": [
+      "workday:ag:/job/Mobile-Area-AL/Short-term-Internship--Fall-2026----Industrial-and-Manufacturing-Engineering_JR10436231"
+     ],
+     "count": 1
+    }
+   }
+  },
   "alloy enterprises": {
    "name": "Alloy Enterprises",
    "cycles": {
@@ -144,6 +156,18 @@
     }
    }
   },
+  "elanco": {
+   "name": "Elanco",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-19",
+     "role_ids": [
+      "workday:elanco:/job/Clinton-IN/Manufacturing-Scientist-Technical-Services-Intern---Clinton--Indiana--Summer-2027-_R0026869-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "field ai": {
    "name": "Field AI",
    "cycles": {
@@ -190,9 +214,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-18",
      "role_ids": [
-      "greenhouse:freeformfuturecorp:7894117003"
+      "greenhouse:freeformfuturecorp:7894117003",
+      "greenhouse:freeformfuturecorp:7895700003",
+      "greenhouse:freeformfuturecorp:7907965003"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -665,5 +691,5 @@
    }
   }
  },
- "updated_at": "2026-08-19T19:06:01Z"
+ "updated_at": "2026-08-20T02:02:35Z"
 }
