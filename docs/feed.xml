@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-20T13:23:04Z</updated>
+  <updated>2026-08-20T19:12:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16570-1</id>
+    <title>IMEG: Mechanical Engineering Intern | Greenwood Village, CO</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16570-1"/>
+    <updated>2026-08-20T19:12:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Denver Metro, CO · $22–$24/hr · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Robotics-Engineer-Intern_R-00190159</id>
+    <title>Leidos: Robotics Engineer Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Robotics-Engineer-Intern_R-00190159"/>
+    <updated>2026-08-20T19:12:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Huntsville, AL · Python, C++, MATLAB, Computer Vision, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:espace:e2ee73af-22b9-4274-9994-9783e9ce9220</id>
     <title>E-Space: Engineering / Characterization Lab Intern – Materials Science / Mechanical / Electrical / Aerospace / Chemistry / Physics</title>
@@ -176,28 +192,12 @@
     <summary>Summer 2027 · Controls &amp; Mechatronics · United States-Virginia-Dulles · C++, MATLAB, Simulink, Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:jj:/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380</id>
-    <title>Johnson &amp; Johnson: Materials Engineering Co-op</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380"/>
-    <updated>2026-08-18T13:18:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Materials Engineering · Jacksonville, Florida, United States of America</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:imeg:/job/Minneapolis-MN/Mechanical-Engineering-Intern---Minneapolis--MN_R-16463</id>
     <title>IMEG: Mechanical Engineering Intern | Minneapolis, MN</title>
     <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Minneapolis-MN/Mechanical-Engineering-Intern---Minneapolis--MN_R-16463"/>
     <updated>2026-08-18T02:00:42Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Minneapolis, MN · $22–$24/hr · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1</id>
-    <title>Johnson &amp; Johnson: Materials Engineering Co-Op</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1"/>
-    <updated>2026-08-18T02:00:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Materials Engineering · Jacksonville, Florida, United States of America</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424</id>
@@ -478,14 +478,6 @@
     <updated>2026-08-06T14:45:46Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Manufacturing &amp; Quality · Pineville, NC, United States · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Factory-Automation-Engineering-Intern--Fall-2026-_JR-2503358</id>
-    <title>GlobalFoundries: Factory Automation Engineering Intern (Fall 2026)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Factory-Automation-Engineering-Intern--Fall-2026-_JR-2503358"/>
-    <updated>2026-08-06T14:45:46Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Controls &amp; Mechatronics · USA - New York - Malta · Bash, Linux · H-1B track record: ~110 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalfoundries:/job/USA---Texas---Richardson/XMLNAME-1H-University-Intern---PVD-Equipment_JR-2502699</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · US - Tampa, FL (Lithia area)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---Manufacturing-and-Reliability-Engineering-Co-Op_R395901</id>
+    <title>Merck: 2026 Future Talent Program – Manufacturing and Reliability Engineering Co-Op</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---Manufacturing-and-Reliability-Engineering-Co-Op_R395901"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Manufacturing &amp; Quality · USA - Pennsylvania - West Point</summary>
   </entry>
 </feed>
