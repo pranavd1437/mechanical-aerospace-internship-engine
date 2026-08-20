@@ -6,9 +6,9 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/pranavd1437/mechanical-aerospace-internship-engine/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/pranavd1437/mechanical-aerospace-internship-engine/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fpranavd1437.github.io%2Fmechanical-aerospace-internship-engine%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%206%20hours-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)
 
-### 100 open roles (89 listed below) · 36 new this week
+### 100 open roles (89 listed below) · 35 new this week
 
-4,178 employers tracked · updated Aug 20, 2026 at 02:02 UTC
+4,178 employers tracked · updated Aug 20, 2026 at 07:17 UTC
 
 _64 have a cycle the employer stated · 36 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -88,9 +88,9 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Elanco | Manufacturing Scientist/Technical Services Intern – Clinton, Indiana (Summer 2027) 🆕 | Manufacturing & Quality | Clinton, IN | No skills listed | Aug 19, 2026 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Manufacturing-Scientist-Technical-Services-Intern---Clinton--Indiana--Summer-2027-_R0026869-1) |
 | Freeform | Manufacturing Engineering Intern (Summer 2027) 🆕 | Manufacturing & Quality | Los Angeles, CA (On-site) | CNC, DFM/DFA | Aug 19, 2026 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003) |
 | Freeform | Materials Engineering Intern (Summer 2027) 🆕 | Materials Engineering | Los Angeles, CA (On-site) | No skills listed | Aug 19, 2026 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003) |
+| Elanco | Manufacturing Scientist/Technical Services Intern – Clinton, Indiana (Summer 2027) 🆕 | Manufacturing & Quality | Clinton, IN | No skills listed | Aug 19, 2026 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Manufacturing-Scientist-Technical-Services-Intern---Clinton--Indiana--Summer-2027-_R0026869-1) |
 | IMEG ✓ | Mechanical Engineering Intern / Greenwood Village, CO 🆕 | Mechanical Design | Denver Metro, CO | AutoCAD | Aug 19, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16558) |
 | IMEG ✓ | Mechanical Intern Technician / Germantown, MD 🇺🇸 🆕 | Mechanical Design | Germantown, MD | CAD, CFD | Aug 19, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Germantown-MD/Mechanical-Intern-Technician---Germantown--MD_R-16567) |
 | IMEG ✓ | Mechanical Engineering Intern / Naperville, IL 🆕 | Mechanical Design | Naperville, IL | AutoCAD | Aug 19, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16471) |
@@ -228,7 +228,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _30 companies on the [full radar](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/#radar). **18** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 28 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 26 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
@@ -260,8 +260,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Toshiba Global Commerce | Mechanical Engineering Intern | Fall 2026 | 2026-08-11 | gone from feed |
 | Applied Materials | 2026 Fall Mechanical Engineer Co-op - BS/MS (Gloucester, MA) | Fall 2026 | 2026-08-11 | gone from feed |
 | General Motors | 2026 Fall Intern - Research & Development: Materials Science / Metallurgical Engineering | Fall 2026 | 2026-08-09 | gone from feed |
-| Rocket Lab | Mechanical Engineering Intern Fall 2026 | Fall 2026 | 2026-08-06 | gone from feed |
-| Rocket Lab | Turbomachinery Intern Fall 2026 | Fall 2026 | 2026-08-06 | gone from feed |
 
 </details>
 
@@ -280,7 +278,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,907 of 4,281 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 91% of the full registry) · completed in 455.9s · 94 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,944 of 4,281 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 92% of the full registry) · completed in 427.5s · 92 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
