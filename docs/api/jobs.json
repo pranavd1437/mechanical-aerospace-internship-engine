@@ -1,9 +1,30 @@
 {
- "generated_at": "2026-08-20T07:17:56Z",
+ "generated_at": "2026-08-20T13:23:04Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 100,
+ "count": 103,
  "jobs": [
+  {
+   "id": "workday:globalfoundries:/job/USA---New-York---Malta/Technology-Development-Engineering-Intern--ULP-CMOS_JR-2503682",
+   "company": "GlobalFoundries",
+   "title": "Production Control Engineering Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Controls & Mechatronics",
+   "location": "USA - New York - Malta",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Technology-Development-Engineering-Intern--ULP-CMOS_JR-2503682",
+   "posted_at": "2026-08-20T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-20T13:23:03Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": 110,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "breezy:north-wind-group:206627bdd565",
    "company": "North Wind Group",
@@ -1315,6 +1336,31 @@
    "remote": true
   },
   {
+   "id": "lever:espace:e2ee73af-22b9-4274-9994-9783e9ce9220",
+   "company": "E-Space",
+   "title": "Engineering / Characterization Lab Intern – Materials Science / Mechanical / Electrical / Aerospace / Chemistry / Physics",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Materials Engineering",
+   "location": "Arlington, TX",
+   "url": "https://jobs.lever.co/espace/e2ee73af-22b9-4274-9994-9783e9ce9220",
+   "posted_at": "2026-08-04T21:07:31Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-20T13:23:03Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C++",
+    "MATLAB"
+   ],
+   "source": "lever",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Production-Engineer-Co-op_R00212452",
    "company": "Nissan",
    "title": "Production Engineer Co-op",
@@ -1357,6 +1403,27 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Co-op",
+   "remote": false
+  },
+  {
+   "id": "workday:heinz:/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352",
+   "company": "Kraft Heinz",
+   "title": "2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Manufacturing & Quality",
+   "location": "Garland, TX",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352",
+   "posted_at": "2026-08-03T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-08T13:20:09Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": 27,
+   "program": "Internship",
    "remote": false
   },
   {
