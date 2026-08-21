@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T13:22:38Z",
+ "generated_at": "2026-08-21T19:09:00Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -211,6 +211,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5376060008",
+   "note": ""
+  },
+  {
+   "company": "Airbus",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-21",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140",
    "note": ""
   },
   {
@@ -438,5 +452,5 @@
    "note": ""
   }
  ],
- "count": 31
+ "count": 32
 }
