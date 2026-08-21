@@ -6,9 +6,9 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/pranavd1437/mechanical-aerospace-internship-engine/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/pranavd1437/mechanical-aerospace-internship-engine/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fpranavd1437.github.io%2Fmechanical-aerospace-internship-engine%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%206%20hours-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)
 
-### 102 open roles (90 listed below) · 36 new this week
+### 102 open roles (90 listed below) · 35 new this week
 
-4,188 employers tracked · updated Aug 21, 2026 at 02:06 UTC
+4,188 employers tracked · updated Aug 21, 2026 at 07:19 UTC
 
 _65 have a cycle the employer stated · 37 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -88,9 +88,9 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Elanco | Manufacturing Associate Intern – Elwood, Kansas (Summer 2027) 🆕 | Manufacturing & Quality | Elwood, KS | No skills listed | Aug 20, 2026 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899) |
 | General Matter | Summer 2027 Internship - Manufacturing Engineering 🆕 | Manufacturing & Quality | Los Angeles, CA | CAD, GD&T | Aug 20, 2026 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376060008) |
 | WSP | Mechanical Engineering (Substation) Intern - Summer 2027 🆕 | Mechanical Design | Billings, MT, United States | SolidWorks, AutoCAD | Aug 20, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93468) |
+| Elanco | Manufacturing Associate Intern – Elwood, Kansas (Summer 2027) 🆕 | Manufacturing & Quality | Elwood, KS | No skills listed | Aug 20, 2026 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899) |
 | IMEG ✓ | Mechanical Engineering Intern / Greenwood Village, CO 🆕 | Mechanical Design | Denver Metro, CO | AutoCAD | Aug 20, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16570-1) |
 | Freeform | Manufacturing Engineering Intern (Summer 2027) 🆕 | Manufacturing & Quality | Los Angeles, CA (On-site) | CNC, DFM/DFA | Aug 19, 2026 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003) |
 | Freeform | Materials Engineering Intern (Summer 2027) 🆕 | Materials Engineering | Los Angeles, CA (On-site) | No skills listed | Aug 19, 2026 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003) |
@@ -282,7 +282,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,953 of 4,291 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 92% of the full registry) · completed in 350.6s · 92 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,942 of 4,291 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 492.7s · 98 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

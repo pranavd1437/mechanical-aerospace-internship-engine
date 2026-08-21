@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-21T02:06:59Z</updated>
+  <updated>2026-08-21T07:19:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:elanco:/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899</id>
-    <title>Elanco: Manufacturing Associate Intern – Elwood, Kansas (Summer 2027)</title>
-    <link href="https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899"/>
-    <updated>2026-08-21T02:06:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Elwood, KS · $20–$40/hr</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:generalmatter:5376060008</id>
     <title>General Matter: Summer 2027 Internship - Manufacturing Engineering</title>
@@ -24,20 +16,28 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Los Angeles, CA · $30–$40/hr · CAD, GD&amp;T</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:scottsmiraclegro:/job/Marysville-OH/EHS-Manufacturing-Intern_R26379-1</id>
-    <title>Scotts Miracle-Gro: EHS Manufacturing Intern</title>
-    <link href="https://scottsmiraclegro.wd5.myworkdayjobs.com/smgexternal/job/Marysville-OH/EHS-Manufacturing-Intern_R26379-1"/>
-    <updated>2026-08-21T02:06:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Marysville, OH · $19–$24/hr</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93468</id>
     <title>WSP: Mechanical Engineering (Substation) Intern - Summer 2027</title>
     <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93468"/>
     <updated>2026-08-21T02:06:59Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Billings, MT, United States · SolidWorks, AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:elanco:/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899</id>
+    <title>Elanco: Manufacturing Associate Intern – Elwood, Kansas (Summer 2027)</title>
+    <link href="https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899"/>
+    <updated>2026-08-21T02:06:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Elwood, KS · $20–$40/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:scottsmiraclegro:/job/Marysville-OH/EHS-Manufacturing-Intern_R26379-1</id>
+    <title>Scotts Miracle-Gro: EHS Manufacturing Intern</title>
+    <link href="https://scottsmiraclegro.wd5.myworkdayjobs.com/smgexternal/job/Marysville-OH/EHS-Manufacturing-Intern_R26379-1"/>
+    <updated>2026-08-21T02:06:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Marysville, OH · $19–$24/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16570-1</id>
