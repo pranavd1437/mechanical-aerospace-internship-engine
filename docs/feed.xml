@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-20T19:12:03Z</updated>
+  <updated>2026-08-21T02:06:59Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:elanco:/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899</id>
+    <title>Elanco: Manufacturing Associate Intern – Elwood, Kansas (Summer 2027)</title>
+    <link href="https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899"/>
+    <updated>2026-08-21T02:06:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Elwood, KS · $20–$40/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:generalmatter:5376060008</id>
+    <title>General Matter: Summer 2027 Internship - Manufacturing Engineering</title>
+    <link href="https://job-boards.greenhouse.io/generalmatter/jobs/5376060008"/>
+    <updated>2026-08-21T02:06:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Los Angeles, CA · $30–$40/hr · CAD, GD&amp;T</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:scottsmiraclegro:/job/Marysville-OH/EHS-Manufacturing-Intern_R26379-1</id>
+    <title>Scotts Miracle-Gro: EHS Manufacturing Intern</title>
+    <link href="https://scottsmiraclegro.wd5.myworkdayjobs.com/smgexternal/job/Marysville-OH/EHS-Manufacturing-Intern_R26379-1"/>
+    <updated>2026-08-21T02:06:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Marysville, OH · $19–$24/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93468</id>
+    <title>WSP: Mechanical Engineering (Substation) Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93468"/>
+    <updated>2026-08-21T02:06:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Billings, MT, United States · SolidWorks, AutoCAD</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16570-1</id>
     <title>IMEG: Mechanical Engineering Intern | Greenwood Village, CO</title>
@@ -62,14 +94,6 @@
     <updated>2026-08-20T02:02:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Materials Engineering · Los Angeles, CA (On-site) · $30/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Mobile-Area-AL/Short-term-Internship--Fall-2026----Industrial-and-Manufacturing-Engineering_JR10436231</id>
-    <title>Airbus: Short-term Internship (Fall 2026) - Industrial and Manufacturing Engineering</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Short-term-Internship--Fall-2026----Industrial-and-Manufacturing-Engineering_JR10436231"/>
-    <updated>2026-08-20T02:02:35Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Manufacturing &amp; Quality · Mobile Area, AL · SolidWorks, CATIA, AutoCAD, CAD · H-1B track record: ~16 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:elanco:/job/Clinton-IN/Manufacturing-Scientist-Technical-Services-Intern---Clinton--Indiana--Summer-2027-_R0026869-1</id>
@@ -174,14 +198,6 @@
     <updated>2026-08-18T19:07:57Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Los Angeles, CA (On-site) · $30/hr · Tolerance Analysis</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375</id>
-    <title>IMEG: Mechanical Engineering Intern | Rock Island, IL</title>
-    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375"/>
-    <updated>2026-08-18T19:07:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Rock Island, IL · $22–$24/hr · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322</id>
@@ -334,14 +350,6 @@
     <updated>2026-08-12T02:57:02Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93007</id>
-    <title>WSP: Structural Engineering Co-Op - Fall 2026</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93007"/>
-    <updated>2026-08-11T19:37:08Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Structures &amp; FEA · Boston, MA, United States · $24.76–$32.22/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448</id>
@@ -598,14 +606,6 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Alameda, CA, Albuquerque, NM, or Oak Ridge, TN · MATLAB, SolidWorks, AutoCAD, CAD, GD&amp;T</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:metoxinternationalinc:5349699008</id>
-    <title>MetOx International: Mechanical Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5349699008"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Houston, TX · SolidWorks, FEA, CFD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:neuralink:7808233003</id>
