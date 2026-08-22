@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-21T19:09:00Z</updated>
+  <updated>2026-08-22T02:00:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---Metrology-Process-Development-Engineer_JR108851</id>
+    <title>Micron Technology: Intern - Metrology Process Development Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Metrology-Process-Development-Engineer_JR108851"/>
+    <updated>2026-08-22T02:00:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Boise, ID - Main Site · Python, C++, MATLAB · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rebuildmanufacturing:4554542005</id>
+    <title>Re:Build Manufacturing: Mechanical Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4554542005"/>
+    <updated>2026-08-21T19:08:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Merrimack, NH · SolidWorks, CAD, FEA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93367</id>
+    <title>WSP: Overhead Transmission Line Design Engineering Intern - Spring/Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93367"/>
+    <updated>2026-08-21T19:08:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Saint Louis, MO, United States · SolidWorks, AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93368</id>
+    <title>WSP: Overhead Transmission Line Design Engineering Intern - Summer/Fall 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93368"/>
+    <updated>2026-08-21T19:08:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Saint Louis, MO, United States · SolidWorks, AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000144791979</id>
+    <title>Renesas Electronics: Validation Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000144791979"/>
+    <updated>2026-08-21T19:08:59Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Test &amp; Validation · Duluth, GEORGIA, United States · Python, Pandas · H-1B track record: ~68 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ag:/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140</id>
     <title>Airbus: 2027 Summer Internship - Industrial Engineering - PPE/IE</title>
@@ -64,52 +104,12 @@
     <summary>Not stated · Mechanical Design · Auburn Hills, Michigan, US · H-1B track record: ~141 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:rebuildmanufacturing:4554542005</id>
-    <title>Re:Build Manufacturing: Mechanical Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4554542005"/>
-    <updated>2026-08-21T19:08:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Merrimack, NH · SolidWorks, CAD, FEA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000144791979</id>
-    <title>Renesas Electronics: Validation Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000144791979"/>
-    <updated>2026-08-21T19:08:59Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Test &amp; Validation · Duluth, GEORGIA, United States · Python, Pandas · H-1B track record: ~68 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93367</id>
-    <title>WSP: Overhead Transmission Line Design Engineering Intern - Spring/Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93367"/>
-    <updated>2026-08-21T19:08:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Saint Louis, MO, United States · SolidWorks, AutoCAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93368</id>
-    <title>WSP: Overhead Transmission Line Design Engineering Intern - Summer/Fall 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93368"/>
-    <updated>2026-08-21T19:08:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Saint Louis, MO, United States · SolidWorks, AutoCAD</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:generalmatter:5376060008</id>
     <title>General Matter: Summer 2027 Internship - Manufacturing Engineering</title>
     <link href="https://job-boards.greenhouse.io/generalmatter/jobs/5376060008"/>
     <updated>2026-08-21T02:06:59Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Los Angeles, CA · $30–$40/hr · CAD, GD&amp;T</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93468</id>
-    <title>WSP: Mechanical Engineering (Substation) Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93468"/>
-    <updated>2026-08-21T02:06:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Billings, MT, United States · SolidWorks, AutoCAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:elanco:/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899</id>
@@ -310,14 +310,6 @@
     <updated>2026-08-17T19:09:08Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · Dallas, TX · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:imeg:/job/Fort-Worth-TX/Structural-Engineering-Intern---Fort-Worth--TX_R-16423</id>
-    <title>IMEG: Structural Engineering Intern | Fort Worth, TX</title>
-    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Fort-Worth-TX/Structural-Engineering-Intern---Fort-Worth--TX_R-16423"/>
-    <updated>2026-08-17T19:09:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Fort Worth, TX · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Mossville, Illinois · sponsorship: no-sponsorship · H-1B track record: ~411 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:draper:/job/Cambridge-MA/Metrology-Co-Op_JR002717</id>
+    <title>Draper: Metrology Co-Op</title>
+    <link href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Metrology-Co-Op_JR002717"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Cambridge, MA · Python, MATLAB, SolidWorks, ANSYS, COMSOL</summary>
   </entry>
 </feed>

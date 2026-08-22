@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/pranavd1437/mechanical-aerospace-internship-engine/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/pranavd1437/mechanical-aerospace-internship-engine/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fpranavd1437.github.io%2Fmechanical-aerospace-internship-engine%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%206%20hours-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)
 
-### 113 open roles (100 listed below) · 46 new this week
+### 112 open roles (99 listed below) · 44 new this week
 
-4,198 employers tracked · updated Aug 21, 2026 at 19:08 UTC
+4,198 employers tracked · updated Aug 22, 2026 at 02:00 UTC
 
-_72 have a cycle the employer stated · 41 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_70 have a cycle the employer stated · 42 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)** · **[📡 RSS](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)** · **[⚙️ JSON API](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/api/jobs.json)**
 
@@ -84,18 +84,17 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (30 employer-stated)
+## Summer 2027  (29 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| WSP | Overhead Transmission Line Design Engineering Intern - Spring/Summer 2027 🆕 | Mechanical Design | Saint Louis, MO, United States | SolidWorks, AutoCAD | Aug 21, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93367) |
+| WSP | Overhead Transmission Line Design Engineering Intern - Summer/Fall 2027 🆕 | Mechanical Design | Saint Louis, MO, United States | SolidWorks, AutoCAD | Aug 21, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93368) |
 | Airbus ✓ | 2027 Summer Internship - Industrial Engineering - PPE/IE 🆕 | Manufacturing & Quality | Mobile Area, AL | No skills listed | Aug 21, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140) |
 | Airbus ✓ | 2027 Summer Internship - X-Plant Manufacturing Engineering 🆕 | Manufacturing & Quality | Mobile Area, AL | No skills listed | Aug 21, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---X-Plant-Manufacturing-Engineering_JR10435143) |
 | Elanco | Manufacturing Scientist/Quality Control Chemist Intern – Clinton, Indiana (Summer 2027) 🆕 | Manufacturing & Quality | Clinton, IN | No skills listed | Aug 21, 2026 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Manufacturing-Scientist-Quality-Control-Chemist-Intern---Clinton--Indiana--Summer-2027-_R0026870) |
 | Elanco | Manufacturing Scientist/Technical Services Intern – Elanco Technology Center (Summer 2027) 🆕 | Manufacturing & Quality | Indianapolis, IN | No skills listed | Aug 21, 2026 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Manufacturing-Scientist-Technical-Services-Intern---Elanco-Technology-Center--Summer-2027-_R0026897) |
-| WSP | Overhead Transmission Line Design Engineering Intern - Spring/Summer 2027 🆕 | Mechanical Design | Saint Louis, MO, United States | SolidWorks, AutoCAD | Aug 21, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93367) |
-| WSP | Overhead Transmission Line Design Engineering Intern - Summer/Fall 2027 🆕 | Mechanical Design | Saint Louis, MO, United States | SolidWorks, AutoCAD | Aug 21, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93368) |
 | General Matter | Summer 2027 Internship - Manufacturing Engineering 🆕 | Manufacturing & Quality | Los Angeles, CA | CAD, GD&T | Aug 20, 2026 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376060008) |
-| WSP | Mechanical Engineering (Substation) Intern - Summer 2027 🆕 | Mechanical Design | Billings, MT, United States | SolidWorks, AutoCAD | Aug 20, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93468) |
 | Elanco | Manufacturing Associate Intern – Elwood, Kansas (Summer 2027) 🆕 | Manufacturing & Quality | Elwood, KS | No skills listed | Aug 20, 2026 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899) |
 | IMEG ✓ | Mechanical Engineering Intern / Greenwood Village, CO 🆕 | Mechanical Design | Denver Metro, CO | AutoCAD | Aug 20, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16570-1) |
 | Freeform | Manufacturing Engineering Intern (Summer 2027) 🆕 | Manufacturing & Quality | Los Angeles, CA (On-site) | CNC, DFM/DFA | Aug 19, 2026 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003) |
@@ -161,10 +160,11 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Micron Technology ✓ | Intern - Metrology Process Development Engineer 🆕 | Manufacturing & Quality | Boise, ID - Main Site | Python, C++, MATLAB | Aug 21, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Metrology-Process-Development-Engineer_JR108851) |
+| Re:Build Manufacturing | Mechanical Engineering Intern 🆕 | Mechanical Design | Merrimack, NH | SolidWorks, CAD, FEA | Aug 21, 2026 | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4554542005) |
 | Heidelberg Materials | Mechanical Engineering Intern 🆕 | Mechanical Design | Nazareth, PA | No skills listed | Aug 21, 2026 | [Apply](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Nazareth-PA/Mechanical-Engineering-Intern_JR10018120) |
 | IMEG ✓ | Structural Engineering Intern / Raleigh, NC 🆕 | Structures & FEA | Raleigh, NC | AutoCAD | Aug 21, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Raleigh-NC/Structural-Engineering-Intern---Raleigh--NC_R-16319-1) |
 | Magna International ✓ | Intern - Engineering Mechanical Optics 🆕 | Mechanical Design | Auburn Hills, Michigan, US | No skills listed | Aug 21, 2026 | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153) |
-| Re:Build Manufacturing | Mechanical Engineering Intern 🆕 | Mechanical Design | Merrimack, NH | SolidWorks, CAD, FEA | Aug 21, 2026 | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4554542005) |
 | Scotts Miracle-Gro | EHS Manufacturing Intern 🆕 | Manufacturing & Quality | Marysville, OH | No skills listed | Aug 20, 2026 | [Apply](https://scottsmiraclegro.wd5.myworkdayjobs.com/smgexternal/job/Marysville-OH/EHS-Manufacturing-Intern_R26379-1) |
 | Leidos ✓ | Robotics Engineer Intern 🇺🇸 🆕 | Controls & Mechatronics | Huntsville, AL | Python, C++, MATLAB, Computer Vision | Aug 20, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Robotics-Engineer-Intern_R-00190159) |
 | GlobalFoundries ✓ | Production Control Engineering Intern 🆕 | Controls & Mechatronics | USA - New York - Malta | No skills listed | Aug 20, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Technology-Development-Engineering-Intern--ULP-CMOS_JR-2503682) |
@@ -178,7 +178,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Odys Aviation | Mechanical Engineering Intern/Co-Op [Propulsion] | Thermal, Fluids & Propulsion | Long Beach CA | SolidWorks, Siemens NX, CAD | Aug 11, 2026 | [Apply](https://jobs.ashbyhq.com/odys-aviation/8f5e460a-98a4-4fd8-b880-d22071faa29f) |
 | Ameren ✓ | Mechanical Engineering Fall Co-Op | Mechanical Design | St. Louis, MO | No skills listed | Aug 11, 2026 | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1) |
 | Ameren ✓ | Mechanical Engineering Spring Co-Op | Mechanical Design | St. Louis, MO | No skills listed | Aug 11, 2026 | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1) |
-| Micron Technology ✓ | Intern - DRAM Design Engineer | Mechanical Design | Boise, ID - Main Site | Verilog | Aug 10, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448) |
 | 1X | Internship - Manufacturing Engineering (Fall) | Manufacturing & Quality | San Carlos, CA | SolidWorks, CAD, DFM/DFA | Aug 10, 2026 | [Apply](https://jobs.ashbyhq.com/1x/7d93444c-01f5-485c-89ef-24164f30441d) |
 | Teledyne | Mechanical Engineering Intern 🇺🇸 | Mechanical Design | US - Miamisburg, OH | SolidWorks | Aug 10, 2026 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562) |
 | Field AI | Mechanical Engineer, Robotics Hardware - Part-Time Internship | Mechanical Design | Irvine, CA | SolidWorks, CAD, GD&T, FEA | Aug 10, 2026 | [Apply](https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc) |
@@ -213,16 +212,16 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 |---|---|---|---|
 | John Deere | ~Aug | ~Aug · any day now | ⏳ waiting |
 | Tesla | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Blue Origin | ~Sep | ~Sep · in ~11d | ⏳ waiting |
-| Boeing | ~Sep | ~Sep · in ~11d | ⏳ waiting |
-| Ford | ~Sep | ~Sep · in ~11d | ⏳ waiting |
-| General Motors | ~Sep | ~Sep · in ~11d | ⏳ waiting |
-| Honeywell | ~Sep | ~Sep · in ~11d | ⏳ waiting |
-| Lockheed Martin | ~Sep | ~Sep · in ~11d | ⏳ waiting |
-| Rivian | ~Sep | ~Sep · in ~11d | ⏳ waiting |
-| RTX | ~Sep | ~Sep · in ~11d | ⏳ waiting |
-| SpaceX | ~Sep | ~Sep · in ~11d | ⏳ waiting |
-| Rocket Lab | ~Oct | ~Oct · in ~41d | ⏳ waiting |
+| Blue Origin | ~Sep | ~Sep · in ~10d | ⏳ waiting |
+| Boeing | ~Sep | ~Sep · in ~10d | ⏳ waiting |
+| Ford | ~Sep | ~Sep · in ~10d | ⏳ waiting |
+| General Motors | ~Sep | ~Sep · in ~10d | ⏳ waiting |
+| Honeywell | ~Sep | ~Sep · in ~10d | ⏳ waiting |
+| Lockheed Martin | ~Sep | ~Sep · in ~10d | ⏳ waiting |
+| Rivian | ~Sep | ~Sep · in ~10d | ⏳ waiting |
+| RTX | ~Sep | ~Sep · in ~10d | ⏳ waiting |
+| SpaceX | ~Sep | ~Sep · in ~10d | ⏳ waiting |
+| Rocket Lab | ~Oct | ~Oct · in ~40d | ⏳ waiting |
 | 🎯 Anduril | Jun 11 | dropped Jun 11 | ✅ [open now](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
 | 🎯 Caterpillar | Jul 01 | dropped Jul 01 | ✅ [open now](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506) |
 | 🎯 Mosaic | Jul 22 | dropped Jul 22 | ✅ [open now](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Structural-Engineer-Co-Op-Intern---Summer-2027_64448) |
@@ -239,12 +238,14 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _32 companies on the [full radar](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/#radar). **20** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 29 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 31 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| WSP | Mechanical Engineering (Substation) Intern - Summer 2027 | Summer 2027 | 2026-08-22 | gone from feed |
+| IMEG | Structural Engineering Intern / Fort Worth, TX | Summer 2027 | 2026-08-22 | gone from feed |
 | WSP | Structural Engineering Co-Op - Fall 2026 | Fall 2026 | 2026-08-21 | gone from feed |
 | Airbus | Short-term Internship (Fall 2026) - Industrial and Manufacturing Engineering | Fall 2026 | 2026-08-21 | gone from feed |
 | IMEG | Mechanical Engineering Intern / Rock Island, IL | Summer 2027 | 2026-08-21 | gone from feed |
@@ -292,7 +293,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,010 of 4,301 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 93% of the full registry) · completed in 497.5s · 109 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,042 of 4,301 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 94% of the full registry) · completed in 429.6s · 99 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
