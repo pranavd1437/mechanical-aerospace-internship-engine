@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-22T07:06:10Z",
+ "generated_at": "2026-08-22T13:10:56Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 112,
+ "count": 111,
  "jobs": [
   {
    "id": "workday:micron:/job/Boise-ID---Main-Site/Intern---Metrology-Process-Development-Engineer_JR108851",
@@ -1539,30 +1539,6 @@
    "h1b_approvals": 5,
    "program": "Internship",
    "remote": false
-  },
-  {
-   "id": "workday:motorolasolutions:/job/Washington-DC-Remote-Work/CAD-RMS-Technical-Co-op-Program_R64127",
-   "company": "Motorola",
-   "title": "CAD/RMS System Administrator - Internship",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Washington DC Remote Work, More...",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Washington-DC-Remote-Work/CAD-RMS-Technical-Co-op-Program_R64127",
-   "posted_at": "2026-08-05T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-05T20:05:21Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [
-    "CAD",
-    "SQL"
-   ],
-   "source": "workday",
-   "h1b_approvals": 191,
-   "program": "Internship",
-   "remote": true
   },
   {
    "id": "lever:espace:e2ee73af-22b9-4274-9994-9783e9ce9220",
