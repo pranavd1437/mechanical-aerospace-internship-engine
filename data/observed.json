@@ -283,9 +283,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-14",
      "role_ids": [
+      "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -719,5 +720,5 @@
    }
   }
  },
- "updated_at": "2026-08-22T13:10:55Z"
+ "updated_at": "2026-08-22T19:00:38Z"
 }
