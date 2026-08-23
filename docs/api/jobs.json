@@ -1,9 +1,34 @@
 {
- "generated_at": "2026-08-23T13:13:05Z",
+ "generated_at": "2026-08-23T18:58:02Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 110,
+ "count": 111,
  "jobs": [
+  {
+   "id": "workday:micron:/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729",
+   "company": "Micron Technology",
+   "title": "Intern - TD Site Industrial Engineer",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Manufacturing & Quality",
+   "location": "Boise, ID - Main Site",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729",
+   "posted_at": "2026-08-23T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-23T18:58:01Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Tableau"
+   ],
+   "source": "workday",
+   "h1b_approvals": 489,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:micron:/job/Boise-ID---Main-Site/Intern---Metrology-Process-Development-Engineer_JR108851",
    "company": "Micron Technology",

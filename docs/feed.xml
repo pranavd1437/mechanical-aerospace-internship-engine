@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-23T13:13:05Z</updated>
+  <updated>2026-08-23T18:58:02Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729</id>
+    <title>Micron Technology: Intern - TD Site Industrial Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729"/>
+    <updated>2026-08-23T18:58:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Boise, ID - Main Site · Python, SQL, Tableau · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659</id>
     <title>GlobalFoundries: Advanced Manufacturing Process Engineering Intern (Summer 2027)</title>
@@ -798,13 +806,5 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Controls &amp; Mechatronics · Houston, TX · Python, C++, MATLAB, Simulink · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:flextronics:/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357</id>
-    <title>Flextronics International: Industrial Engineering Co-Op - Fall 2026</title>
-    <link href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Manufacturing &amp; Quality · USA, SC, Orangeburg · Six Sigma, Lean Manufacturing · sponsorship: offers · H-1B track record: ~65 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
