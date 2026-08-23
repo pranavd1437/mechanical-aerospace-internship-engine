@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-23T07:12:26Z</updated>
+  <updated>2026-08-23T13:13:05Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
     <id>urn:intern-engine:workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659</id>
@@ -46,14 +46,6 @@
     <updated>2026-08-21T19:08:59Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Saint Louis, MO, United States · SolidWorks, AutoCAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000144791979</id>
-    <title>Renesas Electronics: Validation Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000144791979"/>
-    <updated>2026-08-21T19:08:59Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Test &amp; Validation · Duluth, GEORGIA, United States · Python, Pandas · H-1B track record: ~68 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ag:/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Controls &amp; Mechatronics · Houston, TX · Python, C++, MATLAB, Simulink · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:flextronics:/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357</id>
+    <title>Flextronics International: Industrial Engineering Co-Op - Fall 2026</title>
+    <link href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Manufacturing &amp; Quality · USA, SC, Orangeburg · Six Sigma, Lean Manufacturing · sponsorship: offers · H-1B track record: ~65 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-23T07:12:26Z",
+ "generated_at": "2026-08-23T13:13:05Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 111,
+ "count": 110,
  "jobs": [
   {
    "id": "workday:micron:/job/Boise-ID---Main-Site/Intern---Metrology-Process-Development-Engineer_JR108851",
@@ -99,30 +99,6 @@
    ],
    "source": "oracle",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "smartrecruiters:RenesasElectronics:744000144791979",
-   "company": "Renesas Electronics",
-   "title": "Validation Engineer Intern",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Test & Validation",
-   "location": "Duluth, GEORGIA, United States",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000144791979",
-   "posted_at": "2026-08-21T15:14:30.935Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-21T19:08:59Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Pandas"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": 68,
    "program": "Internship",
    "remote": false
   },
