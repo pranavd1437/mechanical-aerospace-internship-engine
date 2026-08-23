@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-22T19:00:38Z</updated>
+  <updated>2026-08-23T02:08:30Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
     <id>urn:intern-engine:workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659</id>
@@ -158,14 +158,6 @@
     <updated>2026-08-20T13:23:03Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Materials Engineering · Arlington, TX · Python, C++, MATLAB</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Technology-Development-Engineering-Intern--ULP-CMOS_JR-2503682</id>
-    <title>GlobalFoundries: Production Control Engineering Intern</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Technology-Development-Engineering-Intern--ULP-CMOS_JR-2503682"/>
-    <updated>2026-08-20T13:23:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · USA - New York - Malta · H-1B track record: ~110 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:breezy:north-wind-group:206627bdd565</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Cambridge, MA · Python, MATLAB, SolidWorks, ANSYS, COMSOL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:draper:/job/Houston-TX/Space-GNC-Co-Op--Fall-2026-_JR002721</id>
+    <title>Draper: Space GNC Co-Op (Fall 2026) 🇺🇸</title>
+    <link href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Houston-TX/Space-GNC-Co-Op--Fall-2026-_JR002721"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Controls &amp; Mechatronics · Houston, TX · Python, C++, MATLAB, Simulink · sponsorship: citizens-only</summary>
   </entry>
 </feed>

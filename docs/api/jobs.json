@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-22T19:00:38Z",
+ "generated_at": "2026-08-23T02:08:30Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 112,
+ "count": 111,
  "jobs": [
   {
    "id": "workday:micron:/job/Boise-ID---Main-Site/Intern---Metrology-Process-Development-Engineer_JR108851",
@@ -389,27 +389,6 @@
    ],
    "source": "workday",
    "h1b_approvals": 79,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:globalfoundries:/job/USA---New-York---Malta/Technology-Development-Engineering-Intern--ULP-CMOS_JR-2503682",
-   "company": "GlobalFoundries",
-   "title": "Production Control Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Controls & Mechatronics",
-   "location": "USA - New York - Malta",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Technology-Development-Engineering-Intern--ULP-CMOS_JR-2503682",
-   "posted_at": "2026-08-20T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-20T13:23:03Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 110,
    "program": "Internship",
    "remote": false
   },
