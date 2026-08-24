@@ -682,6 +682,13 @@
       "workday:disney:/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144"
      ],
      "count": 1
+    },
+    "Fall 2026": {
+     "first_posted": "2026-08-24",
+     "role_ids": [
+      "workday:disney:/job/Anaheim-CA-USA/Disneyland-Quality-Engineering-Intern--Fall-2026_10158416-2"
+     ],
+     "count": 1
     }
    }
   },
@@ -732,5 +739,5 @@
    }
   }
  },
- "updated_at": "2026-08-24T07:40:03Z"
+ "updated_at": "2026-08-24T13:26:00Z"
 }

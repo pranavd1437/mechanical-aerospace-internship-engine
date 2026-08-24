@@ -1,9 +1,30 @@
 {
- "generated_at": "2026-08-24T07:40:04Z",
+ "generated_at": "2026-08-24T13:26:01Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 112,
+ "count": 113,
  "jobs": [
+  {
+   "id": "workday:disney:/job/Anaheim-CA-USA/Disneyland-Quality-Engineering-Intern--Fall-2026_10158416-2",
+   "company": "The Walt Disney Company",
+   "title": "Disneyland Quality Engineering Intern, Fall 2026",
+   "season": "Fall 2026",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Manufacturing & Quality",
+   "location": "Anaheim, CA, USA",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Quality-Engineering-Intern--Fall-2026_10158416-2",
+   "posted_at": "2026-08-24T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-24T13:26:00Z",
+   "sponsorship": "unknown",
+   "salary": "$30/hr",
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": 2,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:disney:/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144",
    "company": "The Walt Disney Company",
