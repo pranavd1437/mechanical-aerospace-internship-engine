@@ -673,6 +673,18 @@
     }
    }
   },
+  "walt disney": {
+   "name": "The Walt Disney Company",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-24",
+     "role_ids": [
+      "workday:disney:/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144"
+     ],
+     "count": 1
+    }
+   }
+  },
   "western digital": {
    "name": "Western Digital",
    "cycles": {
@@ -720,5 +732,5 @@
    }
   }
  },
- "updated_at": "2026-08-24T02:07:58Z"
+ "updated_at": "2026-08-24T07:40:03Z"
 }

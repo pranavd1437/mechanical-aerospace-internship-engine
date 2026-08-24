@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T02:07:59Z",
+ "generated_at": "2026-08-24T07:40:04Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -228,6 +228,20 @@
    "note": ""
   },
   {
+   "company": "The Walt Disney Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144",
+   "note": ""
+  },
+  {
    "company": "John Deere",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -452,5 +466,5 @@
    "note": ""
   }
  ],
- "count": 32
+ "count": 33
 }

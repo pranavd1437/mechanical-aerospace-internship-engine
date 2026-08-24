@@ -1,9 +1,34 @@
 {
- "generated_at": "2026-08-24T02:07:59Z",
+ "generated_at": "2026-08-24T07:40:04Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 111,
+ "count": 112,
  "jobs": [
+  {
+   "id": "workday:disney:/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144",
+   "company": "The Walt Disney Company",
+   "title": "Walt Disney World Workforce Management Industrial Engineering Intern, Spring/Summer 2027",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Manufacturing & Quality",
+   "location": "Lake Buena Vista, FL, USA",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144",
+   "posted_at": "2026-08-24T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-24T07:40:03Z",
+   "sponsorship": "unknown",
+   "salary": "$31/hr",
+   "skills": [
+    "Python",
+    "SQL",
+    "Tableau"
+   ],
+   "source": "workday",
+   "h1b_approvals": 2,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:micron:/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729",
    "company": "Micron Technology",
