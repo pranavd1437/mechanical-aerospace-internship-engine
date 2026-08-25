@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T07:18:21Z",
+ "generated_at": "2026-08-25T13:28:09Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -242,6 +242,20 @@
    "note": ""
   },
   {
+   "company": "Verdantas",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Holden-MA/Summer-2027-Hydraulic-Modeling-Intern_R-101125-1",
+   "note": ""
+  },
+  {
    "company": "John Deere",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -480,5 +494,5 @@
    "note": ""
   }
  ],
- "count": 34
+ "count": 35
 }

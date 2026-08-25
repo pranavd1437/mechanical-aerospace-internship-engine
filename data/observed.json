@@ -283,10 +283,12 @@
     "Summer 2027": {
      "first_posted": "2026-08-14",
      "role_ids": [
+      "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604657",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659",
-      "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656"
+      "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656",
+      "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -673,6 +675,18 @@
     }
    }
   },
+  "verdantas": {
+   "name": "Verdantas",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "workday:verdantas:/job/Holden-MA/Summer-2027-Hydraulic-Modeling-Intern_R-101125-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "walt disney": {
    "name": "The Walt Disney Company",
    "cycles": {
@@ -751,5 +765,5 @@
    }
   }
  },
- "updated_at": "2026-08-25T07:18:21Z"
+ "updated_at": "2026-08-25T13:28:08Z"
 }
