@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-25T02:03:55Z</updated>
+  <updated>2026-08-25T07:18:21Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968520003</id>
+    <title>Meridian Partners: Aerospace Algorithms Engineer Co-op 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968520003"/>
+    <updated>2026-08-25T07:18:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Aerospace &amp; Flight Sciences · Cambridge, MA, Arlington, VA, Seattle, WA · Python · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968522003</id>
+    <title>Meridian Partners: Aerospace Algorithms Engineer Graduate Co-op 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968522003"/>
+    <updated>2026-08-25T07:18:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Aerospace &amp; Flight Sciences · Cambridge, MA, Arlington, VA, Seattle, WA · Python · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968311003</id>
+    <title>Meridian Partners: Mechanical Engineer Co-op 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968311003"/>
+    <updated>2026-08-25T07:18:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Cambridge, MA · SolidWorks, CAD, CNC · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:wattswater:/job/St-Pauls-NC/Manufacturing-Engineer-Intern-Summer-2027_10017388</id>
     <title>Watts Water: Manufacturing Engineer Intern Summer 2027</title>
@@ -624,14 +648,6 @@
     <summary>Not stated · Manufacturing &amp; Quality · San Carlos, CA · $25 per hour · CNC</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:reflect-orbital:51d75a91-c088-4f00-89bc-4be8250b09f9</id>
-    <title>Reflect Orbital: Composites Engineering Intern (Fall 2026)</title>
-    <link href="https://jobs.ashbyhq.com/reflect-orbital/51d75a91-c088-4f00-89bc-4be8250b09f9"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Materials Engineering · Hawthorne, CA · $27 – $31 per hour</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:ashby:skydio:ce482813-99c2-4eaa-a165-2ed201249182</id>
     <title>Skydio: Product Design Engineer Intern</title>
     <link href="https://jobs.ashbyhq.com/skydio/ce482813-99c2-4eaa-a165-2ed201249182"/>
@@ -728,14 +744,6 @@
     <summary>Fall 2026 · Manufacturing &amp; Quality · Long Beach, California, United States · $35/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:field-ai:8a3b5d4b-f88f-4704-bfdd-74e8dcd30704</id>
-    <title>Field AI: Internship - Robot Control Systems (Fall 2026)</title>
-    <link href="https://jobs.lever.co/field-ai/8a3b5d4b-f88f-4704-bfdd-74e8dcd30704"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Controls &amp; Mechatronics · Irvine, CA · 47–53 USD/hr · Python, C++, CUDA, Kubernetes, Docker</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:lever:hermeus:31513d2a-8e08-424b-b125-4f972fcfc805</id>
     <title>Hermeus: Propulsion Test Engineering Intern - Fall 2026 🇺🇸</title>
     <link href="https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805"/>
@@ -798,13 +806,5 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Cambridge, MA · Python, MATLAB, SolidWorks, ANSYS, COMSOL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:draper:/job/Houston-TX/Space-GNC-Co-Op--Fall-2026-_JR002721</id>
-    <title>Draper: Space GNC Co-Op (Fall 2026) 🇺🇸</title>
-    <link href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Houston-TX/Space-GNC-Co-Op--Fall-2026-_JR002721"/>
-    <updated>2026-08-05T06:24:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Controls &amp; Mechatronics · Houston, TX · Python, C++, MATLAB, Simulink · sponsorship: citizens-only</summary>
   </entry>
 </feed>
