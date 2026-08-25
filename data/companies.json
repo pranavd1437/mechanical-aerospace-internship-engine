@@ -368,6 +368,11 @@
     "site": "Acrisure"
   },
   {
+    "name": "Acron Aviation",
+    "slug": "acronaviation",
+    "ats": "lever"
+  },
+  {
     "name": "Actian",
     "slug": "actian",
     "ats": "lever"
@@ -3858,6 +3863,11 @@
     "site": "External"
   },
   {
+    "name": "BTI360",
+    "slug": "bti36021",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Bugcrowd",
     "slug": "bugcrowd",
     "ats": "greenhouse"
@@ -5476,6 +5486,11 @@
     "site": "ExternalStaffCareerSite"
   },
   {
+    "name": "Cologix",
+    "slug": "cologix",
+    "ats": "lever"
+  },
+  {
     "name": "Colonial Pipeline Company",
     "slug": "colpipe",
     "ats": "workday",
@@ -6889,6 +6904,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "dma"
+  },
+  {
+    "name": "DMS",
+    "slug": "digitalmediaservices",
+    "ats": "workable"
   },
   {
     "name": "DNV",
@@ -10324,6 +10344,11 @@
     "name": "Hard Rock Digital",
     "slug": "hardrockdigital",
     "ats": "recruitee"
+  },
+  {
+    "name": "Hardin Design",
+    "slug": "HardinDesign",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Hargreaves Lansdown",
@@ -14992,6 +15017,13 @@
     "ats": "lever"
   },
   {
+    "name": "Multnomah County",
+    "slug": "multco",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "multco_jobs"
+  },
+  {
     "name": "Munters",
     "slug": "munters",
     "ats": "workday",
@@ -15593,6 +15625,11 @@
     "ats": "oracle",
     "host": "fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com",
     "site": "CX_1"
+  },
+  {
+    "name": "Nomagic",
+    "slug": "nomagic",
+    "ats": "lever"
   },
   {
     "name": "Nomi Health",
@@ -17787,6 +17824,11 @@
     "site": "careers"
   },
   {
+    "name": "Pryzm",
+    "slug": "pryzm",
+    "ats": "ashby"
+  },
+  {
     "name": "PSECU",
     "slug": "psecu",
     "ats": "workday",
@@ -18527,6 +18569,13 @@
     "ats": "workable"
   },
   {
+    "name": "Restaurant Technologies",
+    "slug": "restauranttechnologies",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "RT"
+  },
+  {
     "name": "Retail Information Systems",
     "slug": "RetailInformationSystems",
     "ats": "smartrecruiters"
@@ -19069,6 +19118,11 @@
     "site": "RyderCareers"
   },
   {
+    "name": "Rystad Energy",
+    "slug": "rystad-energy",
+    "ats": "workable"
+  },
+  {
     "name": "S&C Electric Company",
     "slug": "ejia.fa.us6.oraclecloud.com",
     "ats": "oracle",
@@ -19123,6 +19177,11 @@
   {
     "name": "Sagard",
     "slug": "sagardcareers",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Sage",
+    "slug": "sage49",
     "ats": "greenhouse"
   },
   {
@@ -22632,6 +22691,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Tucson Talent",
+    "slug": "tucsonaz",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "Tucson_Talent"
+  },
+  {
     "name": "Tuesday Health",
     "slug": "jobs-at-tuesday-health",
     "ats": "rippling"
@@ -24294,6 +24360,11 @@
     "ats": "oracle",
     "host": "ehac.fa.us6.oraclecloud.com",
     "site": "CX_1"
+  },
+  {
+    "name": "Willis Aviation",
+    "slug": "willis-aviation",
+    "ats": "workable"
   },
   {
     "name": "WillowTree",
