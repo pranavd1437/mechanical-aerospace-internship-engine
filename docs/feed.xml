@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-24T19:12:08Z</updated>
+  <updated>2026-08-25T02:03:55Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:wattswater:/job/St-Pauls-NC/Manufacturing-Engineer-Intern-Summer-2027_10017388</id>
+    <title>Watts Water: Manufacturing Engineer Intern Summer 2027</title>
+    <link href="https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/St-Pauls-NC/Manufacturing-Engineer-Intern-Summer-2027_10017388"/>
+    <updated>2026-08-25T02:03:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · St Pauls, NC · Lean Manufacturing</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:terex:/job/US-WA-Redmond/Robotics-Engineer-Co-op_REQ-13877</id>
     <title>Terex: Robotics Engineer Co-op</title>
@@ -62,22 +70,6 @@
     <updated>2026-08-21T19:08:59Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Merrimack, NH · SolidWorks, CAD, FEA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93367</id>
-    <title>WSP: Overhead Transmission Line Design Engineering Intern - Spring/Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93367"/>
-    <updated>2026-08-21T19:08:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Saint Louis, MO, United States · SolidWorks, AutoCAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93368</id>
-    <title>WSP: Overhead Transmission Line Design Engineering Intern - Summer/Fall 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93368"/>
-    <updated>2026-08-21T19:08:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Saint Louis, MO, United States · SolidWorks, AutoCAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:elanco:/job/Clinton-IN/Manufacturing-Scientist-Quality-Control-Chemist-Intern---Clinton--Indiana--Summer-2027-_R0026870</id>
@@ -150,14 +142,6 @@
     <updated>2026-08-20T19:12:02Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Denver Metro, CO · $22–$24/hr · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Robotics-Engineer-Intern_R-00190159</id>
-    <title>Leidos: Robotics Engineer Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Robotics-Engineer-Intern_R-00190159"/>
-    <updated>2026-08-20T19:12:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Huntsville, AL · Python, C++, MATLAB, Computer Vision, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:espace:e2ee73af-22b9-4274-9994-9783e9ce9220</id>
@@ -374,6 +358,14 @@
     <updated>2026-08-14T19:23:55Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · USA - Vermont - Essex Junction · H-1B track record: ~110 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10501526</id>
+    <title>Amazon: Automation Engineer Intern, (Nationwide) - Summer 2027 🛂</title>
+    <link href="https://www.amazon.jobs/en/jobs/10501526/automation-engineer-intern-nationwide-summer-2027"/>
+    <updated>2026-08-14T03:09:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · Mt. Juliet, Tennessee, USA · sponsorship: no-sponsorship · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hntb:/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Cambridge, MA · Python, MATLAB, SolidWorks, ANSYS, COMSOL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:draper:/job/Houston-TX/Space-GNC-Co-Op--Fall-2026-_JR002721</id>
+    <title>Draper: Space GNC Co-Op (Fall 2026) 🇺🇸</title>
+    <link href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Houston-TX/Space-GNC-Co-Op--Fall-2026-_JR002721"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Controls &amp; Mechatronics · Houston, TX · Python, C++, MATLAB, Simulink · sponsorship: citizens-only</summary>
   </entry>
 </feed>

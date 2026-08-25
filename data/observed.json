@@ -692,6 +692,18 @@
     }
    }
   },
+  "watts water": {
+   "name": "Watts Water",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-24",
+     "role_ids": [
+      "workday:wattswater:/job/St-Pauls-NC/Manufacturing-Engineer-Intern-Summer-2027_10017388"
+     ],
+     "count": 1
+    }
+   }
+  },
   "western digital": {
    "name": "Western Digital",
    "cycles": {
@@ -739,5 +751,5 @@
    }
   }
  },
- "updated_at": "2026-08-24T19:12:07Z"
+ "updated_at": "2026-08-25T02:03:54Z"
 }
