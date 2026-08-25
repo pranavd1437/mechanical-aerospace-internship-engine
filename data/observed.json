@@ -128,6 +128,19 @@
     }
    }
   },
+  "brunswick": {
+   "name": "Brunswick",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238",
+      "workday:brunswick:/job/Lowell-MI/Mechanical-Engineer-Co-op-Intern_JR-051322"
+     ],
+     "count": 2
+    }
+   }
+  },
   "caterpillar": {
    "name": "Caterpillar Inc.",
    "cycles": {
@@ -371,9 +384,10 @@
       "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16471",
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366",
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375",
-      "workday:imeg:/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495"
+      "workday:imeg:/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495",
+      "workday:imeg:/job/Washington-DC/Structural-Intern---Fairfax--VA_R-16618"
      ],
-     "count": 14
+     "count": 15
     }
    }
   },
@@ -498,6 +512,25 @@
     }
    }
   },
+  "philips": {
+   "name": "Philips",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---Fall-2026_589905"
+     ],
+     "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902"
+     ],
+     "count": 1
+    }
+   }
+  },
   "phoenix contact": {
    "name": "Phoenix Contact",
    "cycles": {
@@ -573,6 +606,18 @@
       "greenhouse:rocketlab:7736140003"
      ],
      "count": 3
+    }
+   }
+  },
+  "sensata": {
+   "name": "Sensata",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "workday:sensata:/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334"
+     ],
+     "count": 1
     }
    }
   },
@@ -765,5 +810,5 @@
    }
   }
  },
- "updated_at": "2026-08-25T13:28:08Z"
+ "updated_at": "2026-08-25T19:10:57Z"
 }
