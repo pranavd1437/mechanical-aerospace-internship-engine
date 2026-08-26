@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T13:34:55Z",
+ "generated_at": "2026-08-26T20:17:26Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -298,6 +298,20 @@
    "note": ""
   },
   {
+   "company": "Chamberlain Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Malvern-AR/Manufacturing-Process-Documentation-Intern--Summer-2027-_JR31463",
+   "note": ""
+  },
+  {
    "company": "John Deere",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -536,5 +550,5 @@
    "note": ""
   }
  ],
- "count": 38
+ "count": 39
 }

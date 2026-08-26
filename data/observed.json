@@ -135,9 +135,10 @@
      "first_posted": "2026-08-25",
      "role_ids": [
       "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238",
+      "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Mechanical-Engineering-Intern_JR-051390",
       "workday:brunswick:/job/Lowell-MI/Mechanical-Engineer-Co-op-Intern_JR-051322"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -148,6 +149,18 @@
      "first_posted": "2026-07-01",
      "role_ids": [
       "workday:cat:/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "chamberlain group": {
+   "name": "Chamberlain Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-26",
+     "role_ids": [
+      "workday:chamberlain:/job/Malvern-AR/Manufacturing-Process-Documentation-Intern--Summer-2027-_JR31463"
      ],
      "count": 1
     }
@@ -645,9 +658,11 @@
      "first_posted": "2026-01-21",
      "role_ids": [
       "greenhouse:sharkninjaoperatingllc:4646272006",
-      "greenhouse:sharkninjaoperatingllc:4646894006"
+      "greenhouse:sharkninjaoperatingllc:4646375006",
+      "greenhouse:sharkninjaoperatingllc:4646894006",
+      "greenhouse:sharkninjaoperatingllc:4651641006"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -827,5 +842,5 @@
    }
   }
  },
- "updated_at": "2026-08-26T13:34:54Z"
+ "updated_at": "2026-08-26T20:17:25Z"
 }
