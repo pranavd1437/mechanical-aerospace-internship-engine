@@ -5,48 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-26T02:09:18Z</updated>
+  <updated>2026-08-26T07:19:17Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:avav:/job/Sunrise-FL/Mechanical-Engineering-Intern_8472</id>
-    <title>Avav: Mechanical Engineering Intern 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Mechanical-Engineering-Intern_8472"/>
-    <updated>2026-08-26T02:09:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Sunrise, FL · SolidWorks, CAD, GD&amp;T, ANSYS · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Materials-Engineering-Intern_JR-051117</id>
-    <title>Brunswick: Mercury Marine: Materials Engineering Intern</title>
-    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Materials-Engineering-Intern_JR-051117"/>
-    <updated>2026-08-26T02:09:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Materials Engineering · Fond du Lac, WI · $18–$27.5/hr · H-1B track record: ~54 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine---Heat-Treat-Metallurgical-Engineer-Co-op_JR-051013</id>
-    <title>Brunswick: Mercury Marine - Heat Treat Metallurgical Engineer Co-op</title>
-    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine---Heat-Treat-Metallurgical-Engineer-Co-op_JR-051013"/>
-    <updated>2026-08-26T02:09:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Materials Engineering · Fond du Lac, WI · $18–$27.5/hr · H-1B track record: ~54 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155576</id>
-    <title>Honeywell: Mechanical Engineering - Summer 2027 Intern</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155576"/>
-    <updated>2026-08-26T02:09:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · United States · $24/hr · H-1B track record: ~229 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155584</id>
-    <title>Honeywell: Manufacturing &amp; Industrial Engineering - Summer 2027 Intern</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155584"/>
-    <updated>2026-08-26T02:09:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · United States · $24/hr · Six Sigma, Lean Manufacturing · H-1B track record: ~229 approvals (FY2022–2023)</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155541</id>
     <title>Honeywell: Materials Engineering/Materials Science - Summer 2027 Intern</title>
@@ -54,6 +14,14 @@
     <updated>2026-08-26T02:09:17Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Materials Engineering · United States · $24/hr · H-1B track record: ~229 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155543</id>
+    <title>Honeywell: Materials Engineering/Materials Science - Summer 2027 Intern (US Person Required) 🇺🇸</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155543"/>
+    <updated>2026-08-26T02:09:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Materials Engineering · United States · $24/hr · sponsorship: citizens-only · H-1B track record: ~229 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155574</id>
@@ -64,6 +32,14 @@
     <summary>Summer 2027 · Mechanical Design · United States · $24/hr · sponsorship: citizens-only · H-1B track record: ~229 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155576</id>
+    <title>Honeywell: Mechanical Engineering - Summer 2027 Intern</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155576"/>
+    <updated>2026-08-26T02:09:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · United States · $24/hr · H-1B track record: ~229 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155583</id>
     <title>Honeywell: Manufacturing &amp; Industrial Engineering - Summer 2027 Intern (US Person Required) 🇺🇸</title>
     <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155583"/>
@@ -72,12 +48,36 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · United States · $24/hr · Six Sigma, Lean Manufacturing · sponsorship: citizens-only · H-1B track record: ~229 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155543</id>
-    <title>Honeywell: Materials Engineering/Materials Science - Summer 2027 Intern (US Person Required) 🇺🇸</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155543"/>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155584</id>
+    <title>Honeywell: Manufacturing &amp; Industrial Engineering - Summer 2027 Intern</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155584"/>
     <updated>2026-08-26T02:09:17Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Materials Engineering · United States · $24/hr · sponsorship: citizens-only · H-1B track record: ~229 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · United States · $24/hr · Six Sigma, Lean Manufacturing · H-1B track record: ~229 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:avav:/job/Sunrise-FL/Mechanical-Engineering-Intern_8472</id>
+    <title>Avav: Mechanical Engineering Intern 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Mechanical-Engineering-Intern_8472"/>
+    <updated>2026-08-26T02:09:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Sunrise, FL · SolidWorks, CAD, GD&amp;T, ANSYS · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine---Heat-Treat-Metallurgical-Engineer-Co-op_JR-051013</id>
+    <title>Brunswick: Mercury Marine - Heat Treat Metallurgical Engineer Co-op</title>
+    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine---Heat-Treat-Metallurgical-Engineer-Co-op_JR-051013"/>
+    <updated>2026-08-26T02:09:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Materials Engineering · Fond du Lac, WI · $18–$27.5/hr · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Materials-Engineering-Intern_JR-051117</id>
+    <title>Brunswick: Mercury Marine: Materials Engineering Intern</title>
+    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Materials-Engineering-Intern_JR-051117"/>
+    <updated>2026-08-26T02:09:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Materials Engineering · Fond du Lac, WI · $18–$27.5/hr · H-1B track record: ~54 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:metoxinternationalinc:5405775008</id>

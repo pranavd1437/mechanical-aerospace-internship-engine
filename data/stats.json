@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T02:09:17Z",
-  "duration_seconds": 444.2,
+  "generated_at": "2026-08-26T07:19:16Z",
+  "duration_seconds": 421.7,
   "companies_total": 4325,
   "companies_by_source": {
     "greenhouse": 1049,
@@ -16,23 +16,21 @@
     "breezy": 12,
     "eightfold": 1
   },
-  "quarantined": 253,
-  "fetched_ok": 4044,
-  "fetch_errors": 28,
+  "quarantined": 254,
+  "fetched_ok": 4002,
+  "fetch_errors": 69,
   "errors_by_source": {
-    "workday": 21,
-    "lever": 1,
-    "workable": 6
+    "workday": 69
   },
-  "fetch_success_rate": 0.993,
-  "fetch_success_rate_registry": 0.935,
-  "snapshots_complete": 3943,
+  "fetch_success_rate": 0.983,
+  "fetch_success_rate_registry": 0.925,
+  "snapshots_complete": 3901,
   "snapshots_partial": 101,
-  "roles_matched": 116,
-  "dropped_no_year_in_title": 92,
-  "dropped_offcycle_by_text": 44,
-  "dropped_by_description_scope": 1,
-  "roles_cycle_inferred": 52,
+  "roles_matched": 109,
+  "dropped_no_year_in_title": 83,
+  "dropped_offcycle_by_text": 43,
+  "dropped_by_description_scope": 2,
+  "roles_cycle_inferred": 51,
   "roles_by_source": {
     "amazon": 2,
     "ashby": 9,
@@ -41,28 +39,28 @@
     "lever": 8,
     "oracle": 7,
     "smartrecruiters": 5,
-    "workday": 79
+    "workday": 78
   },
   "roles_by_cycle": {
     "Summer 2027": 51,
     "Fall 2026": 29,
-    "Not stated": 52
+    "Not stated": 51
   },
   "roles_by_region": {
-    "US": 132
+    "US": 131
   },
   "sponsorship_counts": {
     "no-sponsorship": 10,
-    "unknown": 92,
+    "unknown": 91,
     "citizens-only": 27,
     "offers": 3
   },
   "posted_date_coverage": 1.0,
-  "enriched_this_run": 10,
-  "enrichment_detail_fetches": 10,
+  "enriched_this_run": 2,
+  "enrichment_detail_fetches": 2,
   "purged_this_run": 0,
-  "new_this_run": 9,
-  "open_total": 132,
+  "new_this_run": 0,
+  "open_total": 131,
   "detection_latency": {
     "median_minutes": 245.8,
     "p95_minutes": 378.7,
@@ -71,7 +69,7 @@
     "basis": "roles published in the window with an exact source timestamp"
   },
   "posting_lifetime": {
-    "median_days": 7.0,
-    "sample_size": 70
+    "median_days": 7,
+    "sample_size": 71
   }
 }
