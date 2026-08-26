@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-26T07:19:17Z",
+ "generated_at": "2026-08-26T13:34:55Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 131,
+ "count": 129,
  "jobs": [
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:155541",
@@ -18,27 +18,6 @@
    "posted_at_source": "date_only",
    "first_seen_at": "2026-08-26T02:09:17Z",
    "sponsorship": "unknown",
-   "salary": "$24/hr",
-   "skills": [],
-   "source": "oracle",
-   "h1b_approvals": 229,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:155543",
-   "company": "Honeywell",
-   "title": "Materials Engineering/Materials Science - Summer 2027 Intern (US Person Required)",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Materials Engineering",
-   "location": "United States",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155543",
-   "posted_at": "2026-08-25",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-26T02:09:17Z",
-   "sponsorship": "citizens-only",
    "salary": "$24/hr",
    "skills": [],
    "source": "oracle",
@@ -317,30 +296,6 @@
    "skills": [
     "Creo",
     "CAD"
-   ],
-   "source": "workday",
-   "h1b_approvals": 54,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:brunswick:/job/Menomonee-Falls-WI/Mechanical-Engineering-Intern_JR-051231",
-   "company": "Brunswick",
-   "title": "Mechanical Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Menomonee Falls, WI",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Mechanical-Engineering-Intern_JR-051231",
-   "posted_at": "2026-08-25T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-25T19:10:57Z",
-   "sponsorship": "unknown",
-   "salary": "$18–$27/hr",
-   "skills": [
-    "SolidWorks",
-    "Creo"
    ],
    "source": "workday",
    "h1b_approvals": 54,

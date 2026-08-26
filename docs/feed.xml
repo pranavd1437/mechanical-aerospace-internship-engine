@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-26T07:19:17Z</updated>
+  <updated>2026-08-26T13:34:54Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155541</id>
@@ -14,14 +14,6 @@
     <updated>2026-08-26T02:09:17Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Materials Engineering · United States · $24/hr · H-1B track record: ~229 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155543</id>
-    <title>Honeywell: Materials Engineering/Materials Science - Summer 2027 Intern (US Person Required) 🇺🇸</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155543"/>
-    <updated>2026-08-26T02:09:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Materials Engineering · United States · $24/hr · sponsorship: citizens-only · H-1B track record: ~229 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155574</id>
@@ -118,14 +110,6 @@
     <updated>2026-08-25T19:10:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Menomonee Falls, WI · $18–$27/hr · Creo, CAD · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:brunswick:/job/Menomonee-Falls-WI/Mechanical-Engineering-Intern_JR-051231</id>
-    <title>Brunswick: Mechanical Engineering Intern</title>
-    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Mechanical-Engineering-Intern_JR-051231"/>
-    <updated>2026-08-25T19:10:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Menomonee Falls, WI · $18–$27/hr · SolidWorks, Creo · H-1B track record: ~54 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:brunswick:/job/Oshkosh-WI/Mercury-Marine--Drives---Propulsion-Systems-Engineering-Intern_JR-051237</id>
@@ -806,5 +790,21 @@
     <updated>2026-08-05T06:24:39Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Materials Engineering · Westboro, Massachusetts, USA · CAD · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:1x:e7b4aaf5-5c55-4e2f-abcd-5c250657bede</id>
+    <title>1X: CNC Machine Park Internship</title>
+    <link href="https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · San Carlos, CA · $25 per hour · CNC</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:skydio:ce482813-99c2-4eaa-a165-2ed201249182</id>
+    <title>Skydio: Product Design Engineer Intern</title>
+    <link href="https://jobs.ashbyhq.com/skydio/ce482813-99c2-4eaa-a165-2ed201249182"/>
+    <updated>2026-08-05T06:24:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · San Mateo, California, United States · $41/hr · CATIA, CAD, CNC, DFM/DFA · H-1B track record: ~26 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
