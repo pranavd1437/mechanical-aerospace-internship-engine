@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T19:10:58Z",
+ "generated_at": "2026-08-26T02:09:18Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -12,7 +12,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-06-11",
-   "days_until": -75,
+   "days_until": -76,
    "status": "open",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007",
    "note": ""
@@ -26,7 +26,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-01",
-   "days_until": -55,
+   "days_until": -56,
    "status": "open",
    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506",
    "note": "fall opening"
@@ -40,7 +40,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-22",
-   "days_until": -34,
+   "days_until": -35,
    "status": "open",
    "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Structural-Engineer-Co-Op-Intern---Summer-2027_64448",
    "note": ""
@@ -54,7 +54,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-23",
-   "days_until": -33,
+   "days_until": -34,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/kairospower/jobs/6123676004",
    "note": ""
@@ -68,7 +68,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-31",
-   "days_until": -25,
+   "days_until": -26,
    "status": "open",
    "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Fremont-OH/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Fremont--Ohio_R-105282",
    "note": ""
@@ -82,7 +82,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-07",
-   "days_until": -18,
+   "days_until": -19,
    "status": "open",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
    "note": "fall opening, many roles need clearance"
@@ -96,7 +96,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-12",
-   "days_until": -13,
+   "days_until": -14,
    "status": "open",
    "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/CAD-Technician-Co-op_033920-1",
    "note": ""
@@ -110,23 +110,9 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-13",
-   "days_until": -12,
+   "days_until": -13,
    "status": "open",
    "url": "https://www.amazon.jobs/en/jobs/10501526/automation-engineer-intern-nationwide-summer-2027",
-   "note": ""
-  },
-  {
-   "company": "HNTB",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-13",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-13",
-   "days_until": -12,
-   "status": "open",
-   "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165",
    "note": ""
   },
   {
@@ -138,7 +124,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-14",
-   "days_until": -11,
+   "days_until": -12,
    "status": "open",
    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604657",
    "note": ""
@@ -152,7 +138,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-17",
-   "days_until": -8,
+   "days_until": -9,
    "status": "open",
    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424",
    "note": ""
@@ -166,7 +152,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-18",
-   "days_until": -7,
+   "days_until": -8,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003",
    "note": ""
@@ -180,7 +166,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-18",
-   "days_until": -7,
+   "days_until": -8,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/h3x-technologies/6af49576-a61d-480c-b155-3e034e2ed5be",
    "note": ""
@@ -194,7 +180,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-19",
-   "days_until": -6,
+   "days_until": -7,
    "status": "open",
    "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Manufacturing-Scientist-Quality-Control-Chemist-Intern---Clinton--Indiana--Summer-2027-_R0026870",
    "note": ""
@@ -208,7 +194,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-20",
-   "days_until": -5,
+   "days_until": -6,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5376060008",
    "note": ""
@@ -222,7 +208,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-24",
-   "days_until": -1,
+   "days_until": -2,
    "status": "open",
    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144",
    "note": ""
@@ -236,7 +222,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-24",
-   "days_until": -1,
+   "days_until": -2,
    "status": "open",
    "url": "https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/St-Pauls-NC/Manufacturing-Engineer-Intern-Summer-2027_10017388",
    "note": ""
@@ -250,10 +236,24 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-25",
-   "days_until": 0,
+   "days_until": -1,
    "status": "open",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Lowell-MI/Mechanical-Engineer-Co-op-Intern_JR-051322",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238",
    "note": ""
+  },
+  {
+   "company": "Honeywell",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155576",
+   "note": "fall opening"
   },
   {
    "company": "Philips",
@@ -264,7 +264,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-25",
-   "days_until": 0,
+   "days_until": -1,
    "status": "open",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902",
    "note": ""
@@ -278,7 +278,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-25",
-   "days_until": 0,
+   "days_until": -1,
    "status": "open",
    "url": "https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334",
    "note": ""
@@ -292,7 +292,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-25",
-   "days_until": 0,
+   "days_until": -1,
    "status": "open",
    "url": "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Holden-MA/Summer-2027-Hydraulic-Modeling-Intern_R-101125-1",
    "note": ""
@@ -306,7 +306,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -24,
+   "days_until": -25,
    "status": "waiting",
    "url": "",
    "note": "opens late summer"
@@ -320,7 +320,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -24,
+   "days_until": -25,
    "status": "waiting",
    "url": "",
    "note": "rolling from late summer"
@@ -334,7 +334,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 7,
+   "days_until": 6,
    "status": "waiting",
    "url": "",
    "note": "fall opening for next summer"
@@ -348,7 +348,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 7,
+   "days_until": 6,
    "status": "waiting",
    "url": "",
    "note": "fall opening"
@@ -362,7 +362,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 7,
+   "days_until": 6,
    "status": "waiting",
    "url": "",
    "note": "fall opening"
@@ -376,21 +376,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 7,
-   "status": "waiting",
-   "url": "",
-   "note": "fall opening"
-  },
-  {
-   "company": "Honeywell",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": 7,
+   "days_until": 6,
    "status": "waiting",
    "url": "",
    "note": "fall opening"
@@ -404,7 +390,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 7,
+   "days_until": 6,
    "status": "waiting",
    "url": "",
    "note": "fall opening, many roles need clearance"
@@ -418,7 +404,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 7,
+   "days_until": 6,
    "status": "waiting",
    "url": "",
    "note": "fall opening"
@@ -432,7 +418,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 7,
+   "days_until": 6,
    "status": "waiting",
    "url": "",
    "note": "fall opening, many roles need clearance"
@@ -446,7 +432,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": 7,
+   "days_until": 6,
    "status": "waiting",
    "url": "",
    "note": "rolling from fall, very competitive"
@@ -460,7 +446,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-10-01",
-   "days_until": 37,
+   "days_until": 36,
    "status": "waiting",
    "url": "",
    "note": "fall opening"
@@ -474,7 +460,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-31",
-   "days_until": -25,
+   "days_until": -26,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -488,7 +474,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-11",
-   "days_until": -14,
+   "days_until": -15,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -502,7 +488,21 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-13",
-   "days_until": -12,
+   "days_until": -13,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "HNTB",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-13",
+   "days_until": -13,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -516,7 +516,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-17",
-   "days_until": -8,
+   "days_until": -9,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -530,7 +530,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-21",
-   "days_until": -4,
+   "days_until": -5,
    "status": "dropped",
    "url": "",
    "note": ""
