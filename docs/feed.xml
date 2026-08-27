@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-26T20:17:26Z</updated>
+  <updated>2026-08-27T10:05:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:axon:7978840003</id>
+    <title>Axon: 2027 US Mechanical Engineering Internship</title>
+    <link href="https://job-boards.greenhouse.io/axon/jobs/7978840003"/>
+    <updated>2026-08-27T10:05:15Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Arizona, USA · SolidWorks, Siemens NX, Creo, CAD · H-1B track record: ~72 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Columbus-OH/Mechanical-Engineering-Intern---Columbus--OH_R-16523</id>
+    <title>IMEG: Mechanical Engineering Intern | Columbus, OH</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Columbus-OH/Mechanical-Engineering-Intern---Columbus--OH_R-16523"/>
+    <updated>2026-08-27T10:05:15Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Columbus, OH · $22/hr · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Mechanical-Engineering-Intern---Chandler-AZ_R10247965</id>
+    <title>Northrop Grumman: 2026 Part-Time Mechanical Engineering Intern - Chandler AZ 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Mechanical-Engineering-Intern---Chandler-AZ_R10247965"/>
+    <updated>2026-08-27T10:05:15Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · United States-Arizona-Chandler · $17.75–$32.75/hr · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:cssmerge:8695490002</id>
     <title>Atoms: Mechanical Design Engineering Intern‬</title>
@@ -16,20 +40,20 @@
     <summary>Not stated · Mechanical Design · Pittsburgh, PA · $25–$35/hr · CAD</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Mechanical-Engineering-Intern_JR-051390</id>
-    <title>Brunswick: Mercury Marine: Mechanical Engineering Intern</title>
-    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Mechanical-Engineering-Intern_JR-051390"/>
+    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4646375006</id>
+    <title>SharkNinja: Fall 2026: Product Design Engineering Co-op, Ninja (September to December)</title>
+    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646375006"/>
     <updated>2026-08-26T20:17:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Fond du Lac, WI · $18–$27.5/hr · Creo, CAD · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · Needham, MA, United States · SolidWorks, Creo, CAD · H-1B track record: ~23 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Quality-Engineering-Co-op_JR-051391</id>
-    <title>Brunswick: Mercury Marine: Quality Engineering Co-op</title>
-    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Quality-Engineering-Co-op_JR-051391"/>
+    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4651641006</id>
+    <title>SharkNinja: Fall 2026: Mechanical Engineering Co-op,  Wearable &amp; Biomedical Devices (September to December)</title>
+    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4651641006"/>
     <updated>2026-08-26T20:17:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Fond du Lac, WI · $18–$27.5/hr · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · Needham, MA, United States · Python, MATLAB · H-1B track record: ~23 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Manufacturing-Industrial-Engineering-Co-op_JR-051389</id>
@@ -48,6 +72,22 @@
     <summary>Not stated · Materials Engineering · Fond du Lac, WI · $18–$27.5/hr · H-1B track record: ~54 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Mechanical-Engineering-Intern_JR-051390</id>
+    <title>Brunswick: Mercury Marine: Mechanical Engineering Intern</title>
+    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Mechanical-Engineering-Intern_JR-051390"/>
+    <updated>2026-08-26T20:17:25Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Fond du Lac, WI · $18–$27.5/hr · Creo, CAD · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Quality-Engineering-Co-op_JR-051391</id>
+    <title>Brunswick: Mercury Marine: Quality Engineering Co-op</title>
+    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Quality-Engineering-Co-op_JR-051391"/>
+    <updated>2026-08-26T20:17:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Fond du Lac, WI · $18–$27.5/hr · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:chamberlain:/job/Malvern-AR/Manufacturing-Process-Documentation-Intern--Summer-2027-_JR31463</id>
     <title>Chamberlain Group: Manufacturing Process Documentation Intern (Summer 2027)</title>
     <link href="https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Malvern-AR/Manufacturing-Process-Documentation-Intern--Summer-2027-_JR31463"/>
@@ -56,44 +96,12 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Malvern, AR · H-1B track record: ~33 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4651641006</id>
-    <title>SharkNinja: Fall 2026: Mechanical Engineering Co-op,  Wearable &amp; Biomedical Devices (September to December)</title>
-    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4651641006"/>
-    <updated>2026-08-26T20:17:25Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Mechanical Design · Needham, MA, United States · Python, MATLAB · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4646375006</id>
-    <title>SharkNinja: Fall 2026: Product Design Engineering Co-op, Ninja (September to December)</title>
-    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646375006"/>
-    <updated>2026-08-26T20:17:25Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Mechanical Design · Needham, MA, United States · SolidWorks, Creo, CAD · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155541</id>
-    <title>Honeywell: Materials Engineering/Materials Science - Summer 2027 Intern</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155541"/>
-    <updated>2026-08-26T02:09:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Materials Engineering · United States · $24/hr · H-1B track record: ~229 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155576</id>
     <title>Honeywell: Mechanical Engineering - Summer 2027 Intern</title>
     <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155576"/>
     <updated>2026-08-26T02:09:17Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · United States · $24/hr · H-1B track record: ~229 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155584</id>
-    <title>Honeywell: Manufacturing &amp; Industrial Engineering - Summer 2027 Intern</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155584"/>
-    <updated>2026-08-26T02:09:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · United States · $24/hr · Six Sigma, Lean Manufacturing · H-1B track record: ~229 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:avav:/job/Sunrise-FL/Mechanical-Engineering-Intern_8472</id>
@@ -382,14 +390,6 @@
     <updated>2026-08-20T19:12:02Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Denver Metro, CO · $22–$24/hr · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:espace:e2ee73af-22b9-4274-9994-9783e9ce9220</id>
-    <title>E-Space: Engineering / Characterization Lab Intern – Materials Science / Mechanical / Electrical / Aerospace / Chemistry / Physics</title>
-    <link href="https://jobs.lever.co/espace/e2ee73af-22b9-4274-9994-9783e9ce9220"/>
-    <updated>2026-08-20T13:23:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Materials Engineering · Arlington, TX · Python, C++, MATLAB</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:breezy:north-wind-group:206627bdd565</id>

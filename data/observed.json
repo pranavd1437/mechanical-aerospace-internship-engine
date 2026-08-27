@@ -115,6 +115,18 @@
     }
    }
   },
+  "axon": {
+   "name": "Axon",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-26",
+     "role_ids": [
+      "greenhouse:axon:7978840003"
+     ],
+     "count": 1
+    }
+   }
+  },
   "bosch": {
    "name": "Bosch",
    "cycles": {
@@ -401,6 +413,7 @@
     "Summer 2027": {
      "first_posted": "2026-08-17",
      "role_ids": [
+      "workday:imeg:/job/Columbus-OH/Mechanical-Engineering-Intern---Columbus--OH_R-16523",
       "workday:imeg:/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424",
       "workday:imeg:/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16558",
       "workday:imeg:/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16570-1",
@@ -417,7 +430,7 @@
       "workday:imeg:/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495",
       "workday:imeg:/job/Washington-DC/Structural-Intern---Fairfax--VA_R-16618"
      ],
-     "count": 15
+     "count": 16
     }
    }
   },
@@ -528,9 +541,10 @@
     "Fall 2026": {
      "first_posted": "2026-08-03",
      "role_ids": [
+      "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Mechanical-Engineering-Intern---Chandler-AZ_R10247965",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2026-Fall-Co-op-Manufacturing-Engineering---Baltimore-MD_R10243390-1"
      ],
-     "count": 1
+     "count": 2
     },
     "Summer 2027": {
      "first_posted": "2026-08-07",
@@ -842,5 +856,5 @@
    }
   }
  },
- "updated_at": "2026-08-26T20:17:25Z"
+ "updated_at": "2026-08-27T10:05:16Z"
 }
