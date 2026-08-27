@@ -9,6 +9,25 @@
       "workday:abb:/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298"
      ],
      "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "workday:abb:/job/USA-NJ-Hackettstown/Manufacturing-Engineering-Intern---Summer-2027_JR00044977"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "air products": {
+   "name": "Air Products",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "workday:airproducts:/job/Allentown-Pennsylvania/Summer-Intern-Co-op-Mechanical-Engineering--2027-_JR-2026-21956"
+     ],
+     "count": 1
     }
    }
   },
@@ -556,6 +575,18 @@
     }
    }
   },
+  "oshkosh": {
+   "name": "Oshkosh",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "workday:oshkoshcorporation:/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823"
+     ],
+     "count": 1
+    }
+   }
+  },
   "philips": {
    "name": "Philips",
    "cycles": {
@@ -856,5 +887,5 @@
    }
   }
  },
- "updated_at": "2026-08-27T10:05:16Z"
+ "updated_at": "2026-08-27T22:31:50Z"
 }

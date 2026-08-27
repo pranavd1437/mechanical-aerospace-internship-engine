@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-27T10:05:16Z</updated>
+  <updated>2026-08-27T22:31:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:abb:/job/USA-NJ-Hackettstown/Manufacturing-Engineering-Intern---Summer-2027_JR00044977</id>
+    <title>ABB: Manufacturing Engineering Intern - Summer 2027 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NJ-Hackettstown/Manufacturing-Engineering-Intern---Summer-2027_JR00044977"/>
+    <updated>2026-08-27T22:31:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · USA, NJ, Hackettstown · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:airproducts:/job/Allentown-Pennsylvania/Summer-Intern-Co-op-Mechanical-Engineering--2027-_JR-2026-21956</id>
+    <title>Air Products: Summer Intern/Co-op-Mechanical Engineering (2027)</title>
+    <link href="https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/Summer-Intern-Co-op-Mechanical-Engineering--2027-_JR-2026-21956"/>
+    <updated>2026-08-27T22:31:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Allentown, Pennsylvania · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Boise-ID---ID1/Intern---Process-Quality-Engineering_JR109159</id>
+    <title>Micron Technology: Intern - Process Quality Engineering</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---Process-Quality-Engineering_JR109159"/>
+    <updated>2026-08-27T22:31:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Boise, ID - ID1 · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823</id>
+    <title>Oshkosh: Engineering Intern - Mechanical (Summer 2027)</title>
+    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823"/>
+    <updated>2026-08-27T22:31:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Orlando, Florida, United States · CATIA, CAD, PLM</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:axon:7978840003</id>
     <title>Axon: 2027 US Mechanical Engineering Internship</title>
@@ -96,14 +128,6 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Malvern, AR · H-1B track record: ~33 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155576</id>
-    <title>Honeywell: Mechanical Engineering - Summer 2027 Intern</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155576"/>
-    <updated>2026-08-26T02:09:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · United States · $24/hr · H-1B track record: ~229 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:avav:/job/Sunrise-FL/Mechanical-Engineering-Intern_8472</id>
     <title>Avav: Mechanical Engineering Intern 🇺🇸</title>
     <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Mechanical-Engineering-Intern_8472"/>
@@ -126,14 +150,6 @@
     <updated>2026-08-26T02:09:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Materials Engineering · Fond du Lac, WI · $18–$27.5/hr · H-1B track record: ~54 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:metoxinternationalinc:5405775008</id>
-    <title>MetOx International: Mechanical Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5405775008"/>
-    <updated>2026-08-25T19:10:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Houston, TX · SolidWorks, FEA, CFD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:amcor:/job/RPSNA-Lawrence-KS/Product-Development-Engineering-Intern_REQ_95108</id>
@@ -219,6 +235,14 @@
     <id>urn:intern-engine:workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604657</id>
     <title>GlobalFoundries: Advanced Manufacturing Process Engineering Intern (Summer 2027)</title>
     <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604657"/>
+    <updated>2026-08-25T13:28:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · USA - Vermont - Essex Junction · H-1B track record: ~110 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666</id>
+    <title>GlobalFoundries: US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027)</title>
+    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666"/>
     <updated>2026-08-25T13:28:08Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · USA - Vermont - Essex Junction · H-1B track record: ~110 approvals (FY2022–2023)</summary>
@@ -782,29 +806,5 @@
     <updated>2026-08-07T00:25:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Materials Engineering · 486 S. Pierce Ave, Suite E, Louisville, CO 80027 · $25/hr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:make-rain:87613e64-cc8f-47ab-a053-0b2c3ee93ebd</id>
-    <title>Rainmaker: Mechanical Engineering Intern - Fall</title>
-    <link href="https://jobs.lever.co/make-rain/87613e64-cc8f-47ab-a053-0b2c3ee93ebd"/>
-    <updated>2026-08-07T00:25:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · El Segundo, CA · 3,000–5,000 USD/mo · SolidWorks, CAD, FEA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000141923029</id>
-    <title>Bosch: Quality Engineering Co-op - Fall 2026</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000141923029"/>
-    <updated>2026-08-06T14:45:46Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Manufacturing &amp; Quality · Pineville, NC, United States · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---Texas---Richardson/XMLNAME-1H-University-Intern---PVD-Equipment_JR-2502699</id>
-    <title>GlobalFoundries: IP &amp; Design Engineering Intern (Fall 2026)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/XMLNAME-1H-University-Intern---PVD-Equipment_JR-2502699"/>
-    <updated>2026-08-06T14:45:46Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Mechanical Design · USA - Texas - Richardson · H-1B track record: ~110 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
