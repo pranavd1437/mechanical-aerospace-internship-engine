@@ -5,15 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-28T11:38:05Z</updated>
+  <updated>2026-08-28T22:35:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:brunswick:/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1</id>
-    <title>Brunswick: Manufacturing Engineering Intern 🛂</title>
-    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1"/>
-    <updated>2026-08-28T11:38:04Z</updated>
+    <id>urn:intern-engine:workday:daikinapplied:/job/Plymouth-MN-55441/HVAC-Test-Technician-Intern_R003120-1</id>
+    <title>Daikin Applied: HVAC Test Technician Intern 🛂</title>
+    <link href="https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Plymouth-MN-55441/HVAC-Test-Technician-Intern_R003120-1"/>
+    <updated>2026-08-28T22:35:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Plymouth, MN 55441 · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nidec:/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Quality-Engineer-Co-op_R0017397</id>
+    <title>Nidec: Quality Engineer Co-op</title>
+    <link href="https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Quality-Engineer-Co-op_R0017397"/>
+    <updated>2026-08-28T22:35:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · North America/USA/Missouri/St. Louis - WPE, MO · Six Sigma · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rebuildmanufacturing:4728423005</id>
+    <title>Re:Build Manufacturing: Process &amp; Mechanical Engineer Co-op/Intern</title>
+    <link href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4728423005"/>
+    <updated>2026-08-28T22:35:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Rochester, NY · SolidWorks, AutoCAD, CAD, Six Sigma</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hcmportal:/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1</id>
+    <title>United Parcel Service (UPS): Summer 2027 Industrial Engineering Co-Op 🇺🇸</title>
+    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1"/>
+    <updated>2026-08-28T22:35:45Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · New York Mills, MN · $18–$27/hr · SolidWorks, AutoCAD, CAD · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · US - UPSCO GLOBAL OPERATIONS CENTER (KYLOA) · SQL, GCP · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94185</id>
+    <title>WSP: Overhead Transmission Line Design Engineering Intern  - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94185"/>
+    <updated>2026-08-28T22:35:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Phoenix, AZ, United States · SolidWorks, AutoCAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ejta.fa.us6.oraclecloud.com:10562</id>
@@ -30,6 +62,14 @@
     <updated>2026-08-28T11:38:04Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · United States (Remote) · $35–$50/hr · TypeScript, React, Next.js</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:brunswick:/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1</id>
+    <title>Brunswick: Manufacturing Engineering Intern 🛂</title>
+    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1"/>
+    <updated>2026-08-28T11:38:04Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · New York Mills, MN · $18–$27/hr · SolidWorks, AutoCAD, CAD · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:abb:/job/USA-NJ-Hackettstown/Manufacturing-Engineering-Intern---Summer-2027_JR00044977</id>
@@ -766,45 +806,5 @@
     <updated>2026-08-07T19:28:54Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Thermal, Fluids &amp; Propulsion · Farmington Hills, MI, United States · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319</id>
-    <title>Moog: Intern, Industrial Engineering</title>
-    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319"/>
-    <updated>2026-08-07T19:28:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Buffalo, NY</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:heinz:/job/Fremont-OH/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Fremont--Ohio_R-105282</id>
-    <title>Kraft Heinz: 2027 US Manufacturing Internship Program – Manufacturing Facility Fremont, Ohio</title>
-    <link href="https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Fremont-OH/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Fremont--Ohio_R-105282"/>
-    <updated>2026-08-07T13:49:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Fremont, OH · H-1B track record: ~27 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:heinz:/job/Winchester-VA/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Winchester--Virginia_R-105276</id>
-    <title>Kraft Heinz: 2027 US Manufacturing Internship Program – Manufacturing Facility Winchester, Virginia</title>
-    <link href="https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Winchester-VA/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Winchester--Virginia_R-105276"/>
-    <updated>2026-08-07T13:49:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Winchester, VA · H-1B track record: ~27 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:alloyenterprises:946e7ae1-d2ac-4889-a72a-268b0aeda9bd</id>
-    <title>Alloy Enterprises: Co-Op, Thermal Test Engineer, Fall 2026 (July-December) 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/alloyenterprises/946e7ae1-d2ac-4889-a72a-268b0aeda9bd"/>
-    <updated>2026-08-07T00:25:38Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Thermal, Fluids &amp; Propulsion · Burlington, MA · $23–$28/hr · Python, MATLAB, SolidWorks, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:solidpower:6138210004</id>
-    <title>Solid Power: Materials Engineering Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/solidpower/jobs/6138210004"/>
-    <updated>2026-08-07T00:25:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Materials Engineering · 486 S. Pierce Ave, Suite E, Louisville, CO 80027 · $25/hr · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

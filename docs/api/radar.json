@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T11:38:05Z",
+ "generated_at": "2026-08-28T22:35:46Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -141,6 +141,20 @@
    "days_until": -11,
    "status": "open",
    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Columbus-OH/Mechanical-Engineering-Intern---Columbus--OH_R-16523",
+   "note": ""
+  },
+  {
+   "company": "WSP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -11,
+   "status": "open",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94185",
    "note": ""
   },
   {
@@ -354,6 +368,20 @@
    "note": ""
   },
   {
+   "company": "United Parcel Service (UPS)",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-28",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1",
+   "note": ""
+  },
+  {
    "company": "John Deere",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -564,20 +592,6 @@
    "note": ""
   },
   {
-   "company": "WSP",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -11,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Airbus",
    "last_cycle_posted": "",
    "posted_on": "2026-08-21",
@@ -606,5 +620,5 @@
    "note": "fall opening"
   }
  ],
- "count": 43
+ "count": 44
 }

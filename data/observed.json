@@ -784,6 +784,18 @@
     }
    }
   },
+  "united parcel service ups": {
+   "name": "United Parcel Service (UPS)",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-28",
+     "role_ids": [
+      "workday:hcmportal:/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "varda space": {
    "name": "Varda Space",
    "cycles": {
@@ -893,12 +905,13 @@
       "oracle:emit.fa.ca3.oraclecloud.com:93152",
       "oracle:emit.fa.ca3.oraclecloud.com:93367",
       "oracle:emit.fa.ca3.oraclecloud.com:93368",
-      "oracle:emit.fa.ca3.oraclecloud.com:93468"
+      "oracle:emit.fa.ca3.oraclecloud.com:93468",
+      "oracle:emit.fa.ca3.oraclecloud.com:94185"
      ],
-     "count": 4
+     "count": 5
     }
    }
   }
  },
- "updated_at": "2026-08-28T11:38:04Z"
+ "updated_at": "2026-08-28T22:35:45Z"
 }
