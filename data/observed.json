@@ -167,9 +167,10 @@
      "role_ids": [
       "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238",
       "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Mechanical-Engineering-Intern_JR-051390",
-      "workday:brunswick:/job/Lowell-MI/Mechanical-Engineer-Co-op-Intern_JR-051322"
+      "workday:brunswick:/job/Lowell-MI/Mechanical-Engineer-Co-op-Intern_JR-051322",
+      "workday:brunswick:/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -273,6 +274,18 @@
       "workday:flextronics:/job/USA-SC-Orangeburg/Quality-Engineering-Co-Op---Fall-2026_WD226046"
      ],
      "count": 3
+    }
+   }
+  },
+  "fortive": {
+   "name": "Fortive",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-28",
+     "role_ids": [
+      "oracle:ejta.fa.us6.oraclecloud.com:10562"
+     ],
+     "count": 1
     }
    }
   },
@@ -887,5 +900,5 @@
    }
   }
  },
- "updated_at": "2026-08-27T22:31:50Z"
+ "updated_at": "2026-08-28T11:38:04Z"
 }

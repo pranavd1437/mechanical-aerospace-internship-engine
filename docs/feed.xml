@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-27T22:31:51Z</updated>
+  <updated>2026-08-28T11:38:05Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:brunswick:/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1</id>
+    <title>Brunswick: Manufacturing Engineering Intern 🛂</title>
+    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1"/>
+    <updated>2026-08-28T11:38:04Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · New York Mills, MN · $18–$27/hr · SolidWorks, AutoCAD, CAD · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ejta.fa.us6.oraclecloud.com:10562</id>
+    <title>Fortive: Test Engineer Intern Co-Op</title>
+    <link href="https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10562"/>
+    <updated>2026-08-28T11:38:04Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Test &amp; Validation · Everett, WA, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:talentpluto:957E9F890B</id>
+    <title>Talentpluto: Design Engineering Intern</title>
+    <link href="https://apply.workable.com/talentpluto/j/957E9F890B/"/>
+    <updated>2026-08-28T11:38:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · United States (Remote) · $35–$50/hr · TypeScript, React, Next.js</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:abb:/job/USA-NJ-Hackettstown/Manufacturing-Engineering-Intern---Summer-2027_JR00044977</id>
     <title>ABB: Manufacturing Engineering Intern - Summer 2027 🛂</title>
@@ -336,14 +360,6 @@
     <summary>Not stated · Manufacturing &amp; Quality · Boise, ID - Main Site · Python, C++, MATLAB · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:rebuildmanufacturing:4554542005</id>
-    <title>Re:Build Manufacturing: Mechanical Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4554542005"/>
-    <updated>2026-08-21T19:08:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Merrimack, NH · SolidWorks, CAD, FEA</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:elanco:/job/Clinton-IN/Manufacturing-Scientist-Quality-Control-Chemist-Intern---Clinton--Indiana--Summer-2027-_R0026870</id>
     <title>Elanco: Manufacturing Scientist/Quality Control Chemist Intern – Clinton, Indiana (Summer 2027)</title>
     <link href="https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Manufacturing-Scientist-Quality-Control-Chemist-Intern---Clinton--Indiana--Summer-2027-_R0026870"/>
@@ -616,14 +632,6 @@
     <summary>Fall 2026 · Manufacturing &amp; Quality · Los Angeles, CA · 25–33 USD/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656</id>
-    <title>GlobalFoundries: US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656"/>
-    <updated>2026-08-14T19:23:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA - Vermont - Essex Junction · H-1B track record: ~110 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:amazon:amazon:10501526</id>
     <title>Amazon: Automation Engineer Intern, (Nationwide) - Summer 2027 🛂</title>
     <link href="https://www.amazon.jobs/en/jobs/10501526/automation-engineer-intern-nationwide-summer-2027"/>
@@ -646,14 +654,6 @@
     <updated>2026-08-13T19:38:30Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Boise, ID - Main Site · Python, MATLAB, LLMs, Verilog · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ekcf.fa.us6.oraclecloud.com:7604</id>
-    <title>Powell: College Co-Op, Manufacturing Engineering</title>
-    <link href="https://ekcf.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7604"/>
-    <updated>2026-08-13T13:58:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · North Canton, OH, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/CAD-Technician-Co-op_033920-1</id>
