@@ -588,6 +588,18 @@
     }
    }
   },
+  "northwood space": {
+   "name": "Northwood Space",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-29",
+     "role_ids": [
+      "ashby:northwoodspace:6081eebf-7021-4a3f-a34f-78c91c94fcd3"
+     ],
+     "count": 1
+    }
+   }
+  },
   "oshkosh": {
    "name": "Oshkosh",
    "cycles": {
@@ -913,5 +925,5 @@
    }
   }
  },
- "updated_at": "2026-08-28T22:35:45Z"
+ "updated_at": "2026-08-29T07:15:07Z"
 }

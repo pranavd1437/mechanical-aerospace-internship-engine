@@ -5,23 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-28T22:35:46Z</updated>
+  <updated>2026-08-29T07:15:08Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:daikinapplied:/job/Plymouth-MN-55441/HVAC-Test-Technician-Intern_R003120-1</id>
-    <title>Daikin Applied: HVAC Test Technician Intern 🛂</title>
-    <link href="https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Plymouth-MN-55441/HVAC-Test-Technician-Intern_R003120-1"/>
-    <updated>2026-08-28T22:35:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Plymouth, MN 55441 · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nidec:/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Quality-Engineer-Co-op_R0017397</id>
-    <title>Nidec: Quality Engineer Co-op</title>
-    <link href="https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Quality-Engineer-Co-op_R0017397"/>
-    <updated>2026-08-28T22:35:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · North America/USA/Missouri/St. Louis - WPE, MO · Six Sigma · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:ashby:northwoodspace:6081eebf-7021-4a3f-a34f-78c91c94fcd3</id>
+    <title>Northwood Space: Mechanical Engineering Intern (2027 Summer Internship) 🇺🇸</title>
+    <link href="https://jobs.ashbyhq.com/northwoodspace/6081eebf-7021-4a3f-a34f-78c91c94fcd3"/>
+    <updated>2026-08-29T07:15:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Torrance, CA · $36 per hour · SolidWorks, Siemens NX, CAD, ANSYS, DFM/DFA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rebuildmanufacturing:4728423005</id>
@@ -32,6 +24,22 @@
     <summary>Not stated · Mechanical Design · Rochester, NY · SolidWorks, AutoCAD, CAD, Six Sigma</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94185</id>
+    <title>WSP: Overhead Transmission Line Design Engineering Intern  - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94185"/>
+    <updated>2026-08-28T22:35:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Phoenix, AZ, United States · SolidWorks, AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:daikinapplied:/job/Plymouth-MN-55441/HVAC-Test-Technician-Intern_R003120-1</id>
+    <title>Daikin Applied: HVAC Test Technician Intern 🛂</title>
+    <link href="https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Plymouth-MN-55441/HVAC-Test-Technician-Intern_R003120-1"/>
+    <updated>2026-08-28T22:35:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Plymouth, MN 55441 · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:hcmportal:/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1</id>
     <title>United Parcel Service (UPS): Summer 2027 Industrial Engineering Co-Op 🇺🇸</title>
     <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1"/>
@@ -40,12 +48,12 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · US - UPSCO GLOBAL OPERATIONS CENTER (KYLOA) · SQL, GCP · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94185</id>
-    <title>WSP: Overhead Transmission Line Design Engineering Intern  - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94185"/>
+    <id>urn:intern-engine:workday:nidec:/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Quality-Engineer-Co-op_R0017397</id>
+    <title>Nidec: Quality Engineer Co-op</title>
+    <link href="https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Quality-Engineer-Co-op_R0017397"/>
     <updated>2026-08-28T22:35:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Phoenix, AZ, United States · SolidWorks, AutoCAD</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · North America/USA/Missouri/St. Louis - WPE, MO · Six Sigma · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ejta.fa.us6.oraclecloud.com:10562</id>
@@ -798,13 +806,5 @@
     <updated>2026-08-08T02:31:48Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · United States-California-Palmdale · $21.5–$39/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000142173185</id>
-    <title>Bosch: Internship Vehicle Thermal Systems Engineering</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000142173185"/>
-    <updated>2026-08-07T19:28:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Farmington Hills, MI, United States · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
