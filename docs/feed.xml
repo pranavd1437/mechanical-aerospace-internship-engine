@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-29T16:54:56Z</updated>
+  <updated>2026-08-29T21:06:04Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ag:/job/Mobile-Area-AL/Summer-Internship---Manufacturing-Engineering_JR10435144</id>
+    <title>Airbus: Summer Internship - Manufacturing Engineering</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship---Manufacturing-Engineering_JR10435144"/>
+    <updated>2026-08-29T21:06:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Mobile Area, AL · SolidWorks, CATIA, AutoCAD, CAD · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:northwoodspace:6081eebf-7021-4a3f-a34f-78c91c94fcd3</id>
     <title>Northwood Space: Mechanical Engineering Intern (2027 Summer Internship) 🇺🇸</title>
@@ -798,13 +806,5 @@
     <updated>2026-08-08T02:31:48Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Mechanical Design · USA, SC, Orangeburg · SolidWorks, CAD, Six Sigma · sponsorship: offers · H-1B track record: ~65 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597</id>
-    <title>Northrop Grumman: 2027 Operations Manufacturing Engineering Intern 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597"/>
-    <updated>2026-08-08T02:31:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · United States-California-Palmdale · $21.5–$39/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>

@@ -1,9 +1,35 @@
 {
- "generated_at": "2026-08-29T16:54:56Z",
+ "generated_at": "2026-08-29T21:06:04Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 140,
+ "count": 141,
  "jobs": [
+  {
+   "id": "workday:ag:/job/Mobile-Area-AL/Summer-Internship---Manufacturing-Engineering_JR10435144",
+   "company": "Airbus",
+   "title": "Summer Internship - Manufacturing Engineering",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Manufacturing & Quality",
+   "location": "Mobile Area, AL",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship---Manufacturing-Engineering_JR10435144",
+   "posted_at": "2026-08-29T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-29T21:06:03Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "SolidWorks",
+    "CATIA",
+    "AutoCAD",
+    "CAD"
+   ],
+   "source": "workday",
+   "h1b_approvals": 16,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "ashby:northwoodspace:6081eebf-7021-4a3f-a34f-78c91c94fcd3",
    "company": "Northwood Space",
