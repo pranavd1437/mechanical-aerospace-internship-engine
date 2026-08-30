@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-30T05:38:48Z",
+ "generated_at": "2026-08-30T12:07:38Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 141,
+ "count": 139,
  "jobs": [
   {
    "id": "workday:ag:/job/Mobile-Area-AL/Summer-Internship---Manufacturing-Engineering_JR10435144",
@@ -2662,27 +2662,6 @@
    "remote": false
   },
   {
-   "id": "workday:graco:/job/Anoka-Minnesota-USA/CNC-Machine-Mechanic-Intern_R0023183",
-   "company": "Graco",
-   "title": "CNC Machine Mechanic Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Manufacturing & Quality",
-   "location": "Anoka, Minnesota, USA",
-   "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Anoka-Minnesota-USA/CNC-Machine-Mechanic-Intern_R0023183",
-   "posted_at": "2026-07-31T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-05T06:24:39Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "lever:pivotal:b05be1f0-20ff-4264-8839-4f18f97cbfb7",
    "company": "Pivotal Software",
    "title": "Internship, GNC Engineering (Fall)",
@@ -2706,30 +2685,6 @@
    "source": "lever",
    "h1b_approvals": 24,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:flextronics:/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357",
-   "company": "Flextronics International",
-   "title": "Industrial Engineering Co-Op - Fall 2026",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Manufacturing & Quality",
-   "location": "USA, SC, Orangeburg",
-   "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357",
-   "posted_at": "2026-07-30T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-05T06:24:39Z",
-   "sponsorship": "offers",
-   "salary": null,
-   "skills": [
-    "Six Sigma",
-    "Lean Manufacturing"
-   ],
-   "source": "workday",
-   "h1b_approvals": 65,
-   "program": "Co-op",
    "remote": false
   },
   {
