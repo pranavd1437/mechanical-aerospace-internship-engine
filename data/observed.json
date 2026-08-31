@@ -846,6 +846,20 @@
     }
    }
   },
+  "vermeer": {
+   "name": "Vermeer",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:vermeer:/job/Pella-Iowa-USA---Plant-3/Quality-Engineer-Intern---Summer-2027_REQ-22137",
+      "workday:vermeer:/job/Pella-Iowa-USA---The-Center/Design-Engineer-Intern---Summer-2027_REQ-22139",
+      "workday:vermeer:/job/Pella-Iowa-USA---The-Center/Manufacturing-Engineer-Intern---Summer-2027_REQ-22141"
+     ],
+     "count": 3
+    }
+   }
+  },
   "walt disney": {
    "name": "The Walt Disney Company",
    "cycles": {
@@ -925,5 +939,5 @@
    }
   }
  },
- "updated_at": "2026-08-30T21:21:34Z"
+ "updated_at": "2026-08-31T05:51:47Z"
 }

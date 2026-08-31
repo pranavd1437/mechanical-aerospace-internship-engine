@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-30T21:21:34Z</updated>
+  <updated>2026-08-31T05:51:48Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/DRAM-Product-Test-Engineer-Intern_JR110025</id>
+    <title>Micron Technology: Intern - DRAM Product Test Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Product-Test-Engineer-Intern_JR110025"/>
+    <updated>2026-08-31T05:51:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Boise, ID - Main Site · Python, C++, Linux · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/DRAM-Prodcut-Test-Engineer-Intern_JR109996</id>
+    <title>Micron Technology: Intern - DRAM Product Test Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Prodcut-Test-Engineer-Intern_JR109996"/>
+    <updated>2026-08-31T05:51:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Boise, ID - Main Site · Python, C++, Linux · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vermeer:/job/Pella-Iowa-USA---The-Center/Design-Engineer-Intern---Summer-2027_REQ-22139</id>
+    <title>Vermeer: Design Engineer Intern - Summer 2027</title>
+    <link href="https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---The-Center/Design-Engineer-Intern---Summer-2027_REQ-22139"/>
+    <updated>2026-08-31T05:51:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Pella, Iowa, USA - The Center · SolidWorks, FEA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vermeer:/job/Pella-Iowa-USA---Plant-3/Quality-Engineer-Intern---Summer-2027_REQ-22137</id>
+    <title>Vermeer: Quality Engineer Intern - Summer 2027</title>
+    <link href="https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Plant-3/Quality-Engineer-Intern---Summer-2027_REQ-22137"/>
+    <updated>2026-08-31T05:51:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Pella, Iowa, USA - Plant 3 · GD&amp;T, FMEA, Six Sigma, Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vermeer:/job/Pella-Iowa-USA---The-Center/Manufacturing-Engineer-Intern---Summer-2027_REQ-22141</id>
+    <title>Vermeer: Manufacturing Engineer Intern - Summer 2027</title>
+    <link href="https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---The-Center/Manufacturing-Engineer-Intern---Summer-2027_REQ-22141"/>
+    <updated>2026-08-31T05:51:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Pella, Iowa, USA - The Center · Teamcenter, Windchill, PLM, Lean Manufacturing</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ag:/job/Mobile-Area-AL/Summer-Internship---Manufacturing-Engineering_JR10435144</id>
     <title>Airbus: Summer Internship - Manufacturing Engineering</title>
@@ -766,45 +806,5 @@
     <updated>2026-08-11T07:49:50Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Boise, ID - Main Site · Python, MATLAB, LLMs, Verilog · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:1x:7d93444c-01f5-485c-89ef-24164f30441d</id>
-    <title>1X: Internship - Manufacturing Engineering (Fall)</title>
-    <link href="https://jobs.ashbyhq.com/1x/7d93444c-01f5-485c-89ef-24164f30441d"/>
-    <updated>2026-08-11T02:37:44Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · San Carlos, CA · $25 – $35 per hour · SolidWorks, CAD, DFM/DFA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:flir:/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562</id>
-    <title>Teledyne: Mechanical Engineering Intern 🇺🇸</title>
-    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562"/>
-    <updated>2026-08-10T13:58:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · US - Miamisburg, OH · SolidWorks · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:field-ai:88f05d6e-ee93-4fc5-80cd-efe6854e22bc</id>
-    <title>Field AI: Mechanical Engineer, Robotics Hardware - Part-Time Internship</title>
-    <link href="https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc"/>
-    <updated>2026-08-10T02:45:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Irvine, CA · 35–45 USD/hr · SolidWorks, CAD, GD&amp;T, FEA, CNC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:heinz:/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352</id>
-    <title>Kraft Heinz: 2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas</title>
-    <link href="https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352"/>
-    <updated>2026-08-08T13:20:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Garland, TX · H-1B track record: ~27 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049</id>
-    <title>Flextronics International: Mechanical Engineering Co-op - Fall 2026</title>
-    <link href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049"/>
-    <updated>2026-08-08T02:31:48Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Mechanical Design · USA, SC, Orangeburg · SolidWorks, CAD, Six Sigma · sponsorship: offers · H-1B track record: ~65 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
