@@ -158,6 +158,18 @@
     }
    }
   },
+  "barr": {
+   "name": "Barr",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:barr:/job/Minneapolis-MN/Internship---Mechanical-Engineer--Hybrid-_R-102306"
+     ],
+     "count": 1
+    }
+   }
+  },
   "bosch": {
    "name": "Bosch",
    "cycles": {
@@ -530,6 +542,19 @@
     }
    }
   },
+  "lexington medical": {
+   "name": "Lexington Medical",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "greenhouse:lexingtonmedical:5400185008",
+      "greenhouse:lexingtonmedical:5404584008"
+     ],
+     "count": 2
+    }
+   }
+  },
   "menasha": {
    "name": "Menasha Corporation",
    "cycles": {
@@ -552,6 +577,18 @@
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---Vaccine-Manufacturing-Co-op_R395900"
      ],
      "count": 2
+    }
+   }
+  },
+  "michelin": {
+   "name": "Michelin",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:michelinhr:/job/EMPORIA-KS/XMLNAME-2027-Summer-Mechanical-Engineer--Emporia--KS-_R-2026030587"
+     ],
+     "count": 1
     }
    }
   },
@@ -612,19 +649,37 @@
     }
    }
   },
+  "olsson": {
+   "name": "Olsson",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "greenhouse:olsson:5396012008",
+      "greenhouse:olsson:5396073008",
+      "greenhouse:olsson:5396095008",
+      "greenhouse:olsson:5408530008",
+      "greenhouse:olsson:5411244008"
+     ],
+     "count": 5
+    }
+   }
+  },
   "oshkosh": {
    "name": "Oshkosh",
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-27",
      "role_ids": [
+      "workday:oshkoshcorporation:/job/Appleton-Wisconsin-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49741",
       "workday:oshkoshcorporation:/job/Bradenton-Florida-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49821",
       "workday:oshkoshcorporation:/job/Bradenton-Florida-United-States/Mechanical-Design-Intern--Summer-2027-_R49820",
       "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49782",
       "workday:oshkoshcorporation:/job/Garner-Iowa-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49815",
+      "workday:oshkoshcorporation:/job/Kewaunee-Wisconsin-United-States/Engineer-Intern---Manufacturing--Summer-2027-_R49737",
       "workday:oshkoshcorporation:/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823"
      ],
-     "count": 5
+     "count": 7
     }
    }
   },
@@ -752,6 +807,18 @@
     }
    }
   },
+  "shield ai": {
+   "name": "Shield AI",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "lever:shieldai:c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a"
+     ],
+     "count": 1
+    }
+   }
+  },
   "sierra space": {
    "name": "Sierra Space",
    "cycles": {
@@ -773,6 +840,21 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1006349"
      ],
      "count": 1
+    }
+   }
+  },
+  "stryker": {
+   "name": "Stryker",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:stryker:/job/Cary-Illinois/Summer-2027-Internship---Mechanical-Engineering---Illinois_R572602",
+      "workday:stryker:/job/Portage-Michigan/Summer-2027-Internship---Mechanical-Engineering---Michigan_R572603",
+      "workday:stryker:/job/Portage-Michigan/Summer-2027-Internship---Quality-Engineering---Michigan_R572613",
+      "workday:stryker:/job/Tempe-Arizona/Summer-2027-Internship---Mechanical-Engineering---Arizona_R572599"
+     ],
+     "count": 4
     }
    }
   },
@@ -869,10 +951,12 @@
      "first_posted": "2026-08-31",
      "role_ids": [
       "workday:vermeer:/job/Pella-Iowa-USA---Plant-3/Quality-Engineer-Intern---Summer-2027_REQ-22137",
+      "workday:vermeer:/job/Pella-Iowa-USA---Shop-48/Test-Engineering-Internship-Summer-2027_REQ-22120",
+      "workday:vermeer:/job/Pella-Iowa-USA---The-Center/Advanced-Manufacturing-Intern---Summer-2027_REQ-22140",
       "workday:vermeer:/job/Pella-Iowa-USA---The-Center/Design-Engineer-Intern---Summer-2027_REQ-22139",
       "workday:vermeer:/job/Pella-Iowa-USA---The-Center/Manufacturing-Engineer-Intern---Summer-2027_REQ-22141"
      ],
-     "count": 3
+     "count": 5
     }
    }
   },
@@ -948,12 +1032,13 @@
       "oracle:emit.fa.ca3.oraclecloud.com:93367",
       "oracle:emit.fa.ca3.oraclecloud.com:93368",
       "oracle:emit.fa.ca3.oraclecloud.com:93468",
-      "oracle:emit.fa.ca3.oraclecloud.com:94185"
+      "oracle:emit.fa.ca3.oraclecloud.com:94185",
+      "oracle:emit.fa.ca3.oraclecloud.com:94305"
      ],
-     "count": 5
+     "count": 6
     }
    }
   }
  },
- "updated_at": "2026-08-31T14:10:40Z"
+ "updated_at": "2026-08-31T23:04:21Z"
 }

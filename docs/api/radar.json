@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T14:10:41Z",
+ "generated_at": "2026-08-31T23:04:22Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -364,7 +364,21 @@
    "expected": "2026-08-27",
    "days_until": -4,
    "status": "open",
-   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bradenton-Florida-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49821",
+   "note": ""
+  },
+  {
+   "company": "Shield AI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -4,
+   "status": "open",
+   "url": "https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
    "note": ""
   },
   {
@@ -407,6 +421,76 @@
    "days_until": 0,
    "status": "open",
    "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Houston-Texas/Fall---Spring-2026-2027-Co-Op---Manufacturing-Science---Technology_R-2026-47959",
+   "note": ""
+  },
+  {
+   "company": "Barr",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Mechanical-Engineer--Hybrid-_R-102306",
+   "note": ""
+  },
+  {
+   "company": "Lexington Medical",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5404584008",
+   "note": ""
+  },
+  {
+   "company": "Michelin",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EMPORIA-KS/XMLNAME-2027-Summer-Mechanical-Engineer--Emporia--KS-_R-2026030587",
+   "note": ""
+  },
+  {
+   "company": "Olsson",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/olsson/jobs/5396012008",
+   "note": ""
+  },
+  {
+   "company": "Stryker",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Quality-Engineering---Michigan_R572613",
    "note": ""
   },
   {
@@ -662,5 +746,5 @@
    "note": "fall opening"
   }
  ],
- "count": 47
+ "count": 53
 }
