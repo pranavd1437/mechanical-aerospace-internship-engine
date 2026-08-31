@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T05:51:48Z",
+ "generated_at": "2026-08-31T14:10:41Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -396,6 +396,20 @@
    "note": ""
   },
   {
+   "company": "Alcon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Houston-Texas/Fall---Spring-2026-2027-Co-Op---Manufacturing-Science---Technology_R-2026-47959",
+   "note": ""
+  },
+  {
    "company": "Vermeer",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -406,7 +420,7 @@
    "expected": "2026-08-31",
    "days_until": 0,
    "status": "open",
-   "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---The-Center/Design-Engineer-Intern---Summer-2027_REQ-22139",
+   "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Plant-3/Quality-Engineer-Intern---Summer-2027_REQ-22137",
    "note": ""
   },
   {
@@ -648,5 +662,5 @@
    "note": "fall opening"
   }
  ],
- "count": 46
+ "count": 47
 }

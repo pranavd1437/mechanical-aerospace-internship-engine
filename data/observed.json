@@ -51,6 +51,18 @@
     }
    }
   },
+  "alcon": {
+   "name": "Alcon",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:alcon:/job/Houston-Texas/Fall---Spring-2026-2027-Co-Op---Manufacturing-Science---Technology_R-2026-47959"
+     ],
+     "count": 1
+    }
+   }
+  },
   "alloy enterprises": {
    "name": "Alloy Enterprises",
    "cycles": {
@@ -606,9 +618,13 @@
     "Summer 2027": {
      "first_posted": "2026-08-27",
      "role_ids": [
+      "workday:oshkoshcorporation:/job/Bradenton-Florida-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49821",
+      "workday:oshkoshcorporation:/job/Bradenton-Florida-United-States/Mechanical-Design-Intern--Summer-2027-_R49820",
+      "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49782",
+      "workday:oshkoshcorporation:/job/Garner-Iowa-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49815",
       "workday:oshkoshcorporation:/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823"
      ],
-     "count": 1
+     "count": 5
     }
    }
   },
@@ -939,5 +955,5 @@
    }
   }
  },
- "updated_at": "2026-08-31T05:51:47Z"
+ "updated_at": "2026-08-31T14:10:40Z"
 }

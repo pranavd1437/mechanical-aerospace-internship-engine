@@ -5,15 +5,55 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-08-31T05:51:48Z</updated>
+  <updated>2026-08-31T14:10:41Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/DRAM-Product-Test-Engineer-Intern_JR110025</id>
-    <title>Micron Technology: Intern - DRAM Product Test Engineer</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Product-Test-Engineer-Intern_JR110025"/>
-    <updated>2026-08-31T05:51:47Z</updated>
+    <id>urn:intern-engine:workday:alcon:/job/Houston-Texas/Fall---Spring-2026-2027-Co-Op---Manufacturing-Science---Technology_R-2026-47959</id>
+    <title>Alcon: Spring + Summer 2027 Co-Op - Manufacturing Science &amp; Technology</title>
+    <link href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Houston-Texas/Fall---Spring-2026-2027-Co-Op---Manufacturing-Science---Technology_R-2026-47959"/>
+    <updated>2026-08-31T14:10:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Houston, Texas · FMEA · H-1B track record: ~57 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000146471610</id>
+    <title>Bosch: Mechanical Design Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000146471610"/>
+    <updated>2026-08-31T14:10:40Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Boise, ID - Main Site · Python, C++, Linux · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Mechanical Design · Fort Lauderdale, FL, United States · Siemens NX, CAD, FEA · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49782</id>
+    <title>Oshkosh: Engineer Intern - Mechanical (Summer 2027)</title>
+    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49782"/>
+    <updated>2026-08-31T14:10:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Dodge Center, Minnesota, United States · CATIA, CAD, PLM</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Garner-Iowa-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49815</id>
+    <title>Oshkosh: Engineer Intern - Mechanical (Summer 2027)</title>
+    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Garner-Iowa-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49815"/>
+    <updated>2026-08-31T14:10:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Garner, Iowa, United States · CATIA, CAD, PLM</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Bradenton-Florida-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49821</id>
+    <title>Oshkosh: Engineer Intern - Mechanical (Summer 2027)</title>
+    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bradenton-Florida-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49821"/>
+    <updated>2026-08-31T14:10:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Bradenton, Florida, United States · SolidWorks, CATIA, AutoCAD, CAD, Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Bradenton-Florida-United-States/Mechanical-Design-Intern--Summer-2027-_R49820</id>
+    <title>Oshkosh: Mechanical Design Intern (Summer 2027)</title>
+    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bradenton-Florida-United-States/Mechanical-Design-Intern--Summer-2027-_R49820"/>
+    <updated>2026-08-31T14:10:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Bradenton, Florida, United States · CATIA, CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/DRAM-Prodcut-Test-Engineer-Intern_JR109996</id>
@@ -24,12 +64,12 @@
     <summary>Not stated · Test &amp; Validation · Boise, ID - Main Site · Python, C++, Linux · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:vermeer:/job/Pella-Iowa-USA---The-Center/Design-Engineer-Intern---Summer-2027_REQ-22139</id>
-    <title>Vermeer: Design Engineer Intern - Summer 2027</title>
-    <link href="https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---The-Center/Design-Engineer-Intern---Summer-2027_REQ-22139"/>
+    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/DRAM-Product-Test-Engineer-Intern_JR110025</id>
+    <title>Micron Technology: Intern - DRAM Product Test Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Product-Test-Engineer-Intern_JR110025"/>
     <updated>2026-08-31T05:51:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Pella, Iowa, USA - The Center · SolidWorks, FEA</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Boise, ID - Main Site · Python, C++, Linux · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:vermeer:/job/Pella-Iowa-USA---Plant-3/Quality-Engineer-Intern---Summer-2027_REQ-22137</id>
@@ -38,6 +78,14 @@
     <updated>2026-08-31T05:51:47Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Pella, Iowa, USA - Plant 3 · GD&amp;T, FMEA, Six Sigma, Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vermeer:/job/Pella-Iowa-USA---The-Center/Design-Engineer-Intern---Summer-2027_REQ-22139</id>
+    <title>Vermeer: Design Engineer Intern - Summer 2027</title>
+    <link href="https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---The-Center/Design-Engineer-Intern---Summer-2027_REQ-22139"/>
+    <updated>2026-08-31T05:51:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Pella, Iowa, USA - The Center · SolidWorks, FEA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:vermeer:/job/Pella-Iowa-USA---The-Center/Manufacturing-Engineer-Intern---Summer-2027_REQ-22141</id>
@@ -758,53 +806,5 @@
     <updated>2026-08-13T03:10:46Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:odys-aviation:8f5e460a-98a4-4fd8-b880-d22071faa29f</id>
-    <title>Odys Aviation: Mechanical Engineering Intern/Co-Op [Propulsion]</title>
-    <link href="https://jobs.ashbyhq.com/odys-aviation/8f5e460a-98a4-4fd8-b880-d22071faa29f"/>
-    <updated>2026-08-12T02:57:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Long Beach CA · SolidWorks, Siemens NX, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1</id>
-    <title>Ameren: Mechanical Engineering Fall Co-Op</title>
-    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1"/>
-    <updated>2026-08-12T02:57:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1</id>
-    <title>Ameren: Mechanical Engineering Spring Co-Op</title>
-    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1"/>
-    <updated>2026-08-12T02:57:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448</id>
-    <title>Micron Technology: Intern - DRAM Design Engineer</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448"/>
-    <updated>2026-08-11T07:49:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Boise, ID - Main Site · Verilog · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468</id>
-    <title>Micron Technology: Intern - DRAM Design Engineer</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468"/>
-    <updated>2026-08-11T07:49:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Boise, ID - Main Site · CAD, LLMs · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471</id>
-    <title>Micron Technology: Intern - DRAM IP Circuits Design Engineer</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471"/>
-    <updated>2026-08-11T07:49:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Boise, ID - Main Site · Python, MATLAB, LLMs, Verilog · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
