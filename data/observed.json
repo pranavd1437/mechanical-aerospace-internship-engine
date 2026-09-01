@@ -146,6 +146,18 @@
     }
    }
   },
+  "availity": {
+   "name": "Availity",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:availity:/job/Remote---United-States/Automation-Engineer-Intern_R0008417"
+     ],
+     "count": 1
+    }
+   }
+  },
   "axon": {
    "name": "Axon",
    "cycles": {
@@ -412,6 +424,13 @@
       "lever:hermeus:a949f158-6900-42e1-890d-fb3ec339c3d0"
      ],
      "count": 5
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "lever:hermeus:643fd7b7-9015-43a1-aa2b-a54f117b403c"
+     ],
+     "count": 1
     }
    }
   },
@@ -604,6 +623,18 @@
     }
    }
   },
+  "moog": {
+   "name": "Moog",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:moog:/job/Torrance-CA/Actuation-Engineer-Intern--Summer-2027-_R-26-19612"
+     ],
+     "count": 1
+    }
+   }
+  },
   "mosaic": {
    "name": "Mosaic",
    "cycles": {
@@ -696,9 +727,12 @@
     "Summer 2027": {
      "first_posted": "2026-08-25",
      "role_ids": [
-      "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902"
+      "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902",
+      "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Murrysville--PA-January-June-2027_580754",
+      "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Reedsville--PA--July---December-2027_587808",
+      "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807"
      ],
-     "count": 1
+     "count": 4
     }
    }
   },
@@ -1053,5 +1087,5 @@
    }
   }
  },
- "updated_at": "2026-09-01T11:53:10Z"
+ "updated_at": "2026-09-01T16:51:40Z"
 }
