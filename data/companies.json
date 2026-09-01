@@ -3417,6 +3417,13 @@
     "site": "JDA_Careers"
   },
   {
+    "name": "BlueCross BlueShield of Nebraska",
+    "slug": "nebraskablue",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "BCBSNE"
+  },
+  {
     "name": "BlueCross BlueShield of South Carolina",
     "slug": "ourhrconnect",
     "ats": "workday",
@@ -5230,6 +5237,11 @@
   {
     "name": "Clera",
     "slug": "clera",
+    "ats": "ashby"
+  },
+  {
+    "name": "Clerk",
+    "slug": "clerk",
     "ats": "ashby"
   },
   {
@@ -9922,6 +9934,11 @@
     "site": "CX_1"
   },
   {
+    "name": "GMO",
+    "slug": "gmo",
+    "ats": "lever"
+  },
+  {
     "name": "Go Fish Digital",
     "slug": "gofishdigital",
     "ats": "rippling"
@@ -12411,6 +12428,11 @@
     "name": "k-ID",
     "slug": "k-id",
     "ats": "ashby"
+  },
+  {
+    "name": "K2 Space",
+    "slug": "k2spacecorporation",
+    "ats": "greenhouse"
   },
   {
     "name": "Kabam",
@@ -17547,6 +17569,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "Plug_Power_Inc"
+  },
+  {
+    "name": "Pluralis Research",
+    "slug": "pluralis-research",
+    "ats": "ashby"
   },
   {
     "name": "Pluralsight",
