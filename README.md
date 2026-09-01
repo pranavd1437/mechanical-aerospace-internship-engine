@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/pranavd1437/mechanical-aerospace-internship-engine/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/pranavd1437/mechanical-aerospace-internship-engine/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fpranavd1437.github.io%2Fmechanical-aerospace-internship-engine%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%206%20hours-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)
 
-### 177 open roles (134 listed below) · 87 new this week
+### 176 open roles (133 listed below) · 83 new this week
 
-4,265 employers tracked · updated Sep 01, 2026 at 05:24 UTC
+4,265 employers tracked · updated Sep 01, 2026 at 11:53 UTC
 
-_104 have a cycle the employer stated · 73 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_103 have a cycle the employer stated · 73 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)** · **[📡 RSS](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)** · **[⚙️ JSON API](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/api/jobs.json)**
 
@@ -88,8 +88,8 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Texas Instruments ✓ | 2027 Manufacturing Technician Intern (Lehi, UT) 🛂 🆕 | Manufacturing & Quality | Lehi, UT, United States | No skills listed | Sep 01, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017496) |
 | Texas Instruments ✓ | 2027 Manufacturing Technician Intern (Dallas/Richardson, TX) 🛂 🆕 | Manufacturing & Quality | Richardson, TX, United States | No skills listed | Sep 01, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017474) |
+| Texas Instruments ✓ | 2027 Manufacturing Technician Intern (Lehi, UT) 🛂 🆕 | Manufacturing & Quality | Lehi, UT, United States | No skills listed | Sep 01, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017496) |
 | Lexington Medical | Mechanical Engineering Intern 🆕 | Mechanical Design | Bedford, MA | No skills listed | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400185008) |
 | Lexington Medical | Manufacturing Engineering Intern 🆕 | Manufacturing & Quality | Bedford, MA | No skills listed | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5404584008) |
 | Olsson | Mechanical Engineering Internship - Data Center Facilities 🆕 | Mechanical Design | North Kansas City, MO; Tulsa, OK | No skills listed | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396012008) |
@@ -149,13 +149,12 @@ If it helps you, a star means a lot and tells me to keep going.
 | Anduril | 2027 Mechanical Engineer Intern 🇺🇸 | Mechanical Design | Atlanta +26 more | SolidWorks, Siemens NX, CAD, FEA | Jun 11, 2026 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
 | Anduril | 2027 Manufacturing Engineer Intern 🇺🇸 | Manufacturing & Quality | Atlanta +23 more | Computer Vision | Jun 11, 2026 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
 
-## Fall 2026  (26 employer-stated)
+## Fall 2026  (25 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Fortive | Test Engineer Co-Op | Test & Validation | Everett, WA, United States | No skills listed | Aug 28, 2026 | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10562) |
 | Northrop Grumman | 2026 Part-Time Mechanical Engineering Intern - Chandler AZ 🇺🇸 | Mechanical Design | United States-Arizona-Chandler | No skills listed | Aug 26, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Mechanical-Engineering-Intern---Chandler-AZ_R10247965) |
-| Philips | Co-op - Robotics Mechatronics, Surgical Robotics - Cambridge, MA - Fall 2026 | Controls & Mechatronics | Cambridge (US) +2 more | SolidWorks, CAD | Aug 25, 2026 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---Fall-2026_589905) |
 | The Walt Disney Company | Disneyland Quality Engineering Intern, Fall 2026 | Manufacturing & Quality | Anaheim, CA, USA | No skills listed | Aug 24, 2026 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Quality-Engineering-Intern--Fall-2026_10158416-2) |
 | ABB ✓ | Manufacturing Engineering/Documentation Intern - Fall 2026 🛂 | Manufacturing & Quality | USA, AR, Jonesboro | No skills listed | Aug 19, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298) |
 | True Anomaly | Propulsion and Fluids Intern 🇺🇸 | Thermal, Fluids & Propulsion | Long Beach, CA | Python, MATLAB, CAD, LabVIEW | Aug 18, 2026 | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5213706007) |
@@ -186,10 +185,10 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Emerson Electric | Design Engineering Co-Op 🆕 | Mechanical Design | Marshalltown, IA, United States | No skills listed | Sep 01, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008754) |
+| Emerson Electric | Materials Engineer Co-Op 🆕 | Materials Engineering | Marshalltown, IA, United States | No skills listed | Sep 01, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008778) |
+| Emerson Electric | Manufacturing Engineering Co-Op 🆕 | Manufacturing & Quality | Marshalltown, IA, United States | SolidWorks, CAD | Sep 01, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009034) |
 | Brunswick ✓ | Mercury Marine: Materials Engineering Co-op 🆕 | Materials Engineering | Fond du Lac, WI | No skills listed | Sep 01, 2026 | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Materials-Engineering-Co-op_JR-051139) |
-| Emerson Electric | Manufacturing Engineering Intern 🆕 | Manufacturing & Quality | Houston, TX, United States | Six Sigma | Sep 01, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009736) |
-| Emerson Electric | Manufacturing Engineering Intern 🆕 | Manufacturing & Quality | Boulder, CO, United States | Six Sigma | Sep 01, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009481) |
-| Emerson Electric | Manufacturing Engineering Intern 🆕 | Manufacturing & Quality | Shakopee, MN, United States | Six Sigma | Sep 01, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009624) |
 | Niagara Bottling ✓ | Manufacturing Intern - Temple 🆕 | Manufacturing & Quality | Temple - Temple, TX | No skills listed | Sep 01, 2026 | [Apply](https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Temple---Temple-TX/Manufacturing-Intern---Temple_R56074) |
 | Olsson | Revit Drafting Internship - Mechanical 🆕 | Mechanical Design | North Kansas City, MO; Tulsa, OK | CAD | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396260008) |
 | Olsson | Mechanical Engineering Internship - Industrial Facilities 🆕 | Mechanical Design | Lincoln, NE; Omaha, NE | AutoCAD | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5407109008) |
@@ -278,6 +277,7 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Philips | Co-op - Robotics Mechatronics, Surgical Robotics - Cambridge, MA - Fall 2026 | Fall 2026 | 2026-09-01 | gone from feed |
 | Axon | 2027 US Mechanical Engineering Internship | Summer 2027 | 2026-09-01 | gone from feed |
 | Rendezvous Robotics | Mechanical Engineering Intern (Fall 2026) | Fall 2026 | 2026-09-01 | gone from feed |
 | Rendezvous Robotics | Manufacturing and Test Engineering Intern (Fall 2026) | Fall 2026 | 2026-09-01 | gone from feed |
@@ -317,7 +317,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | SharkNinja | Fall 2026: SQA Automation Engineering Co-op (August to December) | Fall 2026 | 2026-08-20 | gone from feed |
 | Renesas Electronics | Digital Design Engineer Intern | Fall 2026 | 2026-08-20 | gone from feed |
 | Western Digital | Fall 2026 Intern - Failure Analysis Automation Engineering | Fall 2026 | 2026-08-20 | gone from feed |
-| IMEG | Mechanical Engineering Intern / Rock Island, IL | Summer 2027 | 2026-08-20 | gone from feed |
 
 </details>
 
@@ -336,7 +335,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,034 of 4,369 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 357.4s · 101 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,980 of 4,369 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 428.7s · 102 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
