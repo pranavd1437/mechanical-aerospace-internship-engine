@@ -192,6 +192,13 @@
       "smartrecruiters:BoschGroup:744000141923029"
      ],
      "count": 2
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "smartrecruiters:BoschGroup:744000146800238"
+     ],
+     "count": 1
     }
    }
   },
@@ -345,9 +352,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-20",
      "role_ids": [
-      "greenhouse:generalmatter:5376060008"
+      "greenhouse:generalmatter:5376060008",
+      "greenhouse:generalmatter:5377104008"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -623,6 +631,18 @@
     }
    }
   },
+  "mondelez international": {
+   "name": "Mondelez International",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:mdlz:/job/Naperville-Illinois-United-States/Manufacturing--Process-Engineering-Co-Op-For-Naperville--IL-Local-Candidates-Only-_R-176632"
+     ],
+     "count": 1
+    }
+   }
+  },
   "moog": {
    "name": "Moog",
    "cycles": {
@@ -865,6 +885,18 @@
     }
    }
   },
+  "stanley black decker": {
+   "name": "Stanley Black & Decker",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:sbdinc:/job/Towson-MD-United-States/Mechanical-Engineering-Intern-Summer-2027_REQ-1000052017"
+     ],
+     "count": 1
+    }
+   }
+  },
   "stantec": {
    "name": "Stantec",
    "cycles": {
@@ -947,9 +979,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-28",
      "role_ids": [
+      "workday:hcmportal:/job/US---JEFFERSON-HUB-ILJEF/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Chicago-IL_R26030597",
       "workday:hcmportal:/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1087,5 +1120,5 @@
    }
   }
  },
- "updated_at": "2026-09-01T16:51:40Z"
+ "updated_at": "2026-09-01T21:14:35Z"
 }
