@@ -870,6 +870,19 @@
     }
    }
   },
+  "texas instruments": {
+   "name": "Texas Instruments",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "oracle:edbz.fa.us2.oraclecloud.com:25017474",
+      "oracle:edbz.fa.us2.oraclecloud.com:25017496"
+     ],
+     "count": 2
+    }
+   }
+  },
   "toshiba global commerce": {
    "name": "Toshiba Global Commerce",
    "cycles": {
@@ -1040,5 +1053,5 @@
    }
   }
  },
- "updated_at": "2026-08-31T23:04:21Z"
+ "updated_at": "2026-09-01T05:24:29Z"
 }
