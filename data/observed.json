@@ -368,6 +368,16 @@
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--Materials-Science---Metallurgical-Engineering_JR-202612790"
      ],
      "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352",
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering--Global-Propulsion-Systems_JR-202619351",
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346",
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348"
+     ],
+     "count": 4
     }
    }
   },
@@ -436,9 +446,12 @@
     "Summer 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
-      "lever:hermeus:643fd7b7-9015-43a1-aa2b-a54f117b403c"
+      "lever:hermeus:1bdf3754-5649-4a50-913e-b05140cb004f",
+      "lever:hermeus:60b5d40a-1065-4bd2-8c72-6b2fb69d4761",
+      "lever:hermeus:643fd7b7-9015-43a1-aa2b-a54f117b403c",
+      "lever:hermeus:6b65768c-a8b2-4c77-8d5f-f407e32bb878"
      ],
-     "count": 1
+     "count": 4
     }
    }
   },
@@ -682,9 +695,10 @@
      "first_posted": "2026-08-07",
      "role_ids": [
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
+      "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1120,5 +1134,5 @@
    }
   }
  },
- "updated_at": "2026-09-01T21:14:35Z"
+ "updated_at": "2026-09-02T04:51:16Z"
 }
