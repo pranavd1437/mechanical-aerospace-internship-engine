@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-02T04:51:17Z</updated>
+  <updated>2026-09-02T11:34:32Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:1bdf3754-5649-4a50-913e-b05140cb004f</id>
+    <title>Hermeus: Manufacturing Engineering Intern - Spring/Summer 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f"/>
+    <updated>2026-09-02T04:51:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Atlanta, GA · 25–33 USD/hr · CAD, GD&amp;T · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:60b5d40a-1065-4bd2-8c72-6b2fb69d4761</id>
+    <title>Hermeus: Structures/Mechanical Engineering Intern - Spring/Summer 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761"/>
+    <updated>2026-09-02T04:51:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · Atlanta, GA · 25–33 USD/hr · Siemens NX, CAD, Teamcenter · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:6b65768c-a8b2-4c77-8d5f-f407e32bb878</id>
+    <title>Hermeus: Structures Engineering Intern - Spring/Summer/Fall 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/6b65768c-a8b2-4c77-8d5f-f407e32bb878"/>
+    <updated>2026-09-02T04:51:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · Los Angeles, CA · 25–33 USD/hr · Siemens NX, CAD, GD&amp;T, Teamcenter, DFM/DFA · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Mechatronics-Intern_JR-051269</id>
     <title>Brunswick: Mercury Marine: Mechatronics Intern</title>
@@ -14,22 +38,6 @@
     <updated>2026-09-02T04:51:16Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Controls &amp; Mechatronics · Fond du Lac, WI · $18–$27.5/hr · Python, MATLAB · H-1B track record: ~54 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346</id>
-    <title>General Motors: 2027 Summer Intern – Manufacturing Engineering General Assembly</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346"/>
-    <updated>2026-09-02T04:51:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Warren, Michigan, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348</id>
-    <title>General Motors: 2027 Summer Intern – Manufacturing Engineering Global Automation</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348"/>
-    <updated>2026-09-02T04:51:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Warren, Michigan, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352</id>
@@ -48,28 +56,20 @@
     <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Warren, Michigan, United States of America · Python, MATLAB, SolidWorks, Siemens NX, CATIA · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:hermeus:1bdf3754-5649-4a50-913e-b05140cb004f</id>
-    <title>Hermeus: Manufacturing Engineering Intern - Spring/Summer 2027 🇺🇸</title>
-    <link href="https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f"/>
+    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346</id>
+    <title>General Motors: 2027 Summer Intern – Manufacturing Engineering General Assembly</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346"/>
     <updated>2026-09-02T04:51:16Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Atlanta, GA · 25–33 USD/hr · CAD, GD&amp;T · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Warren, Michigan, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:hermeus:6b65768c-a8b2-4c77-8d5f-f407e32bb878</id>
-    <title>Hermeus: Structures Engineering Intern - Spring/Summer/Fall 2027 🇺🇸</title>
-    <link href="https://jobs.lever.co/hermeus/6b65768c-a8b2-4c77-8d5f-f407e32bb878"/>
+    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348</id>
+    <title>General Motors: 2027 Summer Intern – Manufacturing Engineering Global Automation</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348"/>
     <updated>2026-09-02T04:51:16Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Los Angeles, CA · 25–33 USD/hr · Siemens NX, CAD, GD&amp;T, Teamcenter, DFM/DFA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:hermeus:60b5d40a-1065-4bd2-8c72-6b2fb69d4761</id>
-    <title>Hermeus: Structures/Mechanical Engineering Intern - Spring/Summer 2027 🇺🇸</title>
-    <link href="https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761"/>
-    <updated>2026-09-02T04:51:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Atlanta, GA · 25–33 USD/hr · Siemens NX, CAD, Teamcenter · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Warren, Michigan, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838</id>
@@ -80,20 +80,20 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Mississippi-Iuka · $17.5–$31.75/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:stryker:/job/Redmond-Washington/Mechanical-Engineering-Intern_R572728</id>
-    <title>Stryker: Mechanical Engineering Intern</title>
-    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Redmond-Washington/Mechanical-Engineering-Intern_R572728"/>
-    <updated>2026-09-02T04:51:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Redmond, Washington · CAD, FEA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:stryker:/job/Flower-Mound-Texas/Quality-Engineering-Intern_R572886</id>
     <title>Stryker: Quality Engineering Intern</title>
     <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Quality-Engineering-Intern_R572886"/>
     <updated>2026-09-02T04:51:16Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Flower Mound, Texas · CAD, LabVIEW · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:stryker:/job/Redmond-Washington/Mechanical-Engineering-Intern_R572728</id>
+    <title>Stryker: Mechanical Engineering Intern</title>
+    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Redmond-Washington/Mechanical-Engineering-Intern_R572728"/>
+    <updated>2026-09-02T04:51:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Redmond, Washington · CAD, FEA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:generalmatter:5377104008</id>
@@ -398,14 +398,6 @@
     <updated>2026-09-01T05:24:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Shakopee, MN, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26009677</id>
-    <title>Emerson Electric: Test Engineering Intern</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009677"/>
-    <updated>2026-09-01T05:24:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Shakopee, MN, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26009736</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-26T20:17:25Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Malvern, AR · H-1B track record: ~33 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine---Heat-Treat-Metallurgical-Engineer-Co-op_JR-051013</id>
+    <title>Brunswick: Mercury Marine - Heat Treat Metallurgical Engineer Co-op</title>
+    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine---Heat-Treat-Metallurgical-Engineer-Co-op_JR-051013"/>
+    <updated>2026-08-26T02:09:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Materials Engineering · Fond du Lac, WI · $18–$27.5/hr · H-1B track record: ~54 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
