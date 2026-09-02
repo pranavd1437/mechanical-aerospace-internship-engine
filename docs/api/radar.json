@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T16:47:06Z",
+ "generated_at": "2026-09-02T21:14:11Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -141,6 +141,20 @@
    "days_until": -16,
    "status": "open",
    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Columbus-OH/Mechanical-Engineering-Intern---Columbus--OH_R-16523",
+   "note": ""
+  },
+  {
+   "company": "WSP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -16,
+   "status": "open",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94538",
    "note": ""
   },
   {
@@ -741,20 +755,6 @@
    "source": "engine",
    "expected": "2026-08-13",
    "days_until": -20,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "WSP",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -16,
    "status": "dropped",
    "url": "",
    "note": ""

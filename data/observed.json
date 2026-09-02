@@ -13,9 +13,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-27",
      "role_ids": [
+      "workday:abb:/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726",
+      "workday:abb:/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727",
       "workday:abb:/job/USA-NJ-Hackettstown/Manufacturing-Engineering-Intern---Summer-2027_JR00044977"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -993,12 +995,14 @@
     "Summer 2027": {
      "first_posted": "2026-08-28",
      "role_ids": [
+      "workday:hcmportal:/job/US---BAYONNE-CENTER-NJBAY/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Bayonne-NJ_R26030793",
       "workday:hcmportal:/job/US---JEFFERSON-HUB-ILJEF/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Chicago-IL_R26030597",
       "workday:hcmportal:/job/US---PORTLAND-HUB-ORPOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Portland--OR_R26030709",
+      "workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Atlanta--GA_R26030769",
       "workday:hcmportal:/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1",
       "workday:hcmportal:/job/US---UTAH-REGIONAL-HUB-UTLKE/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Salt-Lake-City--UT_R26030699"
      ],
-     "count": 4
+     "count": 6
     }
    }
   },
@@ -1129,12 +1133,13 @@
       "oracle:emit.fa.ca3.oraclecloud.com:93368",
       "oracle:emit.fa.ca3.oraclecloud.com:93468",
       "oracle:emit.fa.ca3.oraclecloud.com:94185",
-      "oracle:emit.fa.ca3.oraclecloud.com:94305"
+      "oracle:emit.fa.ca3.oraclecloud.com:94305",
+      "oracle:emit.fa.ca3.oraclecloud.com:94538"
      ],
-     "count": 6
+     "count": 7
     }
    }
   }
  },
- "updated_at": "2026-09-02T16:47:05Z"
+ "updated_at": "2026-09-02T21:14:10Z"
 }
