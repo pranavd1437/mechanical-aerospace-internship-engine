@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T04:47:11Z",
+ "generated_at": "2026-09-03T11:30:59Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -550,17 +550,17 @@
    "note": ""
   },
   {
-   "company": "Texas Instruments",
+   "company": "Momentive",
    "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
+   "posted_on": "2026-09-03",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -2,
+   "expected": "2026-09-03",
+   "days_until": 0,
    "status": "open",
-   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017474",
+   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Supplier-Quality_R9737",
    "note": ""
   },
   {
@@ -828,7 +828,21 @@
    "status": "dropped",
    "url": "",
    "note": ""
+  },
+  {
+   "company": "Texas Instruments",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   }
  ],
- "count": 59
+ "count": 60
 }

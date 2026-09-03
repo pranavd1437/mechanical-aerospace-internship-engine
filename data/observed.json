@@ -648,6 +648,18 @@
     }
    }
   },
+  "momentive": {
+   "name": "Momentive",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Supplier-Quality_R9737"
+     ],
+     "count": 1
+    }
+   }
+  },
   "mondelez international": {
    "name": "Mondelez International",
    "cycles": {
@@ -1143,5 +1155,5 @@
    }
   }
  },
- "updated_at": "2026-09-03T04:47:10Z"
+ "updated_at": "2026-09-03T11:30:58Z"
 }
