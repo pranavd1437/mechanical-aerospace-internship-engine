@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T16:38:22Z",
+ "generated_at": "2026-09-03T21:13:58Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -154,7 +154,7 @@
    "expected": "2026-08-17",
    "days_until": -17,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94538",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94400",
    "note": ""
   },
   {
@@ -480,6 +480,20 @@
    "note": ""
   },
   {
+   "company": "FOTH",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "open",
+   "url": "https://jobs.lever.co/foth/d4e4eaf1-4046-4a8d-ae73-882f39355907",
+   "note": ""
+  },
+  {
    "company": "General Motors",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -490,7 +504,7 @@
    "expected": "2026-09-01",
    "days_until": -2,
    "status": "open",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Kansas-City-Kansas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Tool-and-Die_JR-202619470",
    "note": "fall opening"
   },
   {
@@ -550,6 +564,20 @@
    "note": ""
   },
   {
+   "company": "AECOM",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000147333760",
+   "note": ""
+  },
+  {
    "company": "Momentive",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
@@ -589,6 +617,20 @@
    "days_until": 0,
    "status": "open",
    "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Mechanical-Engineering-Intern---Summer-2027_R101696",
+   "note": ""
+  },
+  {
+   "company": "Sierra Nevada Corporation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Quality-Engineering-Intern--Summer-2027-_R0030785",
    "note": ""
   },
   {
@@ -872,5 +914,5 @@
    "note": ""
   }
  ],
- "count": 62
+ "count": 65
 }
