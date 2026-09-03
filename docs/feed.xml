@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-03T11:30:59Z</updated>
+  <updated>2026-09-03T16:38:22Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Kansas-City-Kansas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Tool-and-Die_JR-202619470</id>
+    <title>General Motors: 2027 Summer Intern – Manufacturing Tool and Die</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Kansas-City-Kansas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Tool-and-Die_JR-202619470"/>
+    <updated>2026-09-03T16:38:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Kansas City, Kansas, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Design-Engineering_R-26-19259</id>
+    <title>Moog: Intern, Design Engineering</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Design-Engineering_R-26-19259"/>
+    <updated>2026-09-03T16:38:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Buffalo, NY</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Elgin-IL/Industrial-Engineer--Continuous-Improvement-Summer-Internship-2027_R68051</id>
+    <title>Motorola: Industrial Engineer: Continuous Improvement Summer Internship 2027</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Elgin-IL/Industrial-Engineer--Continuous-Improvement-Summer-Internship-2027_R68051"/>
+    <updated>2026-09-03T16:38:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Elgin, IL · Lean Manufacturing · H-1B track record: ~191 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:niantic-spatial:02fe210c-a0d9-419f-a0c0-da32d9ff7307</id>
+    <title>Niantic Spatial: Robotics Engineering Intern - Fall 2026</title>
+    <link href="https://jobs.ashbyhq.com/niantic-spatial/02fe210c-a0d9-419f-a0c0-da32d9ff7307"/>
+    <updated>2026-09-03T16:38:21Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Controls &amp; Mechatronics · San Francisco, CA · $50 – $65 per hour · Python, PyTorch</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:poet:/job/Sioux-Falls-SD/Mechanical-Engineering-Intern---Summer-2027_R101696</id>
+    <title>POET: Mechanical Engineering Intern - Summer 2027</title>
+    <link href="https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Mechanical-Engineering-Intern---Summer-2027_R101696"/>
+    <updated>2026-09-03T16:38:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Sioux Falls, SD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trumpf:/job/Farmington-CT/Manufacturing-Intern_R00042879</id>
+    <title>TRUMPF: Manufacturing Intern</title>
+    <link href="https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Farmington-CT/Manufacturing-Intern_R00042879"/>
+    <updated>2026-09-03T16:38:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Farmington, CT · SolidWorks</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Supplier-Quality_R9737</id>
     <title>Momentive: Summer 2027 Intern - Supplier Quality</title>
@@ -758,53 +806,5 @@
     <updated>2026-09-01T16:51:40Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Farmington, CT · SolidWorks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:trumpf:/job/Farmington-CT/Manufacturing-Smart-Factory-Intern_R00042597</id>
-    <title>TRUMPF: Manufacturing Smart Factory Intern</title>
-    <link href="https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Farmington-CT/Manufacturing-Smart-Factory-Intern_R00042597"/>
-    <updated>2026-09-01T16:51:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Farmington, CT · SolidWorks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:trumpf:/job/Farmington-CT/Mechanical-Engineering-Intern_R00042708</id>
-    <title>TRUMPF: Mechanical Engineering Intern</title>
-    <link href="https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Farmington-CT/Mechanical-Engineering-Intern_R00042708"/>
-    <updated>2026-09-01T16:51:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Farmington, CT · SolidWorks, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:trumpf:/job/Plymouth-MI/Mechatronics-Intern_R00042702-1</id>
-    <title>TRUMPF: Mechatronics Intern</title>
-    <link href="https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Plymouth-MI/Mechatronics-Intern_R00042702-1"/>
-    <updated>2026-09-01T16:51:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Plymouth, MI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26008754</id>
-    <title>Emerson Electric: Design Engineering Co-Op</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008754"/>
-    <updated>2026-09-01T05:24:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Marshalltown, IA, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26008778</id>
-    <title>Emerson Electric: Materials Engineer Co-Op</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008778"/>
-    <updated>2026-09-01T05:24:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Materials Engineering · Marshalltown, IA, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26009034</id>
-    <title>Emerson Electric: Manufacturing Engineering Co-Op</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009034"/>
-    <updated>2026-09-01T05:24:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Marshalltown, IA, United States · SolidWorks, CAD</summary>
   </entry>
 </feed>

@@ -375,13 +375,14 @@
     "Summer 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
+      "workday:generalmotors:/job/Kansas-City-Kansas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Tool-and-Die_JR-202619470",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Body-Center_JR-202619475",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering--Global-Propulsion-Systems_JR-202619351",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -696,6 +697,30 @@
     }
    }
   },
+  "motorola": {
+   "name": "Motorola",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "workday:motorolasolutions:/job/Elgin-IL/Industrial-Engineer--Continuous-Improvement-Summer-Internship-2027_R68051"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "niantic spatial": {
+   "name": "Niantic Spatial",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-06",
+     "role_ids": [
+      "ashby:niantic-spatial:02fe210c-a0d9-419f-a0c0-da32d9ff7307"
+     ],
+     "count": 1
+    }
+   }
+  },
   "northrop grumman": {
    "name": "Northrop Grumman",
    "cycles": {
@@ -793,6 +818,18 @@
      "first_posted": "2026-08-04",
      "role_ids": [
       "greenhouse:phoenixcontact:7817228003"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "poet": {
+   "name": "POET",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "workday:poet:/job/Sioux-Falls-SD/Mechanical-Engineering-Intern---Summer-2027_R101696"
      ],
      "count": 1
     }
@@ -1155,5 +1192,5 @@
    }
   }
  },
- "updated_at": "2026-09-03T11:30:58Z"
+ "updated_at": "2026-09-03T16:38:21Z"
 }
