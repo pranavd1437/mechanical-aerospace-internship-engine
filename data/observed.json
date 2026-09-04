@@ -292,9 +292,11 @@
       "workday:elanco:/job/Clinton-IN/Manufacturing-Scientist-Quality-Control-Chemist-Intern---Clinton--Indiana--Summer-2027-_R0026870",
       "workday:elanco:/job/Clinton-IN/Manufacturing-Scientist-Technical-Services-Intern---Clinton--Indiana--Summer-2027-_R0026869-1",
       "workday:elanco:/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899",
+      "workday:elanco:/job/Fort-Dodge-IA/Manufacturing-Scientist-Quality-Control-Chemist-Intern---Fort-Dodge--Iowa--Summer-2027-_R0027070",
+      "workday:elanco:/job/Fort-Dodge-IA/Manufacturing-Scientist-Technical-Services-Intern---Fort-Dodge--Iowa--Summer-2027-_R0027069-1",
       "workday:elanco:/job/Indianapolis-IN/Manufacturing-Scientist-Technical-Services-Intern---Elanco-Technology-Center--Summer-2027-_R0026897"
      ],
-     "count": 4
+     "count": 6
     }
    }
   },
@@ -744,6 +746,18 @@
     }
    }
   },
+  "nexus engineering group": {
+   "name": "Nexus Engineering Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-12",
+     "role_ids": [
+      "lever:nexuse-group:9732456a-5672-4cf2-bcdb-721159c0d8a6"
+     ],
+     "count": 1
+    }
+   }
+  },
   "niantic spatial": {
    "name": "Niantic Spatial",
    "cycles": {
@@ -877,6 +891,18 @@
      "first_posted": "2026-07-24",
      "role_ids": [
       "greenhouse:queracomputinginc:5370312008"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "re build manufacturing": {
+   "name": "Re:Build Manufacturing",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "greenhouse:rebuildmanufacturing:4729848005"
      ],
      "count": 1
     }
@@ -1254,5 +1280,5 @@
    }
   }
  },
- "updated_at": "2026-09-04T11:34:09Z"
+ "updated_at": "2026-09-04T16:34:33Z"
 }

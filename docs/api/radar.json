@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T11:34:10Z",
+ "generated_at": "2026-09-04T16:34:35Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -60,6 +60,20 @@
    "note": ""
   },
   {
+   "company": "Gevernova",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-31",
+   "days_until": -35,
+   "status": "open",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear---Manufacturing---Supply-Chain-Intern--Summer-2027-_R5049016-2",
+   "note": ""
+  },
+  {
    "company": "Kraft Heinz",
    "last_cycle_posted": "",
    "posted_on": "2026-07-31",
@@ -99,6 +113,20 @@
    "days_until": -23,
    "status": "open",
    "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/CAD-Technician-Co-op_033920-1",
+   "note": ""
+  },
+  {
+   "company": "Nexus Engineering Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-12",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-12",
+   "days_until": -23,
+   "status": "open",
+   "url": "https://jobs.lever.co/nexuse-group/9732456a-5672-4cf2-bcdb-721159c0d8a6",
    "note": ""
   },
   {
@@ -211,6 +239,20 @@
    "days_until": -15,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5376060008",
+   "note": ""
+  },
+  {
+   "company": "Airbus",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-21",
+   "days_until": -14,
+   "status": "open",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140",
    "note": ""
   },
   {
@@ -774,20 +816,6 @@
    "note": "fall opening"
   },
   {
-   "company": "Gevernova",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-31",
-   "days_until": -35,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "MKS Instruments",
    "last_cycle_posted": "",
    "posted_on": "2026-08-11",
@@ -825,20 +853,6 @@
    "source": "engine",
    "expected": "2026-08-13",
    "days_until": -22,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Airbus",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-21",
-   "days_until": -14,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -914,5 +928,5 @@
    "note": ""
   }
  ],
- "count": 65
+ "count": 66
 }
