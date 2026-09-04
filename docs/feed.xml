@@ -5,55 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-03T21:13:58Z</updated>
+  <updated>2026-09-04T04:49:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000147334384</id>
-    <title>AECOM: Structural Engineer Intern 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000147334384"/>
-    <updated>2026-09-03T21:13:57Z</updated>
+    <id>urn:intern-engine:workday:jll:/job/Berkeley-MO/HVAC-Technician-Intern_REQ533366</id>
+    <title>Jones Lang LaSalle (JLL): HVAC Technician Intern 🛂</title>
+    <link href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/Berkeley-MO/HVAC-Technician-Intern_REQ533366"/>
+    <updated>2026-09-04T04:49:57Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Structures &amp; FEA · Arlington, VA, United States · AutoCAD · sponsorship: citizens-only · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Berkeley, MO · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000147333760</id>
-    <title>AECOM: Mechanical Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000147333760"/>
-    <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Arlington, VA, United States · AutoCAD · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:stryker:/job/Tempe-Arizona/Packaging-Engineering-Intern_R572830</id>
+    <title>Stryker: Packaging Engineering Intern</title>
+    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tempe-Arizona/Packaging-Engineering-Intern_R572830"/>
+    <updated>2026-09-04T04:49:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Tempe, Arizona · CAD, FEA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:barr:/job/Ann-Arbor-MI/Internship---Structural-Engineer--Hybrid-_R-102315</id>
-    <title>Barr: Internship – Structural Engineer (Hybrid) 🛂</title>
-    <link href="https://barr.wd1.myworkdayjobs.com/barrcareers/job/Ann-Arbor-MI/Internship---Structural-Engineer--Hybrid-_R-102315"/>
-    <updated>2026-09-03T21:13:57Z</updated>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94615</id>
+    <title>WSP: CFD Analyst Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94615"/>
+    <updated>2026-09-04T04:49:57Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Ann Arbor, MI · sponsorship: no-sponsorship</summary>
+    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · New York, NY, United States · CFD, AutoCAD</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:barr:/job/Minneapolis-MN/Internship---Structural-Engineer--Hybrid-_R-102314</id>
-    <title>Barr: Internship – Structural Engineer (Hybrid) 🛂</title>
-    <link href="https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Structural-Engineer--Hybrid-_R-102314"/>
+    <id>urn:intern-engine:lever:foth:2dab53e6-9f06-41fe-a2c9-c9808402c1e7</id>
+    <title>FOTH: Structural Engineering Intern (Summer 2027)</title>
+    <link href="https://jobs.lever.co/foth/2dab53e6-9f06-41fe-a2c9-c9808402c1e7"/>
     <updated>2026-09-03T21:13:57Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Minneapolis, MN · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:barr:/job/Hibbing-MN/Internship---Structural-Engineer--Hybrid-_R-102316</id>
-    <title>Barr: Internship – Structural Engineer (Hybrid) 🛂</title>
-    <link href="https://barr.wd1.myworkdayjobs.com/barrcareers/job/Hibbing-MN/Internship---Structural-Engineer--Hybrid-_R-102316"/>
-    <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Hibbing, MN · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:foth:d4e4eaf1-4046-4a8d-ae73-882f39355907</id>
-    <title>FOTH: Mechanical Engineering Co-op (Summer/Fall 2027)</title>
-    <link href="https://jobs.lever.co/foth/d4e4eaf1-4046-4a8d-ae73-882f39355907"/>
-    <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Green Bay, Wisconsin · SolidWorks</summary>
+    <summary>Summer 2027 · Structures &amp; FEA · Green Bay, Wisconsin · CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:foth:6cc70042-0140-4979-9878-828edf973a83</id>
@@ -72,36 +56,12 @@
     <summary>Summer 2027 · Mechanical Design · Green Bay, Wisconsin · AutoCAD</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:foth:c074a997-c723-4c6f-b531-686ef1461c25</id>
-    <title>FOTH: Mechanical Packaging Systems Engineering Intern (Summer 2027)</title>
-    <link href="https://jobs.lever.co/foth/c074a997-c723-4c6f-b531-686ef1461c25"/>
-    <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Green Bay, Wisconsin · AutoCAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:foth:d8cc43b0-5927-407f-9f0a-84bf51460354</id>
-    <title>FOTH: Mechanical Process Engineering Co-op (Summer/Fall 2027)</title>
-    <link href="https://jobs.lever.co/foth/d8cc43b0-5927-407f-9f0a-84bf51460354"/>
-    <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Green Bay, Wisconsin</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:lever:foth:9b9e654e-cca7-463f-b0c0-fab83c0acd81</id>
     <title>FOTH: Mechanical Process Engineering Intern (Summer 2027)</title>
     <link href="https://jobs.lever.co/foth/9b9e654e-cca7-463f-b0c0-fab83c0acd81"/>
     <updated>2026-09-03T21:13:57Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Green Bay, Wisconsin</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:foth:2dab53e6-9f06-41fe-a2c9-c9808402c1e7</id>
-    <title>FOTH: Structural Engineering Intern (Summer 2027)</title>
-    <link href="https://jobs.lever.co/foth/2dab53e6-9f06-41fe-a2c9-c9808402c1e7"/>
-    <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Green Bay, Wisconsin · CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:foth:b087b7bd-e1a0-41af-a2e1-46c56b6e5ccb</id>
@@ -112,12 +72,28 @@
     <summary>Summer 2027 · Structures &amp; FEA · Mehoopany, Pennsylvania · CAD</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:generalmotors:/job/Lake-Orion-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Weld-Engineer_JR-202619474</id>
-    <title>General Motors: 2027 Summer Intern – Manufacturing Weld Engineer</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lake-Orion-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Weld-Engineer_JR-202619474"/>
+    <id>urn:intern-engine:lever:foth:c074a997-c723-4c6f-b531-686ef1461c25</id>
+    <title>FOTH: Mechanical Packaging Systems Engineering Intern (Summer 2027)</title>
+    <link href="https://jobs.lever.co/foth/c074a997-c723-4c6f-b531-686ef1461c25"/>
     <updated>2026-09-03T21:13:57Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Lake Orion, Michigan, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Mechanical Design · Green Bay, Wisconsin · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:foth:d4e4eaf1-4046-4a8d-ae73-882f39355907</id>
+    <title>FOTH: Mechanical Engineering Co-op (Summer/Fall 2027)</title>
+    <link href="https://jobs.lever.co/foth/d4e4eaf1-4046-4a8d-ae73-882f39355907"/>
+    <updated>2026-09-03T21:13:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Green Bay, Wisconsin · SolidWorks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:foth:d8cc43b0-5927-407f-9f0a-84bf51460354</id>
+    <title>FOTH: Mechanical Process Engineering Co-op (Summer/Fall 2027)</title>
+    <link href="https://jobs.lever.co/foth/d8cc43b0-5927-407f-9f0a-84bf51460354"/>
+    <updated>2026-09-03T21:13:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Green Bay, Wisconsin</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:hermeus:9229aa88-f54d-4ecd-85ee-b31f53b4207d</id>
@@ -128,17 +104,121 @@
     <summary>Not stated · Systems Engineering · Atlanta, GA · 25–33 USD/hr · Python, C++ · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Quality-Engineering-Intern--Summer-2027-_R0030785</id>
-    <title>Sierra Nevada Corporation: Quality Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Quality-Engineering-Intern--Summer-2027-_R0030785"/>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94400</id>
+    <title>WSP: Mechanical Engineering (Transmission) Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94400"/>
     <updated>2026-09-03T21:13:57Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Hagerstown, MD · MATLAB, CAD · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Mechanical Design · Portland, OR, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94545</id>
+    <title>WSP: Mechanical Engineering (Transmission) Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94545"/>
+    <updated>2026-09-03T21:13:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Tulsa, OK, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000147333760</id>
+    <title>AECOM: Mechanical Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000147333760"/>
+    <updated>2026-09-03T21:13:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Arlington, VA, United States · AutoCAD · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000147334384</id>
+    <title>AECOM: Structural Engineer Intern 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000147334384"/>
+    <updated>2026-09-03T21:13:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Structures &amp; FEA · Arlington, VA, United States · AutoCAD · sponsorship: citizens-only · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:barr:/job/Ann-Arbor-MI/Internship---Structural-Engineer--Hybrid-_R-102315</id>
+    <title>Barr: Internship – Structural Engineer (Hybrid) 🛂</title>
+    <link href="https://barr.wd1.myworkdayjobs.com/barrcareers/job/Ann-Arbor-MI/Internship---Structural-Engineer--Hybrid-_R-102315"/>
+    <updated>2026-09-03T21:13:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · Ann Arbor, MI · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:barr:/job/Hibbing-MN/Internship---Structural-Engineer--Hybrid-_R-102316</id>
+    <title>Barr: Internship – Structural Engineer (Hybrid) 🛂</title>
+    <link href="https://barr.wd1.myworkdayjobs.com/barrcareers/job/Hibbing-MN/Internship---Structural-Engineer--Hybrid-_R-102316"/>
+    <updated>2026-09-03T21:13:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · Hibbing, MN · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:barr:/job/Minneapolis-MN/Internship---Structural-Engineer--Hybrid-_R-102314</id>
+    <title>Barr: Internship – Structural Engineer (Hybrid) 🛂</title>
+    <link href="https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Structural-Engineer--Hybrid-_R-102314"/>
+    <updated>2026-09-03T21:13:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · Minneapolis, MN · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Lake-Orion-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Weld-Engineer_JR-202619474</id>
+    <title>General Motors: 2027 Summer Intern – Manufacturing Weld Engineer</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lake-Orion-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Weld-Engineer_JR-202619474"/>
+    <updated>2026-09-03T21:13:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Lake Orion, Michigan, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Dayton-OH/Aerospace-Engineering-Intern--Summer-2027-_R0030727</id>
+    <title>Sierra Nevada Corporation: Aerospace Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Aerospace-Engineering-Intern--Summer-2027-_R0030727"/>
+    <updated>2026-09-03T21:13:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Aerospace &amp; Flight Sciences · Dayton, OH · MATLAB, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Dayton-OH/Mechanical-Engineer-Intern--Summer-2027-_R0030744</id>
+    <title>Sierra Nevada Corporation: Mechanical Engineer Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Mechanical-Engineer-Intern--Summer-2027-_R0030744"/>
+    <updated>2026-09-03T21:13:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Dayton, OH · MATLAB, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Dayton-OH/Test-Engineering-Intern--Summer-2027-_R0030766</id>
+    <title>Sierra Nevada Corporation: Test Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Test-Engineering-Intern--Summer-2027-_R0030766"/>
+    <updated>2026-09-03T21:13:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Dayton, OH · MATLAB, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Aerospace-Engineering-Intern--Summer-2027-_R0030737</id>
+    <title>Sierra Nevada Corporation: Aerospace Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Aerospace-Engineering-Intern--Summer-2027-_R0030737"/>
+    <updated>2026-09-03T21:13:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Aerospace &amp; Flight Sciences · Hagerstown, MD · MATLAB, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Manufacturing-Engineering-Intern--Summer-2027-_R0030784</id>
     <title>Sierra Nevada Corporation: Manufacturing Engineering Intern (Summer 2027) 🇺🇸</title>
     <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Manufacturing-Engineering-Intern--Summer-2027-_R0030784"/>
+    <updated>2026-09-03T21:13:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Hagerstown, MD · MATLAB, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Mechanical-Engineering-Intern--Summer-2027-_R0030748</id>
+    <title>Sierra Nevada Corporation: Mechanical Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Mechanical-Engineering-Intern--Summer-2027-_R0030748"/>
+    <updated>2026-09-03T21:13:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Hagerstown, MD · MATLAB, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Quality-Engineering-Intern--Summer-2027-_R0030785</id>
+    <title>Sierra Nevada Corporation: Quality Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Quality-Engineering-Intern--Summer-2027-_R0030785"/>
     <updated>2026-09-03T21:13:57Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Hagerstown, MD · MATLAB, CAD · sponsorship: citizens-only</summary>
@@ -152,28 +232,12 @@
     <summary>Summer 2027 · Test &amp; Validation · Hagerstown, MD · MATLAB, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:snc:/job/Dayton-OH/Test-Engineering-Intern--Summer-2027-_R0030766</id>
-    <title>Sierra Nevada Corporation: Test Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Test-Engineering-Intern--Summer-2027-_R0030766"/>
+    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Aerospace-Engineering-Intern--Summer-2027-_R0030735</id>
+    <title>Sierra Nevada Corporation: Aerospace Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Aerospace-Engineering-Intern--Summer-2027-_R0030735"/>
     <updated>2026-09-03T21:13:57Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Dayton, OH · MATLAB, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Test-Engineering-Intern--Summer-2027-_R0030771</id>
-    <title>Sierra Nevada Corporation: Test Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Test-Engineering-Intern--Summer-2027-_R0030771"/>
-    <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Lone Tree, CO · MATLAB, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Mechanical-Engineering-Intern--Summer-2027-_R0030748</id>
-    <title>Sierra Nevada Corporation: Mechanical Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Mechanical-Engineering-Intern--Summer-2027-_R0030748"/>
-    <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Hagerstown, MD · MATLAB, CAD · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Aerospace &amp; Flight Sciences · Lone Tree, CO · MATLAB, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Mechanical-Engineering-Intern--Summer-2027-_R0030745</id>
@@ -184,28 +248,12 @@
     <summary>Summer 2027 · Mechanical Design · Lone Tree, CO · MATLAB, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:snc:/job/Plano-TX/Mechanical-Engineering-Intern--Summer-2027-_R0030746-1</id>
-    <title>Sierra Nevada Corporation: Mechanical Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Mechanical-Engineering-Intern--Summer-2027-_R0030746-1"/>
+    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Test-Engineering-Intern--Summer-2027-_R0030771</id>
+    <title>Sierra Nevada Corporation: Test Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Test-Engineering-Intern--Summer-2027-_R0030771"/>
     <updated>2026-09-03T21:13:57Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Plano, TX · MATLAB, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Dayton-OH/Mechanical-Engineer-Intern--Summer-2027-_R0030744</id>
-    <title>Sierra Nevada Corporation: Mechanical Engineer Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Mechanical-Engineer-Intern--Summer-2027-_R0030744"/>
-    <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Dayton, OH · MATLAB, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Aerospace-Engineering-Intern--Summer-2027-_R0030737</id>
-    <title>Sierra Nevada Corporation: Aerospace Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Aerospace-Engineering-Intern--Summer-2027-_R0030737"/>
-    <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Aerospace &amp; Flight Sciences · Hagerstown, MD · MATLAB, CAD · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Test &amp; Validation · Lone Tree, CO · MATLAB, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:snc:/job/Plano-TX/Aerospace-Engineering-Intern--Summer-2027-Intern-_R0030736</id>
@@ -216,28 +264,12 @@
     <summary>Summer 2027 · Aerospace &amp; Flight Sciences · Plano, TX · MATLAB, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Aerospace-Engineering-Intern--Summer-2027-_R0030735</id>
-    <title>Sierra Nevada Corporation: Aerospace Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Aerospace-Engineering-Intern--Summer-2027-_R0030735"/>
+    <id>urn:intern-engine:workday:snc:/job/Plano-TX/Mechanical-Engineering-Intern--Summer-2027-_R0030746-1</id>
+    <title>Sierra Nevada Corporation: Mechanical Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Mechanical-Engineering-Intern--Summer-2027-_R0030746-1"/>
     <updated>2026-09-03T21:13:57Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Aerospace &amp; Flight Sciences · Lone Tree, CO · MATLAB, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Dayton-OH/Aerospace-Engineering-Intern--Summer-2027-_R0030727</id>
-    <title>Sierra Nevada Corporation: Aerospace Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Aerospace-Engineering-Intern--Summer-2027-_R0030727"/>
-    <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Aerospace &amp; Flight Sciences · Dayton, OH · MATLAB, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:stryker:/job/Massachusetts-Virtual-Address/Mechanical-Engineering-Intern_R572943-1</id>
-    <title>Stryker: Mechanical Engineering Intern</title>
-    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Massachusetts-Virtual-Address/Mechanical-Engineering-Intern_R572943-1"/>
-    <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Massachusetts, Virtual Address · CAD, FEA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Mechanical Design · Plano, TX · MATLAB, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:stryker:/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936</id>
@@ -256,20 +288,12 @@
     <summary>Not stated · Manufacturing &amp; Quality · Arlington, Tennessee · CAD, LabVIEW · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94400</id>
-    <title>WSP: Mechanical Engineering (Transmission) Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94400"/>
+    <id>urn:intern-engine:workday:stryker:/job/Massachusetts-Virtual-Address/Mechanical-Engineering-Intern_R572943-1</id>
+    <title>Stryker: Mechanical Engineering Intern</title>
+    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Massachusetts-Virtual-Address/Mechanical-Engineering-Intern_R572943-1"/>
     <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Portland, OR, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94545</id>
-    <title>WSP: Mechanical Engineering (Transmission) Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94545"/>
-    <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Tulsa, OK, United States</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Massachusetts, Virtual Address · CAD, FEA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:niantic-spatial:02fe210c-a0d9-419f-a0c0-da32d9ff7307</id>
@@ -366,14 +390,6 @@
     <updated>2026-09-03T04:47:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Dallas, TX, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017571</id>
-    <title>Texas Instruments: Product/Test Engineering Intern 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017571"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Dallas, TX, United States · Java, C++, MATLAB, LabVIEW · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017572</id>
@@ -494,14 +510,6 @@
     <updated>2026-09-03T04:47:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Jacksonville - Middleburg, FL · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/KNC---Kansas-City-MO/Manufacturing-Intern---Kansas-City_R56059</id>
-    <title>Niagara Bottling: Manufacturing Intern - Kansas City</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/KNC---Kansas-City-MO/Manufacturing-Intern---Kansas-City_R56059"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · KNC - Kansas City, MO · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:niagarawater:/job/Kansas-City-2---Kansas-City-MO/Manufacturing-Intern---Kansas-City-2_R56060</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-02T04:51:16Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Atlanta, GA · 25–33 USD/hr · CAD, GD&amp;T · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:hermeus:60b5d40a-1065-4bd2-8c72-6b2fb69d4761</id>
-    <title>Hermeus: Structures/Mechanical Engineering Intern - Spring/Summer 2027 🇺🇸</title>
-    <link href="https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761"/>
-    <updated>2026-09-02T04:51:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Atlanta, GA · 25–33 USD/hr · Siemens NX, CAD, Teamcenter · sponsorship: citizens-only</summary>
   </entry>
 </feed>
