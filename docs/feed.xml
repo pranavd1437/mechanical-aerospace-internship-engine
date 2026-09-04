@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-04T04:49:58Z</updated>
+  <updated>2026-09-04T11:34:10Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94615</id>
+    <title>WSP: CFD Analyst Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94615"/>
+    <updated>2026-09-04T04:49:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · New York, NY, United States · CFD, AutoCAD</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:jll:/job/Berkeley-MO/HVAC-Technician-Intern_REQ533366</id>
     <title>Jones Lang LaSalle (JLL): HVAC Technician Intern 🛂</title>
@@ -22,14 +30,6 @@
     <updated>2026-09-04T04:49:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Tempe, Arizona · CAD, FEA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94615</id>
-    <title>WSP: CFD Analyst Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94615"/>
-    <updated>2026-09-04T04:49:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · New York, NY, United States · CFD, AutoCAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:foth:2dab53e6-9f06-41fe-a2c9-c9808402c1e7</id>
@@ -390,14 +390,6 @@
     <updated>2026-09-03T04:47:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Dallas, TX, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017572</id>
-    <title>Texas Instruments: Quality Engineering Intern 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017572"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Dallas, TX, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Intuitive:744000147091674</id>
@@ -806,5 +798,13 @@
     <updated>2026-09-02T04:51:16Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Atlanta, GA · 25–33 USD/hr · CAD, GD&amp;T · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:60b5d40a-1065-4bd2-8c72-6b2fb69d4761</id>
+    <title>Hermeus: Structures/Mechanical Engineering Intern - Spring/Summer 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761"/>
+    <updated>2026-09-02T04:51:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · Atlanta, GA · 25–33 USD/hr · Siemens NX, CAD, Teamcenter · sponsorship: citizens-only</summary>
   </entry>
 </feed>
