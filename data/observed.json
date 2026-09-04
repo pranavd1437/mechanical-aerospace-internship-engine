@@ -417,9 +417,10 @@
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Body-Center_JR-202619475",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering--Global-Propulsion-Systems_JR-202619351",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346",
-      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348"
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348",
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Supplier-Quality_JR-202617840"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -962,6 +963,20 @@
     }
    }
   },
+  "saab": {
+   "name": "Saab",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "workday:saabusa:/job/West-Lafayette-IN/Manufacturing-Engineer--Summer-Intern-2027-_R-03234",
+      "workday:saabusa:/job/West-Lafayette-IN/Mechanical-Engineer--Summer-Intern-2027-_R-03223",
+      "workday:saabusa:/job/West-Lafayette-IN/Quality-Engineer--Summer-2027-Intern_R-03212"
+     ],
+     "count": 3
+    }
+   }
+  },
   "sensata": {
    "name": "Sensata",
    "cycles": {
@@ -1034,6 +1049,19 @@
       "workday:sierraspace:/job/Centennial-CO/Fall-2026-Mechanical-Engineering-Intern_R26120"
      ],
      "count": 1
+    }
+   }
+  },
+  "skydio": {
+   "name": "Skydio",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "ashby:skydio:3eb06d6e-b6f0-4814-a80a-f1c43075873b",
+      "ashby:skydio:e541e878-567c-4c03-add8-baf19c63418f"
+     ],
+     "count": 2
     }
    }
   },
@@ -1273,12 +1301,13 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94400",
       "oracle:emit.fa.ca3.oraclecloud.com:94538",
       "oracle:emit.fa.ca3.oraclecloud.com:94545",
-      "oracle:emit.fa.ca3.oraclecloud.com:94615"
+      "oracle:emit.fa.ca3.oraclecloud.com:94615",
+      "oracle:emit.fa.ca3.oraclecloud.com:94617"
      ],
-     "count": 10
+     "count": 11
     }
    }
   }
  },
- "updated_at": "2026-09-04T16:34:33Z"
+ "updated_at": "2026-09-04T20:56:27Z"
 }
