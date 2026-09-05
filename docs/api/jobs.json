@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-05T10:50:56Z",
+ "generated_at": "2026-09-05T15:27:52Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 302,
+ "count": 301,
  "jobs": [
   {
    "id": "smartrecruiters:SeniorPlc1:3743990015092046",
@@ -3104,32 +3104,6 @@
    "remote": false
   },
   {
-   "id": "workday:cae:/job/Arlington-TX/Mechanical-Engineering-Intern_123480",
-   "company": "CAE",
-   "title": "Mechanical Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Arlington, TX",
-   "url": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Mechanical-Engineering-Intern_123480",
-   "posted_at": "2026-09-01T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-01T16:51:40Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "SolidWorks",
-    "Creo",
-    "CAD",
-    "GD&T"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:mdlz:/job/East-Hanover-New-Jersey-United-States/Manufacturing-Intern--Process-Engineering_R-175409",
    "company": "Mondelez International",
    "title": "Manufacturing Intern– Process Engineering",
@@ -4181,15 +4155,15 @@
    "remote": false
   },
   {
-   "id": "workday:imeg:/job/Pensacola-FL/Structural-Engineering-Intern---Pensacola--FL_R-16600",
+   "id": "workday:imeg:/job/Madison-WI/Structural-Engineering-Intern---Madison--WI_R-16599",
    "company": "IMEG",
-   "title": "Structural Engineering Intern | Pensacola, FL",
+   "title": "Structural Engineering Intern | Madison, WI",
    "season": "Summer 2027",
    "seasons": null,
    "season_inferred": false,
    "category": "Structures & FEA",
-   "location": "Pensacola, FL",
-   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Pensacola-FL/Structural-Engineering-Intern---Pensacola--FL_R-16600",
+   "location": "Madison, WI",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Madison-WI/Structural-Engineering-Intern---Madison--WI_R-16599",
    "posted_at": "2026-08-27T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-09-05T10:50:54Z",
@@ -4204,15 +4178,15 @@
    "remote": false
   },
   {
-   "id": "workday:imeg:/job/Madison-WI/Structural-Engineering-Intern---Madison--WI_R-16599",
+   "id": "workday:imeg:/job/Pensacola-FL/Structural-Engineering-Intern---Pensacola--FL_R-16600",
    "company": "IMEG",
-   "title": "Structural Engineering Intern | Madison, WI",
+   "title": "Structural Engineering Intern | Pensacola, FL",
    "season": "Summer 2027",
    "seasons": null,
    "season_inferred": false,
    "category": "Structures & FEA",
-   "location": "Madison, WI",
-   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Madison-WI/Structural-Engineering-Intern---Madison--WI_R-16599",
+   "location": "Pensacola, FL",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Pensacola-FL/Structural-Engineering-Intern---Pensacola--FL_R-16600",
    "posted_at": "2026-08-27T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-09-05T10:50:54Z",
