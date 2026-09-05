@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-05T15:27:52Z",
+ "generated_at": "2026-09-05T20:36:01Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 301,
+ "count": 296,
  "jobs": [
   {
    "id": "smartrecruiters:SeniorPlc1:3743990015092046",
@@ -483,29 +483,6 @@
    ],
    "source": "workday",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:imeg:/job/Cleveland-OH/Mechanical-Engineering-Intern---Independence--OH_R-16694",
-   "company": "IMEG",
-   "title": "Mechanical Engineering Intern | Independence, OH",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Mechanical Design",
-   "location": "Cleveland, OH",
-   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Cleveland-OH/Mechanical-Engineering-Intern---Independence--OH_R-16694",
-   "posted_at": "2026-09-03T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-05T10:50:54Z",
-   "sponsorship": "unknown",
-   "salary": "$22/hr",
-   "skills": [
-    "AutoCAD"
-   ],
-   "source": "workday",
-   "h1b_approvals": 10,
    "program": "Internship",
    "remote": false
   },
@@ -2076,27 +2053,6 @@
    "remote": false
   },
   {
-   "id": "oracle:edbz.fa.us2.oraclecloud.com:25017547",
-   "company": "Texas Instruments",
-   "title": "Digital IC Design Engineering Intern - Bachelors",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Dallas, TX, United States",
-   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017547",
-   "posted_at": "2026-09-02",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-02T21:14:10Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [],
-   "source": "oracle",
-   "h1b_approvals": 234,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:abb:/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726",
    "company": "ABB",
    "title": "Electrical Design Engineer Intern- Summer 2027",
@@ -3503,29 +3459,6 @@
    "remote": false
   },
   {
-   "id": "workday:imeg:/job/St-Louis-MO/Structural-Engineering-Intern---St-Louis--MO_R-16601",
-   "company": "IMEG",
-   "title": "Structural Engineering Intern | St. Louis, MO",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Structures & FEA",
-   "location": "St. Louis, MO",
-   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Structural-Engineering-Intern---St-Louis--MO_R-16601",
-   "posted_at": "2026-08-31T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-05T10:50:54Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "AutoCAD"
-   ],
-   "source": "workday",
-   "h1b_approvals": 10,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "greenhouse:lexingtonmedical:5400185008",
    "company": "Lexington Medical",
    "title": "Mechanical Engineering Intern",
@@ -4152,52 +4085,6 @@
    "source": "oracle",
    "h1b_approvals": 2,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:imeg:/job/Madison-WI/Structural-Engineering-Intern---Madison--WI_R-16599",
-   "company": "IMEG",
-   "title": "Structural Engineering Intern | Madison, WI",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Structures & FEA",
-   "location": "Madison, WI",
-   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Madison-WI/Structural-Engineering-Intern---Madison--WI_R-16599",
-   "posted_at": "2026-08-27T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-05T10:50:54Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "AutoCAD"
-   ],
-   "source": "workday",
-   "h1b_approvals": 10,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:imeg:/job/Pensacola-FL/Structural-Engineering-Intern---Pensacola--FL_R-16600",
-   "company": "IMEG",
-   "title": "Structural Engineering Intern | Pensacola, FL",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Structures & FEA",
-   "location": "Pensacola, FL",
-   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Pensacola-FL/Structural-Engineering-Intern---Pensacola--FL_R-16600",
-   "posted_at": "2026-08-27T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-05T10:50:54Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "AutoCAD"
-   ],
-   "source": "workday",
-   "h1b_approvals": 10,
-   "program": "Internship",
    "remote": false
   },
   {

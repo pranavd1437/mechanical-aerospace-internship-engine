@@ -5,40 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-05T15:27:52Z</updated>
+  <updated>2026-09-05T20:36:01Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:imeg:/job/Cleveland-OH/Mechanical-Engineering-Intern---Independence--OH_R-16694</id>
-    <title>IMEG: Mechanical Engineering Intern | Independence, OH</title>
-    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Cleveland-OH/Mechanical-Engineering-Intern---Independence--OH_R-16694"/>
-    <updated>2026-09-05T10:50:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Cleveland, OH · $22/hr · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:imeg:/job/Madison-WI/Structural-Engineering-Intern---Madison--WI_R-16599</id>
-    <title>IMEG: Structural Engineering Intern | Madison, WI</title>
-    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Madison-WI/Structural-Engineering-Intern---Madison--WI_R-16599"/>
-    <updated>2026-09-05T10:50:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Madison, WI · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:imeg:/job/Pensacola-FL/Structural-Engineering-Intern---Pensacola--FL_R-16600</id>
-    <title>IMEG: Structural Engineering Intern | Pensacola, FL</title>
-    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Pensacola-FL/Structural-Engineering-Intern---Pensacola--FL_R-16600"/>
-    <updated>2026-09-05T10:50:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Pensacola, FL · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:imeg:/job/St-Louis-MO/Structural-Engineering-Intern---St-Louis--MO_R-16601</id>
-    <title>IMEG: Structural Engineering Intern | St. Louis, MO</title>
-    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Structural-Engineering-Intern---St-Louis--MO_R-16601"/>
-    <updated>2026-09-05T10:50:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · St. Louis, MO · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:SeniorPlc1:3743990015092046</id>
     <title>Senior plc: Manufacturing Engineering Intern 🇺🇸</title>
@@ -800,11 +768,43 @@
     <summary>Not stated · Mechanical Design · Dallas, TX, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017547</id>
-    <title>Texas Instruments: Digital IC Design Engineering Intern - Bachelors 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017547"/>
+    <id>urn:intern-engine:workday:abb:/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726</id>
+    <title>ABB: Electrical Design Engineer Intern- Summer 2027 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726"/>
+    <updated>2026-09-02T21:14:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Fort Smith, Arkansas, United States of America · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:abb:/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727</id>
+    <title>ABB: Mechanical Design Engineer Intern- Summer 2027 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727"/>
+    <updated>2026-09-02T21:14:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Fort Smith, Arkansas, United States of America · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Farmington-CT/Mechanical-Engineering-Intern--Access-Technologies---Farmington--Connecticut_JR37466-1</id>
+    <title>Allegion: Mechanical Engineering Intern, Access Technologies – Farmington, Connecticut</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Mechanical-Engineering-Intern--Access-Technologies---Farmington--Connecticut_JR37466-1"/>
     <updated>2026-09-02T21:14:10Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Dallas, TX, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Mechanical Design · Farmington, CT · $25/hr · Creo</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:axcelis:/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12001</id>
+    <title>Axcelis Technologies, Inc.: Manufacturing Engineer Co-op Production Support</title>
+    <link href="https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12001"/>
+    <updated>2026-09-02T21:14:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Beverly, MA · SolidWorks, Creo, AutoCAD, Six Sigma · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:axcelis:/job/Beverly-MA/Manufacturing-Test-Development-Co-op_12009</id>
+    <title>Axcelis Technologies, Inc.: Manufacturing Test Development Co-op</title>
+    <link href="https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Test-Development-Co-op_12009"/>
+    <updated>2026-09-02T21:14:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Beverly, MA · SolidWorks, Creo, AutoCAD · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
