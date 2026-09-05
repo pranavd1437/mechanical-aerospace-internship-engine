@@ -58,10 +58,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-21",
      "role_ids": [
+      "workday:ag:/job/Herndon-Area-VA/Summer-Internship---Tooling---Repair_JR10435956",
       "workday:ag:/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140",
       "workday:ag:/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---X-Plant-Manufacturing-Engineering_JR10435143"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1309,5 +1310,5 @@
    }
   }
  },
- "updated_at": "2026-09-04T20:56:27Z"
+ "updated_at": "2026-09-05T04:45:01Z"
 }
