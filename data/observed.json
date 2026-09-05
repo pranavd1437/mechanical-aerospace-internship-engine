@@ -553,6 +553,7 @@
     "Summer 2027": {
      "first_posted": "2026-08-17",
      "role_ids": [
+      "workday:imeg:/job/Cleveland-OH/Mechanical-Engineering-Intern---Independence--OH_R-16694",
       "workday:imeg:/job/Columbus-OH/Mechanical-Engineering-Intern---Columbus--OH_R-16523",
       "workday:imeg:/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424",
       "workday:imeg:/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16558",
@@ -561,16 +562,19 @@
       "workday:imeg:/job/Germantown-MD/Mechanical-Intern-Technician---Germantown--MD_R-16567",
       "workday:imeg:/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014",
       "workday:imeg:/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461",
+      "workday:imeg:/job/Madison-WI/Structural-Engineering-Intern---Madison--WI_R-16599",
       "workday:imeg:/job/Minneapolis-MN/Mechanical-Engineering-Intern---Minneapolis--MN_R-16463",
       "workday:imeg:/job/Minneapolis-MN/Structural-Engineering-Intern---Minneapolis--MN_R-16483",
       "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16451",
       "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16471",
+      "workday:imeg:/job/Pensacola-FL/Structural-Engineering-Intern---Pensacola--FL_R-16600",
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366",
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375",
       "workday:imeg:/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495",
+      "workday:imeg:/job/St-Louis-MO/Structural-Engineering-Intern---St-Louis--MO_R-16601",
       "workday:imeg:/job/Washington-DC/Structural-Intern---Fairfax--VA_R-16618"
      ],
-     "count": 16
+     "count": 20
     }
    }
   },
@@ -1310,5 +1314,5 @@
    }
   }
  },
- "updated_at": "2026-09-05T04:45:01Z"
+ "updated_at": "2026-09-05T10:50:54Z"
 }
