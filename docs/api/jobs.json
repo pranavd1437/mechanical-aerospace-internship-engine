@@ -1,9 +1,35 @@
 {
- "generated_at": "2026-09-05T20:36:01Z",
+ "generated_at": "2026-09-06T04:55:57Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 296,
+ "count": 297,
  "jobs": [
+  {
+   "id": "greenhouse:harbingermotors:5231838007",
+   "company": "Harbinger Motors",
+   "title": "Intern, Powertrain Manufacturing",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Manufacturing & Quality",
+   "location": "Garden Grove, CA",
+   "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/5231838007",
+   "posted_at": "2026-09-05T22:47:24-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-06T04:55:56Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "SolidWorks",
+    "AutoCAD",
+    "CAD",
+    "Lean Manufacturing"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "smartrecruiters:SeniorPlc1:3743990015092046",
    "company": "Senior plc",
