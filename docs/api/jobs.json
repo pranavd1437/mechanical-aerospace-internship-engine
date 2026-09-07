@@ -1,9 +1,30 @@
 {
- "generated_at": "2026-09-06T20:37:34Z",
+ "generated_at": "2026-09-07T04:59:23Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 297,
+ "count": 298,
  "jobs": [
+  {
+   "id": "workday:generalmotors:/job/Burton-Michigan-United-States-of-America/Packaging-Engineering-Intern_JR-202618311",
+   "company": "General Motors",
+   "title": "Packaging Engineering Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Mechanical Design",
+   "location": "Burton, Michigan, United States of America",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Burton-Michigan-United-States-of-America/Packaging-Engineering-Intern_JR-202618311",
+   "posted_at": "2026-09-07T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-07T04:59:21Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": 928,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "greenhouse:harbingermotors:5231838007",
    "company": "Harbinger Motors",

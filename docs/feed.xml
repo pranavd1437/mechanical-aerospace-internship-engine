@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-06T20:37:34Z</updated>
+  <updated>2026-09-07T04:59:22Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Burton-Michigan-United-States-of-America/Packaging-Engineering-Intern_JR-202618311</id>
+    <title>General Motors: Packaging Engineering Intern</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Burton-Michigan-United-States-of-America/Packaging-Engineering-Intern_JR-202618311"/>
+    <updated>2026-09-07T04:59:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Burton, Michigan, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:harbingermotors:5231838007</id>
     <title>Harbinger Motors: Intern, Powertrain Manufacturing</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-02T21:14:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Farmington, CT · $25/hr · Creo</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:axcelis:/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12001</id>
-    <title>Axcelis Technologies, Inc.: Manufacturing Engineer Co-op Production Support</title>
-    <link href="https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12001"/>
-    <updated>2026-09-02T21:14:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Beverly, MA · SolidWorks, Creo, AutoCAD, Six Sigma · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
