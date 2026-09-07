@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T04:59:23Z",
+ "generated_at": "2026-09-07T12:51:37Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -182,7 +182,7 @@
    "expected": "2026-08-17",
    "days_until": -21,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94615",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94617",
    "note": ""
   },
   {
@@ -239,20 +239,6 @@
    "days_until": -18,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5376060008",
-   "note": ""
-  },
-  {
-   "company": "Airbus",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-21",
-   "days_until": -17,
-   "status": "open",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Summer-Internship---Tooling---Repair_JR10435956",
    "note": ""
   },
   {
@@ -881,6 +867,20 @@
    "source": "engine",
    "expected": "2026-08-13",
    "days_until": -25,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Airbus",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-21",
+   "days_until": -17,
    "status": "dropped",
    "url": "",
    "note": ""

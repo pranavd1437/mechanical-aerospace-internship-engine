@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-07T04:59:22Z</updated>
+  <updated>2026-09-07T12:51:37Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
     <id>urn:intern-engine:workday:generalmotors:/job/Burton-Michigan-United-States-of-America/Packaging-Engineering-Intern_JR-202618311</id>
@@ -30,14 +30,6 @@
     <updated>2026-09-05T04:45:01Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Burbank, California, United States · $25/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Herndon-Area-VA/Summer-Internship---Tooling---Repair_JR10435956</id>
-    <title>Airbus: Summer Internship - Tooling &amp; Repair</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Summer-Internship---Tooling---Repair_JR10435956"/>
-    <updated>2026-09-05T04:45:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Herndon Area, VA · $24–$39.75/hr · H-1B track record: ~16 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:canadiansolar:/job/Mesquite-TX/Raw-Material-Test-Engineer--INTERN-_10001423</id>
@@ -198,14 +190,6 @@
     <updated>2026-09-04T16:34:33Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Sioux Falls, SD · CAD, AutoCAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94615</id>
-    <title>WSP: CFD Analyst Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94615"/>
-    <updated>2026-09-04T04:49:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · New York, NY, United States · CFD, AutoCAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:stryker:/job/Tempe-Arizona/Packaging-Engineering-Intern_R572830</id>
@@ -776,14 +760,6 @@
     <summary>Not stated · Manufacturing &amp; Quality · San Jose, California · CAD, FEA, LabVIEW, Lean Manufacturing · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017543</id>
-    <title>Texas Instruments: Analog IC Design Engineering Intern - Bachelors 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017543"/>
-    <updated>2026-09-02T21:14:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Dallas, TX, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:abb:/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726</id>
     <title>ABB: Electrical Design Engineer Intern- Summer 2027 🛂</title>
     <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726"/>
@@ -806,5 +782,29 @@
     <updated>2026-09-02T21:14:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Farmington, CT · $25/hr · Creo</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:axcelis:/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12001</id>
+    <title>Axcelis Technologies, Inc.: Manufacturing Engineer Co-op Production Support</title>
+    <link href="https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12001"/>
+    <updated>2026-09-02T21:14:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Beverly, MA · SolidWorks, Creo, AutoCAD, Six Sigma · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:axcelis:/job/Beverly-MA/Manufacturing-Test-Development-Co-op_12009</id>
+    <title>Axcelis Technologies, Inc.: Manufacturing Test Development Co-op</title>
+    <link href="https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Test-Development-Co-op_12009"/>
+    <updated>2026-09-02T21:14:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Beverly, MA · SolidWorks, Creo, AutoCAD · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:axcelis:/job/Beverly-MA/Manufacturing-Test-Development-Engineer-Co-op_12010</id>
+    <title>Axcelis Technologies, Inc.: Manufacturing Test Development Engineer Co-op</title>
+    <link href="https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Test-Development-Engineer-Co-op_12010"/>
+    <updated>2026-09-02T21:14:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Beverly, MA · SolidWorks, Creo, AutoCAD · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
