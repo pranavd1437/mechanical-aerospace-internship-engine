@@ -590,6 +590,18 @@
     }
    }
   },
+  "johnson johnson": {
+   "name": "Johnson & Johnson",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-07",
+     "role_ids": [
+      "workday:jj:/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "kairos power": {
    "name": "Kairos Power",
    "cycles": {
@@ -1314,5 +1326,5 @@
    }
   }
  },
- "updated_at": "2026-09-07T12:51:35Z"
+ "updated_at": "2026-09-07T21:41:03Z"
 }

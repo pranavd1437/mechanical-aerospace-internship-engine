@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T12:51:37Z",
+ "generated_at": "2026-09-07T21:41:04Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -690,6 +690,20 @@
    "note": ""
   },
   {
+   "company": "Johnson & Johnson",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-07",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1",
+   "note": ""
+  },
+  {
    "company": "John Deere",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -956,5 +970,5 @@
    "note": ""
   }
  ],
- "count": 68
+ "count": 69
 }
