@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-07T21:41:04Z</updated>
+  <updated>2026-09-08T04:55:19Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:asteralabs:4724488005</id>
@@ -16,20 +16,20 @@
     <summary>Not stated · Test &amp; Validation · San Jose, California, United States · $35/hr · Python, C++, Linux · H-1B track record: ~29 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:jj:/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1</id>
-    <title>Johnson &amp; Johnson: Athens Manufacturing Plant 2027 Co-Op</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1"/>
-    <updated>2026-09-07T21:41:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Athens, Georgia, United States of America</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:Solidigm:744000147954459</id>
     <title>Solidigm: Memory Core Design Engineering Intern</title>
     <link href="https://jobs.smartrecruiters.com/Solidigm/744000147954459"/>
     <updated>2026-09-07T21:41:03Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Rancho Cordova, CA, United States · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1</id>
+    <title>Johnson &amp; Johnson: Athens Manufacturing Plant 2027 Co-Op</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1"/>
+    <updated>2026-09-07T21:41:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Athens, Georgia, United States of America</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:generalmotors:/job/Burton-Michigan-United-States-of-America/Packaging-Engineering-Intern_JR-202618311</id>
@@ -86,14 +86,6 @@
     <updated>2026-09-04T20:56:27Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Redmond, Washington, United States · $22–$24/hr · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94617</id>
-    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94617"/>
-    <updated>2026-09-04T20:56:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Milwaukee, WI, United States · AutoCAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Loram1:3743990015081125</id>
@@ -806,5 +798,13 @@
     <updated>2026-09-02T21:14:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Farmington, CT · $25/hr · Creo</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:axcelis:/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12001</id>
+    <title>Axcelis Technologies, Inc.: Manufacturing Engineer Co-op Production Support</title>
+    <link href="https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12001"/>
+    <updated>2026-09-02T21:14:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Beverly, MA · SolidWorks, Creo, AutoCAD, Six Sigma · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
