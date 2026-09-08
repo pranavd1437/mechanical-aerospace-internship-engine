@@ -460,6 +460,23 @@
     }
    }
   },
+  "graco": {
+   "name": "Graco",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:graco:/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023507",
+      "workday:graco:/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-op--May---December-2027-_R0023613",
+      "workday:graco:/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023506",
+      "workday:graco:/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-op--January---August-2027-_R0023612",
+      "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-Op_R0023504",
+      "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-op--January---August-2027-_R0023611"
+     ],
+     "count": 6
+    }
+   }
+  },
   "h3x technologies": {
    "name": "H3X Technologies",
    "cycles": {
@@ -656,6 +673,18 @@
     }
    }
   },
+  "meijer": {
+   "name": "Meijer",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:meijer:/job/Grand-Rapids-MI/Labor-Industrial-Engineering-Intern--Summer-2027_R000698645"
+     ],
+     "count": 1
+    }
+   }
+  },
   "menasha": {
    "name": "Menasha Corporation",
    "cycles": {
@@ -678,6 +707,15 @@
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---Vaccine-Manufacturing-Co-op_R395900"
      ],
      "count": 2
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:msd:/job/USA---North-Carolina---Durham-Old-Oxford/XMLNAME-2027-Future-Talent-Program---Manufacturing-Intern_R416739",
+      "workday:msd:/job/USA---Virginia---Elkton/XMLNAME-2027-Future-Talent-Program---Elkton-Manufacturing-Co-op_R412910",
+      "workday:msd:/job/USA---Virginia---Elkton/XMLNAME-2027-Future-Talent-Program---Elkton-Manufacturing-Intern_R412907"
+     ],
+     "count": 3
     }
    }
   },
@@ -711,9 +749,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-03",
      "role_ids": [
-      "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Supplier-Quality_R9737"
+      "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Supplier-Quality_R9737",
+      "workday:momentive:/job/US-WV-Friendly/Summer-2027-P2-Production-Engineer-Intern_R9800"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1268,9 +1307,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-24",
      "role_ids": [
+      "workday:wattswater:/job/Blauvelt-NY/Production-Engineer-Intern--Summer-2027_10017356",
       "workday:wattswater:/job/St-Pauls-NC/Manufacturing-Engineer-Intern-Summer-2027_10017388"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1304,9 +1344,10 @@
     "Fall 2026": {
      "first_posted": "2026-08-11",
      "role_ids": [
-      "oracle:emit.fa.ca3.oraclecloud.com:93007"
+      "oracle:emit.fa.ca3.oraclecloud.com:93007",
+      "oracle:emit.fa.ca3.oraclecloud.com:94559"
      ],
-     "count": 1
+     "count": 2
     },
     "Summer 2027": {
      "first_posted": "2026-08-17",
@@ -1321,12 +1362,13 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94538",
       "oracle:emit.fa.ca3.oraclecloud.com:94545",
       "oracle:emit.fa.ca3.oraclecloud.com:94615",
-      "oracle:emit.fa.ca3.oraclecloud.com:94617"
+      "oracle:emit.fa.ca3.oraclecloud.com:94617",
+      "oracle:emit.fa.ca3.oraclecloud.com:94637"
      ],
-     "count": 11
+     "count": 12
     }
    }
   }
  },
- "updated_at": "2026-09-08T16:50:50Z"
+ "updated_at": "2026-09-08T21:22:24Z"
 }
