@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-08T04:55:19Z</updated>
+  <updated>2026-09-08T11:35:10Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---PDM---Global-External-Quality--Global-Supplier-Quality-_R0054881</id>
+    <title>Gilead Sciences: Intern - PDM - Global External Quality (Global Supplier Quality)</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---PDM---Global-External-Quality--Global-Supplier-Quality-_R0054881"/>
+    <updated>2026-09-08T11:35:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · United States - California - Foster City · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017578</id>
+    <title>Texas Instruments: Test or Validation Engineering Intern 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017578"/>
+    <updated>2026-09-08T11:35:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Dallas, TX, United States · Java, C++, MATLAB, LabVIEW · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thermofisher:/job/Rockford-Illinois-USA/Manufacturing-Sciences-Intern_R-01366576</id>
+    <title>Thermo Fisher Scientific: Manufacturing Sciences Intern</title>
+    <link href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockford-Illinois-USA/Manufacturing-Sciences-Intern_R-01366576"/>
+    <updated>2026-09-08T11:35:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Rockford, Illinois, USA · H-1B track record: ~368 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:asteralabs:4724488005</id>
     <title>Astera Labs: System Validation Engineer Intern</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-02T21:14:10Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Fort Smith, Arkansas, United States of America · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:abb:/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727</id>
-    <title>ABB: Mechanical Design Engineer Intern- Summer 2027 🛂</title>
-    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727"/>
-    <updated>2026-09-02T21:14:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Fort Smith, Arkansas, United States of America · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Farmington-CT/Mechanical-Engineering-Intern--Access-Technologies---Farmington--Connecticut_JR37466-1</id>
-    <title>Allegion: Mechanical Engineering Intern, Access Technologies – Farmington, Connecticut</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Mechanical-Engineering-Intern--Access-Technologies---Farmington--Connecticut_JR37466-1"/>
-    <updated>2026-09-02T21:14:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Farmington, CT · $25/hr · Creo</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:axcelis:/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12001</id>
-    <title>Axcelis Technologies, Inc.: Manufacturing Engineer Co-op Production Support</title>
-    <link href="https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12001"/>
-    <updated>2026-09-02T21:14:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Beverly, MA · SolidWorks, Creo, AutoCAD, Six Sigma · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
