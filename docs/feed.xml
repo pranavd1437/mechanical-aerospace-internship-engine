@@ -5,15 +5,143 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-08T11:35:10Z</updated>
+  <updated>2026-09-08T16:50:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---PDM---Global-External-Quality--Global-Supplier-Quality-_R0054881</id>
-    <title>Gilead Sciences: Intern - PDM - Global External Quality (Global Supplier Quality)</title>
-    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---PDM---Global-External-Quality--Global-Supplier-Quality-_R0054881"/>
-    <updated>2026-09-08T11:35:09Z</updated>
+    <id>urn:intern-engine:workday:allegion:/job/Princeton-IL/Summer-Intern---Mechanical-Engineer_JR37342-2</id>
+    <title>Allegion: Summer Intern - Mechanical Engineer</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Princeton-IL/Summer-Intern---Mechanical-Engineer_JR37342-2"/>
+    <updated>2026-09-08T16:50:50Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · United States - California - Foster City · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Mechanical Design · Princeton, IL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:borgwarner:/job/Arden---North-Carolina---USA/Automation-and-Controls-Engineering-Co-Op_R2026-0976</id>
+    <title>BorgWarner: Automation and Controls Engineering Intern</title>
+    <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Arden---North-Carolina---USA/Automation-and-Controls-Engineering-Co-Op_R2026-0976"/>
+    <updated>2026-09-08T16:50:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Arden - North Carolina - USA · Python, C++, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148252267</id>
+    <title>Bosch: Design Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148252267"/>
+    <updated>2026-09-08T16:50:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Vernon Hills, IL, United States · Creo, CAD, CFD · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148250710</id>
+    <title>Bosch: Design Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148250710"/>
+    <updated>2026-09-08T16:50:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Vernon Hills, IL, United States · Creo, CAD, CFD · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148253129</id>
+    <title>Bosch: Test Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148253129"/>
+    <updated>2026-09-08T16:50:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Vernon Hills, IL, United States · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007581</id>
+    <title>Stantec: Structural Engineering Intern - Water (Fall 2026)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007581"/>
+    <updated>2026-09-08T16:50:50Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Structures &amp; FEA · Las Vegas, NV, United States · AutoCAD · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:syskahennessy:8175600</id>
+    <title>Syska Hennessy Group: Mechanical Engineering Summer Intern</title>
+    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8175600"/>
+    <updated>2026-09-08T16:50:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Los Angeles, CA · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:syskahennessy:8177975</id>
+    <title>Syska Hennessy Group: Mechanical Engineering Summer Intern</title>
+    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8177975"/>
+    <updated>2026-09-08T16:50:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Charlotte, NC · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:syskahennessy:8177222</id>
+    <title>Syska Hennessy Group: Mechanical Engineering Summer Intern</title>
+    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8177222"/>
+    <updated>2026-09-08T16:50:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · San Diego, CA · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:syskahennessy:8177404</id>
+    <title>Syska Hennessy Group: Mechanical Engineer Summer Intern</title>
+    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8177404"/>
+    <updated>2026-09-08T16:50:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Chicago, IL · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:syskahennessy:8177276</id>
+    <title>Syska Hennessy Group: Mechanical Engineer Summer Intern</title>
+    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8177276"/>
+    <updated>2026-09-08T16:50:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · San Francisco, CA · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:syskahennessy:8177511</id>
+    <title>Syska Hennessy Group: Mechanical Engineer Summer Intern</title>
+    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8177511"/>
+    <updated>2026-09-08T16:50:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Dallas, TX · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:syskahennessy:8177739</id>
+    <title>Syska Hennessy Group: Mechanical Engineer Summer Intern</title>
+    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8177739"/>
+    <updated>2026-09-08T16:50:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · New York, NY · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017627</id>
+    <title>Texas Instruments: Utah: Manufacturing Engineering Intern 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017627"/>
+    <updated>2026-09-08T16:50:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Dallas, TX, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017629</id>
+    <title>Texas Instruments: Maine: Manufacturing Engineering Intern 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017629"/>
+    <updated>2026-09-08T16:50:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · South Portland, ME, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017628</id>
+    <title>Texas Instruments: North Texas: Manufacturing Engineering Intern 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017628"/>
+    <updated>2026-09-08T16:50:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Dallas, TX, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017630</id>
+    <title>Texas Instruments: North Texas: Industrial Engineer Intern</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017630"/>
+    <updated>2026-09-08T16:50:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Dallas, TX, United States · Lean Manufacturing · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017578</id>
@@ -24,20 +152,20 @@
     <summary>Not stated · Test &amp; Validation · Dallas, TX, United States · Java, C++, MATLAB, LabVIEW · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---PDM---Global-External-Quality--Global-Supplier-Quality-_R0054881</id>
+    <title>Gilead Sciences: Intern - PDM - Global External Quality (Global Supplier Quality)</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---PDM---Global-External-Quality--Global-Supplier-Quality-_R0054881"/>
+    <updated>2026-09-08T11:35:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · United States - California - Foster City · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:thermofisher:/job/Rockford-Illinois-USA/Manufacturing-Sciences-Intern_R-01366576</id>
     <title>Thermo Fisher Scientific: Manufacturing Sciences Intern</title>
     <link href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockford-Illinois-USA/Manufacturing-Sciences-Intern_R-01366576"/>
     <updated>2026-09-08T11:35:09Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Rockford, Illinois, USA · H-1B track record: ~368 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:asteralabs:4724488005</id>
-    <title>Astera Labs: System Validation Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/asteralabs/jobs/4724488005"/>
-    <updated>2026-09-07T21:41:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · San Jose, California, United States · $35/hr · Python, C++, Linux · H-1B track record: ~29 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Solidigm:744000147954459</id>
@@ -305,11 +433,11 @@
   </entry>
   <entry>
     <id>urn:intern-engine:lever:hermeus:9229aa88-f54d-4ecd-85ee-b31f53b4207d</id>
-    <title>Hermeus: Mission Systems Engineering Intern 🇺🇸</title>
+    <title>Hermeus: Mission Systems Engineering Intern - Spring/Summer 2027 🇺🇸</title>
     <link href="https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d"/>
     <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems Engineering · Atlanta, GA · 25–33 USD/hr · Python, C++ · sponsorship: citizens-only</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems Engineering · Atlanta, GA · 25–33 USD/hr · Python, C++ · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000147333760</id>
@@ -678,133 +806,5 @@
     <updated>2026-09-03T04:47:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Jacksonville - Middleburg, FL · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Kansas-City-2---Kansas-City-MO/Manufacturing-Intern---Kansas-City-2_R56060</id>
-    <title>Niagara Bottling: Manufacturing Intern - Kansas City 2</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Kansas-City-2---Kansas-City-MO/Manufacturing-Intern---Kansas-City-2_R56060"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Kansas City 2 - Kansas City, MO · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Kenosha---Pleasant-Prairie-WI/Manufacturing-Intern---Kenosha_R56061</id>
-    <title>Niagara Bottling: Manufacturing Intern - Kenosha</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Kenosha---Pleasant-Prairie-WI/Manufacturing-Intern---Kenosha_R56061"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Kenosha - Pleasant Prairie, WI · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Lancaster---Lancaster-TX/Manufacturing-Intern---Lancaster_R56062</id>
-    <title>Niagara Bottling: Manufacturing Intern - Lancaster</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Lancaster---Lancaster-TX/Manufacturing-Intern---Lancaster_R56062"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Lancaster - Lancaster, TX · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Louisville---Jeffersonville-IN/Manufacturing-Intern---Louisville_R56063</id>
-    <title>Niagara Bottling: Manufacturing Intern - Louisville</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Louisville---Jeffersonville-IN/Manufacturing-Intern---Louisville_R56063"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Louisville - Jeffersonville, IN · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Mesa---Mesa-AZ/Manufacturing-Intern---Mesa_R56064</id>
-    <title>Niagara Bottling: Manufacturing Intern - Mesa</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Mesa---Mesa-AZ/Manufacturing-Intern---Mesa_R56064"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Mesa - Mesa, AZ · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Miami---Jupiter-FL/Manufacturing-Intern---Miami_R56327</id>
-    <title>Niagara Bottling: Manufacturing Intern - Miami</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Miami---Jupiter-FL/Manufacturing-Intern---Miami_R56327"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Miami - Jupiter, FL · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Pittsburgh---Pittsburgh-PA/Manufacturing-Intern---Pittsburgh_R56067</id>
-    <title>Niagara Bottling: Manufacturing Intern - Pittsburgh</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Pittsburgh---Pittsburgh-PA/Manufacturing-Intern---Pittsburgh_R56067"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Pittsburgh - Pittsburgh, PA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Rialto---Rialto-CA/Manufacturing-Intern---Rialto_R56068</id>
-    <title>Niagara Bottling: Manufacturing Intern - Rialto</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Rialto---Rialto-CA/Manufacturing-Intern---Rialto_R56068"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Rialto - Rialto, CA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Stockton---Stockton-CA/Manufacturing-Intern---Stockton-3_R56070</id>
-    <title>Niagara Bottling: Manufacturing Intern - Stockton 3</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Stockton---Stockton-CA/Manufacturing-Intern---Stockton-3_R56070"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Stockton - Stockton, CA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Stockton-4---Stockton-CA/Manufacturing-Intern---Stockton-4_R56071</id>
-    <title>Niagara Bottling: Manufacturing Intern - Stockton 4</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Stockton-4---Stockton-CA/Manufacturing-Intern---Stockton-4_R56071"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Stockton 4 - Stockton, CA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Stockton-4---Stockton-CA/Manufacturing-Intern---Stockton-4_R56072</id>
-    <title>Niagara Bottling: Manufacturing Intern - Stockton 4</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Stockton-4---Stockton-CA/Manufacturing-Intern---Stockton-4_R56072"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Stockton 4 - Stockton, CA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Tacoma---Puyallup-WA/Manufacturing-Intern---Tacoma_R56073</id>
-    <title>Niagara Bottling: Manufacturing Intern - Tacoma</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Tacoma---Puyallup-WA/Manufacturing-Intern---Tacoma_R56073"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Tacoma - Puyallup, WA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:stryker:/job/Cary-Illinois/Manufacturing-Engineering-Intern_R572922</id>
-    <title>Stryker: Manufacturing Engineering Intern</title>
-    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Manufacturing-Engineering-Intern_R572922"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Cary, Illinois · Lean Manufacturing · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:stryker:/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846</id>
-    <title>Stryker: Manufacturing Engineering Intern</title>
-    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Redmond, Washington · Six Sigma, Lean Manufacturing · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:stryker:/job/San-Jose-California/Manufacturing-Engineering-Intern_R572749-1</id>
-    <title>Stryker: Manufacturing Engineering Intern</title>
-    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Manufacturing-Engineering-Intern_R572749-1"/>
-    <updated>2026-09-03T04:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · San Jose, California · CAD, FEA, LabVIEW, Lean Manufacturing · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:abb:/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726</id>
-    <title>ABB: Electrical Design Engineer Intern- Summer 2027 🛂</title>
-    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726"/>
-    <updated>2026-09-02T21:14:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Fort Smith, Arkansas, United States of America · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

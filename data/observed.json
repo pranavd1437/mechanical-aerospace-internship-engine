@@ -493,9 +493,10 @@
       "lever:hermeus:1bdf3754-5649-4a50-913e-b05140cb004f",
       "lever:hermeus:60b5d40a-1065-4bd2-8c72-6b2fb69d4761",
       "lever:hermeus:643fd7b7-9015-43a1-aa2b-a54f117b403c",
-      "lever:hermeus:6b65768c-a8b2-4c77-8d5f-f407e32bb878"
+      "lever:hermeus:6b65768c-a8b2-4c77-8d5f-f407e32bb878",
+      "lever:hermeus:9229aa88-f54d-4ecd-85ee-b31f53b4207d"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -1100,9 +1101,10 @@
     "Fall 2026": {
      "first_posted": "2026-06-18",
      "role_ids": [
-      "oracle:hdhl.fa.us6.oraclecloud.com:1006349"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1006349",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007581"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1326,5 +1328,5 @@
    }
   }
  },
- "updated_at": "2026-09-08T11:35:09Z"
+ "updated_at": "2026-09-08T16:50:50Z"
 }
