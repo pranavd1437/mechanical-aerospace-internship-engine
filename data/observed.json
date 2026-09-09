@@ -78,6 +78,19 @@
     }
    }
   },
+  "allen control systems": {
+   "name": "Allen Control Systems",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "ashby:allen-control-systems:ad41a645-7b94-407d-a579-003fba1b8e68",
+      "ashby:allen-control-systems:e7cefcf6-7322-43ba-861e-22e76f8186bd"
+     ],
+     "count": 2
+    }
+   }
+  },
   "alloy enterprises": {
    "name": "Alloy Enterprises",
    "cycles": {
@@ -298,6 +311,18 @@
       "workday:elanco:/job/Indianapolis-IN/Manufacturing-Scientist-Technical-Services-Intern---Elanco-Technology-Center--Summer-2027-_R0026897"
      ],
      "count": 6
+    }
+   }
+  },
+  "emerson electric": {
+   "name": "Emerson Electric",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "oracle:hdjq.fa.us2.oraclecloud.com:26009934"
+     ],
+     "count": 1
     }
    }
   },
@@ -657,6 +682,13 @@
       "smartrecruiters:LLNL:3743990013626030"
      ],
      "count": 2
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "smartrecruiters:LLNL:3743990015127766"
+     ],
+     "count": 1
     }
    }
   },
@@ -844,9 +876,11 @@
      "role_ids": [
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10249871",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Test-Engineering-Intern---Roy-UT_R10249875",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322"
      ],
-     "count": 3
+     "count": 5
     }
    }
   },
@@ -1363,12 +1397,13 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94545",
       "oracle:emit.fa.ca3.oraclecloud.com:94615",
       "oracle:emit.fa.ca3.oraclecloud.com:94617",
-      "oracle:emit.fa.ca3.oraclecloud.com:94637"
+      "oracle:emit.fa.ca3.oraclecloud.com:94637",
+      "oracle:emit.fa.ca3.oraclecloud.com:94817"
      ],
-     "count": 12
+     "count": 13
     }
    }
   }
  },
- "updated_at": "2026-09-08T21:22:24Z"
+ "updated_at": "2026-09-09T04:58:36Z"
 }
