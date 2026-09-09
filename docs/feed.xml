@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-09T04:58:37Z</updated>
+  <updated>2026-09-09T11:40:54Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Mineral-Wells-TX/Intern--Design-Engineering_R-26-19881</id>
+    <title>Moog: Intern, Design Engineering</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Design-Engineering_R-26-19881"/>
+    <updated>2026-09-09T11:40:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Mineral Wells, TX</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Mineral-Wells-TX/Intern--Design-Engineering_R-26-19882</id>
+    <title>Moog: Intern, Design Engineering</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Design-Engineering_R-26-19882"/>
+    <updated>2026-09-09T11:40:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Mineral Wells, TX</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-26-19887</id>
+    <title>Moog: Intern, Hardware Design Engineering</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-26-19887"/>
+    <updated>2026-09-09T11:40:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Mineral Wells, TX</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:talentpluto:8386B9AC8C</id>
+    <title>Talentpluto: Design Engineering Intern</title>
+    <link href="https://apply.workable.com/talentpluto/j/8386B9AC8C/"/>
+    <updated>2026-09-09T11:40:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · United States (Remote) · $35–$50/hr · TypeScript, React, Next.js</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:allen-control-systems:ad41a645-7b94-407d-a579-003fba1b8e68</id>
+    <title>Allen Control Systems: Mechanical Engineering Intern, 2027</title>
+    <link href="https://jobs.ashbyhq.com/allen-control-systems/ad41a645-7b94-407d-a579-003fba1b8e68"/>
+    <updated>2026-09-09T04:58:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Austin, TX · SolidWorks, CAD, Computer Vision</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:allen-control-systems:e7cefcf6-7322-43ba-861e-22e76f8186bd</id>
     <title>Allen Control Systems: Manufacturing Engineering Co-op / Intern, 2027</title>
@@ -16,12 +56,12 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Austin, TX · SolidWorks, Creo, CAD, GD&amp;T, Six Sigma</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:allen-control-systems:ad41a645-7b94-407d-a579-003fba1b8e68</id>
-    <title>Allen Control Systems: Mechanical Engineering Intern, 2027</title>
-    <link href="https://jobs.ashbyhq.com/allen-control-systems/ad41a645-7b94-407d-a579-003fba1b8e68"/>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94817</id>
+    <title>WSP: Mechanical Engineering (Thermal Generation) Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94817"/>
     <updated>2026-09-09T04:58:36Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Austin, TX · SolidWorks, CAD, Computer Vision</summary>
+    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Mount Laurel, NJ, United States · $23.9–$31.11/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26009934</id>
@@ -40,14 +80,6 @@
     <summary>Summer 2027 · Materials Engineering · Livermore, CA, United States · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Test-Engineering-Intern---Roy-UT_R10249875</id>
-    <title>Northrop Grumman: 2027 Test Engineering Intern - Roy UT 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Test-Engineering-Intern---Roy-UT_R10249875"/>
-    <updated>2026-09-09T04:58:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10249871</id>
     <title>Northrop Grumman: 2027 Mechanical Engineering Intern - Roy UT 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10249871"/>
@@ -56,12 +88,12 @@
     <summary>Summer 2027 · Mechanical Design · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94817</id>
-    <title>WSP: Mechanical Engineering (Thermal Generation) Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94817"/>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Test-Engineering-Intern---Roy-UT_R10249875</id>
+    <title>Northrop Grumman: 2027 Test Engineering Intern - Roy UT 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Test-Engineering-Intern---Roy-UT_R10249875"/>
     <updated>2026-09-09T04:58:36Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Mount Laurel, NJ, United States · $23.9–$31.11/hr</summary>
+    <summary>Summer 2027 · Test &amp; Validation · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:graphcore:8780063002</id>
@@ -774,37 +806,5 @@
     <updated>2026-09-03T21:13:57Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Aerospace &amp; Flight Sciences · Hagerstown, MD · MATLAB, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Manufacturing-Engineering-Intern--Summer-2027-_R0030784</id>
-    <title>Sierra Nevada Corporation: Manufacturing Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Manufacturing-Engineering-Intern--Summer-2027-_R0030784"/>
-    <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Hagerstown, MD · MATLAB, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Mechanical-Engineering-Intern--Summer-2027-_R0030748</id>
-    <title>Sierra Nevada Corporation: Mechanical Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Mechanical-Engineering-Intern--Summer-2027-_R0030748"/>
-    <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Hagerstown, MD · MATLAB, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Quality-Engineering-Intern--Summer-2027-_R0030785</id>
-    <title>Sierra Nevada Corporation: Quality Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Quality-Engineering-Intern--Summer-2027-_R0030785"/>
-    <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Hagerstown, MD · MATLAB, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Test-Engineering-Intern--Summer-2027-_R0030772</id>
-    <title>Sierra Nevada Corporation: Test Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Test-Engineering-Intern--Summer-2027-_R0030772"/>
-    <updated>2026-09-03T21:13:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Hagerstown, MD · MATLAB, CAD · sponsorship: citizens-only</summary>
   </entry>
 </feed>
