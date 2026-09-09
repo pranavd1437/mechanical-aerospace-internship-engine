@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T16:52:47Z",
+ "generated_at": "2026-09-09T21:07:21Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -56,7 +56,7 @@
    "expected": "2026-07-23",
    "days_until": -48,
    "status": "open",
-   "url": "https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f",
+   "url": "https://jobs.lever.co/hermeus/1bc5c858-1b04-4093-80a0-2ba3491afc60",
    "note": ""
   },
   {
@@ -196,7 +196,7 @@
    "expected": "2026-08-17",
    "days_until": -23,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94637",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94810",
    "note": ""
   },
   {
@@ -802,6 +802,34 @@
    "note": ""
   },
   {
+   "company": "Allegion",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Controls-Engineering_JR37366-1",
+   "note": ""
+  },
+  {
+   "company": "Avery Dennison",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/AveryDennison/744000148579064",
+   "note": ""
+  },
+  {
    "company": "Clarios",
    "last_cycle_posted": "",
    "posted_on": "2026-09-09",
@@ -841,6 +869,20 @@
    "days_until": 0,
    "status": "open",
    "url": "https://jobs.smartrecruiters.com/LLNL/3743990015127766",
+   "note": ""
+  },
+  {
+   "company": "Saronic",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/saronic/f52ae6eb-7eba-4c64-97c7-57e2a234e088",
    "note": ""
   },
   {
@@ -1096,5 +1138,5 @@
    "note": ""
   }
  ],
- "count": 78
+ "count": 81
 }

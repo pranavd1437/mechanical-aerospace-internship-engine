@@ -78,6 +78,18 @@
     }
    }
   },
+  "allegion": {
+   "name": "Allegion",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "workday:allegion:/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Controls-Engineering_JR37366-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "allen control systems": {
    "name": "Allen Control Systems",
    "cycles": {
@@ -181,6 +193,18 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "workday:availity:/job/Remote---United-States/Automation-Engineer-Intern_R0008417"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "avery dennison": {
+   "name": "Avery Dennison",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "smartrecruiters:AveryDennison:744000148579064"
      ],
      "count": 1
     }
@@ -479,12 +503,13 @@
       "workday:generalmotors:/job/Lake-Orion-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Weld-Engineer_JR-202619474",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Body-Center_JR-202619475",
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Global-Artisan-Innovation-Center_JR-202619920",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering--Global-Propulsion-Systems_JR-202619351",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Supplier-Quality_JR-202617840"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -826,9 +851,10 @@
      "first_posted": "2026-09-03",
      "role_ids": [
       "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Supplier-Quality_R9737",
+      "workday:momentive:/job/US-NY-Waterford/Summer-2027-Intern---Waterford-Manufacturing-Engineering_R9885",
       "workday:momentive:/job/US-WV-Friendly/Summer-2027-P2-Production-Engineer-Intern_R9800"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1112,6 +1138,19 @@
       "workday:saabusa:/job/West-Lafayette-IN/Quality-Engineer--Summer-2027-Intern_R-03212"
      ],
      "count": 3
+    }
+   }
+  },
+  "saronic": {
+   "name": "Saronic",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "ashby:saronic:2b037fca-754c-4077-b224-eb35cf2b2b97",
+      "ashby:saronic:f52ae6eb-7eba-4c64-97c7-57e2a234e088"
+     ],
+     "count": 2
     }
    }
   },
@@ -1455,5 +1494,5 @@
    }
   }
  },
- "updated_at": "2026-09-09T16:52:46Z"
+ "updated_at": "2026-09-09T21:07:19Z"
 }
