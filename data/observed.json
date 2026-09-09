@@ -213,6 +213,18 @@
     }
    }
   },
+  "bedrock robotics": {
+   "name": "Bedrock Robotics",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "ashby:bedrock-robotics:1f413f83-b897-4938-a19e-ab91bd326c51"
+     ],
+     "count": 1
+    }
+   }
+  },
   "bosch": {
    "name": "Bosch",
    "cycles": {
@@ -227,9 +239,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
-      "smartrecruiters:BoschGroup:744000146800238"
+      "smartrecruiters:BoschGroup:744000146800238",
+      "smartrecruiters:BoschGroup:744000148518808",
+      "smartrecruiters:BoschGroup:744000148542054"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -268,6 +282,30 @@
      "first_posted": "2026-08-26",
      "role_ids": [
       "workday:chamberlain:/job/Malvern-AR/Manufacturing-Process-Documentation-Intern--Summer-2027-_JR31463"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "chaos industries": {
+   "name": "CHAOS Industries",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "greenhouse:chaosindustries:5226634007"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "clarios": {
+   "name": "Clarios",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "workday:clarios:/job/United-States-Michigan-Holland/Advanced-Manufacturing-Intern--Summer-2027-_WD49914"
      ],
      "count": 1
     }
@@ -495,10 +533,13 @@
       "workday:graco:/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-op--May---December-2027-_R0023613",
       "workday:graco:/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023506",
       "workday:graco:/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-op--January---August-2027-_R0023612",
+      "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Automation-Engineering-Co-Op--January---August-2027-_R0023586",
+      "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering--Operational-Technology--Co-op--January---August-2027-_R0023574",
       "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-Op_R0023504",
-      "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-op--January---August-2027-_R0023611"
+      "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-op--January---August-2027-_R0023611",
+      "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Quality-Engineering-Co-op--January---August-2027-_R0023573"
      ],
-     "count": 6
+     "count": 9
     }
    }
   },
@@ -530,15 +571,18 @@
      "count": 5
     },
     "Summer 2027": {
-     "first_posted": "2026-09-01",
+     "first_posted": "2026-07-23",
      "role_ids": [
+      "lever:hermeus:1bc5c858-1b04-4093-80a0-2ba3491afc60",
       "lever:hermeus:1bdf3754-5649-4a50-913e-b05140cb004f",
+      "lever:hermeus:5f6a6e79-9836-4c33-b40b-a2bb6c27bd06",
       "lever:hermeus:60b5d40a-1065-4bd2-8c72-6b2fb69d4761",
       "lever:hermeus:643fd7b7-9015-43a1-aa2b-a54f117b403c",
       "lever:hermeus:6b65768c-a8b2-4c77-8d5f-f407e32bb878",
-      "lever:hermeus:9229aa88-f54d-4ecd-85ee-b31f53b4207d"
+      "lever:hermeus:9229aa88-f54d-4ecd-85ee-b31f53b4207d",
+      "lever:hermeus:943f51e4-5b26-432c-ae85-de5f43cadb86"
      ],
-     "count": 5
+     "count": 8
     }
    }
   },
@@ -1193,9 +1237,10 @@
       "workday:stryker:/job/Cary-Illinois/Summer-2027-Internship---Mechanical-Engineering---Illinois_R572602",
       "workday:stryker:/job/Portage-Michigan/Summer-2027-Internship---Mechanical-Engineering---Michigan_R572603",
       "workday:stryker:/job/Portage-Michigan/Summer-2027-Internship---Quality-Engineering---Michigan_R572613",
+      "workday:stryker:/job/San-Jose-California/Manufacturing-Engineering-Intern_R572749-1",
       "workday:stryker:/job/Tempe-Arizona/Summer-2027-Internship---Mechanical-Engineering---Arizona_R572599"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -1401,12 +1446,14 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94615",
       "oracle:emit.fa.ca3.oraclecloud.com:94617",
       "oracle:emit.fa.ca3.oraclecloud.com:94637",
+      "oracle:emit.fa.ca3.oraclecloud.com:94810",
+      "oracle:emit.fa.ca3.oraclecloud.com:94814",
       "oracle:emit.fa.ca3.oraclecloud.com:94817"
      ],
-     "count": 13
+     "count": 15
     }
    }
   }
  },
- "updated_at": "2026-09-09T11:40:53Z"
+ "updated_at": "2026-09-09T16:52:46Z"
 }

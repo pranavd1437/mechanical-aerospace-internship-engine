@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T11:40:54Z",
+ "generated_at": "2026-09-09T16:52:47Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -43,6 +43,20 @@
    "days_until": -49,
    "status": "open",
    "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Structural-Engineer-Co-Op-Intern---Summer-2027_64448",
+   "note": ""
+  },
+  {
+   "company": "Hermeus",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-23",
+   "days_until": -48,
+   "status": "open",
+   "url": "https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f",
    "note": ""
   },
   {
@@ -480,6 +494,20 @@
    "note": ""
   },
   {
+   "company": "Stryker",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -9,
+   "status": "open",
+   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Manufacturing-Engineering-Intern_R572749-1",
+   "note": ""
+  },
+  {
    "company": "Vermeer",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -536,20 +564,6 @@
    "note": "fall opening"
   },
   {
-   "company": "Hermeus",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f",
-   "note": ""
-  },
-  {
    "company": "Mondelez International",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -574,7 +588,7 @@
    "expected": "2026-09-01",
    "days_until": -8,
    "status": "open",
-   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Actuation-Engineer-Intern--Summer-2027-_R-26-19612",
+   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Design-Engineering_R-26-19881",
    "note": ""
   },
   {
@@ -718,6 +732,34 @@
    "note": ""
   },
   {
+   "company": "Bedrock Robotics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51",
+   "note": ""
+  },
+  {
+   "company": "CHAOS Industries",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5226634007",
+   "note": ""
+  },
+  {
    "company": "Graco",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -757,6 +799,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---North-Carolina---Durham-Old-Oxford/XMLNAME-2027-Future-Talent-Program---Manufacturing-Intern_R416739",
+   "note": ""
+  },
+  {
+   "company": "Clarios",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Michigan-Holland/Advanced-Manufacturing-Intern--Summer-2027-_WD49914",
    "note": ""
   },
   {
@@ -1026,20 +1082,6 @@
    "note": ""
   },
   {
-   "company": "Stryker",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -9,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Texas Instruments",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -1054,5 +1096,5 @@
    "note": ""
   }
  ],
- "count": 75
+ "count": 78
 }
