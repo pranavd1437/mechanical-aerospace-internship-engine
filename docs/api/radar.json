@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T11:37:18Z",
+ "generated_at": "2026-09-10T16:38:32Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -844,6 +844,34 @@
    "note": ""
   },
   {
+   "company": "HMH",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Mechanical-Engineering-Intern_JR102383",
+   "note": ""
+  },
+  {
+   "company": "J.M. Smucker",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Packaging-Engineering-Intern--2027--6-8-month-Co-Op_115697",
+   "note": ""
+  },
+  {
    "company": "Lawrence Livermore National Laboratory (LLNL)",
    "last_cycle_posted": "",
    "posted_on": "2026-09-09",
@@ -872,6 +900,20 @@
    "note": ""
   },
   {
+   "company": "Pacific Fusion",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009",
+   "note": ""
+  },
+  {
    "company": "Rocket Lab",
    "last_cycle_posted": "",
    "posted_on": "2026-09-09",
@@ -897,6 +939,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97",
+   "note": ""
+  },
+  {
+   "company": "Collier Aerospace",
+   "last_cycle_posted": "",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "",
+   "days_until": null,
+   "status": "open",
+   "url": "https://ats.rippling.com/collieraerospace/jobs/c1fcbdc3-fe19-4209-b080-15a5db8c75e1",
    "note": ""
   },
   {
@@ -1166,5 +1222,5 @@
    "note": ""
   }
  ],
- "count": 83
+ "count": 87
 }

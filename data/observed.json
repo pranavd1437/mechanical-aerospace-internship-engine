@@ -624,6 +624,19 @@
     }
    }
   },
+  "hmh": {
+   "name": "HMH",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "workday:hmhw:/job/Houston-TX/Manufacturing-Shop-Operations-Intern_JR102389",
+      "workday:hmhw:/job/Houston-TX/Mechanical-Engineering-Intern_JR102383"
+     ],
+     "count": 2
+    }
+   }
+  },
   "hntb": {
    "name": "HNTB",
    "cycles": {
@@ -700,6 +713,18 @@
       "workday:imeg:/job/Washington-DC/Structural-Intern---Fairfax--VA_R-16618"
      ],
      "count": 20
+    }
+   }
+  },
+  "j m smucker": {
+   "name": "J.M. Smucker",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "workday:smucker:/job/Orrville-OH/Packaging-Engineering-Intern--2027--6-8-month-Co-Op_115697"
+     ],
+     "count": 1
     }
    }
   },
@@ -1025,6 +1050,19 @@
       "workday:oshkoshcorporation:/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823"
      ],
      "count": 7
+    }
+   }
+  },
+  "pacific fusion": {
+   "name": "Pacific Fusion",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "greenhouse:pacificfusion:4398312009",
+      "greenhouse:pacificfusion:4398388009"
+     ],
+     "count": 2
     }
    }
   },
@@ -1532,5 +1570,5 @@
    }
   }
  },
- "updated_at": "2026-09-10T11:37:17Z"
+ "updated_at": "2026-09-10T16:38:30Z"
 }
