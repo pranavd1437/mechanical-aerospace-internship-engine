@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T05:00:56Z",
+ "generated_at": "2026-09-10T11:37:18Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -732,20 +732,6 @@
    "note": ""
   },
   {
-   "company": "CHAOS Industries",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5226634007",
-   "note": ""
-  },
-  {
    "company": "Danaher Corporation",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -1161,6 +1147,20 @@
    "source": "engine",
    "expected": "2026-09-01",
    "days_until": -9,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "CHAOS Industries",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -2,
    "status": "dropped",
    "url": "",
    "note": ""
