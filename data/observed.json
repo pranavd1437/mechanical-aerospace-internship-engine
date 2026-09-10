@@ -347,6 +347,18 @@
     }
    }
   },
+  "danaher": {
+   "name": "Danaher Corporation",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:danaher:/job/Logan-Utah-United-States/Mechanical-Engineering-Intern-Summer-2027_R1317859"
+     ],
+     "count": 1
+    }
+   }
+  },
   "draper": {
    "name": "Draper",
    "cycles": {
@@ -507,9 +519,10 @@
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering--Global-Propulsion-Systems_JR-202619351",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348",
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Supplier-Quality_JR-202617840"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -820,6 +833,18 @@
     }
    }
   },
+  "michael baker international": {
+   "name": "Michael Baker International",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "oracle:ebxs.fa.us2.oraclecloud.com:309855"
+     ],
+     "count": 1
+    }
+   }
+  },
   "michelin": {
    "name": "Michelin",
    "cycles": {
@@ -1124,6 +1149,17 @@
       "greenhouse:rocketlab:7736140003"
      ],
      "count": 3
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "greenhouse:rocketlab:7984600003",
+      "greenhouse:rocketlab:7986748003",
+      "greenhouse:rocketlab:7987208003",
+      "greenhouse:rocketlab:7987250003",
+      "greenhouse:rocketlab:7989993003"
+     ],
+     "count": 5
     }
    }
   },
@@ -1487,12 +1523,14 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94637",
       "oracle:emit.fa.ca3.oraclecloud.com:94810",
       "oracle:emit.fa.ca3.oraclecloud.com:94814",
-      "oracle:emit.fa.ca3.oraclecloud.com:94817"
+      "oracle:emit.fa.ca3.oraclecloud.com:94817",
+      "oracle:emit.fa.ca3.oraclecloud.com:94952",
+      "oracle:emit.fa.ca3.oraclecloud.com:94959"
      ],
-     "count": 15
+     "count": 17
     }
    }
   }
  },
- "updated_at": "2026-09-09T21:07:19Z"
+ "updated_at": "2026-09-10T05:00:54Z"
 }
