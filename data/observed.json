@@ -716,6 +716,21 @@
     }
    }
   },
+  "insulet": {
+   "name": "Insulet Corporation",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Engineering--January---June-2027--Onsite-_REQ-2026-18078",
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Graduate--January---June-2027--Onsite-_REQ-2026-18086",
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--Mechanical-Lifecycle--January---June-2027--Onsite-_REQ-2026-18155",
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Manufacturing--January-June-2027--Onsite-_REQ-2026-18069"
+     ],
+     "count": 4
+    }
+   }
+  },
   "j m smucker": {
    "name": "J.M. Smucker",
    "cycles": {
@@ -1019,6 +1034,18 @@
     }
    }
   },
+  "nvent": {
+   "name": "nVent",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:nvent:/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539"
+     ],
+     "count": 1
+    }
+   }
+  },
   "olsson": {
    "name": "Olsson",
    "cycles": {
@@ -1193,11 +1220,14 @@
      "role_ids": [
       "greenhouse:rocketlab:7984600003",
       "greenhouse:rocketlab:7986748003",
+      "greenhouse:rocketlab:7986792003",
+      "greenhouse:rocketlab:7986816003",
+      "greenhouse:rocketlab:7987159003",
       "greenhouse:rocketlab:7987208003",
       "greenhouse:rocketlab:7987250003",
       "greenhouse:rocketlab:7989993003"
      ],
-     "count": 5
+     "count": 8
     }
    }
   },
@@ -1570,5 +1600,5 @@
    }
   }
  },
- "updated_at": "2026-09-10T16:38:30Z"
+ "updated_at": "2026-09-10T21:02:53Z"
 }

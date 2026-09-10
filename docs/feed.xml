@@ -5,47 +5,167 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-10T16:38:31Z</updated>
+  <updated>2026-09-10T21:02:55Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:cae:/job/Arlington-TX/Mechanical-Engineering-Intern_123573</id>
-    <title>CAE: Mechanical Engineering Intern 🇺🇸</title>
-    <link href="https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Mechanical-Engineering-Intern_123573"/>
-    <updated>2026-09-10T16:38:30Z</updated>
+    <id>urn:intern-engine:workday:avav:/job/Simi-Valley-CA/Quality-Engineering-Intern_8586</id>
+    <title>Avav: Quality Engineering Intern 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Quality-Engineering-Intern_8586"/>
+    <updated>2026-09-10T21:02:53Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Arlington, TX · SolidWorks, Creo, CAD, GD&amp;T · sponsorship: citizens-only</summary>
+    <summary>Not stated · Manufacturing &amp; Quality · Simi Valley, CA · SolidWorks · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:aksteel:/job/Indiana-Harbor/Manufacturing-Planning-Intern_R13519</id>
-    <title>Cleveland-Cliffs: Manufacturing Planning Intern</title>
-    <link href="https://aksteel.wd1.myworkdayjobs.com/careers/job/Indiana-Harbor/Manufacturing-Planning-Intern_R13519"/>
-    <updated>2026-09-10T16:38:30Z</updated>
+    <id>urn:intern-engine:workday:avav:/job/Pottstown-PA/Mechanical-Engineering-Intern_8627</id>
+    <title>Avav: Mechanical Engineering Intern 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Pottstown-PA/Mechanical-Engineering-Intern_8627"/>
+    <updated>2026-09-10T21:02:53Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Indiana Harbor · SQL · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Mechanical Design · Pottstown, PA · SolidWorks, CAD, GD&amp;T, ANSYS · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:aksteel:/job/Indiana-Harbor/Quality-Engineering-Intern_R13510</id>
-    <title>Cleveland-Cliffs: Quality Engineering Intern</title>
-    <link href="https://aksteel.wd1.myworkdayjobs.com/careers/job/Indiana-Harbor/Quality-Engineering-Intern_R13510"/>
-    <updated>2026-09-10T16:38:30Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Indiana Harbor · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Co-op--Mechanical-Lifecycle--January---June-2027--Onsite-_REQ-2026-18155</id>
+    <title>Insulet Corporation: Co-op, Mechanical Lifecycle: January - June 2027 (Onsite)</title>
+    <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Mechanical-Lifecycle--January---June-2027--Onsite-_REQ-2026-18155"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Acton, Massachusetts · CAD, Six Sigma, Lean Manufacturing · H-1B track record: ~46 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:aksteel:/job/Indiana-Harbor/Process-Control-Engineering-Intern_R13477</id>
-    <title>Cleveland-Cliffs: Process Control Engineering Intern</title>
-    <link href="https://aksteel.wd1.myworkdayjobs.com/careers/job/Indiana-Harbor/Process-Control-Engineering-Intern_R13477"/>
-    <updated>2026-09-10T16:38:30Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Indiana Harbor · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Engineering--January---June-2027--Onsite-_REQ-2026-18078</id>
+    <title>Insulet Corporation: Co-op, Manufacturing Engineering: January - June 2027 (Onsite)</title>
+    <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Manufacturing-Engineering--January---June-2027--Onsite-_REQ-2026-18078"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Acton, Massachusetts · SolidWorks, Creo, CAD · H-1B track record: ~46 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:aksteel:/job/Indiana-Harbor/Material-Science-Metallurgical-Engineering-Intern_R13438</id>
-    <title>Cleveland-Cliffs: Material Science/Metallurgical Engineering Intern</title>
-    <link href="https://aksteel.wd1.myworkdayjobs.com/careers/job/Indiana-Harbor/Material-Science-Metallurgical-Engineering-Intern_R13438"/>
-    <updated>2026-09-10T16:38:30Z</updated>
+    <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Graduate--January---June-2027--Onsite-_REQ-2026-18086</id>
+    <title>Insulet Corporation: Co-op, Manufacturing Graduate: January - June 2027 (Onsite)</title>
+    <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Manufacturing-Graduate--January---June-2027--Onsite-_REQ-2026-18086"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Acton, Massachusetts · SolidWorks, Creo, CAD · H-1B track record: ~46 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Manufacturing--January-June-2027--Onsite-_REQ-2026-18069</id>
+    <title>Insulet Corporation: Co-op, R&amp;D Manufacturing: January-June 2027 (Onsite)</title>
+    <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Manufacturing--January-June-2027--Onsite-_REQ-2026-18069"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Acton, Massachusetts · SolidWorks, Creo, CAD · H-1B track record: ~46 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:nisc:8191319</id>
+    <title>National Information Solutions Cooperative (NISC): Intern - Quality Engineer</title>
+    <link href="https://job-boards.greenhouse.io/nisc/jobs/8191319"/>
+    <updated>2026-09-10T21:02:53Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Materials Engineering · Indiana Harbor · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Manufacturing &amp; Quality · Lake St. Louis, MO or Mandan, ND</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:testnisc:8191819</id>
+    <title>National Information Solutions Cooperative (NISC): Intern - Quality Engineer</title>
+    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8191819"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Mandan, ND</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:testnisc:8191814</id>
+    <title>National Information Solutions Cooperative (NISC): Intern - Quality Engineer</title>
+    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8191814"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Lake St. Louis, MO</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:niagarawater:/job/Plainfield---Plainfield-IN/Manufacturing-Internship---Plainfield_R56553</id>
+    <title>Niagara Bottling: Manufacturing Internship - Plainfield</title>
+    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Plainfield---Plainfield-IN/Manufacturing-Internship---Plainfield_R56553"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Plainfield - Plainfield, IN · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nordsonhcm:/job/USA---Connecticut---Norwich/Quality-Engineering-Intern_REQ52854</id>
+    <title>Nordson: Quality Engineering Intern</title>
+    <link href="https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Connecticut---Norwich/Quality-Engineering-Intern_REQ52854"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · USA - Connecticut - Norwich</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nvent:/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539</id>
+    <title>nVent: Mechanical Engineering Co-Op (June - December 2027)</title>
+    <link href="https://nvent.wd5.myworkdayjobs.com/nVent/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Solon, OH, US · MATLAB, Abaqus, FEA, CNC, Six Sigma</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nvent:/job/Blue-Ash-OH-US/Mechanical-Engineering-Co-Op_R23566</id>
+    <title>nVent: Mechanical Engineering Co-Op</title>
+    <link href="https://nvent.wd5.myworkdayjobs.com/nVent/job/Blue-Ash-OH-US/Mechanical-Engineering-Co-Op_R23566"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Blue Ash, OH, US · MATLAB, Abaqus, FEA, CNC, Six Sigma</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7986816003</id>
+    <title>Rocket Lab: Propulsion Design Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7986816003"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Long Beach, CA · Python, Siemens NX, CAD, ANSYS, CAM · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7986792003</id>
+    <title>Rocket Lab: Propulsion Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7986792003"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Long Beach, CA · Python, Siemens NX, ANSYS · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7987159003</id>
+    <title>Rocket Lab: Test Engineering Intern - Avionics Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7987159003"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Long Beach, CA · Python, JavaScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:vast:4711403006</id>
+    <title>VAST: Emerging Talent - Manufacturing Internship 🇺🇸</title>
+    <link href="https://boards.greenhouse.io/vast/jobs/4711403006?gh_jid=4711403006"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Long Beach, California, United States · SolidWorks, CATIA, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:vast:4711400006</id>
+    <title>VAST: Emerging Talent - Mechanical/Aerospace Internship 🇺🇸</title>
+    <link href="https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Long Beach, California, United States · SolidWorks, CATIA, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pacificfusion:4398312009</id>
+    <title>Pacific Fusion: Summer 2027 Internship- Mechanical Engineering 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398312009"/>
+    <updated>2026-09-10T16:38:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · San Leandro, CA/Fremont, CA or Los Lunas, NM · Python, MATLAB, SolidWorks, Creo, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pacificfusion:4398388009</id>
+    <title>Pacific Fusion: Summer 2027 Internship-Manufacturing Engineering 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009"/>
+    <updated>2026-09-10T16:38:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · San Leandro, CA - Fremont, CA - Los Lunas, NM · Python, MATLAB, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:collieraerospace:c1fcbdc3-fe19-4209-b080-15a5db8c75e1</id>
@@ -64,25 +184,57 @@
     <summary>Summer 2027 · Structures &amp; FEA · Raleigh, NC</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Mechanical-Engineering-Intern_R0023509</id>
-    <title>Graco: Mechanical Engineering Intern 🛂</title>
-    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Rogers-Minnesota-USA-David-Koch-Center/Mechanical-Engineering-Intern_R0023509"/>
+    <id>urn:intern-engine:workday:aksteel:/job/Indiana-Harbor/Manufacturing-Planning-Intern_R13519</id>
+    <title>Cleveland-Cliffs: Manufacturing Planning Intern</title>
+    <link href="https://aksteel.wd1.myworkdayjobs.com/careers/job/Indiana-Harbor/Manufacturing-Planning-Intern_R13519"/>
     <updated>2026-09-10T16:38:30Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Rogers, Minnesota, USA (David Koch Center) · SolidWorks, Creo, CAD, FEA · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Manufacturing &amp; Quality · Indiana Harbor · SQL · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:graco:/job/Dayton-Minnesota-USA/Mechanical-Engineering-Intern_R0023603</id>
-    <title>Graco: Mechanical Engineering Intern 🛂</title>
-    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/Mechanical-Engineering-Intern_R0023603"/>
+    <id>urn:intern-engine:workday:aksteel:/job/Indiana-Harbor/Material-Science-Metallurgical-Engineering-Intern_R13438</id>
+    <title>Cleveland-Cliffs: Material Science/Metallurgical Engineering Intern</title>
+    <link href="https://aksteel.wd1.myworkdayjobs.com/careers/job/Indiana-Harbor/Material-Science-Metallurgical-Engineering-Intern_R13438"/>
     <updated>2026-09-10T16:38:30Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Dayton, Minnesota, USA · SolidWorks, Creo, CAD, FEA · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Materials Engineering · Indiana Harbor · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aksteel:/job/Indiana-Harbor/Process-Control-Engineering-Intern_R13477</id>
+    <title>Cleveland-Cliffs: Process Control Engineering Intern</title>
+    <link href="https://aksteel.wd1.myworkdayjobs.com/careers/job/Indiana-Harbor/Process-Control-Engineering-Intern_R13477"/>
+    <updated>2026-09-10T16:38:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Indiana Harbor · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aksteel:/job/Indiana-Harbor/Quality-Engineering-Intern_R13510</id>
+    <title>Cleveland-Cliffs: Quality Engineering Intern</title>
+    <link href="https://aksteel.wd1.myworkdayjobs.com/careers/job/Indiana-Harbor/Quality-Engineering-Intern_R13510"/>
+    <updated>2026-09-10T16:38:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Indiana Harbor · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cae:/job/Arlington-TX/Mechanical-Engineering-Intern_123573</id>
+    <title>CAE: Mechanical Engineering Intern 🇺🇸</title>
+    <link href="https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Mechanical-Engineering-Intern_123573"/>
+    <updated>2026-09-10T16:38:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Arlington, TX · SolidWorks, Creo, CAD, GD&amp;T · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:graco:/job/Dayton-Minnesota-USA/Mechanical-Engineering-Intern_R0023554</id>
     <title>Graco: Mechanical Engineering Intern 🛂</title>
     <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/Mechanical-Engineering-Intern_R0023554"/>
+    <updated>2026-09-10T16:38:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Dayton, Minnesota, USA · SolidWorks, Creo, CAD, FEA · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:graco:/job/Dayton-Minnesota-USA/Mechanical-Engineering-Intern_R0023603</id>
+    <title>Graco: Mechanical Engineering Intern 🛂</title>
+    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/Mechanical-Engineering-Intern_R0023603"/>
     <updated>2026-09-10T16:38:30Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Dayton, Minnesota, USA · SolidWorks, Creo, CAD, FEA · sponsorship: no-sponsorship</summary>
@@ -96,12 +248,12 @@
     <summary>Not stated · Mechanical Design · Flagstaff, Arizona, USA · SolidWorks, Creo, CAD, FEA · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:hmhw:/job/Houston-TX/Mechanical-Engineering-Intern_JR102383</id>
-    <title>HMH: Mechanical Engineering Intern</title>
-    <link href="https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Mechanical-Engineering-Intern_JR102383"/>
+    <id>urn:intern-engine:workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Mechanical-Engineering-Intern_R0023509</id>
+    <title>Graco: Mechanical Engineering Intern 🛂</title>
+    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Rogers-Minnesota-USA-David-Koch-Center/Mechanical-Engineering-Intern_R0023509"/>
     <updated>2026-09-10T16:38:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Houston, TX</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Rogers, Minnesota, USA (David Koch Center) · SolidWorks, Creo, CAD, FEA · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hmhw:/job/Houston-TX/Manufacturing-Shop-Operations-Intern_JR102389</id>
@@ -112,28 +264,12 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Houston, TX</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:smucker:/job/Orrville-OH/Packaging-Engineering-Intern--2027--6-8-month-Co-Op_115697</id>
-    <title>J.M. Smucker: Packaging Engineering Intern- 2027, 6-8 month Co-Op</title>
-    <link href="https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Packaging-Engineering-Intern--2027--6-8-month-Co-Op_115697"/>
+    <id>urn:intern-engine:workday:hmhw:/job/Houston-TX/Mechanical-Engineering-Intern_JR102383</id>
+    <title>HMH: Mechanical Engineering Intern</title>
+    <link href="https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Mechanical-Engineering-Intern_JR102383"/>
     <updated>2026-09-10T16:38:30Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Orrville, OH · $22–$27/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:pacificfusion:4398388009</id>
-    <title>Pacific Fusion: Summer 2027 Internship-Manufacturing Engineering 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009"/>
-    <updated>2026-09-10T16:38:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · San Leandro, CA - Fremont, CA - Los Lunas, NM · Python, MATLAB, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:pacificfusion:4398312009</id>
-    <title>Pacific Fusion: Summer 2027 Internship- Mechanical Engineering 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398312009"/>
-    <updated>2026-09-10T16:38:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · San Leandro, CA/Fremont, CA or Los Lunas, NM · Python, MATLAB, SolidWorks, Creo, CAD · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Mechanical Design · Houston, TX</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:polarsemi:/job/Bloomington-MN-USA/Industrial-Engineering-Intern_R3772</id>
@@ -158,6 +294,14 @@
     <updated>2026-09-10T16:38:30Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Controls &amp; Mechatronics · Bloomington, MN, USA · $25.5–$32.2/hr · C#, .NET</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:smucker:/job/Orrville-OH/Packaging-Engineering-Intern--2027--6-8-month-Co-Op_115697</id>
+    <title>J.M. Smucker: Packaging Engineering Intern- 2027, 6-8 month Co-Op</title>
+    <link href="https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Packaging-Engineering-Intern--2027--6-8-month-Co-Op_115697"/>
+    <updated>2026-09-10T16:38:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Orrville, OH · $22–$27/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rocketlab:7984600003</id>
@@ -206,22 +350,6 @@
     <updated>2026-09-10T05:00:54Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · San Diego, CA, United States · $20–$25/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94952</id>
-    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94952"/>
-    <updated>2026-09-10T05:00:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Arlington, VA, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94959</id>
-    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94959"/>
-    <updated>2026-09-10T05:00:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Columbia, MD, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119148</id>
@@ -422,22 +550,6 @@
     <updated>2026-09-09T16:52:46Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Los Angeles, CA · 25–33 USD/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94810</id>
-    <title>WSP: Structural Engineering (Substation) Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94810"/>
-    <updated>2026-09-09T16:52:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Portland, OR, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94814</id>
-    <title>WSP: Mechanical Engineering (Thermal Generation) Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94814"/>
-    <updated>2026-09-09T16:52:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Overland Park, KS, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148518808</id>
@@ -694,117 +806,5 @@
     <updated>2026-09-08T21:22:24Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Anoka, Minnesota, USA · AutoCAD, CAD, React · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:graco:/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023506</id>
-    <title>Graco: Manufacturing Engineering Co-Op (May - December 2027) 🛂</title>
-    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023506"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Dayton, Minnesota, USA · AutoCAD, CAD, React · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:graco:/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-op--January---August-2027-_R0023612</id>
-    <title>Graco: Manufacturing Engineering Co-op (January - August 2027) 🛂</title>
-    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-op--January---August-2027-_R0023612"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Dayton, Minnesota, USA · AutoCAD, CAD, React · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-Op_R0023504</id>
-    <title>Graco: Manufacturing Engineering Co-Op (May - December 2027) 🛂</title>
-    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-Op_R0023504"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Rogers, Minnesota, USA (David Koch Center) · AutoCAD, CAD, React · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-op--January---August-2027-_R0023611</id>
-    <title>Graco: Manufacturing Engineering Co-op (January - August 2027) 🛂</title>
-    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-op--January---August-2027-_R0023611"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Rogers, Minnesota, USA (David Koch Center) · AutoCAD, CAD, React · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:meijer:/job/Grand-Rapids-MI/Labor-Industrial-Engineering-Intern--Summer-2027_R000698645</id>
-    <title>Meijer: Labor Industrial Engineering Intern- Summer 2027</title>
-    <link href="https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Labor-Industrial-Engineering-Intern--Summer-2027_R000698645"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Grand Rapids, MI · H-1B track record: ~57 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:momentive:/job/US-WV-Friendly/Summer-2027-P2-Production-Engineer-Intern_R9800</id>
-    <title>Momentive: Summer 2027 P2-Production Engineer Intern</title>
-    <link href="https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-P2-Production-Engineer-Intern_R9800"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US WV Friendly · Six Sigma, Lean Manufacturing · H-1B track record: ~44 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:msd:/job/USA---North-Carolina---Durham-Old-Oxford/XMLNAME-2027-Future-Talent-Program---Manufacturing-Intern_R416739</id>
-    <title>Merck: 2027 Future Talent Program - Manufacturing Intern</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---North-Carolina---Durham-Old-Oxford/XMLNAME-2027-Future-Talent-Program---Manufacturing-Intern_R416739"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA - North Carolina - Durham (Old Oxford)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:msd:/job/USA---Virginia---Elkton/XMLNAME-2027-Future-Talent-Program---Elkton-Manufacturing-Co-op_R412910</id>
-    <title>Merck: 2027 Future Talent Program - Elkton Manufacturing Co-op</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Virginia---Elkton/XMLNAME-2027-Future-Talent-Program---Elkton-Manufacturing-Co-op_R412910"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA - Virginia - Elkton · Six Sigma</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:msd:/job/USA---Virginia---Elkton/XMLNAME-2027-Future-Talent-Program---Elkton-Manufacturing-Intern_R412907</id>
-    <title>Merck: 2027 Future Talent Program - Elkton Manufacturing Intern</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Virginia---Elkton/XMLNAME-2027-Future-Talent-Program---Elkton-Manufacturing-Intern_R412907"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA - Virginia - Elkton · Six Sigma</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:swbc:/job/San-Antonio-TX/Quality-Engineering-Intern_R0015483-2</id>
-    <title>SWBC: Quality Engineering Intern</title>
-    <link href="https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Quality-Engineering-Intern_R0015483-2"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · San Antonio, TX · Java, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wattswater:/job/Blauvelt-NY/Production-Engineer-Intern--Summer-2027_10017356</id>
-    <title>Watts Water: Production Engineer Intern, Summer 2027</title>
-    <link href="https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Blauvelt-NY/Production-Engineer-Intern--Summer-2027_10017356"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Blauvelt, NY</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:syskahennessy:8175600</id>
-    <title>Syska Hennessy Group: Mechanical Engineering Summer Intern</title>
-    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8175600"/>
-    <updated>2026-09-08T16:50:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Los Angeles, CA · AutoCAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:syskahennessy:8177222</id>
-    <title>Syska Hennessy Group: Mechanical Engineering Summer Intern</title>
-    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8177222"/>
-    <updated>2026-09-08T16:50:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · San Diego, CA · AutoCAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:syskahennessy:8177276</id>
-    <title>Syska Hennessy Group: Mechanical Engineer Summer Intern</title>
-    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8177276"/>
-    <updated>2026-09-08T16:50:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · San Francisco, CA · AutoCAD</summary>
   </entry>
 </feed>

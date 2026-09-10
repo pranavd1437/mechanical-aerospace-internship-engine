@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T16:38:32Z",
+ "generated_at": "2026-09-10T21:02:55Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -183,20 +183,6 @@
    "days_until": -24,
    "status": "open",
    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Columbus-OH/Mechanical-Engineering-Intern---Columbus--OH_R-16523",
-   "note": ""
-  },
-  {
-   "company": "WSP",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -24,
-   "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94810",
    "note": ""
   },
   {
@@ -854,7 +840,7 @@
    "expected": "2026-09-09",
    "days_until": -1,
    "status": "open",
-   "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Mechanical-Engineering-Intern_JR102383",
+   "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Manufacturing-Shop-Operations-Intern_JR102389",
    "note": ""
   },
   {
@@ -910,7 +896,7 @@
    "expected": "2026-09-09",
    "days_until": -1,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009",
+   "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398312009",
    "note": ""
   },
   {
@@ -939,6 +925,34 @@
    "days_until": -1,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97",
+   "note": ""
+  },
+  {
+   "company": "Insulet Corporation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Mechanical-Lifecycle--January---June-2027--Onsite-_REQ-2026-18155",
+   "note": ""
+  },
+  {
+   "company": "nVent",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://nvent.wd5.myworkdayjobs.com/nVent/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539",
    "note": ""
   },
   {
@@ -1124,6 +1138,20 @@
    "note": ""
   },
   {
+   "company": "WSP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -24,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Airbus",
    "last_cycle_posted": "",
    "posted_on": "2026-08-21",
@@ -1222,5 +1250,5 @@
    "note": ""
   }
  ],
- "count": 87
+ "count": 89
 }
