@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T11:37:31Z",
+ "generated_at": "2026-09-11T16:43:04Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -183,6 +183,20 @@
    "days_until": -25,
    "status": "open",
    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Columbus-OH/Mechanical-Engineering-Intern---Columbus--OH_R-16523",
+   "note": ""
+  },
+  {
+   "company": "WSP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -25,
+   "status": "open",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94815",
    "note": ""
   },
   {
@@ -534,6 +548,20 @@
    "status": "open",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Kansas-City-Kansas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Tool-and-Die_JR-202619470",
    "note": "fall opening"
+  },
+  {
+   "company": "Hypertherm",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -10,
+   "status": "open",
+   "url": "https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Hanover-NH/Intern---Manufacturing-Process-Engineer_R4063-1",
+   "note": ""
   },
   {
    "company": "Mondelez International",
@@ -970,6 +998,34 @@
    "note": ""
   },
   {
+   "company": "Charter Manufacturing",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Cleveland-OH/Quality-Engineer-Intern--Summer-2027-_R08068",
+   "note": ""
+  },
+  {
+   "company": "Jabil",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367",
+   "note": ""
+  },
+  {
    "company": "Collier Aerospace",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1152,20 +1208,6 @@
    "note": ""
   },
   {
-   "company": "WSP",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -25,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Airbus",
    "last_cycle_posted": "",
    "posted_on": "2026-08-21",
@@ -1264,5 +1306,5 @@
    "note": ""
   }
  ],
- "count": 90
+ "count": 93
 }

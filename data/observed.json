@@ -324,6 +324,18 @@
     }
    }
   },
+  "charter manufacturing": {
+   "name": "Charter Manufacturing",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "workday:chartermfg:/job/Charter-Steel---Cleveland-OH/Quality-Engineer-Intern--Summer-2027-_R08068"
+     ],
+     "count": 1
+    }
+   }
+  },
   "clarios": {
    "name": "Clarios",
    "cycles": {
@@ -576,9 +588,10 @@
       "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering--Operational-Technology--Co-op--January---August-2027-_R0023574",
       "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-Op_R0023504",
       "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-op--January---August-2027-_R0023611",
-      "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Quality-Engineering-Co-op--January---August-2027-_R0023573"
+      "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Quality-Engineering-Co-op--January---August-2027-_R0023573",
+      "workday:graco:/job/Sioux-Falls-South-Dakota-USA/Manufacturing-Engineering-Intern---Summer-2027_R0023643"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -686,6 +699,18 @@
     }
    }
   },
+  "hypertherm": {
+   "name": "Hypertherm",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:hypertherm:/job/Hanover-NH/Intern---Manufacturing-Process-Engineer_R4063-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "imeg": {
    "name": "IMEG",
    "cycles": {
@@ -740,6 +765,18 @@
      "first_posted": "2026-09-09",
      "role_ids": [
       "workday:smucker:/job/Orrville-OH/Packaging-Engineering-Intern--2027--6-8-month-Co-Op_115697"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "jabil": {
+   "name": "Jabil",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "workday:jabil:/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367"
      ],
      "count": 1
     }
@@ -919,9 +956,11 @@
      "role_ids": [
       "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Supplier-Quality_R9737",
       "workday:momentive:/job/US-NY-Waterford/Summer-2027-Intern---Waterford-Manufacturing-Engineering_R9885",
-      "workday:momentive:/job/US-WV-Friendly/Summer-2027-P2-Production-Engineer-Intern_R9800"
+      "workday:momentive:/job/US-WV-Friendly/Summer-2027--Polymers-and-New-Product-Development-Production-Engineer-Intern_R9799",
+      "workday:momentive:/job/US-WV-Friendly/Summer-2027-P2-Production-Engineer-Intern_R9800",
+      "workday:momentive:/job/US-WV-Friendly/Summer-2027-Reliability-Engineer-Intern_R9818-1"
      ],
-     "count": 3
+     "count": 5
     }
    }
   },
@@ -1110,10 +1149,11 @@
      "role_ids": [
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902",
       "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Murrysville--PA-January-June-2027_580754",
+      "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Industrial-Engineering-Reedsville--PA--January-to-June-2027-_591145",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Reedsville--PA--July---December-2027_587808",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -1221,6 +1261,7 @@
      "first_posted": "2026-09-09",
      "role_ids": [
       "greenhouse:rocketlab:7984600003",
+      "greenhouse:rocketlab:7986690003",
       "greenhouse:rocketlab:7986748003",
       "greenhouse:rocketlab:7986792003",
       "greenhouse:rocketlab:7986816003",
@@ -1229,7 +1270,7 @@
       "greenhouse:rocketlab:7987250003",
       "greenhouse:rocketlab:7989993003"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -1422,11 +1463,16 @@
      "role_ids": [
       "workday:ttc:/job/Beatrice-NE/Design-Engineering-Intern---Exmark_JR17085",
       "workday:ttc:/job/Beatrice-NE/Test-Engineer-Intern---Exmark_JR17050",
+      "workday:ttc:/job/Bloomington-MN/Mechanical-Design-Engineering-Intern---The-Toro-Company_JR17094",
+      "workday:ttc:/job/Bloomington-MN/Mechanical-Design-Engineering-Intern---The-Toro-Company_JR17151",
+      "workday:ttc:/job/Bloomington-MN/Mechanical-Engineering-Intern---The-Toro-Company_JR17141",
+      "workday:ttc:/job/Bloomington-MN/Mechanical-Engineering-Intern---Value-Engineering--VAVE----The-Toro-Company_JR17204",
+      "workday:ttc:/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194",
       "workday:ttc:/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17101"
      ],
-     "count": 5
+     "count": 10
     }
    }
   },
@@ -1609,14 +1655,15 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94637",
       "oracle:emit.fa.ca3.oraclecloud.com:94810",
       "oracle:emit.fa.ca3.oraclecloud.com:94814",
+      "oracle:emit.fa.ca3.oraclecloud.com:94815",
       "oracle:emit.fa.ca3.oraclecloud.com:94817",
       "oracle:emit.fa.ca3.oraclecloud.com:94952",
       "oracle:emit.fa.ca3.oraclecloud.com:94959"
      ],
-     "count": 17
+     "count": 18
     }
    }
   }
  },
- "updated_at": "2026-09-11T11:37:29Z"
+ "updated_at": "2026-09-11T16:43:02Z"
 }
