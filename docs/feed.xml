@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-11T04:56:52Z</updated>
+  <updated>2026-09-11T11:37:31Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Princeton-IL/Quality-Engineer-Intern_JR37402-1</id>
-    <title>Allegion: Summer Intern - Quality Engineer</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Princeton-IL/Quality-Engineer-Intern_JR37402-1"/>
+    <id>urn:intern-engine:ashby:bedrock-robotics:c396dedc-06ec-4a23-8408-0194e360f30e</id>
+    <title>Bedrock Robotics: Internship 2027 Validation &amp; Verification Test Engineer</title>
+    <link href="https://jobs.ashbyhq.com/bedrock-robotics/c396dedc-06ec-4a23-8408-0194e360f30e"/>
     <updated>2026-09-11T04:56:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Princeton, IL</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · San Francisco, CA · Python</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:allegion:/job/Colorado-Springs-CO/Summer-Intern---Manufacturing-Process-Engineer_JR37469-1</id>
@@ -32,20 +32,20 @@
     <summary>Not stated · Test &amp; Validation · Colorado Springs, CO · $25–$26/hr</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Princeton-IL/Quality-Engineer-Intern_JR37402-1</id>
+    <title>Allegion: Summer Intern - Quality Engineer</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Princeton-IL/Quality-Engineer-Intern_JR37402-1"/>
+    <updated>2026-09-11T04:56:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Princeton, IL</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:avav:/job/Simi-Valley-CA/Mechanical-Engineering-Intern_8591</id>
     <title>Avav: Mechanical Engineering Intern 🇺🇸</title>
     <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Mechanical-Engineering-Intern_8591"/>
     <updated>2026-09-11T04:56:50Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Simi Valley, CA · SolidWorks, CAD, GD&amp;T, ANSYS · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:bedrock-robotics:c396dedc-06ec-4a23-8408-0194e360f30e</id>
-    <title>Bedrock Robotics: Internship 2027 Validation &amp; Verification Test Engineer</title>
-    <link href="https://jobs.ashbyhq.com/bedrock-robotics/c396dedc-06ec-4a23-8408-0194e360f30e"/>
-    <updated>2026-09-11T04:56:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · San Francisco, CA · Python</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Co-op--Supplier-Development-Engineering---Mechanical--January-June-2027--Onsite-_REQ-2026-18209</id>
@@ -56,6 +56,14 @@
     <summary>Summer 2027 · Mechanical Design · Acton, Massachusetts · CAD, Six Sigma, Lean Manufacturing · H-1B track record: ~46 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:ttc:/job/Beatrice-NE/Design-Engineering-Intern---Exmark_JR17085</id>
+    <title>The Toro Company: Design Engineering Intern - Exmark 🛂</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Beatrice-NE/Design-Engineering-Intern---Exmark_JR17085"/>
+    <updated>2026-09-11T04:56:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Beatrice, NE · $22–$33/hr · Creo, CAD, FEA · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:ttc:/job/Beatrice-NE/Test-Engineer-Intern---Exmark_JR17050</id>
     <title>The Toro Company: Test Engineer Intern - Exmark 🛂</title>
     <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Beatrice-NE/Test-Engineer-Intern---Exmark_JR17050"/>
@@ -64,12 +72,12 @@
     <summary>Summer 2027 · Test &amp; Validation · Beatrice, NE · $22–$33/hr · Creo, CAD, LabVIEW · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:ttc:/job/Beatrice-NE/Design-Engineering-Intern---Exmark_JR17085</id>
-    <title>The Toro Company: Design Engineering Intern - Exmark 🛂</title>
-    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Beatrice-NE/Design-Engineering-Intern---Exmark_JR17085"/>
+    <id>urn:intern-engine:workday:ttc:/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004</id>
+    <title>The Toro Company: Robotics System Test Intern - The Toro Company 🛂</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004"/>
     <updated>2026-09-11T04:56:50Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Beatrice, NE · $22–$33/hr · Creo, CAD, FEA · sponsorship: no-sponsorship</summary>
+    <summary>Summer 2027 · Test &amp; Validation · Frederick, CO · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098</id>
@@ -86,14 +94,6 @@
     <updated>2026-09-11T04:56:50Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Perry, OK · SolidWorks, Creo, AutoCAD · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ttc:/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004</id>
-    <title>The Toro Company: Robotics System Test Intern - The Toro Company 🛂</title>
-    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004"/>
-    <updated>2026-09-11T04:56:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Frederick, CO · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:nisc:8191319</id>
