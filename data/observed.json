@@ -407,9 +407,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-09",
      "role_ids": [
-      "oracle:hdjq.fa.us2.oraclecloud.com:26009934"
+      "oracle:hdjq.fa.us2.oraclecloud.com:26009934",
+      "oracle:hdjq.fa.us2.oraclecloud.com:26010800",
+      "oracle:hdjq.fa.us2.oraclecloud.com:26010801"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -988,6 +990,13 @@
       "workday:moog:/job/Torrance-CA/Actuation-Engineer-Intern--Summer-2027-_R-26-19612"
      ],
      "count": 4
+    },
+    "Fall 2026": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "workday:moog:/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053"
+     ],
+     "count": 1
     }
    }
   },
@@ -1280,11 +1289,12 @@
     "Summer 2027": {
      "first_posted": "2026-09-04",
      "role_ids": [
+      "workday:saabusa:/job/East-Syracuse-NY-Aspen-Park/Mechanical-Engineer-Co-Op--Summer-2027-_R-03261-1",
       "workday:saabusa:/job/West-Lafayette-IN/Manufacturing-Engineer--Summer-Intern-2027-_R-03234",
       "workday:saabusa:/job/West-Lafayette-IN/Mechanical-Engineer--Summer-Intern-2027-_R-03223",
       "workday:saabusa:/job/West-Lafayette-IN/Quality-Engineer--Summer-2027-Intern_R-03212"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -1658,12 +1668,13 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94815",
       "oracle:emit.fa.ca3.oraclecloud.com:94817",
       "oracle:emit.fa.ca3.oraclecloud.com:94952",
-      "oracle:emit.fa.ca3.oraclecloud.com:94959"
+      "oracle:emit.fa.ca3.oraclecloud.com:94959",
+      "oracle:emit.fa.ca3.oraclecloud.com:95114"
      ],
-     "count": 18
+     "count": 19
     }
    }
   }
  },
- "updated_at": "2026-09-11T16:43:02Z"
+ "updated_at": "2026-09-11T21:09:25Z"
 }
