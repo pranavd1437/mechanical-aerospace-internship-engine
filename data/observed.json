@@ -243,9 +243,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-08",
      "role_ids": [
-      "ashby:bedrock-robotics:1f413f83-b897-4938-a19e-ab91bd326c51"
+      "ashby:bedrock-robotics:1f413f83-b897-4938-a19e-ab91bd326c51",
+      "ashby:bedrock-robotics:c396dedc-06ec-4a23-8408-0194e360f30e"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -725,9 +726,10 @@
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Engineering--January---June-2027--Onsite-_REQ-2026-18078",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Graduate--January---June-2027--Onsite-_REQ-2026-18086",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Mechanical-Lifecycle--January---June-2027--Onsite-_REQ-2026-18155",
-      "workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Manufacturing--January-June-2027--Onsite-_REQ-2026-18069"
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Manufacturing--January-June-2027--Onsite-_REQ-2026-18069",
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--Supplier-Development-Engineering---Mechanical--January-June-2027--Onsite-_REQ-2026-18209"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -1412,6 +1414,22 @@
     }
    }
   },
+  "toro": {
+   "name": "The Toro Company",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:ttc:/job/Beatrice-NE/Design-Engineering-Intern---Exmark_JR17085",
+      "workday:ttc:/job/Beatrice-NE/Test-Engineer-Intern---Exmark_JR17050",
+      "workday:ttc:/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004",
+      "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098",
+      "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17101"
+     ],
+     "count": 5
+    }
+   }
+  },
   "toshiba global commerce": {
    "name": "Toshiba Global Commerce",
    "cycles": {
@@ -1600,5 +1618,5 @@
    }
   }
  },
- "updated_at": "2026-09-10T21:02:53Z"
+ "updated_at": "2026-09-11T04:56:50Z"
 }

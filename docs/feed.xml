@@ -5,15 +5,159 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-10T21:02:55Z</updated>
+  <updated>2026-09-11T04:56:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:avav:/job/Simi-Valley-CA/Quality-Engineering-Intern_8586</id>
-    <title>Avav: Quality Engineering Intern 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Quality-Engineering-Intern_8586"/>
+    <id>urn:intern-engine:workday:allegion:/job/Princeton-IL/Quality-Engineer-Intern_JR37402-1</id>
+    <title>Allegion: Summer Intern - Quality Engineer</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Princeton-IL/Quality-Engineer-Intern_JR37402-1"/>
+    <updated>2026-09-11T04:56:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Princeton, IL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Colorado-Springs-CO/Summer-Intern---Manufacturing-Process-Engineer_JR37469-1</id>
+    <title>Allegion: Summer Intern - Manufacturing Process Engineer</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Manufacturing-Process-Engineer_JR37469-1"/>
+    <updated>2026-09-11T04:56:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Colorado Springs, CO · Creo</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Colorado-Springs-CO/Summer-Intern---Product-Assurance-Test-Engineer_JR37380-1</id>
+    <title>Allegion: Summer Intern - Product Assurance Test Engineer</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Product-Assurance-Test-Engineer_JR37380-1"/>
+    <updated>2026-09-11T04:56:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Colorado Springs, CO · $25–$26/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:avav:/job/Simi-Valley-CA/Mechanical-Engineering-Intern_8591</id>
+    <title>Avav: Mechanical Engineering Intern 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Mechanical-Engineering-Intern_8591"/>
+    <updated>2026-09-11T04:56:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Simi Valley, CA · SolidWorks, CAD, GD&amp;T, ANSYS · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:bedrock-robotics:c396dedc-06ec-4a23-8408-0194e360f30e</id>
+    <title>Bedrock Robotics: Internship 2027 Validation &amp; Verification Test Engineer</title>
+    <link href="https://jobs.ashbyhq.com/bedrock-robotics/c396dedc-06ec-4a23-8408-0194e360f30e"/>
+    <updated>2026-09-11T04:56:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · San Francisco, CA · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Co-op--Supplier-Development-Engineering---Mechanical--January-June-2027--Onsite-_REQ-2026-18209</id>
+    <title>Insulet Corporation: Co-op, Supplier Development Engineering - Mechanical: January-June 2027 (Onsite)</title>
+    <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Supplier-Development-Engineering---Mechanical--January-June-2027--Onsite-_REQ-2026-18209"/>
+    <updated>2026-09-11T04:56:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Acton, Massachusetts · CAD, Six Sigma, Lean Manufacturing · H-1B track record: ~46 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ttc:/job/Beatrice-NE/Test-Engineer-Intern---Exmark_JR17050</id>
+    <title>The Toro Company: Test Engineer Intern - Exmark 🛂</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Beatrice-NE/Test-Engineer-Intern---Exmark_JR17050"/>
+    <updated>2026-09-11T04:56:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Beatrice, NE · $22–$33/hr · Creo, CAD, LabVIEW · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ttc:/job/Beatrice-NE/Design-Engineering-Intern---Exmark_JR17085</id>
+    <title>The Toro Company: Design Engineering Intern - Exmark 🛂</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Beatrice-NE/Design-Engineering-Intern---Exmark_JR17085"/>
+    <updated>2026-09-11T04:56:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Beatrice, NE · $22–$33/hr · Creo, CAD, FEA · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098</id>
+    <title>The Toro Company: Mechanical Engineering Intern - Ditch Witch 🛂</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098"/>
+    <updated>2026-09-11T04:56:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Perry, OK · SolidWorks, Creo, AutoCAD · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17101</id>
+    <title>The Toro Company: Mechanical Engineering Intern - Ditch Witch 🛂</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17101"/>
+    <updated>2026-09-11T04:56:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Perry, OK · SolidWorks, Creo, AutoCAD · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ttc:/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004</id>
+    <title>The Toro Company: Robotics System Test Intern - The Toro Company 🛂</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004"/>
+    <updated>2026-09-11T04:56:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Frederick, CO · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:nisc:8191319</id>
+    <title>National Information Solutions Cooperative (NISC): Intern - Quality Engineer</title>
+    <link href="https://job-boards.greenhouse.io/nisc/jobs/8191319"/>
     <updated>2026-09-10T21:02:53Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Simi Valley, CA · SolidWorks · sponsorship: citizens-only</summary>
+    <summary>Not stated · Manufacturing &amp; Quality · Lake St. Louis, MO or Mandan, ND</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7986792003</id>
+    <title>Rocket Lab: Propulsion Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7986792003"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Long Beach, CA · Python, Siemens NX, ANSYS · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7986816003</id>
+    <title>Rocket Lab: Propulsion Design Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7986816003"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Long Beach, CA · Python, Siemens NX, CAD, ANSYS, CAM · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7987159003</id>
+    <title>Rocket Lab: Test Engineering Intern - Avionics Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7987159003"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Long Beach, CA · Python, JavaScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:testnisc:8191814</id>
+    <title>National Information Solutions Cooperative (NISC): Intern - Quality Engineer</title>
+    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8191814"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Lake St. Louis, MO</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:testnisc:8191819</id>
+    <title>National Information Solutions Cooperative (NISC): Intern - Quality Engineer</title>
+    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8191819"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Mandan, ND</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:vast:4711400006</id>
+    <title>VAST: Emerging Talent - Mechanical/Aerospace Engineering Internship 🇺🇸</title>
+    <link href="https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Long Beach, California, United States · SolidWorks, CATIA, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:vast:4711403006</id>
+    <title>VAST: Emerging Talent - Manufacturing Engineering Internship 🇺🇸</title>
+    <link href="https://boards.greenhouse.io/vast/jobs/4711403006?gh_jid=4711403006"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Long Beach, California, United States · SolidWorks, CATIA, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:avav:/job/Pottstown-PA/Mechanical-Engineering-Intern_8627</id>
@@ -24,12 +168,12 @@
     <summary>Not stated · Mechanical Design · Pottstown, PA · SolidWorks, CAD, GD&amp;T, ANSYS · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Co-op--Mechanical-Lifecycle--January---June-2027--Onsite-_REQ-2026-18155</id>
-    <title>Insulet Corporation: Co-op, Mechanical Lifecycle: January - June 2027 (Onsite)</title>
-    <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Mechanical-Lifecycle--January---June-2027--Onsite-_REQ-2026-18155"/>
+    <id>urn:intern-engine:workday:avav:/job/Simi-Valley-CA/Quality-Engineering-Intern_8586</id>
+    <title>Avav: Quality Engineering Intern 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Quality-Engineering-Intern_8586"/>
     <updated>2026-09-10T21:02:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Acton, Massachusetts · CAD, Six Sigma, Lean Manufacturing · H-1B track record: ~46 approvals (FY2022–2023)</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Simi Valley, CA · SolidWorks · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Engineering--January---June-2027--Onsite-_REQ-2026-18078</id>
@@ -48,36 +192,20 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Acton, Massachusetts · SolidWorks, Creo, CAD · H-1B track record: ~46 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Co-op--Mechanical-Lifecycle--January---June-2027--Onsite-_REQ-2026-18155</id>
+    <title>Insulet Corporation: Co-op, Mechanical Lifecycle: January - June 2027 (Onsite)</title>
+    <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Mechanical-Lifecycle--January---June-2027--Onsite-_REQ-2026-18155"/>
+    <updated>2026-09-10T21:02:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Acton, Massachusetts · CAD, Six Sigma, Lean Manufacturing · H-1B track record: ~46 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Manufacturing--January-June-2027--Onsite-_REQ-2026-18069</id>
     <title>Insulet Corporation: Co-op, R&amp;D Manufacturing: January-June 2027 (Onsite)</title>
     <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Manufacturing--January-June-2027--Onsite-_REQ-2026-18069"/>
     <updated>2026-09-10T21:02:53Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Acton, Massachusetts · SolidWorks, Creo, CAD · H-1B track record: ~46 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:nisc:8191319</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Quality Engineer</title>
-    <link href="https://job-boards.greenhouse.io/nisc/jobs/8191319"/>
-    <updated>2026-09-10T21:02:53Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Lake St. Louis, MO or Mandan, ND</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8191819</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Quality Engineer</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8191819"/>
-    <updated>2026-09-10T21:02:53Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Mandan, ND</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8191814</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Quality Engineer</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8191814"/>
-    <updated>2026-09-10T21:02:53Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Lake St. Louis, MO</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:niagarawater:/job/Plainfield---Plainfield-IN/Manufacturing-Internship---Plainfield_R56553</id>
@@ -96,14 +224,6 @@
     <summary>Not stated · Manufacturing &amp; Quality · USA - Connecticut - Norwich</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:nvent:/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539</id>
-    <title>nVent: Mechanical Engineering Co-Op (June - December 2027)</title>
-    <link href="https://nvent.wd5.myworkdayjobs.com/nVent/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539"/>
-    <updated>2026-09-10T21:02:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Solon, OH, US · MATLAB, Abaqus, FEA, CNC, Six Sigma</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:nvent:/job/Blue-Ash-OH-US/Mechanical-Engineering-Co-Op_R23566</id>
     <title>nVent: Mechanical Engineering Co-Op</title>
     <link href="https://nvent.wd5.myworkdayjobs.com/nVent/job/Blue-Ash-OH-US/Mechanical-Engineering-Co-Op_R23566"/>
@@ -112,44 +232,12 @@
     <summary>Not stated · Mechanical Design · Blue Ash, OH, US · MATLAB, Abaqus, FEA, CNC, Six Sigma</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7986816003</id>
-    <title>Rocket Lab: Propulsion Design Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7986816003"/>
+    <id>urn:intern-engine:workday:nvent:/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539</id>
+    <title>nVent: Mechanical Engineering Co-Op (June - December 2027)</title>
+    <link href="https://nvent.wd5.myworkdayjobs.com/nVent/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539"/>
     <updated>2026-09-10T21:02:53Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Long Beach, CA · Python, Siemens NX, CAD, ANSYS, CAM · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7986792003</id>
-    <title>Rocket Lab: Propulsion Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7986792003"/>
-    <updated>2026-09-10T21:02:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Long Beach, CA · Python, Siemens NX, ANSYS · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7987159003</id>
-    <title>Rocket Lab: Test Engineering Intern - Avionics Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7987159003"/>
-    <updated>2026-09-10T21:02:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Long Beach, CA · Python, JavaScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:vast:4711403006</id>
-    <title>VAST: Emerging Talent - Manufacturing Internship 🇺🇸</title>
-    <link href="https://boards.greenhouse.io/vast/jobs/4711403006?gh_jid=4711403006"/>
-    <updated>2026-09-10T21:02:53Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Long Beach, California, United States · SolidWorks, CATIA, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:vast:4711400006</id>
-    <title>VAST: Emerging Talent - Mechanical/Aerospace Internship 🇺🇸</title>
-    <link href="https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006"/>
-    <updated>2026-09-10T21:02:53Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Long Beach, California, United States · SolidWorks, CATIA, CAD · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Mechanical Design · Solon, OH, US · MATLAB, Abaqus, FEA, CNC, Six Sigma</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:pacificfusion:4398312009</id>
@@ -718,93 +806,5 @@
     <updated>2026-09-09T04:58:36Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Test-Engineering-Intern---Roy-UT_R10249875</id>
-    <title>Northrop Grumman: 2027 Test Engineering Intern - Roy UT 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Test-Engineering-Intern---Roy-UT_R10249875"/>
-    <updated>2026-09-09T04:58:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:graphcore:8780063002</id>
-    <title>Graphcore: Intern, Mechanical Engineering</title>
-    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8780063002"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Austin, Texas, United States · Creo, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:syskahennessy:8178051</id>
-    <title>Syska Hennessy Group: Mechanical Engineer Summer Intern</title>
-    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8178051"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Jacksonville, FL · AutoCAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:astemo:/job/Rock-Spring-Georgia-United-States-of-America/Quality-Engineer-Intern_J0051817</id>
-    <title>Astemo: Quality Engineer Intern</title>
-    <link href="https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Rock-Spring-Georgia-United-States-of-America/Quality-Engineer-Intern_J0051817"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Rock Spring, Georgia, United States of America</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:boeing:/job/USA---Berkeley-MO/Engineering---Technology-Innovation--Graduate-Researcher-Program---Advanced-Materials---Structures-Intern_JR2026523659</id>
-    <title>The Boeing Company: Engineering &amp; Technology Innovation, Graduate Researcher Program – Advanced Materials &amp; Structures Intern 🇺🇸</title>
-    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Engineering---Technology-Innovation--Graduate-Researcher-Program---Advanced-Materials---Structures-Intern_JR2026523659"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Structures &amp; FEA · USA - Berkeley, MO · Python, MATLAB, CAD, FEA · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:boeing:/job/USA---Hazelwood-MO/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Computational-Fluid-Dynamics--CFD--Intern_JR2026523768</id>
-    <title>The Boeing Company: Boeing Engineering &amp; Technology Innovation Graduate Researcher Program, Computational Fluid Dynamics (CFD) Intern 🇺🇸</title>
-    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Computational-Fluid-Dynamics--CFD--Intern_JR2026523768"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · USA - Hazelwood, MO · CFD · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:boeing:/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation--Graduate-Researcher-Program----Computational-Fluid-Dynamics-Intern_JR2026523774</id>
-    <title>The Boeing Company: Boeing Engineering &amp; Technology Innovation, Graduate Researcher Program –  Computational Fluid Dynamics Intern 🇺🇸</title>
-    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation--Graduate-Researcher-Program----Computational-Fluid-Dynamics-Intern_JR2026523774"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · USA - Huntington Beach, CA · CFD, C++, Linux · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:boeing:/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Aerodynamics-Intern_JR2026523782</id>
-    <title>The Boeing Company: Boeing Engineering &amp; Technology Innovation Graduate Researcher Program, Aerodynamics Intern 🇺🇸</title>
-    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Aerodynamics-Intern_JR2026523782"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · USA - Huntington Beach, CA · C++, CFD, Linux · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:borgwarner:/job/Arden---North-Carolina---USA/Quality-Engineering-Intern_R2026-3555</id>
-    <title>BorgWarner: Quality Engineering Intern</title>
-    <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Arden---North-Carolina---USA/Quality-Engineering-Intern_R2026-3555"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Arden - North Carolina - USA · Six Sigma</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:graco:/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023507</id>
-    <title>Graco: Manufacturing Engineering Co-Op (January - August 2027) 🛂</title>
-    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023507"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Anoka, Minnesota, USA · AutoCAD, CAD, React · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:graco:/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-op--May---December-2027-_R0023613</id>
-    <title>Graco: Manufacturing Engineering Co-op (May - December 2027) 🛂</title>
-    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-op--May---December-2027-_R0023613"/>
-    <updated>2026-09-08T21:22:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Anoka, Minnesota, USA · AutoCAD, CAD, React · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>
