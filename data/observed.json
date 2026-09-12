@@ -250,6 +250,18 @@
     }
    }
   },
+  "blue origin": {
+   "name": "Blue Origin",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "workday:blueorigin:/job/Space-Coast-FL/Summer-2027-Marine-Mechanical---Test-Engineering-Internship---Undergraduate_R72238"
+     ],
+     "count": 1
+    }
+   }
+  },
   "bosch": {
    "name": "Bosch",
    "cycles": {
@@ -1663,18 +1675,21 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94615",
       "oracle:emit.fa.ca3.oraclecloud.com:94617",
       "oracle:emit.fa.ca3.oraclecloud.com:94637",
+      "oracle:emit.fa.ca3.oraclecloud.com:94708",
       "oracle:emit.fa.ca3.oraclecloud.com:94810",
       "oracle:emit.fa.ca3.oraclecloud.com:94814",
       "oracle:emit.fa.ca3.oraclecloud.com:94815",
       "oracle:emit.fa.ca3.oraclecloud.com:94817",
       "oracle:emit.fa.ca3.oraclecloud.com:94952",
       "oracle:emit.fa.ca3.oraclecloud.com:94959",
+      "oracle:emit.fa.ca3.oraclecloud.com:94965",
+      "oracle:emit.fa.ca3.oraclecloud.com:94976",
       "oracle:emit.fa.ca3.oraclecloud.com:95114"
      ],
-     "count": 19
+     "count": 22
     }
    }
   }
  },
- "updated_at": "2026-09-11T21:09:25Z"
+ "updated_at": "2026-09-12T04:49:32Z"
 }

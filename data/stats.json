@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T21:09:25Z",
-  "duration_seconds": 424.7,
+  "generated_at": "2026-09-12T04:49:32Z",
+  "duration_seconds": 420.0,
   "companies_total": 4573,
   "companies_by_source": {
     "greenhouse": 1086,
@@ -16,54 +16,56 @@
     "breezy": 12,
     "eightfold": 1
   },
-  "quarantined": 359,
-  "fetched_ok": 4143,
-  "fetch_errors": 71,
+  "quarantined": 351,
+  "fetched_ok": 4160,
+  "fetch_errors": 62,
   "errors_by_source": {
-    "workday": 56,
+    "workday": 40,
+    "greenhouse": 5,
+    "lever": 2,
     "ashby": 1,
     "workable": 14
   },
-  "fetch_success_rate": 0.983,
-  "fetch_success_rate_registry": 0.906,
-  "snapshots_complete": 4028,
-  "snapshots_partial": 115,
-  "roles_matched": 370,
+  "fetch_success_rate": 0.985,
+  "fetch_success_rate_registry": 0.91,
+  "snapshots_complete": 4063,
+  "snapshots_partial": 97,
+  "roles_matched": 381,
   "dropped_no_year_in_title": 90,
-  "dropped_offcycle_by_text": 92,
+  "dropped_offcycle_by_text": 70,
   "dropped_by_description_scope": 5,
-  "roles_cycle_inferred": 198,
+  "roles_cycle_inferred": 201,
   "roles_by_source": {
     "amazon": 2,
     "ashby": 19,
     "breezy": 1,
-    "greenhouse": 56,
+    "greenhouse": 57,
     "lever": 25,
-    "oracle": 9,
+    "oracle": 10,
     "rippling": 2,
     "smartrecruiters": 24,
     "workable": 2,
-    "workday": 295
+    "workday": 299
   },
   "roles_by_cycle": {
-    "Summer 2027": 216,
+    "Summer 2027": 219,
     "Fall 2026": 21,
-    "Not stated": 198
+    "Not stated": 201
   },
   "roles_by_region": {
-    "US": 435
+    "US": 441
   },
   "sponsorship_counts": {
-    "no-sponsorship": 51,
-    "unknown": 306,
-    "citizens-only": 78
+    "no-sponsorship": 50,
+    "unknown": 312,
+    "citizens-only": 79
   },
   "posted_date_coverage": 0.995,
-  "enriched_this_run": 18,
-  "enrichment_detail_fetches": 18,
+  "enriched_this_run": 16,
+  "enrichment_detail_fetches": 16,
   "purged_this_run": 0,
-  "new_this_run": 13,
-  "open_total": 435,
+  "new_this_run": 11,
+  "open_total": 441,
   "detection_latency": {
     "median_minutes": 163.7,
     "p95_minutes": 1223.1,
@@ -72,7 +74,7 @@
     "basis": "roles published in the window with an exact source timestamp"
   },
   "posting_lifetime": {
-    "median_days": 3.0,
-    "sample_size": 228
+    "median_days": 3,
+    "sample_size": 233
   }
 }
