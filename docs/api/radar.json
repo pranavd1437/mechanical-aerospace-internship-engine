@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T04:49:34Z",
+ "generated_at": "2026-09-12T11:04:11Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -196,7 +196,7 @@
    "expected": "2026-08-17",
    "days_until": -26,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94815",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94708",
    "note": ""
   },
   {
@@ -1012,20 +1012,6 @@
    "note": ""
   },
   {
-   "company": "Jabil",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-11",
-   "days_until": -1,
-   "status": "open",
-   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367",
-   "note": ""
-  },
-  {
    "company": "Collier Aerospace",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1301,6 +1287,20 @@
    "source": "engine",
    "expected": "2026-09-09",
    "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Jabil",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -1,
    "status": "dropped",
    "url": "",
    "note": ""

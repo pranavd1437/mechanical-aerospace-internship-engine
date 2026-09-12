@@ -5,20 +5,52 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-12T04:49:33Z</updated>
+  <updated>2026-09-12T11:04:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering_JR37418-1</id>
-    <title>Allegion: Summer Intern - Advanced Manufacturing Engineering</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering_JR37418-1"/>
+    <id>urn:intern-engine:greenhouse:lightmatter:5422712008</id>
+    <title>Lightmatter: Silicon Packaging Engineer - Intern &amp; New Grad</title>
+    <link href="https://boards.greenhouse.io/lightmatter/jobs/5422712008?gh_jid=5422712008"/>
     <updated>2026-09-12T04:49:32Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Carmel, IN · Lean Manufacturing</summary>
+    <summary>Not stated · Mechanical Design · Mountain View, CA · Python, MATLAB, SolidWorks, GD&amp;T, ANSYS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94708</id>
+    <title>WSP: Controls Engineering Intern – Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94708"/>
+    <updated>2026-09-12T04:49:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · Milwaukee, WI, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94965</id>
+    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94965"/>
+    <updated>2026-09-12T04:49:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · York, PA, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94976</id>
+    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94976"/>
+    <updated>2026-09-12T04:49:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Hamilton, NJ, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:allegion:/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering_JR37416-1</id>
     <title>Allegion: Summer Intern - Advanced Manufacturing Engineering</title>
     <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering_JR37416-1"/>
+    <updated>2026-09-12T04:49:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Carmel, IN · Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering_JR37418-1</id>
+    <title>Allegion: Summer Intern - Advanced Manufacturing Engineering</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering_JR37418-1"/>
     <updated>2026-09-12T04:49:32Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Carmel, IN · Lean Manufacturing</summary>
@@ -30,14 +62,6 @@
     <updated>2026-09-12T04:49:32Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Test &amp; Validation · Space Coast, FL · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:lightmatter:5422712008</id>
-    <title>Lightmatter: Silicon Packaging Engineer - Intern &amp; New Grad</title>
-    <link href="https://boards.greenhouse.io/lightmatter/jobs/5422712008?gh_jid=5422712008"/>
-    <updated>2026-09-12T04:49:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Mountain View, CA · Python, MATLAB, SolidWorks, GD&amp;T, ANSYS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:sbdinc:/job/Mission-TX-United-States/Manufacturing-Internship_REQ-1000052318-1</id>
@@ -70,30 +94,6 @@
     <updated>2026-09-12T04:49:32Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Rochester, New York, USA · SolidWorks · H-1B track record: ~368 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94965</id>
-    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94965"/>
-    <updated>2026-09-12T04:49:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · York, PA, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94976</id>
-    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94976"/>
-    <updated>2026-09-12T04:49:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Hamilton, NJ, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94708</id>
-    <title>WSP: Controls Engineering Intern – Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94708"/>
-    <updated>2026-09-12T04:49:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · Milwaukee, WI, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95114</id>
@@ -254,14 +254,6 @@
     <updated>2026-09-11T16:43:02Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Kent, WA · SolidWorks, CAD, PLM</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jabil:/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367</id>
-    <title>Jabil: Manufacturing Engineering Co-op - January 4, 2027-July 6, 2027</title>
-    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367"/>
-    <updated>2026-09-11T16:43:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Elmira, NY · SolidWorks, Creo, AutoCAD, CAD, GD&amp;T · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:labcorp:/job/Baltimore-MD/Intern---Quality-Engineer_2630918</id>
@@ -792,19 +784,27 @@
     <summary>Not stated · Mechanical Design · Golden, CO · Creo, GD&amp;T, DFM/DFA, Tolerance Analysis, FMEA</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Mechanical-Engineer--Indianapolis--IN_JR37453-1</id>
-    <title>Allegion: Summer Intern – Mechanical Engineer, Indianapolis, IN</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Mechanical-Engineer--Indianapolis--IN_JR37453-1"/>
-    <updated>2026-09-10T05:00:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Indianapolis, IN - Hague Rd · Creo, GD&amp;T, DFM/DFA, Tolerance Analysis, FMEA</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Mechanical-Engineer_JR37491-1</id>
     <title>Allegion: Summer Intern - Mechanical Engineer</title>
     <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Mechanical-Engineer_JR37491-1"/>
     <updated>2026-09-10T05:00:54Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Indianapolis, IN - Hague Rd</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:danaher:/job/Logan-Utah-United-States/Mechanical-Engineering-Intern-Summer-2027_R1317859</id>
+    <title>Danaher Corporation: Mechanical Engineering Intern Summer 2027</title>
+    <link href="https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/Mechanical-Engineering-Intern-Summer-2027_R1317859"/>
+    <updated>2026-09-10T05:00:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Logan, Utah, United States · SolidWorks, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950</id>
+    <title>General Motors: 2027 Summer Intern - PFMEA Manufacturing Engineer</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950"/>
+    <updated>2026-09-10T05:00:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Warren, Michigan, United States of America · FMEA · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
