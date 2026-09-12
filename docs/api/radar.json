@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T11:04:11Z",
+ "generated_at": "2026-09-12T15:43:26Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -620,6 +620,20 @@
    "note": ""
   },
   {
+   "company": "Bracco",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": -9,
+   "status": "open",
+   "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100317",
+   "note": ""
+  },
+  {
    "company": "Momentive",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
@@ -1012,6 +1026,20 @@
    "note": ""
   },
   {
+   "company": "Xcimer Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3",
+   "note": ""
+  },
+  {
    "company": "Collier Aerospace",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1306,5 +1334,5 @@
    "note": ""
   }
  ],
- "count": 93
+ "count": 95
 }

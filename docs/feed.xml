@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-12T11:04:11Z</updated>
+  <updated>2026-09-12T15:43:26Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100317</id>
+    <title>Bracco: Mechanical Engineering Co-op (R&amp;D Sustaining) 🛂</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100317"/>
+    <updated>2026-09-12T15:43:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100316</id>
+    <title>Bracco: Mechanical Engineering Co-op (R&amp;D Sustaining) 🛂</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100316"/>
+    <updated>2026-09-12T15:43:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · USA, Eden Prairie, Minnesota, 55344 · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Manufacturing-Engineering-Co-op_JR100312</id>
+    <title>Bracco: Manufacturing Engineering Co-op</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Manufacturing-Engineering-Co-op_JR100312"/>
+    <updated>2026-09-12T15:43:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/R-D-Packaging-Engineer-Co-op_JR100300-1</id>
+    <title>Bracco: R&amp;D Packaging Engineer Co-op 🛂</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/R-D-Packaging-Engineer-Co-op_JR100300-1"/>
+    <updated>2026-09-12T15:43:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:xcimer:c672a37e-007d-45ee-a4f9-b5d4dd25a2e3</id>
+    <title>Xcimer Energy: Summer 2027 Internship - Mechanical Engineering 🇺🇸</title>
+    <link href="https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3"/>
+    <updated>2026-09-12T15:43:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Denver, CO · 25–35 USD/hr · CAD, FEA · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lightmatter:5422712008</id>
     <title>Lightmatter: Silicon Packaging Engineer - Intern &amp; New Grad</title>
@@ -766,45 +806,5 @@
     <updated>2026-09-10T05:00:54Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Colorado Springs, CO · Creo, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Everett-WA/Mechanical-Engineering-Intern_JR37384-2</id>
-    <title>Allegion: Summer Intern - Mechanical Engineering</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Everett-WA/Mechanical-Engineering-Intern_JR37384-2"/>
-    <updated>2026-09-10T05:00:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Everett, WA · AutoCAD, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Golden-CO/Summer-Intern---Mechanical-Engineer---Golden--CO_JR37455-2</id>
-    <title>Allegion: Summer Intern – Mechanical Engineer – Golden, CO</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Mechanical-Engineer---Golden--CO_JR37455-2"/>
-    <updated>2026-09-10T05:00:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Golden, CO · Creo, GD&amp;T, DFM/DFA, Tolerance Analysis, FMEA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Mechanical-Engineer_JR37491-1</id>
-    <title>Allegion: Summer Intern - Mechanical Engineer</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Mechanical-Engineer_JR37491-1"/>
-    <updated>2026-09-10T05:00:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Indianapolis, IN - Hague Rd</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:danaher:/job/Logan-Utah-United-States/Mechanical-Engineering-Intern-Summer-2027_R1317859</id>
-    <title>Danaher Corporation: Mechanical Engineering Intern Summer 2027</title>
-    <link href="https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/Mechanical-Engineering-Intern-Summer-2027_R1317859"/>
-    <updated>2026-09-10T05:00:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Logan, Utah, United States · SolidWorks, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950</id>
-    <title>General Motors: 2027 Summer Intern - PFMEA Manufacturing Engineer</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950"/>
-    <updated>2026-09-10T05:00:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Warren, Michigan, United States of America · FMEA · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
