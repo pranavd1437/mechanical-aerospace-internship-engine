@@ -5,23 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-12T15:43:26Z</updated>
+  <updated>2026-09-12T20:45:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100317</id>
-    <title>Bracco: Mechanical Engineering Co-op (R&amp;D Sustaining) 🛂</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100317"/>
+    <id>urn:intern-engine:lever:xcimer:c672a37e-007d-45ee-a4f9-b5d4dd25a2e3</id>
+    <title>Xcimer Energy: Summer 2027 Internship - Mechanical Engineering 🇺🇸</title>
+    <link href="https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3"/>
     <updated>2026-09-12T15:43:24Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100316</id>
-    <title>Bracco: Mechanical Engineering Co-op (R&amp;D Sustaining) 🛂</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100316"/>
-    <updated>2026-09-12T15:43:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · USA, Eden Prairie, Minnesota, 55344 · sponsorship: no-sponsorship</summary>
+    <summary>Summer 2027 · Mechanical Design · Denver, CO · 25–35 USD/hr · CAD, FEA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Manufacturing-Engineering-Co-op_JR100312</id>
@@ -32,20 +24,28 @@
     <summary>Not stated · Manufacturing &amp; Quality · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100316</id>
+    <title>Bracco: Mechanical Engineering Co-op (R&amp;D Sustaining) 🛂</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100316"/>
+    <updated>2026-09-12T15:43:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · USA, Eden Prairie, Minnesota, 55344 · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100317</id>
+    <title>Bracco: Mechanical Engineering Co-op (R&amp;D Sustaining) 🛂</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100317"/>
+    <updated>2026-09-12T15:43:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/R-D-Packaging-Engineer-Co-op_JR100300-1</id>
     <title>Bracco: R&amp;D Packaging Engineer Co-op 🛂</title>
     <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/R-D-Packaging-Engineer-Co-op_JR100300-1"/>
     <updated>2026-09-12T15:43:24Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:xcimer:c672a37e-007d-45ee-a4f9-b5d4dd25a2e3</id>
-    <title>Xcimer Energy: Summer 2027 Internship - Mechanical Engineering 🇺🇸</title>
-    <link href="https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3"/>
-    <updated>2026-09-12T15:43:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Denver, CO · 25–35 USD/hr · CAD, FEA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lightmatter:5422712008</id>
