@@ -889,6 +889,13 @@
     "ats": "ashby"
   },
   {
+    "name": "Alcoa",
+    "slug": "alcoa",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "Careers"
+  },
+  {
     "name": "Alcon",
     "slug": "alcon",
     "ats": "workday",
@@ -2519,6 +2526,13 @@
     "site": "austal"
   },
   {
+    "name": "Austin Community College District",
+    "slug": "austincc",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "external"
+  },
+  {
     "name": "Authentic",
     "slug": "authenticbrandsgroup",
     "ats": "greenhouse"
@@ -2839,6 +2853,11 @@
     "name": "BAE Systems",
     "slug": "BAESystems3",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Baidu USA",
+    "slug": "baidu",
+    "ats": "greenhouse"
   },
   {
     "name": "Bain Capital",
@@ -3776,6 +3795,13 @@
     "site": "bpCareers"
   },
   {
+    "name": "Bracco",
+    "slug": "bracco",
+    "ats": "workday",
+    "wd": "wd103",
+    "site": "braccocareers"
+  },
+  {
     "name": "Bracebridge Capital",
     "slug": "bracebridgecapital",
     "ats": "greenhouse"
@@ -4681,6 +4707,13 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "CDK"
+  },
+  {
+    "name": "CDPQ",
+    "slug": "cdpq",
+    "ats": "workday",
+    "wd": "wd10",
+    "site": "CDPQ"
   },
   {
     "name": "CDW Corporation",
@@ -5988,6 +6021,13 @@
     "site": "CX_1"
   },
   {
+    "name": "Cone Health",
+    "slug": "conehealth",
+    "ats": "workday",
+    "wd": "wd12",
+    "site": "cone_health-careers"
+  },
+  {
     "name": "Confido",
     "slug": "confido",
     "ats": "ashby"
@@ -6334,6 +6374,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "CoxHealth_External"
+  },
+  {
+    "name": "Cozey",
+    "slug": "cozey-internships",
+    "ats": "rippling"
   },
   {
     "name": "CPI Security",
@@ -7170,6 +7215,16 @@
     "name": "DH Pace",
     "slug": "dhpace",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Dialogue",
+    "slug": "dialogue-fr",
+    "ats": "rippling"
+  },
+  {
+    "name": "Dialogue Health Technologies",
+    "slug": "dialogue-en",
+    "ats": "rippling"
   },
   {
     "name": "Dialpad",
@@ -8542,6 +8597,13 @@
     "site": "External"
   },
   {
+    "name": "Evolito",
+    "slug": "evolito",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "Evolito_Career_Site"
+  },
+  {
     "name": "Evolve Technology",
     "slug": "evolv-technology",
     "ats": "workable"
@@ -9486,6 +9548,11 @@
     "name": "Fortuna Health",
     "slug": "fortuna-health",
     "ats": "ashby"
+  },
+  {
+    "name": "Fortune Brands",
+    "slug": "FortuneBrands",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Forus",
@@ -14935,6 +15002,11 @@
     "site": "MedtronicCareers"
   },
   {
+    "name": "MegazoneCloud",
+    "slug": "megazone",
+    "ats": "ashby"
+  },
+  {
     "name": "Megger",
     "slug": "megger",
     "ats": "workday",
@@ -15368,6 +15440,11 @@
     "name": "Mirage",
     "slug": "mirage",
     "ats": "ashby"
+  },
+  {
+    "name": "Mirantis",
+    "slug": "Mirantis",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Mirego",
@@ -17045,6 +17122,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "onedigital"
+  },
+  {
+    "name": "OneImaging",
+    "slug": "oneimaging",
+    "ats": "greenhouse"
   },
   {
     "name": "OneMain Financial",
@@ -25983,6 +26065,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "External"
+  },
+  {
+    "name": "Xcimer Energy",
+    "slug": "xcimer",
+    "ats": "lever"
   },
   {
     "name": "Xebia",
