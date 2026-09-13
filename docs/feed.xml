@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-13T12:09:36Z</updated>
+  <updated>2026-09-13T16:32:59Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:autostore:/job/Atlanta-GA-USA/Co-Op---Mechanical-Engineer_JR102694</id>
+    <title>Autostore: Co-Op - Mechanical Engineer</title>
+    <link href="https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Mechanical-Engineer_JR102694"/>
+    <updated>2026-09-13T16:32:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Atlanta, GA, USA · SolidWorks, Siemens NX, Creo, CAD</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:xcimer:c672a37e-007d-45ee-a4f9-b5d4dd25a2e3</id>
     <title>Xcimer Energy: Summer 2027 Internship - Mechanical Engineering 🇺🇸</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-10T05:00:54Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Controls &amp; Mechatronics · Littleton, CO · Python, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Colorado-Springs-CO/Summer-Intern---Mechanical-Engineer_JR37316-1</id>
-    <title>Allegion: Summer Intern - Mechanical Engineer</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Mechanical-Engineer_JR37316-1"/>
-    <updated>2026-09-10T05:00:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Colorado Springs, CO · Creo, CAD</summary>
   </entry>
 </feed>

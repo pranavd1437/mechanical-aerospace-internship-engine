@@ -1,9 +1,35 @@
 {
- "generated_at": "2026-09-13T12:09:36Z",
+ "generated_at": "2026-09-13T16:32:59Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
  "count": 443,
  "jobs": [
+  {
+   "id": "workday:autostore:/job/Atlanta-GA-USA/Co-Op---Mechanical-Engineer_JR102694",
+   "company": "Autostore",
+   "title": "Co-Op - Mechanical Engineer",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Mechanical Design",
+   "location": "Atlanta, GA, USA",
+   "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Mechanical-Engineer_JR102694",
+   "posted_at": "2026-09-13T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-13T16:32:57Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "SolidWorks",
+    "Siemens NX",
+    "Creo",
+    "CAD"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Co-op",
+   "remote": false
+  },
   {
    "id": "lever:xcimer:c672a37e-007d-45ee-a4f9-b5d4dd25a2e3",
    "company": "Xcimer Energy",
@@ -2577,34 +2603,6 @@
    "source": "workday",
    "h1b_approvals": 8,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:leidos:/job/Huntsville-AL/Aerospace-M-S-Engineer-Intern_R-00191760",
-   "company": "Leidos",
-   "title": "Aerospace M&S Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Aerospace & Flight Sciences",
-   "location": "Huntsville, AL",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Aerospace-M-S-Engineer-Intern_R-00191760",
-   "posted_at": "2026-09-09T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-09T21:07:19Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++",
-    "MATLAB",
-    "Simulink",
-    "Linux",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": 79,
-   "program": "Internship",
    "remote": false
   },
   {
