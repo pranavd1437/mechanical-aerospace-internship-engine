@@ -1,9 +1,39 @@
 {
- "generated_at": "2026-09-13T21:03:52Z",
+ "generated_at": "2026-09-14T05:12:25Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
  "count": 443,
  "jobs": [
+  {
+   "id": "greenhouse:rocketlab:7991448003",
+   "company": "Rocket Lab",
+   "title": "Mechanical Engineering Intern Summer 2027",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Mechanical Design",
+   "location": "Long Beach, CA",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991448003",
+   "posted_at": "2026-09-13T23:16:18-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-14T05:12:23Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [
+    "Siemens NX",
+    "CAD",
+    "GD&T",
+    "ANSYS",
+    "Nastran",
+    "FEA",
+    "Teamcenter",
+    "CAM"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:autostore:/job/Atlanta-GA-USA/Co-Op---Mechanical-Engineer_JR102694",
    "company": "Autostore",
@@ -9784,32 +9814,6 @@
    ],
    "source": "workday",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "lever:pivotal:b05be1f0-20ff-4264-8839-4f18f97cbfb7",
-   "company": "Pivotal Software",
-   "title": "Internship, GNC Engineering (Fall)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Controls & Mechatronics",
-   "location": "Palo Alto, CA",
-   "url": "https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7",
-   "posted_at": "2026-07-30T21:26:03Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-05T20:05:21Z",
-   "sponsorship": "citizens-only",
-   "salary": "25 USD/hr",
-   "skills": [
-    "Python",
-    "MATLAB",
-    "Simulink",
-    "Git"
-   ],
-   "source": "lever",
-   "h1b_approvals": 24,
    "program": "Internship",
    "remote": false
   },

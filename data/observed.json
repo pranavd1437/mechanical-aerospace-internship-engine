@@ -1302,9 +1302,10 @@
       "greenhouse:rocketlab:7987159003",
       "greenhouse:rocketlab:7987208003",
       "greenhouse:rocketlab:7987250003",
-      "greenhouse:rocketlab:7989993003"
+      "greenhouse:rocketlab:7989993003",
+      "greenhouse:rocketlab:7991448003"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -1716,5 +1717,5 @@
    }
   }
  },
- "updated_at": "2026-09-13T21:03:50Z"
+ "updated_at": "2026-09-14T05:12:23Z"
 }

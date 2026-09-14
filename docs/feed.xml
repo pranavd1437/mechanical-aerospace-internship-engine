@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-13T21:03:52Z</updated>
+  <updated>2026-09-14T05:12:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7991448003</id>
+    <title>Rocket Lab: Mechanical Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7991448003"/>
+    <updated>2026-09-14T05:12:23Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Long Beach, CA · Siemens NX, CAD, GD&amp;T, ANSYS, Nastran · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:autostore:/job/Atlanta-GA-USA/Co-Op---Mechanical-Engineer_JR102694</id>
     <title>Autostore: Co-Op - Mechanical Engineer</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-10T05:00:54Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Test &amp; Validation · Long Beach, CA · Python, JavaScript, Siemens NX · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7989993003</id>
-    <title>Rocket Lab: GNC Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7989993003"/>
-    <updated>2026-09-10T05:00:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · Littleton, CO · Python, MATLAB · sponsorship: citizens-only</summary>
   </entry>
 </feed>
