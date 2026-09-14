@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-14T05:12:25Z</updated>
+  <updated>2026-09-14T13:07:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:lexingtonmedical:5423105008</id>
+    <title>Lexington Medical: Mechanical Engineering Co-Op</title>
+    <link href="https://job-boards.greenhouse.io/lexingtonmedical/jobs/5423105008"/>
+    <updated>2026-09-14T13:07:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Bedford, MA · CAD, GD&amp;T</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:disney:/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Summer-2027_10159978-1</id>
+    <title>The Walt Disney Company: Disneyland Resort Industrial Engineering Intern, Summer 2027</title>
+    <link href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Summer-2027_10159978-1"/>
+    <updated>2026-09-14T13:07:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Anaheim, CA, USA · $32/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:disney:/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Industrial-Engineering-Intern--Summer-Fall-2027_10159994-1</id>
+    <title>The Walt Disney Company: Walt Disney World Industrial Engineering Intern, Summer/Fall 2027</title>
+    <link href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Industrial-Engineering-Intern--Summer-Fall-2027_10159994-1"/>
+    <updated>2026-09-14T13:07:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Lake Buena Vista, FL, USA · $32/hr</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rocketlab:7991448003</id>
     <title>Rocket Lab: Mechanical Engineering Intern Summer 2027 🇺🇸</title>
@@ -408,14 +432,6 @@
     <summary>Not stated · Manufacturing &amp; Quality · Colorado Springs, CO · Creo</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Colorado-Springs-CO/Summer-Intern---Product-Assurance-Test-Engineer_JR37380-1</id>
-    <title>Allegion: Summer Intern - Product Assurance Test Engineer</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Product-Assurance-Test-Engineer_JR37380-1"/>
-    <updated>2026-09-11T04:56:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Colorado Springs, CO · $25–$26/hr</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:allegion:/job/Princeton-IL/Quality-Engineer-Intern_JR37402-1</id>
     <title>Allegion: Summer Intern - Quality Engineer</title>
     <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Princeton-IL/Quality-Engineer-Intern_JR37402-1"/>
@@ -790,21 +806,5 @@
     <updated>2026-09-10T05:00:54Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Long Beach, CA · MATLAB, Siemens NX, CAD, GD&amp;T, ANSYS · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7987208003</id>
-    <title>Rocket Lab: Turbomachinery Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7987208003"/>
-    <updated>2026-09-10T05:00:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Long Beach, CA · Python, MATLAB, SolidWorks, Siemens NX, CATIA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7987250003</id>
-    <title>Rocket Lab: Integration &amp; Test Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7987250003"/>
-    <updated>2026-09-10T05:00:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Long Beach, CA · Python, JavaScript, Siemens NX · sponsorship: citizens-only</summary>
   </entry>
 </feed>

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T05:12:25Z",
+ "generated_at": "2026-09-14T13:07:43Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -114,6 +114,20 @@
    "status": "open",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
    "note": "fall opening, many roles need clearance"
+  },
+  {
+   "company": "MKS Instruments",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-11",
+   "days_until": -34,
+   "status": "open",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744",
+   "note": ""
   },
   {
    "company": "Ameren",
@@ -1164,20 +1178,6 @@
    "status": "waiting",
    "url": "",
    "note": "rolling from fall, very competitive"
-  },
-  {
-   "company": "MKS Instruments",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-11",
-   "days_until": -34,
-   "status": "dropped",
-   "url": "",
-   "note": ""
   },
   {
    "company": "American Express",

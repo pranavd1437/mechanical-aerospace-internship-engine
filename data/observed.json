@@ -1613,9 +1613,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-24",
      "role_ids": [
+      "workday:disney:/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Summer-2027_10159978-1",
+      "workday:disney:/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Industrial-Engineering-Intern--Summer-Fall-2027_10159994-1",
       "workday:disney:/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144"
      ],
-     "count": 1
+     "count": 3
     },
     "Fall 2026": {
      "first_posted": "2026-08-24",
@@ -1717,5 +1719,5 @@
    }
   }
  },
- "updated_at": "2026-09-14T05:12:23Z"
+ "updated_at": "2026-09-14T13:07:41Z"
 }
