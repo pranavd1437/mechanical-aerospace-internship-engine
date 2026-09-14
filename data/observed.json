@@ -59,10 +59,11 @@
      "first_posted": "2026-08-21",
      "role_ids": [
       "workday:ag:/job/Herndon-Area-VA/Summer-Internship---Tooling---Repair_JR10435956",
+      "workday:ag:/job/Kinston-NC/XMLNAME-2027-Summer-Internship---Manufacturing-Engineer_JR10441369",
       "workday:ag:/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140",
       "workday:ag:/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---X-Plant-Manufacturing-Engineering_JR10435143"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -166,9 +167,10 @@
      "first_posted": "2026-06-11",
      "role_ids": [
       "greenhouse:andurilindustries:5153187007",
-      "greenhouse:andurilindustries:5153218007"
+      "greenhouse:andurilindustries:5153218007",
+      "greenhouse:andurilindustries:5236893007"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -244,9 +246,10 @@
      "first_posted": "2026-09-08",
      "role_ids": [
       "ashby:bedrock-robotics:1f413f83-b897-4938-a19e-ab91bd326c51",
-      "ashby:bedrock-robotics:c396dedc-06ec-4a23-8408-0194e360f30e"
+      "ashby:bedrock-robotics:c396dedc-06ec-4a23-8408-0194e360f30e",
+      "ashby:bedrock-robotics:c9c08251-6a42-4f9c-be4d-2621995cc8f9"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -303,13 +306,15 @@
     "Summer 2027": {
      "first_posted": "2026-08-25",
      "role_ids": [
+      "workday:brunswick:/job/Edgewater-FL/Manufacturing-Engineering-Intern-Summer--27_JR-051339",
+      "workday:brunswick:/job/Edgewater-FL/Manufacturing-Engineering-Intern_JR-051540",
       "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238",
       "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Mechanical-Engineering-Intern_JR-051390",
       "workday:brunswick:/job/Lowell-MI/Mechanical-Engineer-Co-op-Intern_JR-051322",
       "workday:brunswick:/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1",
       "workday:brunswick:/job/New-York-Mills-MN/Quality-Engineering-Intern_JR-051507"
      ],
-     "count": 5
+     "count": 7
     }
    }
   },
@@ -551,8 +556,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
+      "workday:generalmotors:/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aerodynamics_JR-202620069",
       "workday:generalmotors:/job/Kansas-City-Kansas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Tool-and-Die_JR-202619470",
       "workday:generalmotors:/job/Lake-Orion-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Weld-Engineer_JR-202619474",
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Inter---Supplier-Quality-Intern_JR-202619692",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Body-Center_JR-202619475",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Global-Artisan-Innovation-Center_JR-202619920",
@@ -562,7 +569,7 @@
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Supplier-Quality_JR-202617840"
      ],
-     "count": 10
+     "count": 12
     }
    }
   },
@@ -827,9 +834,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-07",
      "role_ids": [
-      "workday:jj:/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1"
+      "workday:jj:/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1",
+      "workday:jj:/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineering-Intern---Robotics-R-D_R-099647-1"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1091,9 +1099,10 @@
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10249871",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Test-Engineering-Intern---Roy-UT_R10249875",
+      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern---Dulles-VA_R10250744-1",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -1115,9 +1124,16 @@
     "Summer 2027": {
      "first_posted": "2026-09-10",
      "role_ids": [
+      "workday:nvent:/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--January---June-2027-_R23576",
+      "workday:nvent:/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--June---December-2027-_R23578",
+      "workday:nvent:/job/Anoka-MN-US/Mechanical-Engineering-and-Design-Co-op--January---August-2027-_R23572",
+      "workday:nvent:/job/Anoka-MN-US/Mechanical-Engineering-and-Design-Co-op--June---December-2027-_R23573",
+      "workday:nvent:/job/Anoka-MN-US/Packaging-Engineering-Co-op--January---August-2027-_R23570",
+      "workday:nvent:/job/Anoka-MN-US/Packaging-Engineering-Co-op--June---August-2027-_R23571",
+      "workday:nvent:/job/Solon-OH-US/Mechanical-Engineering-Co-Op--Jan---Aug-2027-_R23577",
       "workday:nvent:/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539"
      ],
-     "count": 1
+     "count": 8
     }
    }
   },
@@ -1149,9 +1165,11 @@
       "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49782",
       "workday:oshkoshcorporation:/job/Garner-Iowa-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49815",
       "workday:oshkoshcorporation:/job/Kewaunee-Wisconsin-United-States/Engineer-Intern---Manufacturing--Summer-2027-_R49737",
+      "workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Robotic-Programming-Welding-Intern--Summer-2027-_R49598",
+      "workday:oshkoshcorporation:/job/New-Hudson-Michigan-United-States/Manufacturing-Intern---Summer-2027_R50275",
       "workday:oshkoshcorporation:/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823"
      ],
-     "count": 7
+     "count": 9
     }
    }
   },
@@ -1306,6 +1324,18 @@
       "greenhouse:rocketlab:7991448003"
      ],
      "count": 10
+    }
+   }
+  },
+  "rtx": {
+   "name": "RTX",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721"
+     ],
+     "count": 1
     }
    }
   },
@@ -1499,6 +1529,7 @@
      "role_ids": [
       "workday:ttc:/job/Beatrice-NE/Design-Engineering-Intern---Exmark_JR17085",
       "workday:ttc:/job/Beatrice-NE/Test-Engineer-Intern---Exmark_JR17050",
+      "workday:ttc:/job/Bloomington-MN/Advanced-Quality-Engineering-Intern---The-Toro-Company_JR17231",
       "workday:ttc:/job/Bloomington-MN/Mechanical-Design-Engineering-Intern---The-Toro-Company_JR17094",
       "workday:ttc:/job/Bloomington-MN/Mechanical-Design-Engineering-Intern---The-Toro-Company_JR17151",
       "workday:ttc:/job/Bloomington-MN/Mechanical-Engineering-Intern---The-Toro-Company_JR17141",
@@ -1508,7 +1539,7 @@
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17101"
      ],
-     "count": 10
+     "count": 11
     }
    }
   },
@@ -1717,7 +1748,21 @@
      "count": 1
     }
    }
+  },
+  "zurn elkay water solutions": {
+   "name": "Zurn Elkay Water Solutions",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020073",
+      "workday:elkay:/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075",
+      "workday:elkay:/job/Lanark-IL/Manufacturing-Engineering-Intern--Summer-2027-_REQ-020074"
+     ],
+     "count": 3
+    }
+   }
   }
  },
- "updated_at": "2026-09-14T13:07:41Z"
+ "updated_at": "2026-09-14T22:01:23Z"
 }

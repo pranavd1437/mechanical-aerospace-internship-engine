@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T13:07:43Z",
+ "generated_at": "2026-09-14T22:01:26Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -210,7 +210,7 @@
    "expected": "2026-08-17",
    "days_until": -28,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94708",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94965",
    "note": ""
   },
   {
@@ -270,6 +270,20 @@
    "note": ""
   },
   {
+   "company": "Airbus",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-21",
+   "days_until": -24,
+   "status": "open",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Kinston-NC/XMLNAME-2027-Summer-Internship---Manufacturing-Engineer_JR10441369",
+   "note": ""
+  },
+  {
    "company": "The Walt Disney Company",
    "last_cycle_posted": "",
    "posted_on": "2026-08-24",
@@ -280,7 +294,7 @@
    "expected": "2026-08-24",
    "days_until": -21,
    "status": "open",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Summer-2027_10159978-1",
    "note": ""
   },
   {
@@ -393,6 +407,20 @@
    "days_until": -18,
    "status": "open",
    "url": "https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/Summer-Intern-Co-op-Mechanical-Engineering--2027-_JR-2026-21956",
+   "note": ""
+  },
+  {
+   "company": "Oshkosh",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -18,
+   "status": "open",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Robotic-Programming-Welding-Intern--Summer-2027-_R49598",
    "note": ""
   },
   {
@@ -1054,6 +1082,48 @@
    "note": ""
   },
   {
+   "company": "RTX",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721",
+   "note": "fall opening, many roles need clearance"
+  },
+  {
+   "company": "Zurn Elkay Water Solutions",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075",
+   "note": ""
+  },
+  {
+   "company": "American Rare Earths",
+   "last_cycle_posted": "",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "",
+   "days_until": null,
+   "status": "open",
+   "url": "https://ats.rippling.com/usare/jobs/affd3b55-48c3-4d5d-88f4-859441845337",
+   "note": ""
+  },
+  {
    "company": "Collier Aerospace",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1152,20 +1222,6 @@
    "note": "fall opening"
   },
   {
-   "company": "RTX",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -13,
-   "status": "waiting",
-   "url": "",
-   "note": "fall opening, many roles need clearance"
-  },
-  {
    "company": "SpaceX",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1208,20 +1264,6 @@
    "note": ""
   },
   {
-   "company": "Airbus",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-21",
-   "days_until": -24,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Honeywell",
    "last_cycle_posted": "",
    "posted_on": "2026-08-25",
@@ -1245,20 +1287,6 @@
    "source": "engine",
    "expected": "2026-08-26",
    "days_until": -19,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Oshkosh",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -18,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -1334,5 +1362,5 @@
    "note": ""
   }
  ],
- "count": 95
+ "count": 97
 }
