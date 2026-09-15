@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-14T22:01:23Z",
- "duration_seconds": 455.9,
+ "generated_at": "2026-09-15T05:08:21Z",
+ "duration_seconds": 435.4,
  "companies_total": 4590,
  "companies_by_source": {
   "greenhouse": 1088,
@@ -16,55 +16,56 @@
   "breezy": 12,
   "eightfold": 1
  },
- "quarantined": 289,
- "fetched_ok": 4214,
- "fetch_errors": 87,
+ "quarantined": 322,
+ "fetched_ok": 4171,
+ "fetch_errors": 97,
  "errors_by_source": {
-  "lever": 1,
-  "workday": 64,
+  "workday": 84,
+  "greenhouse": 5,
   "ashby": 1,
-  "workable": 21
+  "lever": 2,
+  "workable": 5
  },
- "fetch_success_rate": 0.98,
- "fetch_success_rate_registry": 0.918,
- "snapshots_complete": 4092,
- "snapshots_partial": 122,
- "roles_matched": 419,
- "dropped_no_year_in_title": 96,
- "dropped_offcycle_by_text": 101,
- "dropped_by_description_scope": 4,
- "roles_cycle_inferred": 217,
+ "fetch_success_rate": 0.977,
+ "fetch_success_rate_registry": 0.909,
+ "snapshots_complete": 4074,
+ "snapshots_partial": 97,
+ "roles_matched": 397,
+ "dropped_no_year_in_title": 91,
+ "dropped_offcycle_by_text": 96,
+ "dropped_by_description_scope": 5,
+ "roles_cycle_inferred": 214,
  "roles_by_source": {
   "amazon": 2,
-  "ashby": 20,
+  "ashby": 19,
   "breezy": 1,
   "greenhouse": 60,
-  "lever": 25,
-  "oracle": 10,
+  "lever": 24,
+  "oracle": 6,
   "rippling": 3,
   "smartrecruiters": 30,
   "workable": 2,
-  "workday": 332
+  "workday": 324
  },
  "roles_by_cycle": {
-  "Summer 2027": 247,
+  "Summer 2027": 236,
   "Fall 2026": 21,
-  "Not stated": 217
+  "Not stated": 214
  },
  "roles_by_region": {
-  "US": 485
+  "US": 471
  },
  "sponsorship_counts": {
   "no-sponsorship": 59,
-  "unknown": 342,
-  "citizens-only": 84
+  "unknown": 331,
+  "citizens-only": 81
  },
  "posted_date_coverage": 0.994,
- "enriched_this_run": 47,
- "enrichment_detail_fetches": 44,
+ "enriched_this_run": 7,
+ "enrichment_detail_fetches": 7,
  "purged_this_run": 0,
- "new_this_run": 40,
- "open_total": 485,
+ "new_this_run": 2,
+ "open_total": 471,
  "detection_latency": {
   "median_minutes": 156.4,
   "p95_minutes": 1223.1,
@@ -74,6 +75,6 @@
  },
  "posting_lifetime": {
   "median_days": 3,
-  "sample_size": 243
+  "sample_size": 259
  }
 }
