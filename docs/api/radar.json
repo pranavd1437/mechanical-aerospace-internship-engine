@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T12:00:16Z",
+ "generated_at": "2026-09-15T17:13:57Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -253,20 +253,6 @@
    "days_until": -26,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5376060008",
-   "note": ""
-  },
-  {
-   "company": "Airbus",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-21",
-   "days_until": -25,
-   "status": "open",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Kinston-NC/XMLNAME-2027-Summer-Internship---Manufacturing-Engineer_JR10441369",
    "note": ""
   },
   {
@@ -1068,6 +1054,34 @@
    "note": ""
   },
   {
+   "company": "onsemi",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506613",
+   "note": ""
+  },
+  {
+   "company": "Woodward Governor",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Zeeland-MI-US/Engineering-Co-op---Manufacturing-Engineering---Zeeland--MI--Summer-2027-_JR112088",
+   "note": ""
+  },
+  {
    "company": "American Rare Earths",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1236,6 +1250,20 @@
    "note": ""
   },
   {
+   "company": "Airbus",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-21",
+   "days_until": -25,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Honeywell",
    "last_cycle_posted": "",
    "posted_on": "2026-08-25",
@@ -1362,5 +1390,5 @@
    "note": ""
   }
  ],
- "count": 97
+ "count": 99
 }

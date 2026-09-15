@@ -835,9 +835,10 @@
      "first_posted": "2026-09-07",
      "role_ids": [
       "workday:jj:/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1",
-      "workday:jj:/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineering-Intern---Robotics-R-D_R-099647-1"
+      "workday:jj:/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineering-Intern---Robotics-R-D_R-099647-1",
+      "workday:jj:/job/Santa-Clara-California-United-States-of-America/Mechatronics---Systems-Integration-Intern---R-D_R-099833"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1027,9 +1028,10 @@
     "Fall 2026": {
      "first_posted": "2026-09-11",
      "role_ids": [
-      "workday:moog:/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053"
+      "workday:moog:/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053",
+      "workday:moog:/job/Torrance-CA/Intern--Mechanical-Engineering_R-26-19918-1"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1097,12 +1099,13 @@
      "role_ids": [
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
+      "workday:ngc:/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10249871",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Test-Engineering-Intern---Roy-UT_R10249875",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern---Dulles-VA_R10250744-1",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -1150,6 +1153,19 @@
       "greenhouse:olsson:5411244008"
      ],
      "count": 5
+    }
+   }
+  },
+  "onsemi": {
+   "name": "onsemi",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "oracle:hctz.fa.us2.oraclecloud.com:2506613",
+      "oracle:hctz.fa.us2.oraclecloud.com:2506645"
+     ],
+     "count": 2
     }
    }
   },
@@ -1696,6 +1712,19 @@
     }
    }
   },
+  "woodward governor": {
+   "name": "Woodward Governor",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "workday:woodward:/job/Zeeland-MI-US/Engineering-Co-op---Design-Engineering---Zeeland--MI--Summer-2027-_JR112252",
+      "workday:woodward:/job/Zeeland-MI-US/Engineering-Co-op---Manufacturing-Engineering---Zeeland--MI--Summer-2027-_JR112088"
+     ],
+     "count": 2
+    }
+   }
+  },
   "wsp": {
    "name": "WSP",
    "cycles": {
@@ -1764,5 +1793,5 @@
    }
   }
  },
- "updated_at": "2026-09-15T12:00:13Z"
+ "updated_at": "2026-09-15T17:13:55Z"
 }
