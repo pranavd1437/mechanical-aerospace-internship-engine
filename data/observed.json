@@ -306,6 +306,7 @@
     "Summer 2027": {
      "first_posted": "2026-08-25",
      "role_ids": [
+      "workday:brunswick:/job/Brownsburg-IN/Mercury-Marine--Industrial-Engineer-Intern_JR-051584",
       "workday:brunswick:/job/Edgewater-FL/Manufacturing-Engineering-Intern-Summer--27_JR-051339",
       "workday:brunswick:/job/Edgewater-FL/Manufacturing-Engineering-Intern_JR-051540",
       "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238",
@@ -314,7 +315,7 @@
       "workday:brunswick:/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1",
       "workday:brunswick:/job/New-York-Mills-MN/Quality-Engineering-Intern_JR-051507"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -1553,9 +1554,10 @@
       "workday:ttc:/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194",
       "workday:ttc:/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098",
-      "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17101"
+      "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17101",
+      "workday:ttc:/job/Perry-OK/Test-Engineering-Intern---Ditch-Witch_JR17320"
      ],
-     "count": 11
+     "count": 12
     }
    }
   },
@@ -1568,6 +1570,19 @@
       "greenhouse:toshibaglobalcommercesolutions:5187159007"
      ],
      "count": 1
+    }
+   }
+  },
+  "treehouse foods": {
+   "name": "TreeHouse Foods",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "workday:treehouse:/job/USA-IL-Oak-Brook/Packaging-Engineer-Co-Op-2027_R30987",
+      "workday:treehouse:/job/USA-IL-Oak-Brook/Packaging-Engineer-Co-Op-2027_R30988"
+     ],
+     "count": 2
     }
    }
   },
@@ -1739,6 +1754,7 @@
     "Summer 2027": {
      "first_posted": "2026-08-17",
      "role_ids": [
+      "oracle:emit.fa.ca3.oraclecloud.com:88869",
       "oracle:emit.fa.ca3.oraclecloud.com:93152",
       "oracle:emit.fa.ca3.oraclecloud.com:93367",
       "oracle:emit.fa.ca3.oraclecloud.com:93368",
@@ -1762,7 +1778,7 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94976",
       "oracle:emit.fa.ca3.oraclecloud.com:95114"
      ],
-     "count": 22
+     "count": 23
     }
    }
   },
@@ -1793,5 +1809,5 @@
    }
   }
  },
- "updated_at": "2026-09-15T17:13:55Z"
+ "updated_at": "2026-09-15T21:34:26Z"
 }
