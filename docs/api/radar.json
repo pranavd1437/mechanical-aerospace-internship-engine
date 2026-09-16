@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T17:14:54Z",
+ "generated_at": "2026-09-16T21:30:47Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -210,7 +210,7 @@
    "expected": "2026-08-17",
    "days_until": -30,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88869",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95483",
    "note": ""
   },
   {
@@ -826,21 +826,7 @@
    "expected": "2026-09-09",
    "days_until": -7,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/AveryDennison/744000148579064",
-   "note": ""
-  },
-  {
-   "company": "Clarios",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-09",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-09",
-   "days_until": -7,
-   "status": "open",
-   "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Michigan-Holland/Advanced-Manufacturing-Intern--Summer-2027-_WD49914",
+   "url": "https://jobs.smartrecruiters.com/AveryDennison/744000149895029",
    "note": ""
   },
   {
@@ -1121,6 +1107,20 @@
    "days_until": 0,
    "status": "open",
    "url": "https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Portsmouth-NH/Summer-2026-Manufacturing--Science---Technology-Internship_R79570",
+   "note": ""
+  },
+  {
+   "company": "Rendezvous Robotics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408587009",
    "note": ""
   },
   {
@@ -1418,6 +1418,20 @@
    "note": ""
   },
   {
+   "company": "Clarios",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -7,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Michael Baker International",
    "last_cycle_posted": "",
    "posted_on": "2026-09-09",
@@ -1460,5 +1474,5 @@
    "note": ""
   }
  ],
- "count": 104
+ "count": 105
 }
