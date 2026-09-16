@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T05:03:14Z",
+ "generated_at": "2026-09-16T11:54:06Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
  "count": 492,
@@ -55,27 +55,6 @@
    "remote": false
   },
   {
-   "id": "workday:philips:/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339",
-   "company": "Philips",
-   "title": "Co-op - Mechanical Engineering Technician - Latham, NY - January-June 2027",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Mechanical Design",
-   "location": "Latham, New York, United States",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339",
-   "posted_at": "2026-09-15T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-16T05:03:11Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Co-op",
-   "remote": false
-  },
-  {
    "id": "workday:philips:/job/Colorado-Springs-Colorado-United-States/Intern---New-Product-Development-Engineer---Colorado-Springs--CO---Summer-2027_591779",
    "company": "Philips",
    "title": "Intern – New Product Development Engineer – Colorado Springs, CO – Summer 2027",
@@ -96,6 +75,27 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:philips:/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339",
+   "company": "Philips",
+   "title": "Co-op - Mechanical Engineering Technician - Latham, NY - January-June 2027",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Mechanical Design",
+   "location": "Latham, New York, United States",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339",
+   "posted_at": "2026-09-15T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-16T05:03:11Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Co-op",
    "remote": false
   },
   {

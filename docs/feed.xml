@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-16T05:03:14Z</updated>
+  <updated>2026-09-16T11:54:06Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017994</id>
+    <title>Texas Instruments: Smart Manufacturing and Automation Intern 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017994"/>
+    <updated>2026-09-16T05:03:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Dallas, TX, United States · Python, SQL, PyTorch, TensorFlow, scikit-learn · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:everestre:/job/Warren-NJ/XMLNAME-2027-Everest-Design-Engineering-Internship-Program_R7401</id>
     <title>Everest: 2027 Everest Design Engineering Internship Program</title>
@@ -14,14 +22,6 @@
     <updated>2026-09-16T05:03:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Warren, NJ</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339</id>
-    <title>Philips: Co-op - Mechanical Engineering Technician - Latham, NY - January-June 2027</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339"/>
-    <updated>2026-09-16T05:03:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Latham, New York, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:philips:/job/Colorado-Springs-Colorado-United-States/Intern---New-Product-Development-Engineer---Colorado-Springs--CO---Summer-2027_591779</id>
@@ -32,12 +32,12 @@
     <summary>Summer 2027 · Mechanical Design · Colorado Springs, Colorado, United States · CAD</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017994</id>
-    <title>Texas Instruments: Smart Manufacturing and Automation Intern 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017994"/>
+    <id>urn:intern-engine:workday:philips:/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339</id>
+    <title>Philips: Co-op - Mechanical Engineering Technician - Latham, NY - January-June 2027</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339"/>
     <updated>2026-09-16T05:03:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Dallas, TX, United States · Python, SQL, PyTorch, TensorFlow, scikit-learn · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Latham, New York, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:lightship:27f49b68-6a5c-4a3a-a114-5487feb3add2</id>
