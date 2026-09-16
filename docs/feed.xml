@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-15T21:34:29Z</updated>
+  <updated>2026-09-16T05:03:14Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:everestre:/job/Warren-NJ/XMLNAME-2027-Everest-Design-Engineering-Internship-Program_R7401</id>
+    <title>Everest: 2027 Everest Design Engineering Internship Program</title>
+    <link href="https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Design-Engineering-Internship-Program_R7401"/>
+    <updated>2026-09-16T05:03:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Warren, NJ</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339</id>
+    <title>Philips: Co-op - Mechanical Engineering Technician - Latham, NY - January-June 2027</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339"/>
+    <updated>2026-09-16T05:03:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Latham, New York, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Colorado-Springs-Colorado-United-States/Intern---New-Product-Development-Engineer---Colorado-Springs--CO---Summer-2027_591779</id>
+    <title>Philips: Intern – New Product Development Engineer – Colorado Springs, CO – Summer 2027</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Colorado-Springs-Colorado-United-States/Intern---New-Product-Development-Engineer---Colorado-Springs--CO---Summer-2027_591779"/>
+    <updated>2026-09-16T05:03:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Colorado Springs, Colorado, United States · CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017994</id>
+    <title>Texas Instruments: Smart Manufacturing and Automation Intern 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017994"/>
+    <updated>2026-09-16T05:03:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Dallas, TX, United States · Python, SQL, PyTorch, TensorFlow, scikit-learn · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:lightship:27f49b68-6a5c-4a3a-a114-5487feb3add2</id>
+    <title>Lightship RV: Manufacturing Engineering Intern/Co-Op</title>
+    <link href="https://jobs.lever.co/lightship/27f49b68-6a5c-4a3a-a114-5487feb3add2"/>
+    <updated>2026-09-15T21:34:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Broomfield, CO · 28–30 USD/hr · CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:88869</id>
+    <title>WSP: Overhead Transmission Line Design Engineering Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88869"/>
+    <updated>2026-09-15T21:34:26Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Birmingham, AL, United States · SolidWorks, AutoCAD</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:brunswick:/job/Brownsburg-IN/Mercury-Marine--Industrial-Engineer-Intern_JR-051584</id>
     <title>Brunswick: Mercury Marine: Industrial Engineer Intern</title>
@@ -24,28 +72,12 @@
     <summary>Not stated · Mechanical Design · USA - NJ - Camden · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:lightship:27f49b68-6a5c-4a3a-a114-5487feb3add2</id>
-    <title>Lightship RV: Manufacturing Engineering Intern/Co-Op</title>
-    <link href="https://jobs.lever.co/lightship/27f49b68-6a5c-4a3a-a114-5487feb3add2"/>
-    <updated>2026-09-15T21:34:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Broomfield, CO · 28–30 USD/hr · CAD</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:moog:/job/Torrance-CA/Intern--Test-Equipment-Sustainment_R-26-19821</id>
     <title>Moog: Intern, Test Equipment Sustainment</title>
     <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Test-Equipment-Sustainment_R-26-19821"/>
     <updated>2026-09-15T21:34:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Test &amp; Validation · Torrance, CA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Shippensburg-Pennsylvania-United-States/Manufacturing-Engineer-Intern_R49667</id>
-    <title>Oshkosh: Manufacturing Engineer Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Shippensburg-Pennsylvania-United-States/Manufacturing-Engineer-Intern_R49667"/>
-    <updated>2026-09-15T21:34:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Shippensburg, Pennsylvania, United States · CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49611</id>
@@ -56,12 +88,12 @@
     <summary>Not stated · Manufacturing &amp; Quality · McConnellsburg, Pennsylvania, United States · SQL, AutoCAD, Six Sigma, Lean Manufacturing</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:ttc:/job/Perry-OK/Test-Engineering-Intern---Ditch-Witch_JR17320</id>
-    <title>The Toro Company: Test Engineering Intern - Ditch Witch 🛂</title>
-    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Test-Engineering-Intern---Ditch-Witch_JR17320"/>
+    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Shippensburg-Pennsylvania-United-States/Manufacturing-Engineer-Intern_R49667</id>
+    <title>Oshkosh: Manufacturing Engineer Intern</title>
+    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Shippensburg-Pennsylvania-United-States/Manufacturing-Engineer-Intern_R49667"/>
     <updated>2026-09-15T21:34:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Perry, OK · sponsorship: no-sponsorship</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Shippensburg, Pennsylvania, United States · CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:treehouse:/job/USA-IL-Oak-Brook/Packaging-Engineer-Co-Op-2027_R30987</id>
@@ -80,12 +112,12 @@
     <summary>Summer 2027 · Mechanical Design · USA-IL Oak Brook · $23–$24/hr</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:88869</id>
-    <title>WSP: Overhead Transmission Line Design Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88869"/>
+    <id>urn:intern-engine:workday:ttc:/job/Perry-OK/Test-Engineering-Intern---Ditch-Witch_JR17320</id>
+    <title>The Toro Company: Test Engineering Intern - Ditch Witch 🛂</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Test-Engineering-Intern---Ditch-Witch_JR17320"/>
     <updated>2026-09-15T21:34:26Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Birmingham, AL, United States · SolidWorks, AutoCAD</summary>
+    <summary>Summer 2027 · Test &amp; Validation · Perry, OK · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:hctz.fa.us2.oraclecloud.com:2506613</id>
@@ -174,14 +206,6 @@
     <updated>2026-09-15T17:13:55Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Thermal, Fluids &amp; Propulsion · Frederick, Maryland, United States · Creo, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Greencastle-Pennsylvania-United-States/Controls-Engineering-Intern_R49473</id>
-    <title>Oshkosh: Controls Engineering Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greencastle-Pennsylvania-United-States/Controls-Engineering-Intern_R49473"/>
-    <updated>2026-09-15T17:13:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Greencastle, Pennsylvania, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:oshkoshcorporation:/job/Greencastle-Pennsylvania-United-States/Controls-Engineering-Intern_R49476</id>
@@ -352,14 +376,6 @@
     <summary>Not stated · Structures &amp; FEA · Sioux Falls, SD, United States · AutoCAD</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000149335200</id>
-    <title>Renesas Electronics: Intern, Test Engineering 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000149335200"/>
-    <updated>2026-09-14T22:01:23Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Palm Bay, Florida, United States · Python, C++, SQL · sponsorship: citizens-only · H-1B track record: ~68 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:allegion:/job/Mount-Comfort-IN/Summer-Intern---Manufacturing-Engineering_JR37650-1</id>
     <title>Allegion: Summer Intern - Manufacturing Engineering</title>
     <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Mount-Comfort-IN/Summer-Intern---Manufacturing-Engineering_JR37650-1"/>
@@ -526,6 +542,14 @@
     <updated>2026-09-14T22:01:23Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Solon, OH, US · MATLAB, Abaqus, FEA, CNC, Six Sigma</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Bedford-Pennsylvania-United-States/Manufacturing-Engineering-Intern_R49700</id>
+    <title>Oshkosh: Manufacturing Engineering Intern</title>
+    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bedford-Pennsylvania-United-States/Manufacturing-Engineering-Intern_R49700"/>
+    <updated>2026-09-14T22:01:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Bedford, Pennsylvania, United States · CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ttc:/job/Bloomington-MN/Advanced-Quality-Engineering-Intern---The-Toro-Company_JR17231</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-11T16:43:02Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Hanover, NH · SolidWorks, GD&amp;T, CNC, DFM/DFA, Six Sigma</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hypertherm:/job/Hanover-NH/Mechanical-Engineering-Winter-Spring-Internship-or-Co-Op---Central-Engineering--NH-_R4060</id>
-    <title>Hypertherm: Mechanical Engineering Winter/Spring Internship or Co-Op - Central Engineering (NH)</title>
-    <link href="https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Hanover-NH/Mechanical-Engineering-Winter-Spring-Internship-or-Co-Op---Central-Engineering--NH-_R4060"/>
-    <updated>2026-09-11T16:43:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Hanover, NH · SolidWorks, CAD, PLM</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hypertherm:/job/Kent-WA/Mechanical-Engineering-Winter-Spring-Internship-or-Co-Op---Central-Engineering--WA-_R4061</id>
-    <title>Hypertherm: Mechanical Engineering Winter/Spring Internship or Co-Op - Central Engineering (WA)</title>
-    <link href="https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Kent-WA/Mechanical-Engineering-Winter-Spring-Internship-or-Co-Op---Central-Engineering--WA-_R4061"/>
-    <updated>2026-09-11T16:43:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Kent, WA · SolidWorks, CAD, PLM</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:labcorp:/job/Baltimore-MD/Intern---Quality-Engineer_2630918</id>
-    <title>LabCorp: Intern - Quality Engineer - Oncology 🛂</title>
-    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Quality-Engineer_2630918"/>
-    <updated>2026-09-11T16:43:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Baltimore MD · $17.75–$20/hr · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

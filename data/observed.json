@@ -446,6 +446,18 @@
     }
    }
   },
+  "everest": {
+   "name": "Everest",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "workday:everestre:/job/Warren-NJ/XMLNAME-2027-Everest-Design-Engineering-Internship-Program_R7401"
+     ],
+     "count": 1
+    }
+   }
+  },
   "field ai": {
    "name": "Field AI",
    "cycles": {
@@ -1217,12 +1229,14 @@
      "first_posted": "2026-08-25",
      "role_ids": [
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902",
+      "workday:philips:/job/Colorado-Springs-Colorado-United-States/Intern---New-Product-Development-Engineer---Colorado-Springs--CO---Summer-2027_591779",
+      "workday:philips:/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339",
       "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Murrysville--PA-January-June-2027_580754",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Industrial-Engineering-Reedsville--PA--January-to-June-2027-_591145",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Reedsville--PA--July---December-2027_587808",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807"
      ],
-     "count": 5
+     "count": 7
     }
    }
   },
@@ -1809,5 +1823,5 @@
    }
   }
  },
- "updated_at": "2026-09-15T21:34:26Z"
+ "updated_at": "2026-09-16T05:03:11Z"
 }
