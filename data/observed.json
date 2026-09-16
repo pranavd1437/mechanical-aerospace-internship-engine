@@ -27,9 +27,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-03",
      "role_ids": [
-      "smartrecruiters:AECOM2:744000147333760"
+      "smartrecruiters:AECOM2:744000147333760",
+      "smartrecruiters:AECOM2:744000149913009"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -206,9 +207,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-09",
      "role_ids": [
-      "smartrecruiters:AveryDennison:744000148579064"
+      "smartrecruiters:AveryDennison:744000148579064",
+      "smartrecruiters:AveryDennison:744000149895029"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -412,6 +414,19 @@
       "workday:draper:/job/Houston-TX/Space-GNC-Co-Op--Fall-2026-_JR002721"
      ],
      "count": 1
+    }
+   }
+  },
+  "duracell": {
+   "name": "Duracell",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com:1399",
+      "oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com:1400"
+     ],
+     "count": 2
     }
    }
   },
@@ -631,6 +646,8 @@
       "workday:graco:/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-op--May---December-2027-_R0023613",
       "workday:graco:/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023506",
       "workday:graco:/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-op--January---August-2027-_R0023612",
+      "workday:graco:/job/North-Canton-Ohio-USA/Manufacturing-Engineering-Intern_R0023570-1",
+      "workday:graco:/job/North-Canton-Ohio-USA/Mechanical-Engineer-Intern_R0023517",
       "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Automation-Engineering-Co-Op--January---August-2027-_R0023586",
       "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering--Operational-Technology--Co-op--January---August-2027-_R0023574",
       "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-Op_R0023504",
@@ -638,7 +655,7 @@
       "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Quality-Engineering-Co-op--January---August-2027-_R0023573",
       "workday:graco:/job/Sioux-Falls-South-Dakota-USA/Manufacturing-Engineering-Intern---Summer-2027_R0023643"
      ],
-     "count": 10
+     "count": 12
     }
    }
   },
@@ -915,6 +932,18 @@
     }
    }
   },
+  "lonza": {
+   "name": "Lonza",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "workday:lonza:/job/US---Portsmouth-NH/Summer-2026-Manufacturing--Science---Technology-Internship_R79570"
+     ],
+     "count": 1
+    }
+   }
+  },
   "meijer": {
    "name": "Meijer",
    "cycles": {
@@ -980,6 +1009,18 @@
      "first_posted": "2026-08-31",
      "role_ids": [
       "workday:michelinhr:/job/EMPORIA-KS/XMLNAME-2027-Summer-Mechanical-Engineer--Emporia--KS-_R-2026030587"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "mill": {
+   "name": "Mill",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-03-17",
+     "role_ids": [
+      "greenhouse:mill:4674154005"
      ],
      "count": 1
     }
@@ -1539,6 +1580,18 @@
     }
    }
   },
+  "teledyne": {
+   "name": "Teledyne",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "workday:flir:/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "texas instruments": {
    "name": "Texas Instruments",
    "cycles": {
@@ -1790,9 +1843,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94959",
       "oracle:emit.fa.ca3.oraclecloud.com:94965",
       "oracle:emit.fa.ca3.oraclecloud.com:94976",
-      "oracle:emit.fa.ca3.oraclecloud.com:95114"
+      "oracle:emit.fa.ca3.oraclecloud.com:95114",
+      "oracle:emit.fa.ca3.oraclecloud.com:95483"
      ],
-     "count": 23
+     "count": 24
     }
    }
   },
@@ -1823,5 +1877,5 @@
    }
   }
  },
- "updated_at": "2026-09-16T11:54:04Z"
+ "updated_at": "2026-09-16T17:14:51Z"
 }
