@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-16T21:30:47Z</updated>
+  <updated>2026-09-17T05:08:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Quality-Engineering-Intern---Summer-2027_JR00047273</id>
-    <title>ABB: Quality Engineering Intern - Summer 2027 🛂</title>
-    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Quality-Engineering-Intern---Summer-2027_JR00047273"/>
-    <updated>2026-09-16T21:30:44Z</updated>
+    <id>urn:intern-engine:lever:acronaviation:2893b51b-c93c-4875-9912-1292ab0f4926</id>
+    <title>Acron Aviation: Manufacturing Engineer Intern - Grand Rapids Site</title>
+    <link href="https://jobs.lever.co/acronaviation/2893b51b-c93c-4875-9912-1292ab0f4926"/>
+    <updated>2026-09-17T05:08:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Grand Rapids, MI · SolidWorks, AutoCAD, CAD, Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:smithnephew:/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508</id>
+    <title>Smith+Nephew: Intern Mechanical Engineering</title>
+    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508"/>
+    <updated>2026-09-17T05:08:44Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · New Berlin, Wisconsin, United States of America · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Mechanical Design · Pittsburgh, PA · SolidWorks, GD&amp;T · H-1B track record: ~77 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:contoro:cf7c8043-8fbe-4c7e-b91f-ee6db2a616c5</id>
@@ -22,30 +30,6 @@
     <updated>2026-09-16T21:30:44Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Controls &amp; Mechatronics · Austin, TX · Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26011001</id>
-    <title>Emerson Electric: Mechanical Engineering Co-op (Summer 2027)</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011001"/>
-    <updated>2026-09-16T21:30:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Elyria, OH, United States · CAD, FEA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Mechanical-Engineering--January---June-2027--Hybrid-_REQ-2026-18007</id>
-    <title>Insulet Corporation: Co-op, R&amp;D Mechanical Engineering: January - June 2027 (Hybrid)</title>
-    <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Mechanical-Engineering--January---June-2027--Hybrid-_REQ-2026-18007"/>
-    <updated>2026-09-16T21:30:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Acton, Massachusetts · MATLAB, SolidWorks, CAD, ANSYS · H-1B track record: ~46 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:masco:/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344-2</id>
-    <title>Masco: Hardware Test Engineering Co-op</title>
-    <link href="https://masco.wd1.myworkdayjobs.com/Masco/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344-2"/>
-    <updated>2026-09-16T21:30:44Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · US - Indiana - Indianapolis</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rendezvousrobotics:4408587009</id>
@@ -64,20 +48,28 @@
     <summary>Summer 2027 · Mechanical Design · Golden, CO · SolidWorks, Siemens NX, CAD, ANSYS, FEA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7988835003</id>
-    <title>Rocket Lab: Manufacturing Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7988835003"/>
-    <updated>2026-09-16T21:30:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Middle River, MD · CAD, CAM · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:rocketlab:7984564003</id>
     <title>Rocket Lab: Manufacturing Engineering Intern Summer 2027 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7984564003"/>
     <updated>2026-09-16T21:30:44Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Long Beach, CA · SolidWorks, Siemens NX, CAD, GD&amp;T, ANSYS · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7986820003</id>
+    <title>Rocket Lab: Propulsion Analyst Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7986820003"/>
+    <updated>2026-09-16T21:30:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Long Beach, CA · Python, MATLAB, SolidWorks, Siemens NX, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7988835003</id>
+    <title>Rocket Lab: Manufacturing Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7988835003"/>
+    <updated>2026-09-16T21:30:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Middle River, MD · CAD, CAM · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rocketlab:7989904003</id>
@@ -88,12 +80,52 @@
     <summary>Summer 2027 · Mechanical Design · Silver Spring, MD · Python, SolidWorks, CAD, GD&amp;T, CAM · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7986820003</id>
-    <title>Rocket Lab: Propulsion Analyst Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7986820003"/>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94665</id>
+    <title>WSP: Structural Engineering (Substation) Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94665"/>
     <updated>2026-09-16T21:30:44Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Long Beach, CA · Python, MATLAB, SolidWorks, Siemens NX, CAD · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Structures &amp; FEA · Freeport, ME, United States · $22.17–$32.22/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95528</id>
+    <title>WSP: Structural Engineering Intern- Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95528"/>
+    <updated>2026-09-16T21:30:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · Herndon, VA, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26011001</id>
+    <title>Emerson Electric: Mechanical Engineering Co-op (Summer 2027)</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011001"/>
+    <updated>2026-09-16T21:30:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Elyria, OH, United States · CAD, FEA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Quality-Engineering-Intern---Summer-2027_JR00047273</id>
+    <title>ABB: Quality Engineering Intern - Summer 2027 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Quality-Engineering-Intern---Summer-2027_JR00047273"/>
+    <updated>2026-09-16T21:30:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · New Berlin, Wisconsin, United States of America · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Mechanical-Engineering--January---June-2027--Hybrid-_REQ-2026-18007</id>
+    <title>Insulet Corporation: Co-op, R&amp;D Mechanical Engineering: January - June 2027 (Hybrid)</title>
+    <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Mechanical-Engineering--January---June-2027--Hybrid-_REQ-2026-18007"/>
+    <updated>2026-09-16T21:30:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Acton, Massachusetts · MATLAB, SolidWorks, CAD, ANSYS · H-1B track record: ~46 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:masco:/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344-2</id>
+    <title>Masco: Hardware Test Engineering Co-op</title>
+    <link href="https://masco.wd1.myworkdayjobs.com/Masco/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344-2"/>
+    <updated>2026-09-16T21:30:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · US - Indiana - Indianapolis</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:sensata:/job/Thousand-Oaks-CA/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98482</id>
@@ -126,22 +158,6 @@
     <updated>2026-09-16T21:30:44Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · US-SD Watertown · $22–$26/hr · SolidWorks, AutoCAD, CAD, GD&amp;T</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95528</id>
-    <title>WSP: Structural Engineering Intern- Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95528"/>
-    <updated>2026-09-16T21:30:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Herndon, VA, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94665</id>
-    <title>WSP: Structural Engineering (Substation) Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94665"/>
-    <updated>2026-09-16T21:30:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Freeport, ME, United States · $22.17–$32.22/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:mill:4674154005</id>
@@ -464,52 +480,12 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Utah-Ogden · $23–$29/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Frederick-Maryland-United-States/Hydraulics-Engineering-Intern_R49481</id>
-    <title>Oshkosh: Hydraulics Engineering Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Hydraulics-Engineering-Intern_R49481"/>
-    <updated>2026-09-15T17:13:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Frederick, Maryland, United States · Creo, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Greencastle-Pennsylvania-United-States/Controls-Engineering-Intern_R49477</id>
-    <title>Oshkosh: Controls Engineering Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greencastle-Pennsylvania-United-States/Controls-Engineering-Intern_R49477"/>
-    <updated>2026-09-15T17:13:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Greencastle, Pennsylvania, United States · CATIA, Creo, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49614</id>
-    <title>Oshkosh: Advanced Manufacturing Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49614"/>
-    <updated>2026-09-15T17:13:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · McConnellsburg, Pennsylvania, United States · SQL, AutoCAD, Six Sigma, Lean Manufacturing</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49617</id>
-    <title>Oshkosh: Advanced Manufacturing Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49617"/>
-    <updated>2026-09-15T17:13:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · McConnellsburg, Pennsylvania, United States · SQL, AutoCAD, Six Sigma, Lean Manufacturing</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49618</id>
     <title>Oshkosh: Advanced Manufacturing Intern</title>
     <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49618"/>
     <updated>2026-09-15T17:13:55Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · McConnellsburg, Pennsylvania, United States · SQL, AutoCAD, Six Sigma, Lean Manufacturing</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Orrville-Ohio-United-States/Hydraulics-Engineering-Intern_R49482</id>
-    <title>Oshkosh: Hydraulics Engineering Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orrville-Ohio-United-States/Hydraulics-Engineering-Intern_R49482"/>
-    <updated>2026-09-15T17:13:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Orrville, Ohio, United States · Creo, CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:woodward:/job/Zeeland-MI-US/Engineering-Co-op---Design-Engineering---Zeeland--MI--Summer-2027-_JR112252</id>
@@ -806,5 +782,29 @@
     <updated>2026-09-14T22:01:23Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Bloomington, MN · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:lexingtonmedical:5423105008</id>
+    <title>Lexington Medical: Mechanical Engineering Co-Op</title>
+    <link href="https://job-boards.greenhouse.io/lexingtonmedical/jobs/5423105008"/>
+    <updated>2026-09-14T13:07:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Bedford, MA · CAD, GD&amp;T</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:disney:/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Summer-2027_10159978-1</id>
+    <title>The Walt Disney Company: Disneyland Resort Industrial Engineering Intern, Summer 2027</title>
+    <link href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Summer-2027_10159978-1"/>
+    <updated>2026-09-14T13:07:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Anaheim, CA, USA · $32/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:disney:/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Industrial-Engineering-Intern--Summer-Fall-2027_10159994-1</id>
+    <title>The Walt Disney Company: Walt Disney World Industrial Engineering Intern, Summer/Fall 2027</title>
+    <link href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Industrial-Engineering-Intern--Summer-Fall-2027_10159994-1"/>
+    <updated>2026-09-14T13:07:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Lake Buena Vista, FL, USA · $32/hr</summary>
   </entry>
 </feed>
