@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-17T05:08:46Z",
+ "generated_at": "2026-09-17T11:58:00Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 517,
+ "count": 515,
  "jobs": [
   {
    "id": "workday:smithnephew:/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508",
@@ -1346,32 +1346,6 @@
    "remote": false
   },
   {
-   "id": "workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49618",
-   "company": "Oshkosh",
-   "title": "Advanced Manufacturing Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Manufacturing & Quality",
-   "location": "McConnellsburg, Pennsylvania, United States",
-   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49618",
-   "posted_at": "2026-09-15T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-15T17:13:55Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "SQL",
-    "AutoCAD",
-    "Six Sigma",
-    "Lean Manufacturing"
-   ],
-   "source": "workday",
-   "h1b_approvals": 2,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:woodward:/job/Zeeland-MI-US/Engineering-Co-op---Design-Engineering---Zeeland--MI--Summer-2027-_JR112252",
    "company": "Woodward Governor",
    "title": "Engineering Co-op - Design Engineering | Zeeland, MI (Summer 2027)",
@@ -2329,29 +2303,6 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": 4,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:allegion:/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering_JR37418-1",
-   "company": "Allegion",
-   "title": "Summer Intern - Advanced Manufacturing Engineering",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Manufacturing & Quality",
-   "location": "Carmel, IN",
-   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering_JR37418-1",
-   "posted_at": "2026-09-11T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-12T04:49:32Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Lean Manufacturing"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },

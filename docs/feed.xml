@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-17T05:08:46Z</updated>
+  <updated>2026-09-17T11:58:00Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
     <id>urn:intern-engine:lever:acronaviation:2893b51b-c93c-4875-9912-1292ab0f4926</id>
@@ -480,14 +480,6 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Utah-Ogden · $23–$29/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49618</id>
-    <title>Oshkosh: Advanced Manufacturing Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49618"/>
-    <updated>2026-09-15T17:13:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · McConnellsburg, Pennsylvania, United States · SQL, AutoCAD, Six Sigma, Lean Manufacturing</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:woodward:/job/Zeeland-MI-US/Engineering-Co-op---Design-Engineering---Zeeland--MI--Summer-2027-_JR112252</id>
     <title>Woodward Governor: Engineering Co-op - Design Engineering | Zeeland, MI (Summer 2027) 🇺🇸</title>
     <link href="https://woodward.wd5.myworkdayjobs.com/woodward/job/Zeeland-MI-US/Engineering-Co-op---Design-Engineering---Zeeland--MI--Summer-2027-_JR112252"/>
@@ -806,5 +798,13 @@
     <updated>2026-09-14T13:07:41Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Lake Buena Vista, FL, USA · $32/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7991448003</id>
+    <title>Rocket Lab: Mechanical Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7991448003"/>
+    <updated>2026-09-14T05:12:23Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Long Beach, CA · Siemens NX, CAD, GD&amp;T, ANSYS, Nastran · sponsorship: citizens-only</summary>
   </entry>
 </feed>

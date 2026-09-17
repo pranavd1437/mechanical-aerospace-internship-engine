@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/pranavd1437/mechanical-aerospace-internship-engine/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/pranavd1437/mechanical-aerospace-internship-engine/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fpranavd1437.github.io%2Fmechanical-aerospace-internship-engine%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%206%20hours-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)
 
-### 517 open roles (327 listed below) · 186 new this week
+### 515 open roles (327 listed below) · 184 new this week
 
-4,501 employers tracked · updated Sep 17, 2026 at 05:08 UTC
+4,501 employers tracked · updated Sep 17, 2026 at 11:57 UTC
 
-_285 have a cycle the employer stated · 232 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_285 have a cycle the employer stated · 230 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)** · **[📡 RSS](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)** · **[⚙️ JSON API](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/api/jobs.json)**
 
@@ -324,7 +324,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Lexington Medical | Mechanical Engineering Co-Op | Mechanical Design | Bedford, MA | CAD, GD&T | Sep 14, 2026 | [Apply](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5423105008) |
 | Autostore | Co-Op/Intern - Mechanical Engineer | Mechanical Design | Atlanta, GA, USA | SolidWorks, Siemens NX, Creo, CAD | Sep 13, 2026 | [Apply](https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Mechanical-Engineer_JR102694) |
 | Lightmatter | Silicon Packaging Engineer - Intern & New Grad | Mechanical Design | Mountain View, CA | Python, MATLAB, SolidWorks, GD&T | Sep 11, 2026 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5422712008?gh_jid=5422712008) |
-| Allegion | Summer Intern - Advanced Manufacturing Engineering | Manufacturing & Quality | Carmel, IN | Lean Manufacturing | Sep 11, 2026 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering_JR37418-1) |
 | Stanley Black & Decker ✓ | Manufacturing Internship - 1st shift, $15.00hr | Manufacturing & Quality | Mission, TX, United States | SolidWorks, AutoCAD | Sep 11, 2026 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Mission-TX-United-States/Manufacturing-Internship_REQ-1000052318-1) |
 | Thermo Fisher Scientific ✓ | Industrial Engineering Co-op | Manufacturing & Quality | Rochester, New York, USA | No skills listed | Sep 11, 2026 | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rochester-New-York-USA/Industrial-Engineering-Co-op_R-01366625) |
 | Thermo Fisher Scientific ✓ | Mechanical Engineering Co-op | Mechanical Design | Rochester, New York, USA | No skills listed | Sep 11, 2026 | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rochester-New-York-USA/Mechanical-Engineering-Co-op_R-01366623) |
@@ -337,6 +336,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | LabCorp | Intern - Quality Engineer - Oncology 🛂 | Manufacturing & Quality | Baltimore MD | No skills listed | Sep 11, 2026 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Quality-Engineer_2630918) |
 | Vermeer | Design Engineer Intern | Mechanical Design | Piedmont, South Carolina, USA | SolidWorks, FEA | Sep 11, 2026 | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Piedmont-South-Carolina-USA/Design-Engineer-Intern_REQ-22255) |
 | Bracco | R&D Packaging Engineer Co-op 🛂 | Mechanical Design | USA, Eden Prairie, Minnesota, 55344 | No skills listed | Sep 10, 2026 | [Apply](https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/R-D-Packaging-Engineer-Co-op_JR100300-1) |
+| Allegion | Summer Intern - Manufacturing Process Engineer | Manufacturing & Quality | Colorado Springs, CO | Creo | Sep 10, 2026 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Manufacturing-Process-Engineer_JR37469-1) |
 | Avav | Mechanical Engineering Intern 🇺🇸 | Mechanical Design | Simi Valley, CA | SolidWorks, CAD, GD&T, ANSYS | Sep 10, 2026 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Mechanical-Engineering-Intern_8591) |
 | National Information Solutions Cooperative (NISC) | Intern - Quality Engineer | Manufacturing & Quality | Lake St. Louis, MO or Mandan, ND | No skills listed | Sep 10, 2026 | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8191319) |
 | National Information Solutions Cooperative (NISC) | Intern - Quality Engineer | Manufacturing & Quality | Lake St. Louis, MO | No skills listed | Sep 10, 2026 | [Apply](https://job-boards.greenhouse.io/testnisc/jobs/8191814) |
@@ -525,7 +525,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,252 of 4,612 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 551.4s · 103 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,224 of 4,612 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 456.3s · 110 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

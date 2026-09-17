@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-17T05:08:44Z",
- "duration_seconds": 551.4,
+ "generated_at": "2026-09-17T11:57:58Z",
+ "duration_seconds": 456.3,
  "companies_total": 4612,
  "companies_by_source": {
   "greenhouse": 1092,
@@ -16,25 +16,26 @@
   "breezy": 12,
   "eightfold": 1
  },
- "quarantined": 338,
- "fetched_ok": 4252,
- "fetch_errors": 22,
+ "quarantined": 335,
+ "fetched_ok": 4224,
+ "fetch_errors": 53,
  "errors_by_source": {
-  "lever": 1,
+  "rippling": 1,
   "ashby": 3,
-  "workday": 12,
-  "workable": 5,
-  "greenhouse": 1
+  "workday": 44,
+  "workable": 3,
+  "greenhouse": 1,
+  "lever": 1
  },
- "fetch_success_rate": 0.995,
- "fetch_success_rate_registry": 0.922,
- "snapshots_complete": 4149,
- "snapshots_partial": 103,
- "roles_matched": 460,
- "dropped_no_year_in_title": 95,
+ "fetch_success_rate": 0.988,
+ "fetch_success_rate_registry": 0.916,
+ "snapshots_complete": 4114,
+ "snapshots_partial": 110,
+ "roles_matched": 458,
+ "dropped_no_year_in_title": 94,
  "dropped_offcycle_by_text": 107,
  "dropped_by_description_scope": 9,
- "roles_cycle_inferred": 232,
+ "roles_cycle_inferred": 230,
  "roles_by_source": {
   "amazon": 2,
   "ashby": 20,
@@ -45,28 +46,28 @@
   "rippling": 3,
   "smartrecruiters": 30,
   "workable": 2,
-  "workday": 351
+  "workday": 349
  },
  "roles_by_cycle": {
   "Summer 2027": 262,
   "Fall 2026": 23,
-  "Not stated": 232
+  "Not stated": 230
  },
  "roles_by_region": {
-  "US": 517
+  "US": 515
  },
  "sponsorship_counts": {
   "no-sponsorship": 67,
-  "unknown": 358,
+  "unknown": 356,
   "citizens-only": 91,
   "offers": 1
  },
  "posted_date_coverage": 0.994,
- "enriched_this_run": 11,
- "enrichment_detail_fetches": 10,
+ "enriched_this_run": 9,
+ "enrichment_detail_fetches": 9,
  "purged_this_run": 0,
- "new_this_run": 2,
- "open_total": 517,
+ "new_this_run": 0,
+ "open_total": 515,
  "detection_latency": {
   "median_minutes": 147.8,
   "p95_minutes": 515.7,
@@ -76,6 +77,6 @@
  },
  "posting_lifetime": {
   "median_days": 3,
-  "sample_size": 285
+  "sample_size": 287
  }
 }
