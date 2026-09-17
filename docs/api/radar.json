@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T11:58:00Z",
+ "generated_at": "2026-09-17T17:13:32Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -648,6 +648,20 @@
    "note": ""
   },
   {
+   "company": "Motorola",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": -14,
+   "status": "open",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Product-Quality-Engineering-Intern_R68669",
+   "note": ""
+  },
+  {
    "company": "POET",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
@@ -1138,6 +1152,20 @@
    "note": ""
   },
   {
+   "company": "X-energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Test-Engineering-Internship---Summer-2027_R101320-1",
+   "note": ""
+  },
+  {
    "company": "American Rare Earths",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1390,20 +1418,6 @@
    "note": ""
   },
   {
-   "company": "Motorola",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-03",
-   "days_until": -14,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "CHAOS Industries",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -1488,5 +1502,5 @@
    "note": ""
   }
  ],
- "count": 106
+ "count": 107
 }

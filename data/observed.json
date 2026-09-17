@@ -1110,9 +1110,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-03",
      "role_ids": [
+      "workday:motorolasolutions:/job/Chicago-IL/Product-Quality-Engineering-Intern_R68669",
       "workday:motorolasolutions:/job/Elgin-IL/Industrial-Engineer--Continuous-Improvement-Summer-Internship-2027_R68051"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1420,9 +1421,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-14",
      "role_ids": [
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870637",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1881,6 +1883,19 @@
     }
    }
   },
+  "x energy": {
+   "name": "X-energy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "workday:xenergy:/job/Rockville-MD/Mechanical-Engineering-Internship---Summer-2027_R101319-1",
+      "workday:xenergy:/job/Rockville-MD/Test-Engineering-Internship---Summer-2027_R101320-1"
+     ],
+     "count": 2
+    }
+   }
+  },
   "xcimer energy": {
    "name": "Xcimer Energy",
    "cycles": {
@@ -1908,5 +1923,5 @@
    }
   }
  },
- "updated_at": "2026-09-17T11:57:58Z"
+ "updated_at": "2026-09-17T17:13:31Z"
 }
