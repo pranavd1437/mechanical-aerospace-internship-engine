@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T17:13:32Z",
+ "generated_at": "2026-09-17T21:37:21Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -210,7 +210,7 @@
    "expected": "2026-08-17",
    "days_until": -31,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94665",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95693",
    "note": ""
   },
   {
@@ -548,20 +548,6 @@
    "status": "open",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aerodynamics_JR-202620069",
    "note": "fall opening"
-  },
-  {
-   "company": "Hypertherm",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -16,
-   "status": "open",
-   "url": "https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Hanover-NH/Intern---Manufacturing-Process-Engineer_R4063-1",
-   "note": ""
   },
   {
    "company": "Mondelez International",
@@ -1008,7 +994,7 @@
    "expected": "2026-09-14",
    "days_until": -3,
    "status": "open",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870637",
    "note": "fall opening, many roles need clearance"
   },
   {
@@ -1138,6 +1124,20 @@
    "note": ""
   },
   {
+   "company": "Lowe's",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Industrial-Engineering---Undergrad-Internship---Summer-2027_JR-02651868-1",
+   "note": ""
+  },
+  {
    "company": "Smith+Nephew",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -1162,7 +1162,7 @@
    "expected": "2026-09-17",
    "days_until": 0,
    "status": "open",
-   "url": "https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Test-Engineering-Internship---Summer-2027_R101320-1",
+   "url": "https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Mechanical-Engineering-Internship---Summer-2027_R101319-1",
    "note": ""
   },
   {
@@ -1404,6 +1404,20 @@
    "note": ""
   },
   {
+   "company": "Hypertherm",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -16,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Texas Instruments",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -1502,5 +1516,5 @@
    "note": ""
   }
  ],
- "count": 107
+ "count": 108
 }

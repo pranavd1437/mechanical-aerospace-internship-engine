@@ -5,44 +5,76 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-17T17:13:32Z</updated>
+  <updated>2026-09-17T21:37:21Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:idexcorp:/job/Cedar-Falls-Iowa/Manufacturing-Engineering-Co-Op_R-09910</id>
-    <title>IDEX: Manufacturing Engineering Co-Op</title>
-    <link href="https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Cedar-Falls-Iowa/Manufacturing-Engineering-Co-Op_R-09910"/>
-    <updated>2026-09-17T17:13:31Z</updated>
+    <id>urn:intern-engine:workday:cranecompany:/job/Marion-North-Carolina/Quality-Engineer-Intern_JR102564</id>
+    <title>Crane Co.: Quality Engineer Intern</title>
+    <link href="https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Marion-North-Carolina/Quality-Engineer-Intern_JR102564"/>
+    <updated>2026-09-17T21:37:19Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Cedar Falls, Iowa · CAD</summary>
+    <summary>Not stated · Manufacturing &amp; Quality · Marion, North Carolina · Six Sigma, Lean Manufacturing · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:idexcorp:/job/Cedar-Falls-Iowa/Design-Engineering-Co-Op--Biopharma-_R-09909</id>
-    <title>IDEX: Design Engineering Co-Op (Biopharma)</title>
-    <link href="https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Cedar-Falls-Iowa/Design-Engineering-Co-Op--Biopharma-_R-09909"/>
-    <updated>2026-09-17T17:13:31Z</updated>
+    <id>urn:intern-engine:workday:labcorp:/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795</id>
+    <title>LabCorp: Intern – Network Infrastructure &amp; Automation Engineering 🛂</title>
+    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795"/>
+    <updated>2026-09-17T21:37:19Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Cedar Falls, Iowa · SolidWorks, CAD</summary>
+    <summary>Not stated · Controls &amp; Mechatronics · Durham NC · Python, Linux, Git · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870637</id>
-    <title>RTX: Industrial Engineering Co-Op (Summer/Fall 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870637"/>
-    <updated>2026-09-17T17:13:31Z</updated>
+    <id>urn:intern-engine:workday:lowes:/job/Mooresville-NC-SSC-1999/Store-Operations-Industrial-Engineering---Undergrad-Internship---Summer-2027_JR-02651868-1</id>
+    <title>Lowe's: Store Operations Industrial Engineering – Undergrad Internship – Summer 2027</title>
+    <link href="https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Industrial-Engineering---Undergrad-Internship---Summer-2027_JR-02651868-1"/>
+    <updated>2026-09-17T21:37:19Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · SolidWorks, AutoCAD, CAD · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Mooresville, NC (SSC) 1999</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nvent:/job/Anoka-MN-US/Electrical-Controls-Engineering-Intern--June---August-2027-_R23646</id>
+    <title>nVent: Electrical/Controls Engineering Intern (June - August 2027)</title>
+    <link href="https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Electrical-Controls-Engineering-Intern--June---August-2027-_R23646"/>
+    <updated>2026-09-17T21:37:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · Anoka, MN, US</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nvent:/job/Anoka-MN-US/Electrical-Controls-Engineering-Co-Op_R23626</id>
+    <title>nVent: Electrical/Controls Engineering Co-Op</title>
+    <link href="https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Electrical-Controls-Engineering-Co-Op_R23626"/>
+    <updated>2026-09-17T21:37:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Anoka, MN, US</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7996623003</id>
+    <title>Rocket Lab: Manufacturing Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7996623003"/>
+    <updated>2026-09-17T21:37:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Wallops Island, VA · Python, SQL, CAD, CAM · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7990350003</id>
+    <title>Rocket Lab: Test Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7990350003"/>
+    <updated>2026-09-17T21:37:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Stennis Space Center, MS · Python, Java, MATLAB, CAD, GD&amp;T · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95693</id>
+    <title>WSP: Overhead Transmission Line Design Engineering Intern  - Spring/Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95693"/>
+    <updated>2026-09-17T21:37:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Phoenix, AZ, United States · SolidWorks, AutoCAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4713783006</id>
     <title>SharkNinja: Mechanical Engineering Co-op Opportunities</title>
     <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713783006"/>
-    <updated>2026-09-17T17:13:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Needham, MA, United States · Python, SolidWorks, Creo, CAD · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4713812006</id>
-    <title>SharkNinja: Mechanical Engineering Intern Opportunities</title>
-    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713812006"/>
     <updated>2026-09-17T17:13:31Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Needham, MA, United States · Python, SolidWorks, Creo, CAD · H-1B track record: ~23 approvals (FY2022–2023)</summary>
@@ -64,12 +96,44 @@
     <summary>Not stated · Mechanical Design · Needham, MA, United States · SolidWorks, Creo, CAD · H-1B track record: ~23 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4713812006</id>
+    <title>SharkNinja: Mechanical Engineering Intern Opportunities</title>
+    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713812006"/>
+    <updated>2026-09-17T17:13:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Needham, MA, United States · Python, SolidWorks, Creo, CAD · H-1B track record: ~23 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workable:talentpluto:441A17F2A4</id>
     <title>Talentpluto: Design Engineering Intern</title>
     <link href="https://apply.workable.com/talentpluto/j/441A17F2A4/"/>
     <updated>2026-09-17T17:13:31Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · United States (Remote) · $35–$50/hr · TypeScript, React, Next.js</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870637</id>
+    <title>RTX: Industrial Engineering Co-Op (Summer/Fall 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870637"/>
+    <updated>2026-09-17T17:13:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · SolidWorks, AutoCAD, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:idexcorp:/job/Cedar-Falls-Iowa/Design-Engineering-Co-Op--Biopharma-_R-09909</id>
+    <title>IDEX: Design Engineering Co-Op (Biopharma)</title>
+    <link href="https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Cedar-Falls-Iowa/Design-Engineering-Co-Op--Biopharma-_R-09909"/>
+    <updated>2026-09-17T17:13:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Cedar Falls, Iowa · SolidWorks, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:idexcorp:/job/Cedar-Falls-Iowa/Manufacturing-Engineering-Co-Op_R-09910</id>
+    <title>IDEX: Manufacturing Engineering Co-Op</title>
+    <link href="https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Cedar-Falls-Iowa/Manufacturing-Engineering-Co-Op_R-09910"/>
+    <updated>2026-09-17T17:13:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Cedar Falls, Iowa · CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:wattswater:/job/North-Andover-MA/Design-Engineer-Co-Op_10017594</id>
@@ -80,20 +144,20 @@
     <summary>Not stated · Mechanical Design · North Andover, MA · $25/hr · Python, CAD, GD&amp;T, FEA, CFD</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:xenergy:/job/Rockville-MD/Test-Engineering-Internship---Summer-2027_R101320-1</id>
-    <title>X-energy: Test Engineering Internship - Summer 2027</title>
-    <link href="https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Test-Engineering-Internship---Summer-2027_R101320-1"/>
-    <updated>2026-09-17T17:13:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Rockville, MD · $25/hr</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:xenergy:/job/Rockville-MD/Mechanical-Engineering-Internship---Summer-2027_R101319-1</id>
     <title>X-energy: Mechanical Engineering Internship - Summer 2027</title>
     <link href="https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Mechanical-Engineering-Internship---Summer-2027_R101319-1"/>
     <updated>2026-09-17T17:13:31Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Rockville, MD · $25/hr · SolidWorks, Siemens NX, CAD, ANSYS, Abaqus</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:xenergy:/job/Rockville-MD/Test-Engineering-Internship---Summer-2027_R101320-1</id>
+    <title>X-energy: Test Engineering Internship - Summer 2027</title>
+    <link href="https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Test-Engineering-Internship---Summer-2027_R101320-1"/>
+    <updated>2026-09-17T17:13:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Rockville, MD · $25/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:acronaviation:2893b51b-c93c-4875-9912-1292ab0f4926</id>
@@ -168,22 +232,6 @@
     <summary>Summer 2027 · Mechanical Design · Silver Spring, MD · Python, SolidWorks, CAD, GD&amp;T, CAM · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94665</id>
-    <title>WSP: Structural Engineering (Substation) Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94665"/>
-    <updated>2026-09-16T21:30:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Freeport, ME, United States · $22.17–$32.22/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95528</id>
-    <title>WSP: Structural Engineering Intern- Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95528"/>
-    <updated>2026-09-16T21:30:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Herndon, VA, United States</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26011001</id>
     <title>Emerson Electric: Mechanical Engineering Co-op (Summer 2027)</title>
     <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011001"/>
@@ -254,14 +302,6 @@
     <updated>2026-09-16T17:14:51Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Mechanical Design · San Bruno, California · Siemens NX, CAD, FEA, DFM/DFA · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95483</id>
-    <title>WSP: Structural Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95483"/>
-    <updated>2026-09-16T17:14:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Los Angeles, CA, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com:1399</id>
@@ -446,22 +486,6 @@
     <updated>2026-09-15T21:34:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Test &amp; Validation · Torrance, CA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49611</id>
-    <title>Oshkosh: Advanced Manufacturing Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49611"/>
-    <updated>2026-09-15T21:34:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · McConnellsburg, Pennsylvania, United States · SQL, AutoCAD, Six Sigma, Lean Manufacturing</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Shippensburg-Pennsylvania-United-States/Manufacturing-Engineer-Intern_R49667</id>
-    <title>Oshkosh: Manufacturing Engineer Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Shippensburg-Pennsylvania-United-States/Manufacturing-Engineer-Intern_R49667"/>
-    <updated>2026-09-15T21:34:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Shippensburg, Pennsylvania, United States · CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:treehouse:/job/USA-IL-Oak-Brook/Packaging-Engineer-Co-Op-2027_R30987</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-14T22:01:23Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Controls &amp; Mechatronics · Richardson, TX · Python, C++, LLMs, Linux, Verilog · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern---Dulles-VA_R10250744-1</id>
-    <title>Northrop Grumman: 2027 Guidance Navigation and Control Intern - Dulles VA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern---Dulles-VA_R10250744-1"/>
-    <updated>2026-09-14T22:01:23Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · United States-Virginia-Dulles · C++, MATLAB, Simulink, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nvent:/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--January---June-2027-_R23576</id>
-    <title>nVent: Manufacturing Engineering Co-op (January - June 2027)</title>
-    <link href="https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--January---June-2027-_R23576"/>
-    <updated>2026-09-14T22:01:23Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Anoka, MN, US · $25/hr · SolidWorks, AutoCAD, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nvent:/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--June---December-2027-_R23578</id>
-    <title>nVent: Manufacturing Engineering Co-op (June - December 2027)</title>
-    <link href="https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--June---December-2027-_R23578"/>
-    <updated>2026-09-14T22:01:23Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Anoka, MN, US · $25/hr · SolidWorks, AutoCAD, CAD</summary>
   </entry>
 </feed>
