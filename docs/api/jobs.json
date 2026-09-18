@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-18T05:00:44Z",
+ "generated_at": "2026-09-18T11:34:37Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 529,
+ "count": 528,
  "jobs": [
   {
    "id": "workday:valeo:/job/Hamilton-OH/Quality-Engineer-Co-Op--Summer-2027-_REQ2026080099",
@@ -25,6 +25,30 @@
    "source": "workday",
    "h1b_approvals": 72,
    "program": "Co-op",
+   "remote": false
+  },
+  {
+   "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Intern--Summer-2027----Onsite_01871125",
+   "company": "RTX",
+   "title": "Flight Controls Systems Intern (Summer 2027) - Onsite",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Controls & Mechatronics",
+   "location": "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Intern--Summer-2027----Onsite_01871125",
+   "posted_at": "2026-09-17T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-18T11:34:35Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [
+    "MATLAB",
+    "Simulink"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
    "remote": false
   },
   {
@@ -1900,27 +1924,6 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "oracle:edbz.fa.us2.oraclecloud.com:25017932",
-   "company": "Texas Instruments",
-   "title": "Manufacturing Technician Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Manufacturing & Quality",
-   "location": "Lehi, UT, United States",
-   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017932",
-   "posted_at": "2026-09-14",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-14T22:01:23Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [],
-   "source": "oracle",
-   "h1b_approvals": 234,
    "program": "Internship",
    "remote": false
   },
@@ -6372,31 +6375,6 @@
    "remote": false
   },
   {
-   "id": "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Supplier-Quality_JR-202617840",
-   "company": "General Motors",
-   "title": "2027 Summer Intern - Supplier Quality",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Manufacturing & Quality",
-   "location": "Warren, Michigan, United States of America",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Supplier-Quality_JR-202617840",
-   "posted_at": "2026-09-04T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-04T20:56:27Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "GD&T",
-    "Six Sigma",
-    "Lean Manufacturing"
-   ],
-   "source": "workday",
-   "h1b_approvals": 928,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:hpe:/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393",
    "company": "Hewlett Packard Enterprise",
    "title": "Mechanical Engineer Intern",
@@ -8500,28 +8478,22 @@
    "remote": false
   },
   {
-   "id": "greenhouse:k2spacecorporation:5411921008",
+   "id": "greenhouse:k2spacecorporation:5411915008",
    "company": "K2 Space",
-   "title": "Avionics Systems/Test Engineering Intern – Summer 2027",
+   "title": "Mechanical  Engineering Intern – Summer 2027",
    "season": "Summer 2027",
    "seasons": null,
    "season_inferred": false,
-   "category": "Test & Validation",
+   "category": "Mechanical Design",
    "location": "Los Angeles, CA",
-   "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411921008",
-   "posted_at": "2026-09-01T01:08:38-04:00",
+   "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411915008",
+   "posted_at": "2026-09-01T00:55:22-04:00",
    "posted_at_source": "exact",
    "first_seen_at": "2026-09-18T05:00:42Z",
    "sponsorship": "citizens-only",
    "salary": "$30–$40/hr",
    "skills": [
-    "Python",
-    "C++",
-    "Rust",
-    "Bash",
-    "Siemens NX",
-    "CAD",
-    "Linux"
+    "CAD"
    ],
    "source": "greenhouse",
    "h1b_approvals": null,
@@ -8555,22 +8527,28 @@
    "remote": false
   },
   {
-   "id": "greenhouse:k2spacecorporation:5411915008",
+   "id": "greenhouse:k2spacecorporation:5411921008",
    "company": "K2 Space",
-   "title": "Mechanical  Engineering Intern – Summer 2027",
+   "title": "Avionics Systems/Test Engineering Intern – Summer 2027",
    "season": "Summer 2027",
    "seasons": null,
    "season_inferred": false,
-   "category": "Mechanical Design",
+   "category": "Test & Validation",
    "location": "Los Angeles, CA",
-   "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411915008",
-   "posted_at": "2026-09-01T00:55:22-04:00",
+   "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411921008",
+   "posted_at": "2026-09-01T01:08:38-04:00",
    "posted_at_source": "exact",
    "first_seen_at": "2026-09-18T05:00:42Z",
    "sponsorship": "citizens-only",
    "salary": "$30–$40/hr",
    "skills": [
-    "CAD"
+    "Python",
+    "C++",
+    "Rust",
+    "Bash",
+    "Siemens NX",
+    "CAD",
+    "Linux"
    ],
    "source": "greenhouse",
    "h1b_approvals": null,

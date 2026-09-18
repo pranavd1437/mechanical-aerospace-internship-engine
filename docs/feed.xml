@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-18T05:00:44Z</updated>
+  <updated>2026-09-18T11:34:37Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Intern--Summer-2027----Onsite_01871125</id>
+    <title>RTX: Flight Controls Systems Intern (Summer 2027) - Onsite 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Intern--Summer-2027----Onsite_01871125"/>
+    <updated>2026-09-18T11:34:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · MATLAB, Simulink · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:k2spacecorporation:5411915008</id>
+    <title>K2 Space: Mechanical  Engineering Intern – Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411915008"/>
+    <updated>2026-09-18T05:00:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Los Angeles, CA · $30–$40/hr · CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:k2spacecorporation:5411917008</id>
+    <title>K2 Space: GNC Engineering Intern – Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411917008"/>
+    <updated>2026-09-18T05:00:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · Los Angeles, CA · $30–$40/hr · Python, C++, Rust, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:k2spacecorporation:5411921008</id>
+    <title>K2 Space: Avionics Systems/Test Engineering Intern – Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411921008"/>
+    <updated>2026-09-18T05:00:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Los Angeles, CA · $30–$40/hr · Python, C++, Rust, Bash, Siemens NX · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Advanced-Manufacturing-Intern-Summer-2027_R267458</id>
     <title>Bass Pro Shops: Advanced Manufacturing Intern Summer 2027</title>
@@ -30,30 +62,6 @@
     <updated>2026-09-18T05:00:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Test &amp; Validation · Springfield, MO (Tracker Marine Base Camp)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:k2spacecorporation:5411921008</id>
-    <title>K2 Space: Avionics Systems/Test Engineering Intern – Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411921008"/>
-    <updated>2026-09-18T05:00:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Los Angeles, CA · $30–$40/hr · Python, C++, Rust, Bash, Siemens NX · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:k2spacecorporation:5411917008</id>
-    <title>K2 Space: GNC Engineering Intern – Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411917008"/>
-    <updated>2026-09-18T05:00:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · Los Angeles, CA · $30–$40/hr · Python, C++, Rust, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:k2spacecorporation:5411915008</id>
-    <title>K2 Space: Mechanical  Engineering Intern – Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411915008"/>
-    <updated>2026-09-18T05:00:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Los Angeles, CA · $30–$40/hr · CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091</id>
@@ -686,14 +694,6 @@
     <updated>2026-09-14T22:01:23Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Ashville, Ohio, United States · Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017932</id>
-    <title>Texas Instruments: Manufacturing Technician Intern 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017932"/>
-    <updated>2026-09-14T22:01:23Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Lehi, UT, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010051</id>
