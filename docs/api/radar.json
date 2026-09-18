@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T16:40:06Z",
+ "generated_at": "2026-09-18T21:07:11Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -197,20 +197,6 @@
    "days_until": -32,
    "status": "open",
    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Columbus-OH/Mechanical-Engineering-Intern---Columbus--OH_R-16523",
-   "note": ""
-  },
-  {
-   "company": "WSP",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -32,
-   "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95693",
    "note": ""
   },
   {
@@ -434,7 +420,7 @@
    "expected": "2026-08-31",
    "days_until": -18,
    "status": "open",
-   "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Houston-Texas/Fall---Spring-2026-2027-Co-Op---Manufacturing-Science---Technology_R-2026-47959",
+   "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Spring-Summer-Co-Op---Manufacturing-Engineer_R-2026-49587",
    "note": ""
   },
   {
@@ -603,6 +589,20 @@
    "days_until": -17,
    "status": "open",
    "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Mechanical-Engineering-Intern-Summer-2027_REQ-1000052017",
+   "note": ""
+  },
+  {
+   "company": "Church & Dwight",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-02",
+   "days_until": -16,
+   "status": "open",
+   "url": "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Princeton-NJ/XMLNAME-2027-Undergraduate-Packaging-Engineer-Co-Op_R2026-15611",
    "note": ""
   },
   {
@@ -1040,20 +1040,6 @@
    "note": ""
   },
   {
-   "company": "onsemi",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-15",
-   "days_until": -3,
-   "status": "open",
-   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506613",
-   "note": ""
-  },
-  {
    "company": "TreeHouse Foods",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
@@ -1236,6 +1222,20 @@
    "note": ""
   },
   {
+   "company": "REV Robotics",
+   "last_cycle_posted": "",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "",
+   "days_until": null,
+   "status": "open",
+   "url": "https://ats.rippling.com/rev-robotics/jobs/6f40fd69-7d97-4142-a5fa-3c535a0b3e6e",
+   "note": ""
+  },
+  {
    "company": "John Deere",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1357,6 +1357,20 @@
    "source": "engine",
    "expected": "2026-08-13",
    "days_until": -36,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "WSP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -32,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -1556,7 +1570,21 @@
    "status": "dropped",
    "url": "",
    "note": ""
+  },
+  {
+   "company": "onsemi",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   }
  ],
- "count": 111
+ "count": 113
 }
