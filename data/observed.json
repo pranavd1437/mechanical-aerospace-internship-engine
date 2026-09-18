@@ -242,6 +242,18 @@
     }
    }
   },
+  "bass pro shops": {
+   "name": "Bass Pro Shops",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Advanced-Manufacturing-Intern-Summer-2027_R267458"
+     ],
+     "count": 1
+    }
+   }
+  },
   "bedrock robotics": {
    "name": "Bedrock Robotics",
    "cycles": {
@@ -875,6 +887,20 @@
     }
    }
   },
+  "k2 space": {
+   "name": "K2 Space",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "greenhouse:k2spacecorporation:5411915008",
+      "greenhouse:k2spacecorporation:5411917008",
+      "greenhouse:k2spacecorporation:5411921008"
+     ],
+     "count": 3
+    }
+   }
+  },
   "kairos power": {
    "name": "Kairos Power",
    "cycles": {
@@ -1437,9 +1463,10 @@
      "first_posted": "2026-09-14",
      "role_ids": [
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870637",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1728,6 +1755,18 @@
     }
    }
   },
+  "valeo": {
+   "name": "Valeo",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "workday:valeo:/job/Hamilton-OH/Quality-Engineer-Co-Op--Summer-2027-_REQ2026080099"
+     ],
+     "count": 1
+    }
+   }
+  },
   "varda space": {
    "name": "Varda Space",
    "cycles": {
@@ -1939,5 +1978,5 @@
    }
   }
  },
- "updated_at": "2026-09-17T21:37:19Z"
+ "updated_at": "2026-09-18T05:00:42Z"
 }
