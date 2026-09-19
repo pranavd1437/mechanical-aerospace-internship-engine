@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-19T04:50:07Z",
+ "generated_at": "2026-09-19T11:20:14Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 546,
+ "count": 545,
  "jobs": [
   {
    "id": "workday:philips:/job/Latham-New-York-United-States/Co-op---Design-Engineering---Latham--NY---January-June-2027_590362",
@@ -7845,27 +7845,6 @@
     "Python",
     "C++"
    ],
-   "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "ashby:reflect-orbital:ed0c926a-9a52-4c84-8488-2552b1f0cca6",
-   "company": "Reflect Orbital",
-   "title": "Mechanical Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Hawthorne, CA",
-   "url": "https://jobs.ashbyhq.com/reflect-orbital/ed0c926a-9a52-4c84-8488-2552b1f0cca6",
-   "posted_at": "2026-09-02T21:57:12.373+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-03T04:47:10Z",
-   "sponsorship": "unknown",
-   "salary": "$27 – $31 per hour",
-   "skills": [],
    "source": "ashby",
    "h1b_approvals": null,
    "program": "Internship",
