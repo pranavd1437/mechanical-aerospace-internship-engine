@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-19T11:20:14Z",
+ "generated_at": "2026-09-19T16:05:00Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 545,
+ "count": 543,
  "jobs": [
   {
    "id": "workday:philips:/job/Latham-New-York-United-States/Co-op---Design-Engineering---Latham--NY---January-June-2027_590362",
@@ -3770,27 +3770,6 @@
    "remote": false
   },
   {
-   "id": "workday:allegion:/job/Colorado-Springs-CO/Summer-Intern---Product-Assurance-Test-Engineer_JR37380-1",
-   "company": "Allegion",
-   "title": "Summer Intern - Product Assurance Test Engineer",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Test & Validation",
-   "location": "Colorado Springs, CO",
-   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Product-Assurance-Test-Engineer_JR37380-1",
-   "posted_at": "2026-09-10T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-11T04:56:50Z",
-   "sponsorship": "unknown",
-   "salary": "$25–$26/hr",
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:allegion:/job/Princeton-IL/Quality-Engineer-Intern_JR37402-1",
    "company": "Allegion",
    "title": "Summer Intern - Quality Engineer",
@@ -5822,31 +5801,6 @@
    "skills": [],
    "source": "workday",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:boeing:/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Aerodynamics-Intern_JR2026523782",
-   "company": "The Boeing Company",
-   "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Aerodynamics Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Thermal, Fluids & Propulsion",
-   "location": "USA - Huntington Beach, CA",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Aerodynamics-Intern_JR2026523782",
-   "posted_at": "2026-09-08T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-08T21:22:24Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "C++",
-    "CFD",
-    "Linux"
-   ],
-   "source": "workday",
-   "h1b_approvals": 28,
    "program": "Internship",
    "remote": false
   },
