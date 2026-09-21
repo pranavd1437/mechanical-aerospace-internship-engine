@@ -371,6 +371,13 @@
     "ats": "lever"
   },
   {
+    "name": "Acima",
+    "slug": "upbound",
+    "ats": "workday",
+    "wd": "wd501",
+    "site": "Acima"
+  },
+  {
     "name": "ACLU Kentucky",
     "slug": "acluinternships",
     "ats": "greenhouse"
@@ -5873,6 +5880,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "ExternalStaffCareerSite"
+  },
+  {
+    "name": "Collinear AI",
+    "slug": "collinear-ai",
+    "ats": "ashby"
   },
   {
     "name": "Cologix",
@@ -21484,6 +21496,11 @@
   {
     "name": "SingleStore",
     "slug": "singlestore",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Sirona Medical",
+    "slug": "sironamedical",
     "ats": "greenhouse"
   },
   {
