@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-21T05:10:54Z",
+ "generated_at": "2026-09-21T13:08:30Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 543,
+ "count": 544,
  "jobs": [
   {
    "id": "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088",
@@ -3806,6 +3806,27 @@
    "skills": [
     "Creo"
    ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:allegion:/job/Colorado-Springs-CO/Summer-Intern---Product-Assurance-Test-Engineer_JR37380-1",
+   "company": "Allegion",
+   "title": "Summer Intern - Product Assurance Test Engineer",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Test & Validation",
+   "location": "Colorado Springs, CO",
+   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Product-Assurance-Test-Engineer_JR37380-1",
+   "posted_at": "2026-09-10T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-11T04:56:50Z",
+   "sponsorship": "unknown",
+   "salary": "$25–$26/hr",
+   "skills": [],
    "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
