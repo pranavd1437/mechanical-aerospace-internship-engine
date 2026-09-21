@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-20T21:03:09Z</updated>
+  <updated>2026-09-21T05:10:53Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088</id>
+    <title>Northrop Grumman: 2027 Mechanical Engineer Intern - Baltimore MD 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088"/>
+    <updated>2026-09-21T05:10:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989</id>
+    <title>United Parcel Service (UPS): 2027 Americas Region Industrial Engineering Summer Intern 🇺🇸</title>
+    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989"/>
+    <updated>2026-09-21T05:10:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · US - UPS CORPORATE OFFICES (GACOR) · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:philips:/job/Latham-New-York-United-States/Co-op---Design-Engineering---Latham--NY---January-June-2027_590362</id>
     <title>Philips: Co-op - Design Engineering - Latham, NY - January-June 2027</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-15T17:13:55Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Utah-Ogden · $23–$29/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:woodward:/job/Zeeland-MI-US/Engineering-Co-op---Design-Engineering---Zeeland--MI--Summer-2027-_JR112252</id>
-    <title>Woodward Governor: Engineering Co-op - Design Engineering | Zeeland, MI (Summer 2027) 🇺🇸</title>
-    <link href="https://woodward.wd5.myworkdayjobs.com/woodward/job/Zeeland-MI-US/Engineering-Co-op---Design-Engineering---Zeeland--MI--Summer-2027-_JR112252"/>
-    <updated>2026-09-15T17:13:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Zeeland, MI, US · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:woodward:/job/Zeeland-MI-US/Engineering-Co-op---Manufacturing-Engineering---Zeeland--MI--Summer-2027-_JR112088</id>
-    <title>Woodward Governor: Engineering Co-op - Manufacturing Engineering | Zeeland, MI (Summer 2027)</title>
-    <link href="https://woodward.wd5.myworkdayjobs.com/woodward/job/Zeeland-MI-US/Engineering-Co-op---Manufacturing-Engineering---Zeeland--MI--Summer-2027-_JR112088"/>
-    <updated>2026-09-15T17:13:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Zeeland, MI, US</summary>
   </entry>
 </feed>

@@ -1208,6 +1208,7 @@
      "first_posted": "2026-08-07",
      "role_ids": [
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
+      "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Manufacturing-Engineer-Intern_R10251750-1",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2026-Intern-Tooling-Engineer_R10251724",
@@ -1219,7 +1220,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern---Dulles-VA_R10250744-1",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322"
      ],
-     "count": 11
+     "count": 12
     }
    }
   },
@@ -1769,11 +1770,12 @@
       "workday:hcmportal:/job/US---BAYONNE-CENTER-NJBAY/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Bayonne-NJ_R26030793",
       "workday:hcmportal:/job/US---JEFFERSON-HUB-ILJEF/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Chicago-IL_R26030597",
       "workday:hcmportal:/job/US---PORTLAND-HUB-ORPOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Portland--OR_R26030709",
+      "workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989",
       "workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Atlanta--GA_R26030769",
       "workday:hcmportal:/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1",
       "workday:hcmportal:/job/US---UTAH-REGIONAL-HUB-UTLKE/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Salt-Lake-City--UT_R26030699"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -2001,5 +2003,5 @@
    }
   }
  },
- "updated_at": "2026-09-20T21:03:06Z"
+ "updated_at": "2026-09-21T05:10:52Z"
 }
