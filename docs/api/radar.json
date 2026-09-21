@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T13:08:30Z",
+ "generated_at": "2026-09-21T22:11:29Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -116,20 +116,6 @@
    "note": "fall opening, many roles need clearance"
   },
   {
-   "company": "MKS Instruments",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-11",
-   "days_until": -41,
-   "status": "open",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744",
-   "note": ""
-  },
-  {
    "company": "Ameren",
    "last_cycle_posted": "",
    "posted_on": "2026-08-12",
@@ -197,6 +183,20 @@
    "days_until": -35,
    "status": "open",
    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Columbus-OH/Mechanical-Engineering-Intern---Columbus--OH_R-16523",
+   "note": ""
+  },
+  {
+   "company": "WSP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -35,
+   "status": "open",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95761",
    "note": ""
   },
   {
@@ -298,6 +298,20 @@
    "note": ""
   },
   {
+   "company": "MetOx International",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -27,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5405775008",
+   "note": ""
+  },
+  {
    "company": "Philips",
    "last_cycle_posted": "",
    "posted_on": "2026-08-25",
@@ -365,6 +379,20 @@
    "days_until": -25,
    "status": "open",
    "url": "https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/Summer-Intern-Co-op-Mechanical-Engineering--2027-_JR-2026-21956",
+   "note": ""
+  },
+  {
+   "company": "Oshkosh",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -25,
+   "status": "open",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Mechanical--Summer-2027-_R50502",
    "note": ""
   },
   {
@@ -1194,6 +1222,48 @@
    "note": ""
   },
   {
+   "company": "Avav",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551",
+   "note": ""
+  },
+  {
+   "company": "Draper",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern--Summer-2027-_JR002943",
+   "note": ""
+  },
+  {
+   "company": "Life Fitness",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Ramsey-MN/Mechanical-Engineering-Intern---Ramsey--MN_JR-025235",
+   "note": ""
+  },
+  {
    "company": "American Rare Earths",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1334,6 +1404,20 @@
    "note": "rolling from fall, very competitive"
   },
   {
+   "company": "MKS Instruments",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-11",
+   "days_until": -41,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "American Express",
    "last_cycle_posted": "",
    "posted_on": "2026-08-13",
@@ -1357,20 +1441,6 @@
    "source": "engine",
    "expected": "2026-08-13",
    "days_until": -39,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "WSP",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -35,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -1427,20 +1497,6 @@
    "source": "engine",
    "expected": "2026-08-26",
    "days_until": -26,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Oshkosh",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -25,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -1586,5 +1642,5 @@
    "note": ""
   }
  ],
- "count": 113
+ "count": 117
 }
