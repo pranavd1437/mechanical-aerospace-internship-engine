@@ -338,12 +338,13 @@
       "workday:brunswick:/job/Edgewater-FL/Manufacturing-Engineering-Intern-Summer--27_JR-051339",
       "workday:brunswick:/job/Edgewater-FL/Manufacturing-Engineering-Intern_JR-051540",
       "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238",
+      "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Intern-Design-Analysis-Group-Fluid---Thermal_JR-050977",
       "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Mechanical-Engineering-Intern_JR-051390",
       "workday:brunswick:/job/Lowell-MI/Mechanical-Engineer-Co-op-Intern_JR-051322",
       "workday:brunswick:/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1",
       "workday:brunswick:/job/New-York-Mills-MN/Quality-Engineering-Intern_JR-051507"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -1264,6 +1265,7 @@
      "first_posted": "2026-08-07",
      "role_ids": [
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
+      "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Manufacturing-Engineer-Intern_R10251750-1",
@@ -1276,7 +1278,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern---Dulles-VA_R10250744-1",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322"
      ],
-     "count": 12
+     "count": 13
     }
    }
   },
@@ -2068,5 +2070,5 @@
    }
   }
  },
- "updated_at": "2026-09-22T05:16:10Z"
+ "updated_at": "2026-09-22T11:53:56Z"
 }
