@@ -1015,9 +1015,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-21",
      "role_ids": [
+      "workday:lifefitness:/job/Ramsey-MN/Manufacturing-Engineering-Intern---Ramsey--MN_JR-025239",
       "workday:lifefitness:/job/Ramsey-MN/Mechanical-Engineering-Intern---Ramsey--MN_JR-025235"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1401,11 +1402,13 @@
       "workday:philips:/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339",
       "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Murrysville--PA-January-June-2027_580754",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Co-op---Packaging-Engineer---Plymouth--MN---January-2027_591609",
+      "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op---Mechanical-Process-Engineer---Reedsville--PA---2026_592206",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Industrial-Engineering-Reedsville--PA--January-to-June-2027-_591145",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Reedsville--PA--July---December-2027_587808",
+      "workday:philips:/job/Reedsville-Pennsylvania-United-States/Intern---Mechanical-Process-Engineer---Reedsville--PA---2026_592205",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807"
      ],
-     "count": 10
+     "count": 12
     }
    }
   },
@@ -2073,5 +2076,5 @@
    }
   }
  },
- "updated_at": "2026-09-22T17:12:39Z"
+ "updated_at": "2026-09-22T21:35:47Z"
 }
