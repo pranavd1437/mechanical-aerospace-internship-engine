@@ -757,9 +757,10 @@
       "lever:hermeus:643fd7b7-9015-43a1-aa2b-a54f117b403c",
       "lever:hermeus:6b65768c-a8b2-4c77-8d5f-f407e32bb878",
       "lever:hermeus:9229aa88-f54d-4ecd-85ee-b31f53b4207d",
-      "lever:hermeus:943f51e4-5b26-432c-ae85-de5f43cadb86"
+      "lever:hermeus:943f51e4-5b26-432c-ae85-de5f43cadb86",
+      "lever:hermeus:ee3a4109-b6e7-4ed5-8981-a483b3936e5a"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -1184,12 +1185,13 @@
     "Summer 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
+      "workday:moog:/job/Buffalo-NY/Intern--Test-Engineering_R-26-20243-1",
       "workday:moog:/job/Mineral-Wells-TX/Intern--Design-Engineering_R-26-19881",
       "workday:moog:/job/Mineral-Wells-TX/Intern--Design-Engineering_R-26-19882",
       "workday:moog:/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-26-19887",
       "workday:moog:/job/Torrance-CA/Actuation-Engineer-Intern--Summer-2027-_R-26-19612"
      ],
-     "count": 4
+     "count": 5
     },
     "Fall 2026": {
      "first_posted": "2026-09-11",
@@ -1398,11 +1400,12 @@
       "workday:philips:/job/Latham-New-York-United-States/Co-op---Manufacturing-Engineering---Latham--NY---January-August-2027_590906",
       "workday:philips:/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339",
       "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Murrysville--PA-January-June-2027_580754",
+      "workday:philips:/job/Plymouth-Minnesota-United-States/Co-op---Packaging-Engineer---Plymouth--MN---January-2027_591609",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Industrial-Engineering-Reedsville--PA--January-to-June-2027-_591145",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Reedsville--PA--July---December-2027_587808",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -2070,5 +2073,5 @@
    }
   }
  },
- "updated_at": "2026-09-22T11:53:56Z"
+ "updated_at": "2026-09-22T17:12:39Z"
 }

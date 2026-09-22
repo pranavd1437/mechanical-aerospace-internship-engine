@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-22T11:53:57Z</updated>
+  <updated>2026-09-22T17:12:42Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:eqtcorporation:5424728008</id>
+    <title>EQT Corporation: Production Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5424728008"/>
+    <updated>2026-09-22T17:12:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Canonsburg, PA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:ee3a4109-b6e7-4ed5-8981-a483b3936e5a</id>
+    <title>Hermeus: Build Reliability Engineering Intern - Spring/Summer 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a"/>
+    <updated>2026-09-22T17:12:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Atlanta, GA · 25–33 USD/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Mechanical-Analysis-Engineering_R-26-20226</id>
+    <title>Moog: Intern, Mechanical Analysis Engineering</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Mechanical-Analysis-Engineering_R-26-20226"/>
+    <updated>2026-09-22T17:12:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Buffalo, NY · FEA, CFD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Test-Engineering_R-26-20243-1</id>
+    <title>Moog: Intern, Test Engineering</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Test-Engineering_R-26-20243-1"/>
+    <updated>2026-09-22T17:12:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Buffalo, NY</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nwis:/job/Springfield-VA/Mechanical-Engineer-Intern_JR102089-1</id>
+    <title>Nightwing Intelligence Solutions: Mechanical Engineer Intern 🇺🇸</title>
+    <link href="https://nwis.wd12.myworkdayjobs.com/NW/job/Springfield-VA/Mechanical-Engineer-Intern_JR102089-1"/>
+    <updated>2026-09-22T17:12:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Springfield, VA · Python, MATLAB, SolidWorks, CAD, FEA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Plymouth-Minnesota-United-States/Co-op---Packaging-Engineer---Plymouth--MN---January-2027_591609</id>
+    <title>Philips: Co-op – Packaging Engineer – Plymouth, MN – January 2027</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Co-op---Packaging-Engineer---Plymouth--MN---January-2027_591609"/>
+    <updated>2026-09-22T17:12:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Plymouth, Minnesota, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Intern-Design-Analysis-Group-Fluid---Thermal_JR-050977</id>
     <title>Brunswick: Mercury Marine: Intern Design Analysis Group-Fluid &amp; Thermal</title>
@@ -758,53 +806,5 @@
     <updated>2026-09-16T17:14:51Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Cleveland, TN, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000149913009</id>
-    <title>AECOM: Mechanical Engineering Intern – Hiring Event with AECOM – New York City</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000149913009"/>
-    <updated>2026-09-16T17:14:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · New York, NY, United States · AutoCAD · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AveryDennison:744000149895029</id>
-    <title>Avery Dennison: RFID New Product Development Engineering Intern Summer 2027 🛂</title>
-    <link href="https://jobs.smartrecruiters.com/AveryDennison/744000149895029"/>
-    <updated>2026-09-16T17:14:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Fletcher, NC, United States · $25.5–$29/hr · Python, C#, CNC · sponsorship: no-sponsorship · H-1B track record: ~26 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:flir:/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1</id>
-    <title>Teledyne: EADSIM MBSE Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1"/>
-    <updated>2026-09-16T17:14:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems Engineering · US - Huntsville, AL · Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lonza:/job/US---Portsmouth-NH/Summer-2026-Manufacturing--Science---Technology-Internship_R79570</id>
-    <title>Lonza: Summer 2027 Manufacturing, Science &amp; Technology Internship</title>
-    <link href="https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Portsmouth-NH/Summer-2026-Manufacturing--Science---Technology-Internship_R79570"/>
-    <updated>2026-09-16T17:14:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US - Portsmouth, NH · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:magna:/job/Northwood-Ohio-US/Automation-Engineering-Co-Op_R00261906</id>
-    <title>Magna International: Automation Engineering Co-Op</title>
-    <link href="https://magna.wd3.myworkdayjobs.com/Magna/job/Northwood-Ohio-US/Automation-Engineering-Co-Op_R00261906"/>
-    <updated>2026-09-16T17:14:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Northwood, Ohio, US · H-1B track record: ~141 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sonoco:/job/Hartselle-AL-USA/Manufacturing-Internship_JR-159794</id>
-    <title>Sonoco: Manufacturing Internship</title>
-    <link href="https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/Hartselle-AL-USA/Manufacturing-Internship_JR-159794"/>
-    <updated>2026-09-16T17:14:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Hartselle, AL, USA</summary>
   </entry>
 </feed>
