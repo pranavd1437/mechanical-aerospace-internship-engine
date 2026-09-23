@@ -5,15 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-22T21:35:50Z</updated>
+  <updated>2026-09-23T05:01:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:amainc:/job/Hampton-VA/Intern--Research-on-CFD-Analysis-with-Hybrid-Mesh-Adaptation-for-High-Speed-Configurations_R-100770</id>
-    <title>Analytical Mechanics Associates: Intern: Research on CFD Analysis with Hybrid Mesh Adaptation for High-Speed Configurations</title>
-    <link href="https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Intern--Research-on-CFD-Analysis-with-Hybrid-Mesh-Adaptation-for-High-Speed-Configurations_R-100770"/>
-    <updated>2026-09-22T21:35:47Z</updated>
+    <id>urn:intern-engine:workday:allegion:/job/Colorado-Springs-CO/Summer-Intern---Digital-Manufacturing_JR37704-1</id>
+    <title>Allegion: Summer Intern - Digital Manufacturing</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Digital-Manufacturing_JR37704-1"/>
+    <updated>2026-09-23T05:01:55Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Hampton, VA · $25–$27.69/hr · CFD, Python, C++, MATLAB</summary>
+    <summary>Not stated · Manufacturing &amp; Quality · Colorado Springs, CO · $25–$26/hr · Java, C++, C#, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:creationtech:/job/Newark-NY-USA/Test-Engineering-Intern_JR6972</id>
+    <title>Creation Technologies: Test Engineering Intern</title>
+    <link href="https://creationtech.wd1.myworkdayjobs.com/Creation/job/Newark-NY-USA/Test-Engineering-Intern_JR6972"/>
+    <updated>2026-09-23T05:01:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Newark, NY USA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:creationtech:/job/Newark-NY-USA/Quality-Engineering-Intern_JR6974</id>
+    <title>Creation Technologies: Quality Engineering Intern</title>
+    <link href="https://creationtech.wd1.myworkdayjobs.com/Creation/job/Newark-NY-USA/Quality-Engineering-Intern_JR6974"/>
+    <updated>2026-09-23T05:01:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Newark, NY USA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512</id>
+    <title>Micron Technology: Intern - Design Engineer, HIG HBM</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512"/>
+    <updated>2026-09-23T05:01:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Richardson, TX · Python, C++, CAD, Linux, Verilog · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:axiscompany:8832086002</id>
@@ -24,20 +48,28 @@
     <summary>Not stated · Manufacturing &amp; Quality · Walker, Michigan, United States</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:dtna:/job/Fort-Mill-SC-US/Reliability-Engineering-Intern_DT-19828-1</id>
-    <title>Daimler Truck: Reliability Engineering Intern</title>
-    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Fort-Mill-SC-US/Reliability-Engineering-Intern_DT-19828-1"/>
-    <updated>2026-09-22T21:35:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Fort Mill, SC US · $21–$29/hr · Python, SQL, Snowflake, Tableau · H-1B track record: ~50 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26009266</id>
     <title>Emerson Electric: Process Automation Engineer Intern</title>
     <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009266"/>
     <updated>2026-09-22T21:35:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Controls &amp; Mechatronics · Houston, TX, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:amainc:/job/Hampton-VA/Intern--Research-on-CFD-Analysis-with-Hybrid-Mesh-Adaptation-for-High-Speed-Configurations_R-100770</id>
+    <title>Analytical Mechanics Associates: Intern: Research on CFD Analysis with Hybrid Mesh Adaptation for High-Speed Configurations</title>
+    <link href="https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Intern--Research-on-CFD-Analysis-with-Hybrid-Mesh-Adaptation-for-High-Speed-Configurations_R-100770"/>
+    <updated>2026-09-22T21:35:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Hampton, VA · $25–$27.69/hr · CFD, Python, C++, MATLAB</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:dtna:/job/Fort-Mill-SC-US/Reliability-Engineering-Intern_DT-19828-1</id>
+    <title>Daimler Truck: Reliability Engineering Intern</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Fort-Mill-SC-US/Reliability-Engineering-Intern_DT-19828-1"/>
+    <updated>2026-09-22T21:35:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Fort Mill, SC US · $21–$29/hr · Python, SQL, Snowflake, Tableau · H-1B track record: ~50 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:lifefitness:/job/Ramsey-MN/Manufacturing-Engineering-Intern---Ramsey--MN_JR-025239</id>
@@ -774,37 +806,5 @@
     <updated>2026-09-16T21:30:44Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Acton, Massachusetts · MATLAB, SolidWorks, CAD, ANSYS · H-1B track record: ~46 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:masco:/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344-2</id>
-    <title>Masco: Hardware Test Engineering Co-op</title>
-    <link href="https://masco.wd1.myworkdayjobs.com/Masco/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344-2"/>
-    <updated>2026-09-16T21:30:44Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · US - Indiana - Indianapolis</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sensata:/job/Thousand-Oaks-CA/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98482</id>
-    <title>Sensata: Mechanical Engineer Intern (Aerospace) - Summer 2027 🇺🇸</title>
-    <link href="https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Thousand-Oaks-CA/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98482"/>
-    <updated>2026-09-16T21:30:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Thousand Oaks, CA · sponsorship: citizens-only · H-1B track record: ~24 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sensata:/job/Vista-CA/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98483</id>
-    <title>Sensata: Mechanical Engineer Intern (Aerospace) - Summer 2027 🇺🇸</title>
-    <link href="https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Vista-CA/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98483"/>
-    <updated>2026-09-16T21:30:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Vista, CA · sponsorship: citizens-only · H-1B track record: ~24 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:terex:/job/US-SD-Watertown/Design-Engineer-Intern_REQ-14324</id>
-    <title>Terex: Design Engineer Intern</title>
-    <link href="https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-SD-Watertown/Design-Engineer-Intern_REQ-14324"/>
-    <updated>2026-09-16T21:30:44Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · US-SD Watertown · SolidWorks, CAD, Lean Manufacturing</summary>
   </entry>
 </feed>
