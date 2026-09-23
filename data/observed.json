@@ -35,6 +35,19 @@
     }
    }
   },
+  "aerospace": {
+   "name": "The Aerospace Corporation",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-23",
+     "role_ids": [
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Undergraduate-Intern_R016671",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Structural-Dynamics-Undergraduate-Intern_R016668"
+     ],
+     "count": 2
+    }
+   }
+  },
   "air products": {
    "name": "Air Products",
    "cycles": {
@@ -429,6 +442,18 @@
      "first_posted": "2026-08-18",
      "role_ids": [
       "workday:conagrabrands:/job/Waterloo-Iowa/Manufacturing-Co-Op_Req-039806"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "continental": {
+   "name": "Continental",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-23",
+     "role_ids": [
+      "smartrecruiters:Continental:744000151462939"
      ],
      "count": 1
     }
@@ -1425,6 +1450,8 @@
       "workday:philips:/job/Latham-New-York-United-States/Co-op---Design-Engineering---Latham--NY---January-June-2027_590362",
       "workday:philips:/job/Latham-New-York-United-States/Co-op---Manufacturing-Engineering---Latham--NY---January-August-2027_590906",
       "workday:philips:/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339",
+      "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op---Global-Supplier-Quality-Approved-Supplier-List--ASL----Murrysville--PA---January-June-2027_590536",
+      "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op---Supplier-Quality-Engineer---Murrysville--PA---January-June-2027_590233",
       "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Murrysville--PA-January-June-2027_580754",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Co-op---Packaging-Engineer---Plymouth--MN---January-2027_591609",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op---Mechanical-Process-Engineer---Reedsville--PA---2026_592206",
@@ -1433,7 +1460,7 @@
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Intern---Mechanical-Process-Engineer---Reedsville--PA---2026_592205",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807"
      ],
-     "count": 12
+     "count": 14
     }
    }
   },
@@ -2101,5 +2128,5 @@
    }
   }
  },
- "updated_at": "2026-09-23T17:18:50Z"
+ "updated_at": "2026-09-23T21:42:47Z"
 }

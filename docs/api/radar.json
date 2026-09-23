@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T17:18:53Z",
+ "generated_at": "2026-09-23T21:42:50Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -379,20 +379,6 @@
    "days_until": -27,
    "status": "open",
    "url": "https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/Summer-Intern-Co-op-Mechanical-Engineering--2027-_JR-2026-21956",
-   "note": ""
-  },
-  {
-   "company": "Oshkosh",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -27,
-   "status": "open",
-   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Mechanical--Summer-2027-_R50502",
    "note": ""
   },
   {
@@ -1264,6 +1250,20 @@
    "note": ""
   },
   {
+   "company": "Continental",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-23",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/Continental/744000151462939",
+   "note": ""
+  },
+  {
    "company": "Generac",
    "last_cycle_posted": "",
    "posted_on": "2026-09-23",
@@ -1289,6 +1289,20 @@
    "days_until": 0,
    "status": "open",
    "url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148",
+   "note": ""
+  },
+  {
+   "company": "The Aerospace Corporation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-23",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Undergraduate-Intern_R016671",
    "note": ""
   },
   {
@@ -1530,6 +1544,20 @@
    "note": ""
   },
   {
+   "company": "Oshkosh",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -27,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Stryker",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -1670,5 +1698,5 @@
    "note": ""
   }
  ],
- "count": 119
+ "count": 121
 }
