@@ -1,9 +1,32 @@
 {
- "generated_at": "2026-09-23T05:01:58Z",
+ "generated_at": "2026-09-23T11:57:32Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
  "count": 573,
  "jobs": [
+  {
+   "id": "workday:zoll:/job/Chelmsford-MA/Sustaining-Mechanical-Engineer-Intern_R20313",
+   "company": "ZOLL Medical Corporation",
+   "title": "Sustaining Mechanical Engineer Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Mechanical Design",
+   "location": "Chelmsford, MA",
+   "url": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Sustaining-Mechanical-Engineer-Intern_R20313",
+   "posted_at": "2026-09-23T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-23T11:57:28Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "SolidWorks"
+   ],
+   "source": "workday",
+   "h1b_approvals": 8,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:allegion:/job/Colorado-Springs-CO/Summer-Intern---Digital-Manufacturing_JR37704-1",
    "company": "Allegion",
@@ -31,15 +54,15 @@
    "remote": false
   },
   {
-   "id": "workday:creationtech:/job/Newark-NY-USA/Test-Engineering-Intern_JR6972",
+   "id": "workday:creationtech:/job/Newark-NY-USA/Quality-Engineering-Intern_JR6974",
    "company": "Creation Technologies",
-   "title": "Test Engineering Intern",
+   "title": "Quality Engineering Intern",
    "season": "Not stated",
    "seasons": null,
    "season_inferred": true,
-   "category": "Test & Validation",
+   "category": "Manufacturing & Quality",
    "location": "Newark, NY USA",
-   "url": "https://creationtech.wd1.myworkdayjobs.com/Creation/job/Newark-NY-USA/Test-Engineering-Intern_JR6972",
+   "url": "https://creationtech.wd1.myworkdayjobs.com/Creation/job/Newark-NY-USA/Quality-Engineering-Intern_JR6974",
    "posted_at": "2026-09-22T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-09-23T05:01:55Z",
@@ -52,15 +75,15 @@
    "remote": false
   },
   {
-   "id": "workday:creationtech:/job/Newark-NY-USA/Quality-Engineering-Intern_JR6974",
+   "id": "workday:creationtech:/job/Newark-NY-USA/Test-Engineering-Intern_JR6972",
    "company": "Creation Technologies",
-   "title": "Quality Engineering Intern",
+   "title": "Test Engineering Intern",
    "season": "Not stated",
    "seasons": null,
    "season_inferred": true,
-   "category": "Manufacturing & Quality",
+   "category": "Test & Validation",
    "location": "Newark, NY USA",
-   "url": "https://creationtech.wd1.myworkdayjobs.com/Creation/job/Newark-NY-USA/Quality-Engineering-Intern_JR6974",
+   "url": "https://creationtech.wd1.myworkdayjobs.com/Creation/job/Newark-NY-USA/Test-Engineering-Intern_JR6972",
    "posted_at": "2026-09-22T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-09-23T05:01:55Z",
@@ -12783,30 +12806,6 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:figureai:4702104006",
-   "company": "Figure",
-   "title": "Power Systems Integration Intern [Fall 2026]",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Systems Engineering",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/figureai/jobs/4702104006",
-   "posted_at": "2026-08-03T19:00:39-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-05T06:24:39Z",
-   "sponsorship": "unknown",
-   "salary": "$40–$45/hr",
-   "skills": [
-    "Python",
-    "Linux"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 4,
-   "program": "Internship",
    "remote": false
   },
   {

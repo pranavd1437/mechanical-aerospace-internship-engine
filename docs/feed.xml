@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-23T05:01:58Z</updated>
+  <updated>2026-09-23T11:57:31Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:zoll:/job/Chelmsford-MA/Sustaining-Mechanical-Engineer-Intern_R20313</id>
+    <title>ZOLL Medical Corporation: Sustaining Mechanical Engineer Intern</title>
+    <link href="https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Sustaining-Mechanical-Engineer-Intern_R20313"/>
+    <updated>2026-09-23T11:57:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Chelmsford, MA · SolidWorks</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:allegion:/job/Colorado-Springs-CO/Summer-Intern---Digital-Manufacturing_JR37704-1</id>
     <title>Allegion: Summer Intern - Digital Manufacturing</title>
@@ -16,20 +24,20 @@
     <summary>Not stated · Manufacturing &amp; Quality · Colorado Springs, CO · $25–$26/hr · Java, C++, C#, SQL</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:creationtech:/job/Newark-NY-USA/Test-Engineering-Intern_JR6972</id>
-    <title>Creation Technologies: Test Engineering Intern</title>
-    <link href="https://creationtech.wd1.myworkdayjobs.com/Creation/job/Newark-NY-USA/Test-Engineering-Intern_JR6972"/>
-    <updated>2026-09-23T05:01:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Newark, NY USA</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:creationtech:/job/Newark-NY-USA/Quality-Engineering-Intern_JR6974</id>
     <title>Creation Technologies: Quality Engineering Intern</title>
     <link href="https://creationtech.wd1.myworkdayjobs.com/Creation/job/Newark-NY-USA/Quality-Engineering-Intern_JR6974"/>
     <updated>2026-09-23T05:01:55Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Newark, NY USA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:creationtech:/job/Newark-NY-USA/Test-Engineering-Intern_JR6972</id>
+    <title>Creation Technologies: Test Engineering Intern</title>
+    <link href="https://creationtech.wd1.myworkdayjobs.com/Creation/job/Newark-NY-USA/Test-Engineering-Intern_JR6972"/>
+    <updated>2026-09-23T05:01:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Newark, NY USA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:micron:/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-16T21:30:44Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · New Berlin, Wisconsin, United States of America · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Mechanical-Engineering--January---June-2027--Hybrid-_REQ-2026-18007</id>
-    <title>Insulet Corporation: Co-op, R&amp;D Mechanical Engineering: January - June 2027 (Hybrid)</title>
-    <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Mechanical-Engineering--January---June-2027--Hybrid-_REQ-2026-18007"/>
-    <updated>2026-09-16T21:30:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Acton, Massachusetts · MATLAB, SolidWorks, CAD, ANSYS · H-1B track record: ~46 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
