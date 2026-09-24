@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T12:02:51Z",
+ "generated_at": "2026-09-24T17:26:14Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -760,6 +760,20 @@
    "note": ""
   },
   {
+   "company": "Formlabsinternships",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -16,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/formlabsinternships/jobs/8186604",
+   "note": ""
+  },
+  {
    "company": "Graco",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -1180,6 +1194,20 @@
    "note": ""
   },
   {
+   "company": "Zekelman Industries",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -7,
+   "status": "open",
+   "url": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Blytheville-AR---Atlas/Intern--Industrial-Engineer_JR002764",
+   "note": ""
+  },
+  {
    "company": "Valeo",
    "last_cycle_posted": "",
    "posted_on": "2026-09-18",
@@ -1289,6 +1317,34 @@
    "days_until": -1,
    "status": "open",
    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Undergraduate-Intern_R016671",
+   "note": ""
+  },
+  {
+   "company": "Mill",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/mill/jobs/4737767005",
+   "note": ""
+  },
+  {
+   "company": "ZOLL Medical Corporation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Mechanical-Engineering-Intern_R20310",
    "note": ""
   },
   {
@@ -1698,5 +1754,5 @@
    "note": ""
   }
  ],
- "count": 121
+ "count": 125
 }
