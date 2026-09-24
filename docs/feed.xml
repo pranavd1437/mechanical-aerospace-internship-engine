@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-23T21:42:50Z</updated>
+  <updated>2026-09-24T05:11:13Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:graphcore:8841920002</id>
+    <title>Graphcore: Mechanical Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8841920002"/>
+    <updated>2026-09-24T05:11:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Austin, Texas, United States · Creo, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:greenheckgroup:/job/Schofield-WI/Machine-Design-and-Controls-Engineering-Co-op_JR104723</id>
+    <title>Greenheck Group: Machine Design and Controls Engineering Co-op</title>
+    <link href="https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Machine-Design-and-Controls-Engineering-Co-op_JR104723"/>
+    <updated>2026-09-24T05:11:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Schofield, WI · $22/hr · CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Impella-Pump-Systems-Test-Engineering-Co-Op_R-099097</id>
+    <title>Johnson &amp; Johnson: Impella Pump Systems Test Engineering Co-Op</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Impella-Pump-Systems-Test-Engineering-Co-Op_R-099097"/>
+    <updated>2026-09-24T05:11:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Danvers, Massachusetts, United States of America · $23.5/hr · SolidWorks, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/AIC-Systems-Test-Engineering-Co-Op_R-099094</id>
+    <title>Johnson &amp; Johnson: AIC Systems Test Engineering Co-Op</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/AIC-Systems-Test-Engineering-Co-Op_R-099094"/>
+    <updated>2026-09-24T05:11:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Danvers, Massachusetts, United States of America · $23.5/hr · SolidWorks, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Quality-Engineer-I--For-2026-Interns-Only-_R0030583</id>
+    <title>Sierra Nevada Corporation: Quality Engineer I (For 2026 Interns Only) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Quality-Engineer-I--For-2026-Interns-Only-_R0030583"/>
+    <updated>2026-09-24T05:11:10Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Manufacturing &amp; Quality · Hagerstown, MD · Six Sigma · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Continental:744000151462939</id>
     <title>Continental: 2027 Internship - Manufacturing Engineer (Hoosier Racing Tire)</title>
@@ -14,30 +54,6 @@
     <updated>2026-09-23T21:42:47Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Plymouth, IN, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jabil:/job/Clinton-MA/CNC-Operator---Co-op_J2465948</id>
-    <title>Jabil: CNC Operator - Co-op</title>
-    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Clinton-MA/CNC-Operator---Co-op_J2465948"/>
-    <updated>2026-09-23T21:42:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Clinton, MA · CNC · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op---Supplier-Quality-Engineer---Murrysville--PA---January-June-2027_590233</id>
-    <title>Philips: Co-op - Supplier Quality Engineer - Murrysville, PA - January-June 2027</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Supplier-Quality-Engineer---Murrysville--PA---January-June-2027_590233"/>
-    <updated>2026-09-23T21:42:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Murrysville, Pennsylvania, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op---Global-Supplier-Quality-Approved-Supplier-List--ASL----Murrysville--PA---January-June-2027_590536</id>
-    <title>Philips: Co-op - Global Supplier Quality Approved Supplier List (ASL) - Murrysville, PA - January-June 2027</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Global-Supplier-Quality-Approved-Supplier-List--ASL----Murrysville--PA---January-June-2027_590536"/>
-    <updated>2026-09-23T21:42:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Murrysville, Pennsylvania, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Undergraduate-Intern_R016671</id>
@@ -54,6 +70,30 @@
     <updated>2026-09-23T21:42:47Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · El Segundo, CA · Python, MATLAB, FEA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jabil:/job/Clinton-MA/CNC-Operator---Co-op_J2465948</id>
+    <title>Jabil: CNC Operator - Co-op</title>
+    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Clinton-MA/CNC-Operator---Co-op_J2465948"/>
+    <updated>2026-09-23T21:42:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Clinton, MA · CNC · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op---Global-Supplier-Quality-Approved-Supplier-List--ASL----Murrysville--PA---January-June-2027_590536</id>
+    <title>Philips: Co-op - Global Supplier Quality Approved Supplier List (ASL) - Murrysville, PA - January-June 2027</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Global-Supplier-Quality-Approved-Supplier-List--ASL----Murrysville--PA---January-June-2027_590536"/>
+    <updated>2026-09-23T21:42:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Murrysville, Pennsylvania, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op---Supplier-Quality-Engineer---Murrysville--PA---January-June-2027_590233</id>
+    <title>Philips: Co-op - Supplier Quality Engineer - Murrysville, PA - January-June 2027</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Supplier-Quality-Engineer---Murrysville--PA---January-June-2027_590233"/>
+    <updated>2026-09-23T21:42:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Murrysville, Pennsylvania, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:zoll:/job/Chelmsford-MA/Manufacturing-Engineering-Co-Op_R20300</id>
@@ -766,45 +806,5 @@
     <updated>2026-09-17T17:13:31Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Needham, MA, United States · SolidWorks, Creo, CAD · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4713810006</id>
-    <title>SharkNinja: Product Design Engineering Intern Opportunities</title>
-    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713810006"/>
-    <updated>2026-09-17T17:13:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Needham, MA, United States · SolidWorks, Creo, CAD · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4713812006</id>
-    <title>SharkNinja: Mechanical Engineering Intern Opportunities</title>
-    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713812006"/>
-    <updated>2026-09-17T17:13:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Needham, MA, United States · Python, SolidWorks, Creo, CAD · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:talentpluto:441A17F2A4</id>
-    <title>Talentpluto: Design Engineering Intern</title>
-    <link href="https://apply.workable.com/talentpluto/j/441A17F2A4/"/>
-    <updated>2026-09-17T17:13:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · United States (Remote) · $35–$50/hr · TypeScript, React, Next.js</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870637</id>
-    <title>RTX: Industrial Engineering Co-Op (Summer/Fall 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870637"/>
-    <updated>2026-09-17T17:13:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · SolidWorks, AutoCAD, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:idexcorp:/job/Cedar-Falls-Iowa/Design-Engineering-Co-Op--Biopharma-_R-09909</id>
-    <title>IDEX: Design Engineering Co-Op (Biopharma)</title>
-    <link href="https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Cedar-Falls-Iowa/Design-Engineering-Co-Op--Biopharma-_R-09909"/>
-    <updated>2026-09-17T17:13:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Cedar Falls, Iowa · SolidWorks, CAD</summary>
   </entry>
 </feed>
