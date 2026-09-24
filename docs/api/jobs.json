@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-24T05:11:13Z",
+ "generated_at": "2026-09-24T12:02:51Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 592,
+ "count": 591,
  "jobs": [
   {
    "id": "greenhouse:graphcore:8841920002",
@@ -52,15 +52,15 @@
    "remote": false
   },
   {
-   "id": "workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Impella-Pump-Systems-Test-Engineering-Co-Op_R-099097",
+   "id": "workday:jj:/job/Danvers-Massachusetts-United-States-of-America/AIC-Systems-Test-Engineering-Co-Op_R-099094",
    "company": "Johnson & Johnson",
-   "title": "Impella Pump Systems Test Engineering Co-Op",
+   "title": "AIC Systems Test Engineering Co-Op",
    "season": "Not stated",
    "seasons": null,
    "season_inferred": true,
    "category": "Test & Validation",
    "location": "Danvers, Massachusetts, United States of America",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Impella-Pump-Systems-Test-Engineering-Co-Op_R-099097",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/AIC-Systems-Test-Engineering-Co-Op_R-099094",
    "posted_at": "2026-09-23T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-09-24T05:11:10Z",
@@ -76,15 +76,15 @@
    "remote": false
   },
   {
-   "id": "workday:jj:/job/Danvers-Massachusetts-United-States-of-America/AIC-Systems-Test-Engineering-Co-Op_R-099094",
+   "id": "workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Impella-Pump-Systems-Test-Engineering-Co-Op_R-099097",
    "company": "Johnson & Johnson",
-   "title": "AIC Systems Test Engineering Co-Op",
+   "title": "Impella Pump Systems Test Engineering Co-Op",
    "season": "Not stated",
    "seasons": null,
    "season_inferred": true,
    "category": "Test & Validation",
    "location": "Danvers, Massachusetts, United States of America",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/AIC-Systems-Test-Engineering-Co-Op_R-099094",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Impella-Pump-Systems-Test-Engineering-Co-Op_R-099097",
    "posted_at": "2026-09-23T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-09-24T05:11:10Z",
@@ -12025,27 +12025,6 @@
    "source": "greenhouse",
    "h1b_approvals": null,
    "program": "Internship / Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:amcor:/job/RPSNA-Lawrence-KS/Product-Development-Engineering-Intern_REQ_95108",
-   "company": "Amcor",
-   "title": "Product Development Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "RPSNA Lawrence KS",
-   "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RPSNA-Lawrence-KS/Product-Development-Engineering-Intern_REQ_95108",
-   "posted_at": "2026-08-25T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-25T19:10:57Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 5,
-   "program": "Internship",
    "remote": false
   },
   {
