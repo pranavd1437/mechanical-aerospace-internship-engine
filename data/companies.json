@@ -3851,6 +3851,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Bracket Bot",
+    "slug": "bracket-bot",
+    "ats": "ashby"
+  },
+  {
     "name": "Brady Martz",
     "slug": "brady-martz",
     "ats": "workable"
@@ -4716,6 +4721,11 @@
     "name": "Catbird",
     "slug": "catbird",
     "ats": "lever"
+  },
+  {
+    "name": "Catch22",
+    "slug": "Catch22",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Caterpillar Inc.",
@@ -9633,6 +9643,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Formlabsinternships",
+    "slug": "formlabsinternships",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Formula 1",
     "slug": "formulaone",
     "ats": "workday",
@@ -11016,6 +11031,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "hagerty"
+  },
+  {
+    "name": "Haigroup",
+    "slug": "haigroup",
+    "ats": "greenhouse"
   },
   {
     "name": "Haize Labs",
@@ -19350,6 +19370,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Qumulo",
+    "slug": "qumulo",
+    "ats": "ashby"
+  },
+  {
     "name": "Quora",
     "slug": "quora",
     "ats": "ashby"
@@ -19814,6 +19839,11 @@
     "name": "Renesas Electronics",
     "slug": "RenesasElectronics",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Rentvision",
+    "slug": "rentvision",
+    "ats": "workable"
   },
   {
     "name": "Repligen",
@@ -26469,6 +26499,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Xero",
+    "slug": "xero",
+    "ats": "ashby"
+  },
+  {
     "name": "Xodus Group",
     "slug": "xodus-group",
     "ats": "workable"
@@ -26624,6 +26659,13 @@
     "site": "External"
   },
   {
+    "name": "Zekelman Industries",
+    "slug": "zekelman",
+    "ats": "workday",
+    "wd": "wd12",
+    "site": "Careers"
+  },
+  {
     "name": "Zello",
     "slug": "zello",
     "ats": "ashby"
@@ -26685,6 +26727,11 @@
     "name": "Zippd",
     "slug": "zippd",
     "ats": "workable"
+  },
+  {
+    "name": "ZipRecruiter",
+    "slug": "ziprecruiter",
+    "ats": "greenhouse"
   },
   {
     "name": "Zocdoc",
