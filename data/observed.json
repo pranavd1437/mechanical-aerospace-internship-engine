@@ -163,6 +163,18 @@
     }
    }
   },
+  "american century investments": {
+   "name": "American Century Investments",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-25",
+     "role_ids": [
+      "workday:americancentury:/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750"
+     ],
+     "count": 1
+    }
+   }
+  },
   "american express": {
    "name": "American Express",
    "cycles": {
@@ -1079,10 +1091,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-21",
      "role_ids": [
+      "workday:lifefitness:/job/Owatonna-MN/Manufacturing-Quality-Engineering-Intern---Owatonna--MN_JR-025245",
       "workday:lifefitness:/job/Ramsey-MN/Manufacturing-Engineering-Intern---Ramsey--MN_JR-025239",
       "workday:lifefitness:/job/Ramsey-MN/Mechanical-Engineering-Intern---Ramsey--MN_JR-025235"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1424,10 +1437,12 @@
     "Summer 2027": {
      "first_posted": "2026-09-15",
      "role_ids": [
+      "oracle:hctz.fa.us2.oraclecloud.com:2506604",
+      "oracle:hctz.fa.us2.oraclecloud.com:2506606",
       "oracle:hctz.fa.us2.oraclecloud.com:2506613",
       "oracle:hctz.fa.us2.oraclecloud.com:2506645"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -2014,6 +2029,18 @@
     }
    }
   },
+  "wabtec": {
+   "name": "Wabtec",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-25",
+     "role_ids": [
+      "smartrecruiters:Wabtec:3743990015687756"
+     ],
+     "count": 1
+    }
+   }
+  },
   "walt disney": {
    "name": "The Walt Disney Company",
    "cycles": {
@@ -2043,10 +2070,11 @@
      "role_ids": [
       "workday:wattswater:/job/Blauvelt-NY/Production-Engineer-Intern--Summer-2027_10017356",
       "workday:wattswater:/job/Fort-Myers-FL/Manufacturing-Quality-Intern--Summer-2027_10017584",
+      "workday:wattswater:/job/Fort-Worth-TX/Production-Engineer-Intern--Summer-2027_10017591",
       "workday:wattswater:/job/North-Andover-MA/Design-Engineer-Co-Op_10017594",
       "workday:wattswater:/job/St-Pauls-NC/Manufacturing-Engineer-Intern-Summer-2027_10017388"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -2205,5 +2233,5 @@
    }
   }
  },
- "updated_at": "2026-09-25T17:26:42Z"
+ "updated_at": "2026-09-25T21:47:27Z"
 }

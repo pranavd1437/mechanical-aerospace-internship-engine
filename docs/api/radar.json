@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T17:26:45Z",
+ "generated_at": "2026-09-25T21:47:30Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -196,7 +196,7 @@
    "expected": "2026-08-17",
    "days_until": -39,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96292",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95871",
    "note": ""
   },
   {
@@ -1068,6 +1068,20 @@
    "note": ""
   },
   {
+   "company": "onsemi",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": -10,
+   "status": "open",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506604",
+   "note": ""
+  },
+  {
    "company": "TreeHouse Foods",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
@@ -1359,6 +1373,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Mechanical-Engineering-Intern_R20310",
+   "note": ""
+  },
+  {
+   "company": "Wabtec",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-25",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/Wabtec/3743990015687756",
    "note": ""
   },
   {
@@ -1740,20 +1768,6 @@
    "note": ""
   },
   {
-   "company": "onsemi",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-15",
-   "days_until": -10,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Smith+Nephew",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -1768,5 +1782,5 @@
    "note": ""
   }
  ],
- "count": 126
+ "count": 127
 }
