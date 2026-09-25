@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T12:07:22Z",
+ "generated_at": "2026-09-25T17:26:45Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -183,6 +183,20 @@
    "days_until": -39,
    "status": "open",
    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Columbus-OH/Mechanical-Engineering-Intern---Columbus--OH_R-16523",
+   "note": ""
+  },
+  {
+   "company": "WSP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -39,
+   "status": "open",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96292",
    "note": ""
   },
   {
@@ -659,20 +673,6 @@
    "days_until": -22,
    "status": "open",
    "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Supplier-Quality_R9737",
-   "note": ""
-  },
-  {
-   "company": "Motorola",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-03",
-   "days_until": -22,
-   "status": "open",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Product-Quality-Engineering-Intern_R68669",
    "note": ""
   },
   {
@@ -1544,20 +1544,6 @@
    "note": ""
   },
   {
-   "company": "WSP",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -39,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Airbus",
    "last_cycle_posted": "",
    "posted_on": "2026-08-21",
@@ -1651,6 +1637,20 @@
    "source": "engine",
    "expected": "2026-09-01",
    "days_until": -24,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Motorola",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": -22,
    "status": "dropped",
    "url": "",
    "note": ""
