@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T05:11:58Z",
+ "generated_at": "2026-09-25T12:07:22Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -364,7 +364,7 @@
    "expected": "2026-08-27",
    "days_until": -29,
    "status": "open",
-   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726",
+   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Quality-Engineering-Intern---Summer-2027_JR00047273",
    "note": ""
   },
   {
@@ -1180,20 +1180,6 @@
    "note": ""
   },
   {
-   "company": "Smith+Nephew",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508",
-   "note": ""
-  },
-  {
    "company": "X-energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -1763,6 +1749,20 @@
    "source": "engine",
    "expected": "2026-09-15",
    "days_until": -10,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Smith+Nephew",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -8,
    "status": "dropped",
    "url": "",
    "note": ""
