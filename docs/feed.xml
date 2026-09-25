@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-24T21:43:35Z</updated>
+  <updated>2026-09-25T05:11:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:aevexaerospace:5415815008</id>
+    <title>Aevex Aerospace: Robotics Engineering Co-op 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008"/>
+    <updated>2026-09-25T05:11:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Tampa, Florida, United States · Python, C++, Rust, PyTorch, TensorFlow · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253047</id>
+    <title>Northrop Grumman: 2027 Operations Industrial Engineering Intern 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253047"/>
+    <updated>2026-09-25T05:11:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Florida-Melbourne · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:8003529003</id>
+    <title>Rocket Lab: Test Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/8003529003"/>
+    <updated>2026-09-25T05:11:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Wallops Island, VA · Python, Siemens NX, CAD, CAM · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2437742</id>
     <title>Cummins: Materials Science - Summer Internship Positions</title>
@@ -32,20 +56,20 @@
     <summary>Summer 2027 · Test &amp; Validation · San Francisco, CA · $35/hr · Python · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:irhythmtech:/job/San-Francisco-CA/System-Test-Engineer-Co-Op-Full-Time-Intern-Jan-June-2027_JR1781</id>
-    <title>iRhythm Technologies: System Test Engineer Co-Op Full Time Intern Jan-June 2027</title>
-    <link href="https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/System-Test-Engineer-Co-Op-Full-Time-Intern-Jan-June-2027_JR1781"/>
-    <updated>2026-09-24T21:43:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · San Francisco, CA · $35/hr · Python, SQL · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:irhythmtech:/job/San-Francisco-CA/Mechanical-Engineering-Co-op-Full-Time-Intern-Jan---June-2027_JR1766</id>
     <title>iRhythm Technologies: Mechanical Engineering Co-op Full Time Intern Jan - June 2027</title>
     <link href="https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Mechanical-Engineering-Co-op-Full-Time-Intern-Jan---June-2027_JR1766"/>
     <updated>2026-09-24T21:43:32Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · San Francisco, CA · $35/hr · SolidWorks · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:irhythmtech:/job/San-Francisco-CA/System-Test-Engineer-Co-Op-Full-Time-Intern-Jan-June-2027_JR1781</id>
+    <title>iRhythm Technologies: System Test Engineer Co-Op Full Time Intern Jan-June 2027</title>
+    <link href="https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/System-Test-Engineer-Co-Op-Full-Time-Intern-Jan-June-2027_JR1781"/>
+    <updated>2026-09-24T21:43:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · San Francisco, CA · $35/hr · Python, SQL · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:formlabsinternships:8186604</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-18T21:07:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Milesburg - Milesburg, PA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:valeo:/job/Troy-MI/Mechatronics-Engineering-Co-Op_REQ2026079866</id>
-    <title>Valeo: Mechatronics Engineering Co-Op 🛂</title>
-    <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Mechatronics-Engineering-Co-Op_REQ2026079866"/>
-    <updated>2026-09-18T21:07:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Troy, MI · sponsorship: no-sponsorship · H-1B track record: ~72 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000150370962</id>
-    <title>AECOM: Engineering Intern - Hydraulics - Hiring Event with AECOM – Raleigh 🛂</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000150370962"/>
-    <updated>2026-09-18T16:40:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Raleigh, NC, United States · CAD · sponsorship: no-sponsorship · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alcon:/job/Fort-Worth-Texas/XMLNAME-2027-Spring-Summer-Co-Op---Manufacturing-Engineer_R-2026-49587</id>
-    <title>Alcon: 2027 Spring/Summer Co-Op - Manufacturing Engineer 🛂</title>
-    <link href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Spring-Summer-Co-Op---Manufacturing-Engineer_R-2026-49587"/>
-    <updated>2026-09-18T16:40:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Fort Worth, Texas · C++, CAD · sponsorship: no-sponsorship · H-1B track record: ~57 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

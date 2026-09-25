@@ -1353,6 +1353,7 @@
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139",
       "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Mechanical-Engineer-Intern---Woodland-Hills-CA_R10249483",
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253047",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Manufacturing-Engineer-Intern_R10251750-1",
@@ -1365,7 +1366,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern---Dulles-VA_R10250744-1",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322"
      ],
-     "count": 14
+     "count": 15
     }
    }
   },
@@ -1625,9 +1626,10 @@
       "greenhouse:rocketlab:7990350003",
       "greenhouse:rocketlab:7991448003",
       "greenhouse:rocketlab:7996623003",
-      "greenhouse:rocketlab:8000958003"
+      "greenhouse:rocketlab:8000958003",
+      "greenhouse:rocketlab:8003529003"
      ],
-     "count": 17
+     "count": 18
     }
    }
   },
@@ -2200,5 +2202,5 @@
    }
   }
  },
- "updated_at": "2026-09-24T21:43:32Z"
+ "updated_at": "2026-09-25T05:11:56Z"
 }
