@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-26T11:40:28Z</updated>
+  <updated>2026-09-26T16:37:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:graphcore-early-careers:8842357002</id>
+    <title>Graphcore Early Careers: Mechanical Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8842357002"/>
+    <updated>2026-09-26T16:37:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Austin, Texas, United States · Creo, CAD</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Quality-Engineer_R_1510798</id>
     <title>TD Bank: 2027 Summer Internship Program - Global Technology &amp; Solutions - Quality Engineer</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-21T05:10:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · US - UPS CORPORATE OFFICES (GACOR) · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088</id>
-    <title>Northrop Grumman: 2027 Mechanical Engineer Intern - Baltimore MD 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088"/>
-    <updated>2026-09-21T05:10:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>
