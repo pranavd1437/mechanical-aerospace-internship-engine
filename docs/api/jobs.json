@@ -1,82 +1,9 @@
 {
- "generated_at": "2026-09-25T21:47:30Z",
+ "generated_at": "2026-09-26T05:15:43Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
  "count": 614,
  "jobs": [
-  {
-   "id": "workday:americancentury:/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750",
-   "company": "American Century Investments",
-   "title": "Infrastructure Automation Engineer Intern",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Controls & Mechatronics",
-   "location": "Kansas City, Missouri",
-   "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750",
-   "posted_at": "2026-09-25T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-25T21:47:27Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Bash",
-    "Terraform"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:analogdevices:/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691",
-   "company": "Analog Devices",
-   "title": "Healthcare Mechanical Engineering Co-op (Spring)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "US, MA, Wilmington",
-   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691",
-   "posted_at": "2026-09-25T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-25T21:47:27Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "SolidWorks",
-    "CAD"
-   ],
-   "source": "workday",
-   "h1b_approvals": 181,
-   "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:lifefitness:/job/Owatonna-MN/Manufacturing-Quality-Engineering-Intern---Owatonna--MN_JR-025245",
-   "company": "Life Fitness",
-   "title": "Manufacturing Quality Engineering Intern - Owatonna, MN",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Manufacturing & Quality",
-   "location": "Owatonna, MN",
-   "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Owatonna-MN/Manufacturing-Quality-Engineering-Intern---Owatonna--MN_JR-025245",
-   "posted_at": "2026-09-25T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-25T21:47:27Z",
-   "sponsorship": "unknown",
-   "salary": "$24–$27/hr",
-   "skills": [
-    "Six Sigma",
-    "Lean Manufacturing"
-   ],
-   "source": "workday",
-   "h1b_approvals": 12,
-   "program": "Internship",
-   "remote": false
-  },
   {
    "id": "oracle:hctz.fa.us2.oraclecloud.com:2506604",
    "company": "onsemi",
@@ -151,27 +78,52 @@
    "remote": false
   },
   {
-   "id": "workday:wattswater:/job/Fort-Worth-TX/Production-Engineer-Intern--Summer-2027_10017591",
-   "company": "Watts Water",
-   "title": "Production Engineer Intern, Summer 2027",
-   "season": "Summer 2027",
+   "id": "workday:americancentury:/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750",
+   "company": "American Century Investments",
+   "title": "Infrastructure Automation Engineer Intern",
+   "season": "Fall 2026",
    "seasons": null,
    "season_inferred": false,
-   "category": "Manufacturing & Quality",
-   "location": "Fort Worth, TX",
-   "url": "https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Production-Engineer-Intern--Summer-2027_10017591",
+   "category": "Controls & Mechatronics",
+   "location": "Kansas City, Missouri",
+   "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750",
+   "posted_at": "2026-09-25T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-25T21:47:27Z",
+   "sponsorship": "no-sponsorship",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Bash",
+    "Terraform"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:analogdevices:/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691",
+   "company": "Analog Devices",
+   "title": "Healthcare Mechanical Engineering Co-op (Spring)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Mechanical Design",
+   "location": "US, MA, Wilmington",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691",
    "posted_at": "2026-09-25T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-09-25T21:47:27Z",
    "sponsorship": "unknown",
    "salary": null,
    "skills": [
-    "CAD",
-    "Lean Manufacturing"
+    "SolidWorks",
+    "CAD"
    ],
    "source": "workday",
-   "h1b_approvals": 4,
-   "program": "Internship",
+   "h1b_approvals": 181,
+   "program": "Co-op",
    "remote": false
   },
   {
@@ -192,6 +144,54 @@
    "skills": [],
    "source": "workday",
    "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:lifefitness:/job/Owatonna-MN/Manufacturing-Quality-Engineering-Intern---Owatonna--MN_JR-025245",
+   "company": "Life Fitness",
+   "title": "Manufacturing Quality Engineering Intern - Owatonna, MN",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Manufacturing & Quality",
+   "location": "Owatonna, MN",
+   "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Owatonna-MN/Manufacturing-Quality-Engineering-Intern---Owatonna--MN_JR-025245",
+   "posted_at": "2026-09-25T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-25T21:47:27Z",
+   "sponsorship": "unknown",
+   "salary": "$24–$27/hr",
+   "skills": [
+    "Six Sigma",
+    "Lean Manufacturing"
+   ],
+   "source": "workday",
+   "h1b_approvals": 12,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:wattswater:/job/Fort-Worth-TX/Production-Engineer-Intern--Summer-2027_10017591",
+   "company": "Watts Water",
+   "title": "Production Engineer Intern, Summer 2027",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Manufacturing & Quality",
+   "location": "Fort Worth, TX",
+   "url": "https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Production-Engineer-Intern--Summer-2027_10017591",
+   "posted_at": "2026-09-25T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-25T21:47:27Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "CAD",
+    "Lean Manufacturing"
+   ],
+   "source": "workday",
+   "h1b_approvals": 4,
    "program": "Internship",
    "remote": false
   },
@@ -4461,7 +4461,7 @@
   {
    "id": "ashby:bedrock-robotics:c9c08251-6a42-4f9c-be4d-2621995cc8f9",
    "company": "Bedrock Robotics",
-   "title": "Internship 2027 Hardware Engineer, Machine Integration & Test",
+   "title": "2027 Internship Hardware Engineer, Machine Integration & Test",
    "season": "Summer 2027",
    "seasons": null,
    "season_inferred": false,
@@ -5179,6 +5179,30 @@
    "remote": false
   },
   {
+   "id": "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Quality-Engineer_R_1510798",
+   "company": "TD Bank",
+   "title": "2027 Summer Internship Program - Global Technology & Solutions - Quality Engineer",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Manufacturing & Quality",
+   "location": "Mount Laurel, New Jersey",
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Quality-Engineer_R_1510798",
+   "posted_at": "2026-09-13T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-26T05:15:40Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Java",
+    "JavaScript"
+   ],
+   "source": "workday",
+   "h1b_approvals": 55,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "greenhouse:rocketlab:7991448003",
    "company": "Rocket Lab",
    "title": "Mechanical Engineering Intern Summer 2027",
@@ -5830,7 +5854,7 @@
   {
    "id": "ashby:bedrock-robotics:c396dedc-06ec-4a23-8408-0194e360f30e",
    "company": "Bedrock Robotics",
-   "title": "Internship 2027 Validation & Verification Test Engineer",
+   "title": "2027 Internship Validation & Verification Test Engineer",
    "season": "Summer 2027",
    "seasons": null,
    "season_inferred": false,
@@ -7728,7 +7752,7 @@
   {
    "id": "ashby:bedrock-robotics:1f413f83-b897-4938-a19e-ab91bd326c51",
    "company": "Bedrock Robotics",
-   "title": "Internship 2027 Sensor Hardware Test Engineer",
+   "title": "2027 Internship Sensor Hardware Test Engineer",
    "season": "Summer 2027",
    "seasons": null,
    "season_inferred": false,
@@ -13618,31 +13642,6 @@
    "source": "workday",
    "h1b_approvals": 17,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "ashby:odys-aviation:8f5e460a-98a4-4fd8-b880-d22071faa29f",
-   "company": "Odys Aviation",
-   "title": "Mechanical Engineering Intern/Co-Op [Propulsion]",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Thermal, Fluids & Propulsion",
-   "location": "Long Beach CA",
-   "url": "https://jobs.ashbyhq.com/odys-aviation/8f5e460a-98a4-4fd8-b880-d22071faa29f",
-   "posted_at": "2026-08-11T20:40:33.146+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-12T02:57:02Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "SolidWorks",
-    "Siemens NX",
-    "CAD"
-   ],
-   "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship / Co-op",
    "remote": false
   },
   {

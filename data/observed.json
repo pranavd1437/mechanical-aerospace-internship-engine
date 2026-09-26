@@ -1858,6 +1858,18 @@
     }
    }
   },
+  "td bank": {
+   "name": "TD Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-13",
+     "role_ids": [
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Quality-Engineer_R_1510798"
+     ],
+     "count": 1
+    }
+   }
+  },
   "teledyne": {
    "name": "Teledyne",
    "cycles": {
@@ -2233,5 +2245,5 @@
    }
   }
  },
- "updated_at": "2026-09-25T21:47:27Z"
+ "updated_at": "2026-09-26T05:15:40Z"
 }

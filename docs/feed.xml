@@ -5,31 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-25T21:47:30Z</updated>
+  <updated>2026-09-26T05:15:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750</id>
-    <title>American Century Investments: Infrastructure Automation Engineer Intern 🛂</title>
-    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750"/>
-    <updated>2026-09-25T21:47:27Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Controls &amp; Mechatronics · Kansas City, Missouri · Python, Bash, Terraform · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:analogdevices:/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691</id>
-    <title>Analog Devices: Healthcare Mechanical Engineering Co-op (Spring)</title>
-    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691"/>
-    <updated>2026-09-25T21:47:27Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · US, MA, Wilmington · SolidWorks, CAD · H-1B track record: ~181 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lifefitness:/job/Owatonna-MN/Manufacturing-Quality-Engineering-Intern---Owatonna--MN_JR-025245</id>
-    <title>Life Fitness: Manufacturing Quality Engineering Intern - Owatonna, MN</title>
-    <link href="https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Owatonna-MN/Manufacturing-Quality-Engineering-Intern---Owatonna--MN_JR-025245"/>
-    <updated>2026-09-25T21:47:27Z</updated>
+    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Quality-Engineer_R_1510798</id>
+    <title>TD Bank: 2027 Summer Internship Program - Global Technology &amp; Solutions - Quality Engineer</title>
+    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Quality-Engineer_R_1510798"/>
+    <updated>2026-09-26T05:15:40Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Owatonna, MN · $24–$27/hr · Six Sigma, Lean Manufacturing · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Mount Laurel, New Jersey · Java, JavaScript · H-1B track record: ~55 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:hctz.fa.us2.oraclecloud.com:2506604</id>
@@ -56,12 +40,20 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Waltham, MA, United States · $25/hr · C#, LabVIEW, Lean Manufacturing · H-1B track record: ~47 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:wattswater:/job/Fort-Worth-TX/Production-Engineer-Intern--Summer-2027_10017591</id>
-    <title>Watts Water: Production Engineer Intern, Summer 2027</title>
-    <link href="https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Production-Engineer-Intern--Summer-2027_10017591"/>
+    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750</id>
+    <title>American Century Investments: Infrastructure Automation Engineer Intern 🛂</title>
+    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750"/>
     <updated>2026-09-25T21:47:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Fort Worth, TX · CAD, Lean Manufacturing</summary>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Controls &amp; Mechatronics · Kansas City, Missouri · Python, Bash, Terraform · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:analogdevices:/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691</id>
+    <title>Analog Devices: Healthcare Mechanical Engineering Co-op (Spring)</title>
+    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691"/>
+    <updated>2026-09-25T21:47:27Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · US, MA, Wilmington · SolidWorks, CAD · H-1B track record: ~181 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:elkay:/job/Sanford-NC/Manufacturing-Engineer-Intern_REQ-020175</id>
@@ -70,6 +62,22 @@
     <updated>2026-09-25T21:47:27Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Sanford, NC</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:lifefitness:/job/Owatonna-MN/Manufacturing-Quality-Engineering-Intern---Owatonna--MN_JR-025245</id>
+    <title>Life Fitness: Manufacturing Quality Engineering Intern - Owatonna, MN</title>
+    <link href="https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Owatonna-MN/Manufacturing-Quality-Engineering-Intern---Owatonna--MN_JR-025245"/>
+    <updated>2026-09-25T21:47:27Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Owatonna, MN · $24–$27/hr · Six Sigma, Lean Manufacturing · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wattswater:/job/Fort-Worth-TX/Production-Engineer-Intern--Summer-2027_10017591</id>
+    <title>Watts Water: Production Engineer Intern, Summer 2027</title>
+    <link href="https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Production-Engineer-Intern--Summer-2027_10017591"/>
+    <updated>2026-09-25T21:47:27Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Fort Worth, TX · CAD, Lean Manufacturing</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:hevenaerotech:4410446009</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-21T05:10:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/Latham-New-York-United-States/Co-op---Design-Engineering---Latham--NY---January-June-2027_590362</id>
-    <title>Philips: Co-op - Design Engineering - Latham, NY - January-June 2027</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Co-op---Design-Engineering---Latham--NY---January-June-2027_590362"/>
-    <updated>2026-09-19T04:50:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Latham, New York, United States</summary>
   </entry>
 </feed>
