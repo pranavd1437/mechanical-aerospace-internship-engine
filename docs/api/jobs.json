@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-26T21:24:06Z",
+ "generated_at": "2026-09-27T05:32:51Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 611,
+ "count": 609,
  "jobs": [
   {
    "id": "oracle:hctz.fa.us2.oraclecloud.com:2506604",
@@ -4016,29 +4016,6 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "lever:lightship:27f49b68-6a5c-4a3a-a114-5487feb3add2",
-   "company": "Lightship RV",
-   "title": "Manufacturing Engineering Intern/Co-Op",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Manufacturing & Quality",
-   "location": "Broomfield, CO",
-   "url": "https://jobs.lever.co/lightship/27f49b68-6a5c-4a3a-a114-5487feb3add2",
-   "posted_at": "2026-09-15T20:46:53Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-15T21:34:26Z",
-   "sponsorship": "unknown",
-   "salary": "28–30 USD/hr",
-   "skills": [
-    "CAD"
-   ],
-   "source": "lever",
-   "h1b_approvals": null,
-   "program": "Internship / Co-op",
    "remote": false
   },
   {
@@ -12462,32 +12439,6 @@
    "h1b_approvals": null,
    "program": "Internship",
    "remote": true
-  },
-  {
-   "id": "greenhouse:axon:7978840003",
-   "company": "Axon",
-   "title": "2027 US Mechanical Engineering Internship",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Mechanical Design",
-   "location": "Arizona, USA",
-   "url": "https://job-boards.greenhouse.io/axon/jobs/7978840003",
-   "posted_at": "2026-08-26T18:45:42-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-27T10:05:15Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "SolidWorks",
-    "Siemens NX",
-    "Creo",
-    "CAD"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 72,
-   "program": "Internship",
-   "remote": false
   },
   {
    "id": "workday:imeg:/job/Columbus-OH/Mechanical-Engineering-Intern---Columbus--OH_R-16523",
