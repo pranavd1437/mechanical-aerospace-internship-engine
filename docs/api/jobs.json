@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-27T05:32:51Z",
+ "generated_at": "2026-09-27T12:20:33Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 609,
+ "count": 607,
  "jobs": [
   {
    "id": "oracle:hctz.fa.us2.oraclecloud.com:2506604",
@@ -4745,31 +4745,6 @@
    ],
    "source": "workday",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:generalmotors:/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aerodynamics_JR-202620069",
-   "company": "General Motors",
-   "title": "2027 Summer Intern – Motorsports Aerodynamics",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Thermal, Fluids & Propulsion",
-   "location": "Concord, North Carolina, United States of America",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aerodynamics_JR-202620069",
-   "posted_at": "2026-09-14T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-14T22:01:23Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "CAD",
-    "CFD",
-    "Computer Vision"
-   ],
-   "source": "workday",
-   "h1b_approvals": 928,
    "program": "Internship",
    "remote": false
   },
@@ -12259,29 +12234,6 @@
    ],
    "source": "workday",
    "h1b_approvals": null,
-   "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:nidec:/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Quality-Engineer-Co-op_R0017397",
-   "company": "Nidec",
-   "title": "Quality Engineer Co-op",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Manufacturing & Quality",
-   "location": "North America/USA/Missouri/St. Louis - WPE, MO",
-   "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Quality-Engineer-Co-op_R0017397",
-   "posted_at": "2026-08-28T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-28T22:35:45Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Six Sigma"
-   ],
-   "source": "workday",
-   "h1b_approvals": 10,
    "program": "Co-op",
    "remote": false
   },
