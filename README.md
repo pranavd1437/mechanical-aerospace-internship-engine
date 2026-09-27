@@ -8,7 +8,7 @@
 
 ### 607 open roles (390 listed below) · 101 new this week
 
-4,574 employers tracked · updated Sep 27, 2026 at 17:10 UTC
+4,574 employers tracked · updated Sep 27, 2026 at 21:32 UTC
 
 _338 have a cycle the employer stated · 269 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -93,9 +93,9 @@ If it helps you, a star means a lot and tells me to keep going.
 | Wabtec ✓ | Transducer Manufacturing Engineering Co-Op (January-June 2027) 🆕 | Manufacturing & Quality | Waltham, MA, United States | C#, LabVIEW, Lean Manufacturing | Sep 25, 2026 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990015687756) |
 | Life Fitness ✓ | Manufacturing Quality Engineering Intern - Owatonna, MN 🆕 | Manufacturing & Quality | Owatonna, MN | Six Sigma, Lean Manufacturing | Sep 25, 2026 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Owatonna-MN/Manufacturing-Quality-Engineering-Intern---Owatonna--MN_JR-025245) |
 | Watts Water | Production Engineer Intern, Summer 2027 🆕 | Manufacturing & Quality | Fort Worth, TX | CAD, Lean Manufacturing | Sep 25, 2026 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Production-Engineer-Intern--Summer-2027_10017591) |
-| WSP | Mechanical Engineering (Transmission) Intern - Summer 2027 🆕 | Mechanical Design | Portland, OR, United States | No skills listed | Sep 25, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95871) |
-| WSP | Structural Engineering Intern- Summer 2027 🆕 | Structures & FEA | Worcester, MA, United States | AutoCAD | Sep 25, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96292) |
-| Saab | Mechanical Engineering Co-Op (Summer 2027) 🇺🇸 🆕 | Mechanical Design | Quincy, MA | SolidWorks, CAD, GD&T, Tolerance Analysis | Sep 25, 2026 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/Quincy-MA/Mechanical-Engineering-Co-Op--Summer-2027-_R-03296-1) |
+| WSP | Mechanical Engineering (Transmission) Intern - Summer 2027 | Mechanical Design | Portland, OR, United States | No skills listed | Sep 25, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95871) |
+| WSP | Structural Engineering Intern- Summer 2027 | Structures & FEA | Worcester, MA, United States | AutoCAD | Sep 25, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96292) |
+| Saab | Mechanical Engineering Co-Op (Summer 2027) 🇺🇸 | Mechanical Design | Quincy, MA | SolidWorks, CAD, GD&T, Tolerance Analysis | Sep 25, 2026 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/Quincy-MA/Mechanical-Engineering-Co-Op--Summer-2027-_R-03296-1) |
 | Rocket Lab | Test Engineering Intern Summer 2027 🇺🇸 | Test & Validation | Wallops Island, VA | Python, Siemens NX, CAD, CAM | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8003529003) |
 | Northrop Grumman | 2027 Operations Industrial Engineering Intern 🇺🇸 | Manufacturing & Quality | United States-Florida-Melbourne | No skills listed | Sep 24, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253047) |
 | iRhythm Technologies ✓ | Electrical Test Engineering Co-op Intern January-June 2027 | Test & Validation | San Francisco, CA | Python | Sep 24, 2026 | [Apply](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Electrical-Test-Engineering-Co-op-Intern-January-June-2027_JR1785) |
@@ -321,13 +321,13 @@ These postings never name a cycle — not in the title, not in the posting text 
 |---|---|---|---|---|---|---|
 | Analog Devices ✓ | Healthcare Mechanical Engineering Co-op (Spring) 🆕 | Mechanical Design | US, MA, Wilmington | SolidWorks, CAD | Sep 25, 2026 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691) |
 | Zurn Elkay Water Solutions | Manufacturing Engineer Intern 🆕 | Manufacturing & Quality | Sanford, NC | No skills listed | Sep 25, 2026 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Sanford-NC/Manufacturing-Engineer-Intern_REQ-020175) |
-| Michael Baker International ✓ | Mechanical Engineering Intern 🆕 | Mechanical Design | Moon Township, PA, United States | No skills listed | Sep 25, 2026 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309934) |
-| Michael Baker International ✓ | Mechanical Engineering Intern 🆕 | Mechanical Design | Baltimore, MD, United States | No skills listed | Sep 25, 2026 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309935) |
-| Analytical Mechanics Associates 🆁 | Intern: Research on CFD Analysis with Hybrid Mesh Adaptation for High-Speed Configurations 🆕 | Thermal, Fluids & Propulsion | Remote - Georgia | CFD, Python, C++, MATLAB | Sep 25, 2026 | [Apply](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---Georgia/Intern--Research-on-CFD-Analysis-with-Hybrid-Mesh-Adaptation-for-High-Speed-Configurations_R-100770) |
-| Leidos ✓ | Mechanical Engineering Intern 🇺🇸 🆕 | Mechanical Design | Albuquerque, NM | MATLAB, SolidWorks, LabVIEW, Linux | Sep 25, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Albuquerque-NM/Mechanical-Engineering-Intern_R-00193159) |
-| Slate Auto | Body Structures Intern 🆕 | Structures & FEA | Troy, Michigan | No skills listed | Sep 25, 2026 | [Apply](https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Body-Structures-Intern_JR101403) |
+| Michael Baker International ✓ | Mechanical Engineering Intern | Mechanical Design | Moon Township, PA, United States | No skills listed | Sep 25, 2026 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309934) |
+| Michael Baker International ✓ | Mechanical Engineering Intern | Mechanical Design | Baltimore, MD, United States | No skills listed | Sep 25, 2026 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309935) |
+| Analytical Mechanics Associates 🆁 | Intern: Research on CFD Analysis with Hybrid Mesh Adaptation for High-Speed Configurations | Thermal, Fluids & Propulsion | Remote - Georgia | CFD, Python, C++, MATLAB | Sep 25, 2026 | [Apply](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---Georgia/Intern--Research-on-CFD-Analysis-with-Hybrid-Mesh-Adaptation-for-High-Speed-Configurations_R-100770) |
+| Leidos ✓ | Mechanical Engineering Intern 🇺🇸 | Mechanical Design | Albuquerque, NM | MATLAB, SolidWorks, LabVIEW, Linux | Sep 25, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Albuquerque-NM/Mechanical-Engineering-Intern_R-00193159) |
+| Slate Auto | Body Structures Intern | Structures & FEA | Troy, Michigan | No skills listed | Sep 25, 2026 | [Apply](https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Body-Structures-Intern_JR101403) |
 | Graphcore Early Careers | Mechanical Engineering Intern 🆕 | Mechanical Design | Austin, Texas, United States | Creo, CAD | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8842357002) |
-| Heven AeroTech | Manufacturing Intern 🇺🇸 🆕 | Manufacturing & Quality | Winchester, Virginia | CAD, Six Sigma, Lean Manufacturing | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/hevenaerotech/jobs/4410446009) |
+| Heven AeroTech | Manufacturing Intern 🇺🇸 | Manufacturing & Quality | Winchester, Virginia | CAD, Six Sigma, Lean Manufacturing | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/hevenaerotech/jobs/4410446009) |
 | Aevex Aerospace | Robotics Engineering Co-op 🇺🇸 | Controls & Mechatronics | Tampa, Florida, United States | Python, C++, Rust, PyTorch | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008) |
 | Cummins ✓ | Materials Science - Summer Internship Positions | Materials Engineering | Columbus, IN, United States | No skills listed | Sep 24, 2026 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437742) |
 | Cummins ✓ | Thermal and Fluid Sciences Engineering Co-Op Positions | Thermal, Fluids & Propulsion | Columbus, IN, United States | MATLAB, Simulink, ANSYS, CFD | Sep 24, 2026 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437752) |
@@ -588,7 +588,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,213 of 4,688 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 426.8s · 102 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,326 of 4,688 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 387.6s · 115 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
