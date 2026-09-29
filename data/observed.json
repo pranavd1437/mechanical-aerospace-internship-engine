@@ -689,9 +689,10 @@
      "role_ids": [
       "greenhouse:freeformfuturecorp:7894117003",
       "greenhouse:freeformfuturecorp:7895700003",
-      "greenhouse:freeformfuturecorp:7907965003"
+      "greenhouse:freeformfuturecorp:7907965003",
+      "greenhouse:freeformfuturecorp:8004101003"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -977,9 +978,10 @@
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Mechanical-Lifecycle--January---June-2027--Onsite-_REQ-2026-18155",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Manufacturing--January-June-2027--Onsite-_REQ-2026-18069",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Mechanical-Engineering--January---June-2027--Hybrid-_REQ-2026-18007",
-      "workday:insulet:/job/Acton-Massachusetts/Co-op--Supplier-Development-Engineering---Mechanical--January-June-2027--Onsite-_REQ-2026-18209"
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--Supplier-Development-Engineering---Mechanical--January-June-2027--Onsite-_REQ-2026-18209",
+      "workday:insulet:/job/Irvine-California/Co-op--Manufacturing--January---June-2027--Onsite-_REQ-2026-18119"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -1103,6 +1105,18 @@
      "first_posted": "2026-09-09",
      "role_ids": [
       "smartrecruiters:LLNL:3743990015127766"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "leidos": {
+   "name": "Leidos",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "workday:leidos:/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193413"
      ],
      "count": 1
     }
@@ -1411,8 +1425,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-07",
      "role_ids": [
+      "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253538",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139",
+      "workday:ngc:/job/United-States-California-Vandenberg-AFB/XMLNAME-2027-Test-Engineering-Intern---VSFB-CA_R10253497",
       "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Mechanical-Engineer-Intern---Woodland-Hills-CA_R10249483",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253047",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088",
@@ -1420,6 +1436,7 @@
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Manufacturing-Engineer-Intern_R10251750-1",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2026-Intern-Tooling-Engineer_R10251724",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Tooling-Engineer_R10251728",
+      "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10253458",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Structural-Engineer-Intern_R10251781",
       "workday:ngc:/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10249871",
@@ -1427,7 +1444,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern---Dulles-VA_R10250744-1",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322"
      ],
-     "count": 15
+     "count": 18
     }
    }
   },
@@ -1449,6 +1466,7 @@
     "Summer 2027": {
      "first_posted": "2026-09-10",
      "role_ids": [
+      "workday:nvent:/job/Anoka-MN-US/Electrical-Controls-Engineering-Co-Op_R23626",
       "workday:nvent:/job/Anoka-MN-US/Electrical-Controls-Engineering-Intern--June---August-2027-_R23646",
       "workday:nvent:/job/Anoka-MN-US/Manufacturing-Automaton-Intern--June---August-2027-_R23865",
       "workday:nvent:/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--January---June-2027-_R23576",
@@ -1460,7 +1478,7 @@
       "workday:nvent:/job/Solon-OH-US/Mechanical-Engineering-Co-Op--Jan---Aug-2027-_R23577",
       "workday:nvent:/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539"
      ],
-     "count": 10
+     "count": 11
     }
    }
   },
@@ -1748,6 +1766,21 @@
     }
    }
   },
+  "s c electric": {
+   "name": "S&C Electric Company",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "oracle:ejia.fa.us6.oraclecloud.com:107296",
+      "oracle:ejia.fa.us6.oraclecloud.com:107298",
+      "oracle:ejia.fa.us6.oraclecloud.com:107299",
+      "oracle:ejia.fa.us6.oraclecloud.com:107302"
+     ],
+     "count": 4
+    }
+   }
+  },
   "saab": {
    "name": "Saab",
    "cycles": {
@@ -1803,6 +1836,18 @@
       "greenhouse:sharkninjaoperatingllc:4651641006"
      ],
      "count": 4
+    }
+   }
+  },
+  "sherwin williams": {
+   "name": "Sherwin-Williams",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "oracle:ejhp.fa.us6.oraclecloud.com:2625128"
+     ],
+     "count": 1
     }
    }
   },
@@ -1993,12 +2038,13 @@
       "workday:ttc:/job/Bloomington-MN/Mechanical-Engineering-Intern---Value-Engineering--VAVE----The-Toro-Company_JR17204",
       "workday:ttc:/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194",
       "workday:ttc:/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004",
+      "workday:ttc:/job/Perry-OK/Manufacturing-Engineer-Intern---Ditch-Witch_JR17449",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17101",
       "workday:ttc:/job/Perry-OK/Quality-Engineer-Intern---Ditch-Witch_JR17218",
       "workday:ttc:/job/Perry-OK/Test-Engineering-Intern---Ditch-Witch_JR17320"
      ],
-     "count": 14
+     "count": 15
     }
    }
   },
@@ -2330,5 +2376,5 @@
    }
   }
  },
- "updated_at": "2026-09-29T13:11:38Z"
+ "updated_at": "2026-09-29T22:29:27Z"
 }
