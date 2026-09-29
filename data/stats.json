@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T05:58:29Z",
-  "duration_seconds": 435.2,
+  "generated_at": "2026-09-29T13:11:38Z",
+  "duration_seconds": 498.6,
   "companies_total": 4688,
   "companies_by_source": {
     "greenhouse": 1111,
@@ -16,21 +16,21 @@
     "breezy": 13,
     "eightfold": 1
   },
-  "quarantined": 341,
-  "fetched_ok": 4274,
-  "fetch_errors": 73,
+  "quarantined": 352,
+  "fetched_ok": 4330,
+  "fetch_errors": 6,
   "errors_by_source": {
-    "greenhouse": 1,
-    "workday": 71,
-    "workable": 1
+    "workday": 3,
+    "greenhouse": 2,
+    "lever": 1
   },
-  "fetch_success_rate": 0.983,
-  "fetch_success_rate_registry": 0.912,
-  "snapshots_complete": 4166,
-  "snapshots_partial": 108,
-  "roles_matched": 506,
-  "dropped_no_year_in_title": 104,
-  "dropped_offcycle_by_text": 120,
+  "fetch_success_rate": 0.999,
+  "fetch_success_rate_registry": 0.924,
+  "snapshots_complete": 4208,
+  "snapshots_partial": 122,
+  "roles_matched": 540,
+  "dropped_no_year_in_title": 117,
+  "dropped_offcycle_by_text": 146,
   "dropped_by_description_scope": 3,
   "roles_cycle_inferred": 275,
   "roles_by_source": {
@@ -39,32 +39,32 @@
     "breezy": 1,
     "greenhouse": 85,
     "lever": 23,
-    "oracle": 16,
+    "oracle": 21,
     "rippling": 4,
     "smartrecruiters": 35,
     "workable": 4,
-    "workday": 448
+    "workday": 450
   },
   "roles_by_cycle": {
-    "Summer 2027": 344,
+    "Summer 2027": 351,
     "Fall 2026": 18,
     "Not stated": 275
   },
   "roles_by_region": {
-    "US": 637
+    "US": 644
   },
   "sponsorship_counts": {
-    "no-sponsorship": 68,
-    "unknown": 428,
+    "no-sponsorship": 72,
+    "unknown": 431,
     "citizens-only": 139,
     "offers": 2
   },
   "posted_date_coverage": 0.994,
-  "enriched_this_run": 8,
-  "enrichment_detail_fetches": 8,
+  "enriched_this_run": 10,
+  "enrichment_detail_fetches": 10,
   "purged_this_run": 0,
-  "new_this_run": 5,
-  "open_total": 637,
+  "new_this_run": 7,
+  "open_total": 644,
   "detection_latency": {
     "median_minutes": 183.5,
     "p95_minutes": 3065.2,
