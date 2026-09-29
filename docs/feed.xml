@@ -5,23 +5,55 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-28T23:30:21Z</updated>
+  <updated>2026-09-29T05:58:32Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:ag:/job/Mobile-Area-AL/Summer-Internship---Tooling---Logistics-Engineer_JR10442128</id>
-    <title>Airbus: Summer Internship - Tooling &amp; Logistics Engineer</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship---Tooling---Logistics-Engineer_JR10442128"/>
-    <updated>2026-09-28T23:30:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Mobile Area, AL · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:slihrms:/job/USCODenver/Structural-Engineering-Intern---Summer-2027_R-161182-1</id>
+    <title>AtkinsRéalis: Structural Engineering Intern – Summer 2027</title>
+    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Structural-Engineering-Intern---Summer-2027_R-161182-1"/>
+    <updated>2026-09-29T05:58:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · US.CO.Denver</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:borgwarner:/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788</id>
-    <title>BorgWarner: Mechanical Engineering Intern (Year Round)</title>
-    <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788"/>
-    <updated>2026-09-28T23:30:17Z</updated>
+    <id>urn:intern-engine:workday:slihrms:/job/USWABothell/Structural-Engineering-Intern---Summer-2027_R-162449-1</id>
+    <title>AtkinsRéalis: Structural Engineering Intern – Summer 2027</title>
+    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USWABothell/Structural-Engineering-Intern---Summer-2027_R-162449-1"/>
+    <updated>2026-09-29T05:58:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · US.WA.Bothell · AutoCAD, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/Mechanical-Design-Engineering-Intern--Summer-2027-_01873545</id>
+    <title>RTX: Mechanical Design Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/Mechanical-Design-Engineering-Intern--Summer-2027-_01873545"/>
+    <updated>2026-09-29T05:58:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · US-CO-COLORADO SPRINGS-1275 ~ 1275 N Newport Rd ~ NEWPORT · SolidWorks, Siemens NX, CATIA, Creo, AutoCAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ttc:/job/Iron-Mountain-MI/Mechanical-Design-Engineer-Co-Op---BOSS-Snowplow_JR17092</id>
+    <title>The Toro Company: Mechanical Design Engineer Co Op - BOSS Snowplow</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Iron-Mountain-MI/Mechanical-Design-Engineer-Co-Op---BOSS-Snowplow_JR17092"/>
+    <updated>2026-09-29T05:58:29Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Auburn Hills - Michigan - USA · sponsorship: offers</summary>
+    <summary>Not stated · Mechanical Design · Iron Mountain, MI · Creo, CAD, Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020072</id>
+    <title>Zurn Elkay Water Solutions: Industrial Engineering Intern (Summer 2027)</title>
+    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020072"/>
+    <updated>2026-09-29T05:58:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Freeport, IL · $19.5–$21.5/hr · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:96332</id>
+    <title>WSP: Structural Engineering Intern- Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96332"/>
+    <updated>2026-09-28T23:30:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · New York, NY, United States · $19–$30/hr · AutoCAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2437307</id>
@@ -40,12 +72,12 @@
     <summary>Not stated · Structures &amp; FEA · Columbus, IN, United States · ANSYS · H-1B track record: ~917 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:eversource:/job/Westwood-MA/XMLNAME-2027-Co-op--Substation-Design-Engineering_R-031701</id>
-    <title>Eversource Energy: 2027 Co-op: Substation Design Engineering</title>
-    <link href="https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/XMLNAME-2027-Co-op--Substation-Design-Engineering_R-031701"/>
+    <id>urn:intern-engine:oracle:hctz.fa.us2.oraclecloud.com:2506420</id>
+    <title>onsemi: Summer 2027 - Probe Test Engineer Intern</title>
+    <link href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506420"/>
     <updated>2026-09-28T23:30:17Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Westwood, MA</summary>
+    <summary>Summer 2027 · Test &amp; Validation · Hopewell Junction, NY, United States · $26–$44/hr · Python, C++, MATLAB</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workable:hyperlight:4660E1BB17</id>
@@ -54,6 +86,38 @@
     <updated>2026-09-28T23:30:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Controls &amp; Mechatronics · Cambridge, Massachusetts, United States · $28–$34/hr · Python, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ag:/job/Mobile-Area-AL/Summer-Internship---Tooling---Logistics-Engineer_JR10442128</id>
+    <title>Airbus: Summer Internship - Tooling &amp; Logistics Engineer</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship---Tooling---Logistics-Engineer_JR10442128"/>
+    <updated>2026-09-28T23:30:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Mobile Area, AL · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:borgwarner:/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788</id>
+    <title>BorgWarner: Mechanical Engineering Intern (Year Round)</title>
+    <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788"/>
+    <updated>2026-09-28T23:30:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Auburn Hills - Michigan - USA · sponsorship: offers</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:eversource:/job/Westwood-MA/XMLNAME-2027-Co-op--Substation-Design-Engineering_R-031701</id>
+    <title>Eversource Energy: 2027 Co-op: Substation Design Engineering</title>
+    <link href="https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/XMLNAME-2027-Co-op--Substation-Design-Engineering_R-031701"/>
+    <updated>2026-09-28T23:30:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Westwood, MA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01871097</id>
+    <title>RTX: Industrial Engineering Co-op (Spring/Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01871097"/>
+    <updated>2026-09-28T23:30:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · SolidWorks, Creo, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:mars:/job/USA-Arkansas-Ft-Smith/Summer-2027-Mars-Petcare-Manufacturing-Internship_R168212-1</id>
@@ -72,14 +136,6 @@
     <summary>Not stated · Mechanical Design · USA - Rhode Island - East Providence · SolidWorks, CAD</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:hctz.fa.us2.oraclecloud.com:2506420</id>
-    <title>onsemi: Summer 2027 - Probe Test Engineer Intern</title>
-    <link href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506420"/>
-    <updated>2026-09-28T23:30:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Hopewell Junction, NY, United States · $26–$44/hr · Python, C++, MATLAB</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:oshkoshcorporation:/job/Jefferson-City-Tennessee-United-States/Controls-Engineer-Intern_R50551</id>
     <title>Oshkosh: Controls Engineer Intern</title>
     <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Jefferson-City-Tennessee-United-States/Controls-Engineer-Intern_R50551"/>
@@ -88,28 +144,12 @@
     <summary>Not stated · Controls &amp; Mechatronics · Jefferson City, Tennessee, United States</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01871097</id>
-    <title>RTX: Industrial Engineering Co-op (Spring/Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01871097"/>
-    <updated>2026-09-28T23:30:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · SolidWorks, Creo, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:valeo:/job/Troy-MI/Environmental-Test---Validation-Intern--Year-Round-_REQ2026080833</id>
     <title>Valeo: Environmental Test &amp; Validation Intern (Year-Round)</title>
     <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Environmental-Test---Validation-Intern--Year-Round-_REQ2026080833"/>
     <updated>2026-09-28T23:30:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Test &amp; Validation · Troy, MI · Python, Java, LabVIEW · H-1B track record: ~72 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:96332</id>
-    <title>WSP: Structural Engineering Intern- Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96332"/>
-    <updated>2026-09-28T23:30:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · New York, NY, United States · $19–$30/hr · AutoCAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000152172269</id>
@@ -766,45 +806,5 @@
     <updated>2026-09-23T11:57:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Chelmsford, MA · SolidWorks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Colorado-Springs-CO/Summer-Intern---Digital-Manufacturing_JR37704-1</id>
-    <title>Allegion: Summer Intern - Digital Manufacturing</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Digital-Manufacturing_JR37704-1"/>
-    <updated>2026-09-23T05:01:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Colorado Springs, CO · $25–$26/hr · Java, C++, C#, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:creationtech:/job/Newark-NY-USA/Quality-Engineering-Intern_JR6974</id>
-    <title>Creation Technologies: Quality Engineering Intern</title>
-    <link href="https://creationtech.wd1.myworkdayjobs.com/Creation/job/Newark-NY-USA/Quality-Engineering-Intern_JR6974"/>
-    <updated>2026-09-23T05:01:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Newark, NY USA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:creationtech:/job/Newark-NY-USA/Test-Engineering-Intern_JR6972</id>
-    <title>Creation Technologies: Test Engineering Intern</title>
-    <link href="https://creationtech.wd1.myworkdayjobs.com/Creation/job/Newark-NY-USA/Test-Engineering-Intern_JR6972"/>
-    <updated>2026-09-23T05:01:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Newark, NY USA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512</id>
-    <title>Micron Technology: Intern - Design Engineer, HIG HBM</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512"/>
-    <updated>2026-09-23T05:01:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Richardson, TX · Python, C++, CAD, Linux, Verilog · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:axiscompany:8832086002</id>
-    <title>Axis Automation: Welding Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/axiscompany/jobs/8832086002"/>
-    <updated>2026-09-22T21:35:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Walker, Michigan, United States</summary>
   </entry>
 </feed>
