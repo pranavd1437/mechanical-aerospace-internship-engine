@@ -121,6 +121,22 @@
     }
    }
   },
+  "allison transmission": {
+   "name": "Allison Transmission",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-1_R008267",
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-2_R008266",
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008271",
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008277",
+      "workday:allisontransmission:/job/Indianapolis-IN/Supplier-Quality-Intern---Summer-2027_R008280"
+     ],
+     "count": 5
+    }
+   }
+  },
   "alloy enterprises": {
    "name": "Alloy Enterprises",
    "cycles": {
@@ -147,6 +163,18 @@
      "first_posted": "2026-08-13",
      "role_ids": [
       "amazon:amazon:10501526"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "amca": {
+   "name": "AMCA",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "greenhouse:amca:4396629009"
      ],
      "count": 1
     }
@@ -842,6 +870,7 @@
      "role_ids": [
       "lever:hermeus:1bc5c858-1b04-4093-80a0-2ba3491afc60",
       "lever:hermeus:1bdf3754-5649-4a50-913e-b05140cb004f",
+      "lever:hermeus:29c10a11-aa02-4d64-83d0-00001cbd3ac0",
       "lever:hermeus:5f6a6e79-9836-4c33-b40b-a2bb6c27bd06",
       "lever:hermeus:60b5d40a-1065-4bd2-8c72-6b2fb69d4761",
       "lever:hermeus:643fd7b7-9015-43a1-aa2b-a54f117b403c",
@@ -850,7 +879,7 @@
       "lever:hermeus:943f51e4-5b26-432c-ae85-de5f43cadb86",
       "lever:hermeus:ee3a4109-b6e7-4ed5-8981-a483b3936e5a"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -1191,9 +1220,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-23",
      "role_ids": [
-      "workday:marvell:/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148"
+      "workday:marvell:/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148",
+      "workday:marvell:/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1521,9 +1551,10 @@
       "oracle:hctz.fa.us2.oraclecloud.com:2506604",
       "oracle:hctz.fa.us2.oraclecloud.com:2506606",
       "oracle:hctz.fa.us2.oraclecloud.com:2506613",
-      "oracle:hctz.fa.us2.oraclecloud.com:2506645"
+      "oracle:hctz.fa.us2.oraclecloud.com:2506645",
+      "oracle:hctz.fa.us2.oraclecloud.com:2506814"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -2226,10 +2257,11 @@
       "workday:wattswater:/job/Blauvelt-NY/Production-Engineer-Intern--Summer-2027_10017356",
       "workday:wattswater:/job/Fort-Myers-FL/Manufacturing-Quality-Intern--Summer-2027_10017584",
       "workday:wattswater:/job/Fort-Worth-TX/Production-Engineer-Intern--Summer-2027_10017591",
+      "workday:wattswater:/job/Fort-Worth-TX/Production-Engineer-Intern--Summer-2027_10017592",
       "workday:wattswater:/job/North-Andover-MA/Design-Engineer-Co-Op_10017594",
       "workday:wattswater:/job/St-Pauls-NC/Manufacturing-Engineer-Intern-Summer-2027_10017388"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -2356,9 +2388,11 @@
       "workday:zekelman:/job/Cambridge-OH/Intern--Automation-Engineer_JR002792",
       "workday:zekelman:/job/Farrell-PA---Church/Electrical-and-Controls-Engineer-Intern_JR002753",
       "workday:zekelman:/job/Kansas-City-MO/Intern--Mechanical-Engineer_JR002761",
-      "workday:zekelman:/job/Killeen-TX/Industrial-Engineer---Intern_JR002772"
+      "workday:zekelman:/job/Killeen-TX/Industrial-Engineer---Intern_JR002772",
+      "workday:zekelman:/job/Rochelle-IL/Intern--Manufacturing-Engineer_JR002824",
+      "workday:zekelman:/job/Warren-OH/Intern--Quality-Engineer_JR002821"
      ],
-     "count": 6
+     "count": 8
     }
    }
   },
@@ -2391,5 +2425,5 @@
    }
   }
  },
- "updated_at": "2026-09-30T12:54:50Z"
+ "updated_at": "2026-09-30T22:29:39Z"
 }

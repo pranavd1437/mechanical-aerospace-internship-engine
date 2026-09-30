@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T12:54:53Z",
+ "generated_at": "2026-09-30T22:29:42Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -350,7 +350,7 @@
    "expected": "2026-08-27",
    "days_until": -34,
    "status": "open",
-   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Quality-Engineering-Intern---Summer-2027_JR00047273",
+   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726",
    "note": ""
   },
   {
@@ -673,6 +673,20 @@
    "days_until": -27,
    "status": "open",
    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Aerospace-Engineering-Intern--Summer-2027-_R0030727",
+   "note": ""
+  },
+  {
+   "company": "AMCA",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -26,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/amca/jobs/4396629009",
    "note": ""
   },
   {
@@ -1474,6 +1488,20 @@
    "note": ""
   },
   {
+   "company": "Allison Transmission",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-30",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Supplier-Quality-Intern---Summer-2027_R008280",
+   "note": ""
+  },
+  {
    "company": "American Rare Earths",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1908,5 +1936,5 @@
    "note": ""
   }
  ],
- "count": 136
+ "count": 138
 }
