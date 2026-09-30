@@ -5,20 +5,28 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-09-30T05:48:28Z</updated>
+  <updated>2026-09-30T12:54:53Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:greenhouse:graphcore:8841978002</id>
-    <title>Graphcore: System Validation Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8841978002"/>
-    <updated>2026-09-30T05:48:25Z</updated>
+    <id>urn:intern-engine:workday:globalhr:/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Manufacturing-Engineer-Intern---1st-shift---On-site---Aeroestructuras_01872645</id>
+    <title>RTX: Manufacturing Engineer Intern - 1st shift - On site - Aeroestructuras</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Manufacturing-Engineer-Intern---1st-shift---On-site---Aeroestructuras_01872645"/>
+    <updated>2026-09-30T12:54:50Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Austin, Texas, United States · Python, Bash, Linux</summary>
+    <summary>Not stated · Manufacturing &amp; Quality · MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carranza #238 ~ BLDG 238, Desarrollo Industrial Colorado · CATIA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:graphcore-early-careers:8842365002</id>
     <title>Graphcore Early Careers: System Validation Engineering Intern</title>
     <link href="https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8842365002"/>
+    <updated>2026-09-30T05:48:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Austin, Texas, United States · Python, Bash, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:graphcore:8841978002</id>
+    <title>Graphcore: System Validation Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8841978002"/>
     <updated>2026-09-30T05:48:25Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Test &amp; Validation · Austin, Texas, United States · Python, Bash, Linux</summary>
@@ -32,12 +40,12 @@
     <summary>Summer 2027 · Controls &amp; Mechatronics · Mountain View, CA · $40/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Mechanical-Engineer-Intern---Rolling-Meadows-IL_R10252778</id>
-    <title>Northrop Grumman: 2027 Hardware Mechanical Engineer Intern - Rolling Meadows IL 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Mechanical-Engineer-Intern---Rolling-Meadows-IL_R10252778"/>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01874876</id>
+    <title>RTX: Industrial Engineering Co-op (Spring/Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01874876"/>
     <updated>2026-09-30T05:48:25Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · United States-Illinois-Rolling Meadows · $20.5–$37.25/hr · SolidWorks, Siemens NX, Creo, CAD, ANSYS · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · SolidWorks, AutoCAD, CAD, Six Sigma · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874877</id>
@@ -48,12 +56,12 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · SolidWorks, AutoCAD, CAD, Six Sigma · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01874876</id>
-    <title>RTX: Industrial Engineering Co-op (Spring/Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01874876"/>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Mechanical-Engineer-Intern---Rolling-Meadows-IL_R10252778</id>
+    <title>Northrop Grumman: 2027 Hardware Mechanical Engineer Intern - Rolling Meadows IL 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Mechanical-Engineer-Intern---Rolling-Meadows-IL_R10252778"/>
     <updated>2026-09-30T05:48:25Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · SolidWorks, AutoCAD, CAD, Six Sigma · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Mechanical Design · United States-Illinois-Rolling Meadows · $20.5–$37.25/hr · SolidWorks, Siemens NX, Creo, CAD, ANSYS · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:freeformfuturecorp:8004101003</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-24T17:26:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · MATLAB, SolidWorks, Siemens NX, LabVIEW · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Production-Engineering-Co-op_R-101582</id>
-    <title>Johnson &amp; Johnson: Production Engineering Co-op 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Production-Engineering-Co-op_R-101582"/>
-    <updated>2026-09-24T17:26:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Danvers, Massachusetts, United States of America · Six Sigma · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

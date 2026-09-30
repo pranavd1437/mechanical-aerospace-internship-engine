@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T05:48:28Z",
+ "generated_at": "2026-09-30T12:54:53Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -1180,20 +1180,6 @@
    "note": ""
   },
   {
-   "company": "Smith+Nephew",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -13,
-   "status": "open",
-   "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508",
-   "note": ""
-  },
-  {
    "company": "X-energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -1889,6 +1875,20 @@
    "source": "engine",
    "expected": "2026-09-11",
    "days_until": -19,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Smith+Nephew",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -13,
    "status": "dropped",
    "url": "",
    "note": ""
