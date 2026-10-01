@@ -43,9 +43,10 @@
      "first_posted": "2026-09-23",
      "role_ids": [
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Undergraduate-Intern_R016671",
-      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Structural-Dynamics-Undergraduate-Intern_R016668"
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Structural-Dynamics-Undergraduate-Intern_R016668",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Structural-Mechanics-Undergraduate-Intern_R016763"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -131,9 +132,10 @@
       "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-2_R008266",
       "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008271",
       "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008277",
+      "workday:allisontransmission:/job/Indianapolis-IN/Quality-Engineering-Intern---Summer-2027_R008206",
       "workday:allisontransmission:/job/Indianapolis-IN/Supplier-Quality-Intern---Summer-2027_R008280"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -730,9 +732,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-23",
      "role_ids": [
-      "workday:generac:/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Transfer-Switch---Summer-2027_JR17048"
+      "workday:generac:/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Transfer-Switch---Summer-2027_JR17048",
+      "workday:generac:/job/Waukesha-WI---USA/XMLNAME-2027-Summer-Intern-Digital-Manufacturing-Engineering_JR16255"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2170,6 +2173,19 @@
       "greenhouse:vardaspace:7670782003"
      ],
      "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "greenhouse:vardaspace:7865601003",
+      "greenhouse:vardaspace:8010166003",
+      "greenhouse:vardaspace:8010167003",
+      "greenhouse:vardaspace:8010168003",
+      "greenhouse:vardaspace:8010169003",
+      "greenhouse:vardaspace:8010170003",
+      "greenhouse:vardaspace:8010172003"
+     ],
+     "count": 7
     }
    }
   },
@@ -2346,9 +2362,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:95761",
       "oracle:emit.fa.ca3.oraclecloud.com:95871",
       "oracle:emit.fa.ca3.oraclecloud.com:96292",
-      "oracle:emit.fa.ca3.oraclecloud.com:96332"
+      "oracle:emit.fa.ca3.oraclecloud.com:96332",
+      "oracle:emit.fa.ca3.oraclecloud.com:96611"
      ],
-     "count": 31
+     "count": 32
     }
    }
   },
@@ -2425,5 +2442,5 @@
    }
   }
  },
- "updated_at": "2026-09-30T22:29:39Z"
+ "updated_at": "2026-10-01T06:14:20Z"
 }
