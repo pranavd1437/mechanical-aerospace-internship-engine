@@ -30,9 +30,10 @@
      "role_ids": [
       "smartrecruiters:AECOM2:744000147333760",
       "smartrecruiters:AECOM2:744000149913009",
-      "smartrecruiters:AECOM2:744000152172269"
+      "smartrecruiters:AECOM2:744000152172269",
+      "smartrecruiters:AECOM2:744000152952229"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -132,10 +133,11 @@
       "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-2_R008266",
       "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008271",
       "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008277",
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineering-Intern---Summer-2027_R008126",
       "workday:allisontransmission:/job/Indianapolis-IN/Quality-Engineering-Intern---Summer-2027_R008206",
       "workday:allisontransmission:/job/Indianapolis-IN/Supplier-Quality-Intern---Summer-2027_R008280"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -1005,6 +1007,7 @@
     "Summer 2027": {
      "first_posted": "2026-09-10",
      "role_ids": [
+      "workday:insulet:/job/Acton-Massachusetts/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18125",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Engineering--January---June-2027--Onsite-_REQ-2026-18078",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Graduate--January---June-2027--Onsite-_REQ-2026-18086",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Mechanical-Lifecycle--January---June-2027--Onsite-_REQ-2026-18155",
@@ -1013,7 +1016,7 @@
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Supplier-Development-Engineering---Mechanical--January-June-2027--Onsite-_REQ-2026-18209",
       "workday:insulet:/job/Irvine-California/Co-op--Manufacturing--January---June-2027--Onsite-_REQ-2026-18119"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -1480,6 +1483,7 @@
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Manufacturing-Engineer-Intern_R10251750-1",
+      "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Vehicle-Engineer-Intern_R10253965",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2026-Intern-Tooling-Engineer_R10251724",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Tooling-Engineer_R10251728",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10253458",
@@ -1488,9 +1492,10 @@
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10249871",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Test-Engineering-Intern---Roy-UT_R10249875",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern---Dulles-VA_R10250744-1",
-      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322"
+      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322",
+      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 19
+     "count": 21
     }
    }
   },
@@ -1805,13 +1810,18 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Manufacturing-Electrical-Engineering-Co-op--Spring-Summer-2027-_01871098",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Materials-Engineering-Lab-Co-Op--Spring-Summer-2027-_01870991",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Materials-Engineering-Lab-Co-Op--Summer-Fall-2027-_01870992",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Product-Quality-Engineering-Co-Op--Summer-Fall-2027-_01878918",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01871431",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01871439",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Manufacturing-Electrical-Engineering-Co-Op--Spring-Summer-2027-_01871448",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01871450",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Hardware-Engineering-Intern--Summer-2027-_01870408",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Intern--Summer-2027----Onsite_01871125",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721"
      ],
-     "count": 28
+     "count": 33
     }
    }
   },
@@ -2003,6 +2013,14 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007581"
      ],
      "count": 2
+    },
+    "Summer 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008121",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008122"
+     ],
+     "count": 2
     }
    }
   },
@@ -2183,9 +2201,10 @@
       "greenhouse:vardaspace:8010168003",
       "greenhouse:vardaspace:8010169003",
       "greenhouse:vardaspace:8010170003",
-      "greenhouse:vardaspace:8010172003"
+      "greenhouse:vardaspace:8010172003",
+      "greenhouse:vardaspace:8010632003"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -2228,6 +2247,18 @@
       "workday:vermeer:/job/Pella-Iowa-USA---The-Center/Manufacturing-Engineer-Intern---Summer-2027_REQ-22141"
      ],
      "count": 5
+    }
+   }
+  },
+  "voyager technologies": {
+   "name": "Voyager Technologies",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "greenhouse:voyagertechnologiesinc:4428920009"
+     ],
+     "count": 1
     }
    }
   },
@@ -2406,10 +2437,11 @@
       "workday:zekelman:/job/Farrell-PA---Church/Electrical-and-Controls-Engineer-Intern_JR002753",
       "workday:zekelman:/job/Kansas-City-MO/Intern--Mechanical-Engineer_JR002761",
       "workday:zekelman:/job/Killeen-TX/Industrial-Engineer---Intern_JR002772",
+      "workday:zekelman:/job/Niles-OH/Intern--Manufacturing-Engineer_JR002843",
       "workday:zekelman:/job/Rochelle-IL/Intern--Manufacturing-Engineer_JR002824",
       "workday:zekelman:/job/Warren-OH/Intern--Quality-Engineer_JR002821"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -2442,5 +2474,5 @@
    }
   }
  },
- "updated_at": "2026-10-01T13:37:05Z"
+ "updated_at": "2026-10-01T22:53:05Z"
 }
