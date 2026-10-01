@@ -5,23 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-01T06:14:23Z</updated>
+  <updated>2026-10-01T13:37:09Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000152820560</id>
-    <title>AECOM: Engineering Intern - Hydraulics - Hiring Event with AECOM – Raleigh 🛂</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000152820560"/>
-    <updated>2026-10-01T06:14:20Z</updated>
+    <id>urn:intern-engine:workday:hitachi:/job/Batesburg-Leesville-South-Carolina-United-States-of-America/Intern---Manufacturing-Planner_R0144125</id>
+    <title>Hitachi Energy: Intern - Manufacturing Planner</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Batesburg-Leesville-South-Carolina-United-States-of-America/Intern---Manufacturing-Planner_R0144125"/>
+    <updated>2026-10-01T13:37:05Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Raleigh, NC, United States · CAD · sponsorship: no-sponsorship · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Manufacturing &amp; Quality · Batesburg-Leesville, South Carolina, United States of America · H-1B track record: ~66 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:allisontransmission:/job/Indianapolis-IN/Quality-Engineering-Intern---Summer-2027_R008206</id>
-    <title>Allison Transmission: Quality Engineering Intern - Summer 2027 🇺🇸</title>
-    <link href="https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Quality-Engineering-Intern---Summer-2027_R008206"/>
-    <updated>2026-10-01T06:14:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Indianapolis, IN · sponsorship: citizens-only · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:hitachi:/job/Batesburg-Leesville-South-Carolina-United-States-of-America/Intern---Test-Engineering_R0144019</id>
+    <title>Hitachi Energy: Intern - Test Engineering</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Batesburg-Leesville-South-Carolina-United-States-of-America/Intern---Test-Engineering_R0144019"/>
+    <updated>2026-10-01T13:37:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Batesburg-Leesville, South Carolina, United States of America · SQL, LabVIEW · H-1B track record: ~66 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hitachi:/job/Batesburg-Leesville-South-Carolina-United-States-of-America/Intern---Industrial-Engineering_R0144157</id>
+    <title>Hitachi Energy: Intern - Industrial Engineering</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Batesburg-Leesville-South-Carolina-United-States-of-America/Intern---Industrial-Engineering_R0144157"/>
+    <updated>2026-10-01T13:37:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Batesburg-Leesville, South Carolina, United States of America · H-1B track record: ~66 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Wabtec:3743990015822086</id>
+    <title>Wabtec: Transducer Manufacturing Engineering Co-Op</title>
+    <link href="https://jobs.smartrecruiters.com/Wabtec/3743990015822086"/>
+    <updated>2026-10-01T13:37:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Waltham, MA, United States · $25–$28/hr · C#, LabVIEW, Lean Manufacturing · H-1B track record: ~47 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:base-power:fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406</id>
@@ -30,30 +46,6 @@
     <updated>2026-10-01T06:14:20Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Test &amp; Validation · Austin, TX · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:generac:/job/Waukesha-WI---USA/XMLNAME-2027-Summer-Intern-Digital-Manufacturing-Engineering_JR16255</id>
-    <title>Generac: 2027 Summer Intern Digital Manufacturing Engineering</title>
-    <link href="https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/XMLNAME-2027-Summer-Intern-Digital-Manufacturing-Engineering_JR16255"/>
-    <updated>2026-10-01T06:14:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Waukesha, WI - USA · Python, Tableau · H-1B track record: ~17 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:flir:/job/US---Chestnut-Ridge-NY/Manufacturing-Engineer-Co-Op_REQ36603</id>
-    <title>Teledyne: Manufacturing Engineer Co-Op</title>
-    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Manufacturing-Engineer-Co-Op_REQ36603"/>
-    <updated>2026-10-01T06:14:20Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · US - Chestnut Ridge, NY · SolidWorks, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Structural-Mechanics-Undergraduate-Intern_R016763</id>
-    <title>The Aerospace Corporation: 2027 Structural Mechanics Undergraduate Intern 🇺🇸</title>
-    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Structural-Mechanics-Undergraduate-Intern_R016763"/>
-    <updated>2026-10-01T06:14:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · El Segundo, CA · Python, MATLAB, FEA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:vardaspace:7865601003</id>
@@ -72,6 +64,14 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · El Segundo, California, United States · SQL, MATLAB, Siemens NX, CAD, LabVIEW · sponsorship: citizens-only</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:vardaspace:8010167003</id>
+    <title>Varda Space: Structures Engineering Internship - Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/vardaspace/jobs/8010167003"/>
+    <updated>2026-10-01T06:14:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · El Segundo, California, United States · Python, Siemens NX, CAD, GD&amp;T, Nastran · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:greenhouse:vardaspace:8010168003</id>
     <title>Varda Space: Mechanisms &amp; Payload Internship - Summer 2027 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/vardaspace/jobs/8010168003"/>
@@ -88,12 +88,12 @@
     <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · El Segundo, California, United States · Python, MATLAB, Siemens NX, GD&amp;T, Teamcenter · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:vardaspace:8010167003</id>
-    <title>Varda Space: Structures Engineering Internship - Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/vardaspace/jobs/8010167003"/>
+    <id>urn:intern-engine:greenhouse:vardaspace:8010170003</id>
+    <title>Varda Space: Vehicle Integration &amp; Test Internship - Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/vardaspace/jobs/8010170003"/>
     <updated>2026-10-01T06:14:20Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · El Segundo, California, United States · Python, Siemens NX, CAD, GD&amp;T, Nastran · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Test &amp; Validation · El Segundo, California, United States · Python, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:vardaspace:8010172003</id>
@@ -104,20 +104,52 @@
     <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · El Segundo, California, United States · Python, MATLAB, Siemens NX, AutoCAD, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:vardaspace:8010170003</id>
-    <title>Varda Space: Vehicle Integration &amp; Test Internship - Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/vardaspace/jobs/8010170003"/>
-    <updated>2026-10-01T06:14:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · El Segundo, California, United States · Python, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:96611</id>
     <title>WSP: Structural Engineering Intern - Summer 2027</title>
     <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96611"/>
     <updated>2026-10-01T06:14:20Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · North Providence, RI, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000152820560</id>
+    <title>AECOM: Engineering Intern - Hydraulics - Hiring Event with AECOM – Raleigh 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000152820560"/>
+    <updated>2026-10-01T06:14:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Raleigh, NC, United States · CAD · sponsorship: no-sponsorship · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Structural-Mechanics-Undergraduate-Intern_R016763</id>
+    <title>The Aerospace Corporation: 2027 Structural Mechanics Undergraduate Intern 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Structural-Mechanics-Undergraduate-Intern_R016763"/>
+    <updated>2026-10-01T06:14:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · El Segundo, CA · Python, MATLAB, FEA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:allisontransmission:/job/Indianapolis-IN/Quality-Engineering-Intern---Summer-2027_R008206</id>
+    <title>Allison Transmission: Quality Engineering Intern - Summer 2027 🇺🇸</title>
+    <link href="https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Quality-Engineering-Intern---Summer-2027_R008206"/>
+    <updated>2026-10-01T06:14:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Indianapolis, IN · sponsorship: citizens-only · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:flir:/job/US---Chestnut-Ridge-NY/Manufacturing-Engineer-Co-Op_REQ36603</id>
+    <title>Teledyne: Manufacturing Engineer Co-Op</title>
+    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Manufacturing-Engineer-Co-Op_REQ36603"/>
+    <updated>2026-10-01T06:14:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · US - Chestnut Ridge, NY · SolidWorks, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:generac:/job/Waukesha-WI---USA/XMLNAME-2027-Summer-Intern-Digital-Manufacturing-Engineering_JR16255</id>
+    <title>Generac: 2027 Summer Intern Digital Manufacturing Engineering</title>
+    <link href="https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/XMLNAME-2027-Summer-Intern-Digital-Manufacturing-Engineering_JR16255"/>
+    <updated>2026-10-01T06:14:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Waukesha, WI - USA · Python, Tableau · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:base-power:717274d7-09dc-4176-b307-07301074b87f</id>
@@ -230,22 +262,6 @@
     <updated>2026-09-30T22:29:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carranza #238 ~ BLDG 238, Desarrollo Industrial Colorado · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jll:/job/Berkeley-MO/HVAC-Technician-Intern_REQ524659</id>
-    <title>Jones Lang LaSalle (JLL): HVAC Technician Intern 🛂</title>
-    <link href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/Berkeley-MO/HVAC-Technician-Intern_REQ524659"/>
-    <updated>2026-09-30T22:29:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Berkeley, MO · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jll:/job/North-Charleston-SC/HVAC-Technician-Intern_REQ524635</id>
-    <title>Jones Lang LaSalle (JLL): HVAC Technician Intern 🛂</title>
-    <link href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/North-Charleston-SC/HVAC-Technician-Intern_REQ524635"/>
-    <updated>2026-09-30T22:29:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · North Charleston, SC · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518-1</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-28T14:16:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · SolidWorks, AutoCAD, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870989</id>
-    <title>RTX: Industrial Engineering Co-Op (Summer/Fall 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870989"/>
-    <updated>2026-09-28T14:16:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · SolidWorks, AutoCAD, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01871100</id>
-    <title>RTX: Industrial Engineering Co-Op (Summer/Fall 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01871100"/>
-    <updated>2026-09-28T14:16:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · SolidWorks, Creo, CAD · sponsorship: citizens-only</summary>
   </entry>
 </feed>

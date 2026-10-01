@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T06:14:23Z",
+ "generated_at": "2026-10-01T13:37:09Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -337,20 +337,6 @@
    "days_until": -37,
    "status": "open",
    "url": "https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334",
-   "note": ""
-  },
-  {
-   "company": "Chamberlain Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-26",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-26",
-   "days_until": -36,
-   "status": "open",
-   "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Malvern-AR/Manufacturing-Process-Documentation-Intern--Summer-2027-_JR31463",
    "note": ""
   },
   {
@@ -1755,6 +1741,20 @@
   },
   {
    "company": "Axon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -36,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Chamberlain Group",
    "last_cycle_posted": "",
    "posted_on": "2026-08-26",
    "precision": "day",
