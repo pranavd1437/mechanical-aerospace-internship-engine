@@ -529,6 +529,18 @@
     }
    }
   },
+  "costar group": {
+   "name": "CoStar Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "workday:costar:/job/Sunnyvale-US/Mechanical-Engineering-Intern_R39952"
+     ],
+     "count": 1
+    }
+   }
+  },
   "danaher": {
    "name": "Danaher Corporation",
    "cycles": {
@@ -1743,6 +1755,18 @@
     }
    }
   },
+  "roboforce": {
+   "name": "RoboForce",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "greenhouse:roboforce:5441463008"
+     ],
+     "count": 1
+    }
+   }
+  },
   "rocket lab": {
    "name": "Rocket Lab",
    "cycles": {
@@ -2474,5 +2498,5 @@
    }
   }
  },
- "updated_at": "2026-10-01T22:53:05Z"
+ "updated_at": "2026-10-02T05:57:20Z"
 }
