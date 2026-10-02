@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T12:55:45Z",
+ "generated_at": "2026-10-02T22:31:36Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -182,7 +182,7 @@
    "expected": "2026-08-17",
    "days_until": -46,
    "status": "open",
-   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Columbus-OH/Mechanical-Engineering-Intern---Columbus--OH_R-16523",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424",
    "note": ""
   },
   {
@@ -830,20 +830,6 @@
    "note": ""
   },
   {
-   "company": "Emerson Electric",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-09",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-09",
-   "days_until": -23,
-   "status": "open",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011001",
-   "note": ""
-  },
-  {
    "company": "HMH",
    "last_cycle_posted": "",
    "posted_on": "2026-09-09",
@@ -1390,6 +1376,20 @@
    "note": ""
   },
   {
+   "company": "Helion Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": -3,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d",
+   "note": ""
+  },
+  {
    "company": "Howmet Aerospace",
    "last_cycle_posted": "",
    "posted_on": "2026-09-29",
@@ -1400,7 +1400,7 @@
    "expected": "2026-09-29",
    "days_until": -3,
    "status": "open",
-   "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119675",
+   "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119686",
    "note": ""
   },
   {
@@ -1894,6 +1894,20 @@
    "note": ""
   },
   {
+   "company": "Emerson Electric",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -23,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Michael Baker International",
    "last_cycle_posted": "",
    "posted_on": "2026-09-09",
@@ -1992,5 +2006,5 @@
    "note": ""
   }
  ],
- "count": 142
+ "count": 143
 }

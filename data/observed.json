@@ -229,9 +229,10 @@
      "role_ids": [
       "greenhouse:andurilindustries:5153187007",
       "greenhouse:andurilindustries:5153218007",
-      "greenhouse:andurilindustries:5236893007"
+      "greenhouse:andurilindustries:5236893007",
+      "greenhouse:andurilindustries:5255593007"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -461,11 +462,13 @@
     "Summer 2027": {
      "first_posted": "2026-09-11",
      "role_ids": [
+      "workday:chartermfg:/job/Charter-Aarrowcast---Shawano-WI/Controls-Engineer-Intern--Summer-2027-_R08167",
       "workday:chartermfg:/job/Charter-Steel---Cleveland-OH/Quality-Engineer-Intern--Summer-2027-_R08068",
       "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineer-Intern--Year-Round-_R08102",
-      "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineering-Intern--Year-Round-_R08122"
+      "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineering-Intern--Year-Round-_R08122",
+      "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133"
      ],
-     "count": 3
+     "count": 5
     }
    }
   },
@@ -863,6 +866,19 @@
      "role_ids": [
       "ashby:h3x-technologies:6af49576-a61d-480c-b155-3e034e2ed5be",
       "ashby:h3x-technologies:be8855c5-f8c7-4f09-bd3f-04ecbcf4b42d"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "helion energy": {
+   "name": "Helion Energy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "ashby:helion:56636c72-2c72-4f4f-8334-3b233a235c8d",
+      "ashby:helion:b73602bd-b644-4a46-9188-fded4b2db606"
      ],
      "count": 2
     }
@@ -1485,6 +1501,7 @@
     "Summer 2027": {
      "first_posted": "2026-08-07",
      "role_ids": [
+      "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253538",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139",
@@ -1507,7 +1524,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 21
+     "count": 22
     }
    }
   },
@@ -1529,6 +1546,7 @@
     "Summer 2027": {
      "first_posted": "2026-09-10",
      "role_ids": [
+      "workday:nvent:/job/Anoka-MN-US/Electrical-Controls-Engineering-Co-Op--January---August-2027-_R23894",
       "workday:nvent:/job/Anoka-MN-US/Electrical-Controls-Engineering-Co-Op_R23626",
       "workday:nvent:/job/Anoka-MN-US/Electrical-Controls-Engineering-Intern--June---August-2027-_R23646",
       "workday:nvent:/job/Anoka-MN-US/Manufacturing-Automaton-Intern--June---August-2027-_R23865",
@@ -1541,7 +1559,7 @@
       "workday:nvent:/job/Solon-OH-US/Mechanical-Engineering-Co-Op--Jan---Aug-2027-_R23577",
       "workday:nvent:/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539"
      ],
-     "count": 11
+     "count": 12
     }
    }
   },
@@ -2498,5 +2516,5 @@
    }
   }
  },
- "updated_at": "2026-10-02T12:55:42Z"
+ "updated_at": "2026-10-02T22:31:32Z"
 }
