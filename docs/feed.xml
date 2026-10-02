@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-02T05:57:23Z</updated>
+  <updated>2026-10-02T12:55:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:costar:/job/Sunnyvale-US/Mechanical-Engineering-Intern_R39952</id>
-    <title>CoStar Group: Mechanical Engineering Intern 🛂</title>
-    <link href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Mechanical-Engineering-Intern_R39952"/>
-    <updated>2026-10-02T05:57:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Sunnyvale (US) · Python, MATLAB, SolidWorks, CAD · sponsorship: no-sponsorship</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:roboforce:5441463008</id>
     <title>RoboForce: Robotics Mechanical Engineering Intern (Fall/Winter 2026)</title>
@@ -22,6 +14,14 @@
     <updated>2026-10-02T05:57:20Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Mechanical Design · Milpitas, CA · SolidWorks, CAD, GD&amp;T, FEA, CNC</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:costar:/job/Sunnyvale-US/Mechanical-Engineering-Intern_R39952</id>
+    <title>CoStar Group: Mechanical Engineering Intern 🛂</title>
+    <link href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Mechanical-Engineering-Intern_R39952"/>
+    <updated>2026-10-02T05:57:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Sunnyvale (US) · Python, MATLAB, SolidWorks, CAD · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:vardaspace:8010632003</id>
