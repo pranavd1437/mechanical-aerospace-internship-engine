@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-03T11:54:57Z",
+ "generated_at": "2026-10-03T16:38:26Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 683,
+ "count": 681,
  "jobs": [
   {
    "id": "greenhouse:muonspace:5256284007",
@@ -10618,57 +10618,6 @@
    "skills": [],
    "source": "workday",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:boeing:/job/USA---Berkeley-MO/Engineering---Technology-Innovation--Graduate-Researcher-Program---Advanced-Materials---Structures-Intern_JR2026523659",
-   "company": "The Boeing Company",
-   "title": "Engineering & Technology Innovation, Graduate Researcher Program – Advanced Materials & Structures Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Structures & FEA",
-   "location": "USA - Berkeley, MO",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Engineering---Technology-Innovation--Graduate-Researcher-Program---Advanced-Materials---Structures-Intern_JR2026523659",
-   "posted_at": "2026-09-08T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-08T21:22:24Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Python",
-    "MATLAB",
-    "CAD",
-    "FEA"
-   ],
-   "source": "workday",
-   "h1b_approvals": 28,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:boeing:/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation--Graduate-Researcher-Program----Computational-Fluid-Dynamics-Intern_JR2026523774",
-   "company": "The Boeing Company",
-   "title": "Boeing Engineering & Technology Innovation, Graduate Researcher Program –  Computational Fluid Dynamics Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Thermal, Fluids & Propulsion",
-   "location": "USA - Huntington Beach, CA",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation--Graduate-Researcher-Program----Computational-Fluid-Dynamics-Intern_JR2026523774",
-   "posted_at": "2026-09-08T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-08T21:22:24Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "CFD",
-    "C++",
-    "Linux"
-   ],
-   "source": "workday",
-   "h1b_approvals": 28,
    "program": "Internship",
    "remote": false
   },
