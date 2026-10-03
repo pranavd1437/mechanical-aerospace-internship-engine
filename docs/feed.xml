@@ -5,39 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-02T22:31:36Z</updated>
+  <updated>2026-10-03T05:34:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:ag:/job/Grand-Prairie-TX/Long-term-Internship---Quality-Engineering_JR10446781</id>
-    <title>Airbus: Long-term Internship - Quality Engineering</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Grand-Prairie-TX/Long-term-Internship---Quality-Engineering_JR10446781"/>
-    <updated>2026-10-02T22:31:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Grand Prairie, TX · AutoCAD, Six Sigma, Lean Manufacturing · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:greenhouse:muonspace:5256286007</id>
+    <title>Muon Space: Environmental Test Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/muonspace/jobs/5256286007"/>
+    <updated>2026-10-03T05:34:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · San Jose, CA · $40/hr · Python, C++, MATLAB, Simulink, LabVIEW · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:andurilindustries:5255593007</id>
-    <title>Anduril: 2027 Industrial Engineer Intern</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007"/>
-    <updated>2026-10-02T22:31:32Z</updated>
+    <id>urn:intern-engine:greenhouse:muonspace:5256284007</id>
+    <title>Muon Space: Industrial Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/muonspace/jobs/5256284007"/>
+    <updated>2026-10-03T05:34:35Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Ashville, Ohio, United States; Costa Mesa, California, United States · SQL, AutoCAD, Six Sigma, Lean Manufacturing, Computer Vision</summary>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · San Jose, CA · $40/hr · Python, SQL, CAD, Six Sigma, Lean Manufacturing · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:chartermfg:/job/Charter-Aarrowcast---Shawano-WI/Controls-Engineer-Intern--Summer-2027-_R08167</id>
-    <title>Charter Manufacturing: Controls Engineer Intern (Summer 2027)</title>
-    <link href="https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Aarrowcast---Shawano-WI/Controls-Engineer-Intern--Summer-2027-_R08167"/>
-    <updated>2026-10-02T22:31:32Z</updated>
+    <id>urn:intern-engine:greenhouse:muonspace:5253432007</id>
+    <title>Muon Space: Quality Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/muonspace/jobs/5253432007"/>
+    <updated>2026-10-03T05:34:35Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · Charter Aarrowcast - Shawano, WI · SQL, AutoCAD</summary>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · San Jose, CA · $40/hr · CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:chartermfg:/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133</id>
-    <title>Charter Manufacturing: Smart Manufacturing Engineer Intern (Summer 2027)</title>
-    <link href="https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133"/>
-    <updated>2026-10-02T22:31:32Z</updated>
+    <id>urn:intern-engine:greenhouse:muonspace:5253474007</id>
+    <title>Muon Space: Thermal Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/muonspace/jobs/5253474007"/>
+    <updated>2026-10-03T05:34:35Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Charter Steel - Saukville, WI</summary>
+    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · San Jose, CA · $40/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:helion:56636c72-2c72-4f4f-8334-3b233a235c8d</id>
@@ -54,6 +54,46 @@
     <updated>2026-10-02T22:31:32Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Everett, WA · $48 per hour · SolidWorks, Siemens NX, CAD, GD&amp;T</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:andurilindustries:5255593007</id>
+    <title>Anduril: 2027 Industrial Engineer Intern</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007"/>
+    <updated>2026-10-02T22:31:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Ashville, Ohio, United States; Costa Mesa, California, United States · SQL, AutoCAD, Six Sigma, Lean Manufacturing, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Wabtec:3743990015874986</id>
+    <title>Wabtec: Transducer Manufacturing Engineering Co-Op</title>
+    <link href="https://jobs.smartrecruiters.com/Wabtec/3743990015874986"/>
+    <updated>2026-10-02T22:31:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Waltham, MA, United States · $25–$28/hr · C#, LabVIEW, Lean Manufacturing · H-1B track record: ~47 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ag:/job/Grand-Prairie-TX/Long-term-Internship---Quality-Engineering_JR10446781</id>
+    <title>Airbus: Long-term Internship - Quality Engineering</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Grand-Prairie-TX/Long-term-Internship---Quality-Engineering_JR10446781"/>
+    <updated>2026-10-02T22:31:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Grand Prairie, TX · AutoCAD, Six Sigma, Lean Manufacturing · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:chartermfg:/job/Charter-Aarrowcast---Shawano-WI/Controls-Engineer-Intern--Summer-2027-_R08167</id>
+    <title>Charter Manufacturing: Controls Engineer Intern (Summer 2027)</title>
+    <link href="https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Aarrowcast---Shawano-WI/Controls-Engineer-Intern--Summer-2027-_R08167"/>
+    <updated>2026-10-02T22:31:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · Charter Aarrowcast - Shawano, WI · SQL, AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:chartermfg:/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133</id>
+    <title>Charter Manufacturing: Smart Manufacturing Engineer Intern (Summer 2027)</title>
+    <link href="https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133"/>
+    <updated>2026-10-02T22:31:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Charter Steel - Saukville, WI</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263</id>
@@ -78,14 +118,6 @@
     <updated>2026-10-02T22:31:32Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Controls &amp; Mechatronics · Bloomington, MN · Python, LabVIEW</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Wabtec:3743990015874986</id>
-    <title>Wabtec: Transducer Manufacturing Engineering Co-Op</title>
-    <link href="https://jobs.smartrecruiters.com/Wabtec/3743990015874986"/>
-    <updated>2026-10-02T22:31:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Waltham, MA, United States · $25–$28/hr · C#, LabVIEW, Lean Manufacturing · H-1B track record: ~47 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:zoll:/job/Pawtucket-RI/Manufacturing-Engineering-Co-op_R20367</id>
@@ -296,14 +328,6 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Niles, OH · SolidWorks, AutoCAD, CAD</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:Wabtec:3743990015822086</id>
-    <title>Wabtec: Transducer Manufacturing Engineering Co-Op</title>
-    <link href="https://jobs.smartrecruiters.com/Wabtec/3743990015822086"/>
-    <updated>2026-10-01T13:37:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Waltham, MA, United States · $25–$28/hr · C#, LabVIEW, Lean Manufacturing · H-1B track record: ~47 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:hitachi:/job/Batesburg-Leesville-South-Carolina-United-States-of-America/Intern---Industrial-Engineering_R0144157</id>
     <title>Hitachi Energy: Intern - Industrial Engineering</title>
     <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Batesburg-Leesville-South-Carolina-United-States-of-America/Intern---Industrial-Engineering_R0144157"/>
@@ -454,14 +478,6 @@
     <updated>2026-09-30T22:29:39Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · Los Angeles, CA · 25–33 USD/hr · FEA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hctz.fa.us2.oraclecloud.com:2506814</id>
-    <title>onsemi: Summer 2027 - Manufacturing Engineer Intern</title>
-    <link href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506814"/>
-    <updated>2026-09-30T22:29:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Nampa, ID, United States · Python, SQL, Six Sigma, Lean Manufacturing</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Wabtec:3743990015802516</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-29T22:29:27Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · United States-California-Palmdale · $21.5–$39/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Vandenberg-AFB/XMLNAME-2027-Test-Engineering-Intern---VSFB-CA_R10253497</id>
-    <title>Northrop Grumman: 2027 Test Engineering Intern - VSFB CA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Vandenberg-AFB/XMLNAME-2027-Test-Engineering-Intern---VSFB-CA_R10253497"/>
-    <updated>2026-09-29T22:29:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · United States-California-Vandenberg AFB · $26.75–$33.5/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10253458</id>
-    <title>Northrop Grumman: 2027 Mechanical Engineering Intern - Clearfield UT 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10253458"/>
-    <updated>2026-09-29T22:29:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · United States-Utah-Clearfield · $23–$29/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>
