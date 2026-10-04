@@ -2647,6 +2647,11 @@
     "site": "uni"
   },
   {
+    "name": "Automat",
+    "slug": "automat",
+    "ats": "ashby"
+  },
+  {
     "name": "Automated Media",
     "slug": "dealertire",
     "ats": "workday",
@@ -3512,6 +3517,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Blend",
+    "slug": "blend",
+    "ats": "greenhouse"
+  },
+  {
     "name": "blend360",
     "slug": "Blend360",
     "ats": "smartrecruiters"
@@ -3681,6 +3691,11 @@
     "name": "Blue Sky Innovators",
     "slug": "blueskyinnovators",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Blue Water Autonomy",
+    "slug": "blue-water-autonomy",
+    "ats": "rippling"
   },
   {
     "name": "Blue Yonder",
@@ -6641,6 +6656,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "CRG Defense",
+    "slug": "cornerstone-research-group-inc",
+    "ats": "workable"
+  },
+  {
     "name": "Cribl",
     "slug": "cribl",
     "ats": "greenhouse"
@@ -7388,6 +7408,11 @@
     "name": "Dexmate",
     "slug": "dexmate",
     "ats": "ashby"
+  },
+  {
+    "name": "Dext Capital",
+    "slug": "dext-capital-llc",
+    "ats": "rippling"
   },
   {
     "name": "Dexterra Group",
@@ -9764,6 +9789,11 @@
     "site": "F1"
   },
   {
+    "name": "Fortell",
+    "slug": "fortell",
+    "ats": "ashby"
+  },
+  {
     "name": "Fortera",
     "slug": "forteracorporation",
     "ats": "greenhouse"
@@ -11592,6 +11622,16 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Highlight AI",
+    "slug": "highlightai",
+    "ats": "ashby"
+  },
+  {
+    "name": "HighlightTA",
+    "slug": "highlightta",
+    "ats": "ashby"
+  },
+  {
     "name": "Highmark Health",
     "slug": "highmarkhealth",
     "ats": "workday",
@@ -13183,6 +13223,11 @@
     "site": "Campus_Career_Site"
   },
   {
+    "name": "Jitsu",
+    "slug": "jitsu",
+    "ats": "rippling"
+  },
+  {
     "name": "JM Family",
     "slug": "jmfamily",
     "ats": "workday",
@@ -13750,6 +13795,11 @@
     "name": "Kraken Robotics",
     "slug": "kraken-robotics-inc",
     "ats": "rippling"
+  },
+  {
+    "name": "Krew",
+    "slug": "krew",
+    "ats": "ashby"
   },
   {
     "name": "KRG Technologies",
@@ -18125,6 +18175,11 @@
     "ats": "rippling"
   },
   {
+    "name": "Pangram Labs",
+    "slug": "pangramlabs",
+    "ats": "ashby"
+  },
+  {
     "name": "Pansophic Learning",
     "slug": "pansophiclearning",
     "ats": "greenhouse"
@@ -18232,6 +18287,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "PMS_Careers"
+  },
+  {
+    "name": "Patch",
+    "slug": "patch",
+    "ats": "ashby"
   },
   {
     "name": "Patch My PC",
@@ -19305,6 +19365,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Prosper AI",
+    "slug": "prosper-ai",
+    "ats": "ashby"
+  },
+  {
     "name": "Prosper Funding",
     "slug": "prosper",
     "ats": "lever"
@@ -19944,6 +20009,11 @@
   {
     "name": "Reflect Orbital",
     "slug": "reflect-orbital",
+    "ats": "ashby"
+  },
+  {
+    "name": "Reflex Robotics",
+    "slug": "reflexrobotics",
     "ats": "ashby"
   },
   {
@@ -22569,6 +22639,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "search"
+  },
+  {
+    "name": "Standard Subsea",
+    "slug": "standardsubsea",
+    "ats": "ashby"
   },
   {
     "name": "Stanford Health Care",
