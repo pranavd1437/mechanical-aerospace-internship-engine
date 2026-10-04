@@ -1,9 +1,32 @@
 {
- "generated_at": "2026-10-03T21:32:59Z",
+ "generated_at": "2026-10-04T06:09:53Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 681,
+ "count": 682,
  "jobs": [
+  {
+   "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518",
+   "company": "RTX",
+   "title": "Avionics Test Engineering -Systems Engineer Intern (Onsite)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Test & Validation",
+   "location": "US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518",
+   "posted_at": "2026-10-03T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-04T06:09:50Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [
+    "MATLAB"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "greenhouse:muonspace:5256284007",
    "company": "Muon Space",
