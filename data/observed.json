@@ -826,12 +826,13 @@
     "Summer 2027": {
      "first_posted": "2026-08-14",
      "role_ids": [
+      "workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604587",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604657",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -923,11 +924,12 @@
      "first_posted": "2026-10-05",
      "role_ids": [
       "workday:hitachi:/job/Auburn-Hills-Michigan-United-States/Controls-Engineering-Internship-Co-op_R0143858",
+      "workday:hitachi:/job/Auburn-Hills-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0143857",
       "workday:hitachi:/job/Holland-Michigan-United-States/Controls-Engineering-Internship-Co-op_R0144972",
       "workday:hitachi:/job/Holland-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0144975",
       "workday:hitachi:/job/Holland-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0144977"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -2535,5 +2537,5 @@
    }
   }
  },
- "updated_at": "2026-10-05T05:58:38Z"
+ "updated_at": "2026-10-05T15:01:06Z"
 }
