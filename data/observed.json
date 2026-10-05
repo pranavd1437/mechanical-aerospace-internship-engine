@@ -916,6 +916,21 @@
     }
    }
   },
+  "hitachi energy": {
+   "name": "Hitachi Energy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-05",
+     "role_ids": [
+      "workday:hitachi:/job/Auburn-Hills-Michigan-United-States/Controls-Engineering-Internship-Co-op_R0143858",
+      "workday:hitachi:/job/Holland-Michigan-United-States/Controls-Engineering-Internship-Co-op_R0144972",
+      "workday:hitachi:/job/Holland-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0144975",
+      "workday:hitachi:/job/Holland-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0144977"
+     ],
+     "count": 4
+    }
+   }
+  },
   "hmh": {
    "name": "HMH",
    "cycles": {
@@ -2520,5 +2535,5 @@
    }
   }
  },
- "updated_at": "2026-10-04T21:42:46Z"
+ "updated_at": "2026-10-05T05:58:38Z"
 }
