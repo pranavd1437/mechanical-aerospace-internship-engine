@@ -437,6 +437,18 @@
     }
    }
   },
+  "carpenter technology": {
+   "name": "Carpenter Technology",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-06",
+     "role_ids": [
+      "workday:cartech:/job/Reading-PA/Maintenance-Intern---Mechanical_26885"
+     ],
+     "count": 1
+    }
+   }
+  },
   "caterpillar": {
    "name": "Caterpillar Inc.",
    "cycles": {
@@ -1284,6 +1296,20 @@
     }
    }
   },
+  "mach industries": {
+   "name": "Mach Industries",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-25",
+     "role_ids": [
+      "greenhouse:machindustries:4420611009",
+      "greenhouse:machindustries:4420631009",
+      "greenhouse:machindustries:4429928009"
+     ],
+     "count": 3
+    }
+   }
+  },
   "mars": {
    "name": "Mars",
    "cycles": {
@@ -1558,6 +1584,7 @@
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253538",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139",
+      "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Mechanical-Engineer-Intern---Sunnyvale-CA_R10251428",
       "workday:ngc:/job/United-States-California-Vandenberg-AFB/XMLNAME-2027-Test-Engineering-Intern---VSFB-CA_R10253497",
       "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Mechanical-Engineer-Intern---Woodland-Hills-CA_R10249483",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253047",
@@ -1577,7 +1604,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 23
+     "count": 24
     }
    }
   },
@@ -2045,9 +2072,10 @@
      "first_posted": "2026-09-23",
      "role_ids": [
       "workday:snc:/job/Colorado-Springs-CO/Mechanical-Engineer-I--For-2026-Interns-Only-_R0030590",
-      "workday:snc:/job/Hagerstown-MD/Quality-Engineer-I--For-2026-Interns-Only-_R0030583"
+      "workday:snc:/job/Hagerstown-MD/Quality-Engineer-I--For-2026-Interns-Only-_R0030583",
+      "workday:snc:/job/Lone-Tree-CO/Aerospace-Engineer-I--For-2026-Interns-Only-_R0030592"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2572,5 +2600,5 @@
    }
   }
  },
- "updated_at": "2026-10-06T06:36:41Z"
+ "updated_at": "2026-10-06T18:38:46Z"
 }
