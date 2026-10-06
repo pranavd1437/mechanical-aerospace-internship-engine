@@ -5,23 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-06T00:13:33Z</updated>
+  <updated>2026-10-06T06:36:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Intern---Summer-2027_JR00047889</id>
-    <title>ABB: Manufacturing Intern - Summer 2027 🛂</title>
-    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Manufacturing-Intern---Summer-2027_JR00047889"/>
-    <updated>2026-10-06T00:13:30Z</updated>
+    <id>urn:intern-engine:greenhouse:andurilindustries:5257674007</id>
+    <title>Anduril: 2027 Quality &amp; Test Engineer Intern</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007"/>
+    <updated>2026-10-06T06:36:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA, NM, Albuquerque · $20–$34/hr · SolidWorks, Creo · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Test &amp; Validation · Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States · MATLAB, Computer Vision</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:arcboatcompany:5442958008</id>
-    <title>Arc: Mechanical Engineering Intern - Powertrain</title>
-    <link href="https://job-boards.greenhouse.io/arcboatcompany/jobs/5442958008"/>
-    <updated>2026-10-06T00:13:30Z</updated>
+    <id>urn:intern-engine:greenhouse:andurilindustries:5257682007</id>
+    <title>Anduril: 2027 Reliability Engineer Intern</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007"/>
+    <updated>2026-10-06T06:36:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Torrance, CA · $36/hr · MATLAB, Simulink, CAD, FEA, CNC</summary>
+    <summary>Summer 2027 · Test &amp; Validation · Costa Mesa, California, United States · FMEA, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:arcboatcompany:5443971008</id>
+    <title>Arc: Powertrain Electrical Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/arcboatcompany/jobs/5443971008"/>
+    <updated>2026-10-06T06:36:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Torrance, CA · $40/hr · Python, FEA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:field-ai:5ae428f8-ac13-49b2-a244-fb97d31bfc79</id>
+    <title>Field AI: Mechanical Engineer Internship, Robotics Hardware</title>
+    <link href="https://jobs.lever.co/field-ai/5ae428f8-ac13-49b2-a244-fb97d31bfc79"/>
+    <updated>2026-10-06T06:36:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Boston, MA · 28–63 USD/hr · SolidWorks, CAD, GD&amp;T, FEA, CNC</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:arcboatcompany:5442902008</id>
@@ -32,12 +48,44 @@
     <summary>Summer 2027 · Controls &amp; Mechatronics · Torrance, CA · MATLAB, Simulink</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:arcboatcompany:5442958008</id>
+    <title>Arc: Mechanical Engineering Intern - Powertrain</title>
+    <link href="https://job-boards.greenhouse.io/arcboatcompany/jobs/5442958008"/>
+    <updated>2026-10-06T00:13:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Torrance, CA · $36/hr · MATLAB, Simulink, CAD, FEA, CNC</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:greenhouse:cssmerge:8868918002</id>
     <title>Atoms: Manufacturing Intern</title>
     <link href="https://job-boards.greenhouse.io/cssmerge/jobs/8868918002"/>
     <updated>2026-10-06T00:13:30Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · San Francisco, CA · $50/hr · Python, SolidWorks, Siemens NX, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:ispace-inc:fa34bd91-bd23-460b-af53-4a7f2066d9f3</id>
+    <title>ispace: 2027 Summer Internship - Mechanical Test Engineer 🇺🇸</title>
+    <link href="https://jobs.lever.co/ispace-inc/fa34bd91-bd23-460b-af53-4a7f2066d9f3"/>
+    <updated>2026-10-06T00:13:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Englewood, Colorado · $28/hr · sponsorship: citizens-only · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95758</id>
+    <title>WSP: Mechanical Engineering Co-op - Spring/Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95758"/>
+    <updated>2026-10-06T00:13:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Philadelphia, PA, United States · $23.9–$31.11/hr · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Intern---Summer-2027_JR00047889</id>
+    <title>ABB: Manufacturing Intern - Summer 2027 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Manufacturing-Intern---Summer-2027_JR00047889"/>
+    <updated>2026-10-06T00:13:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · USA, NM, Albuquerque · $20–$34/hr · SolidWorks, Creo · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hitachi:/job/Liberty-South-Carolina-United-States/Controls-Engineering-Internship-Co-op_R0144980</id>
@@ -54,14 +102,6 @@
     <updated>2026-10-06T00:13:30Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Liberty, South Carolina, United States · CAD · H-1B track record: ~66 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:ispace-inc:fa34bd91-bd23-460b-af53-4a7f2066d9f3</id>
-    <title>ispace: 2027 Summer Internship - Mechanical Test Engineer 🇺🇸</title>
-    <link href="https://jobs.lever.co/ispace-inc/fa34bd91-bd23-460b-af53-4a7f2066d9f3"/>
-    <updated>2026-10-06T00:13:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Englewood, Colorado · $28/hr · sponsorship: citizens-only · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:koppers:/job/Hubbell-MI/Mechanical-Engineer-Co-op_REQ03199</id>
@@ -94,14 +134,6 @@
     <updated>2026-10-06T00:13:30Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Mechanical Design · Colorado Springs, CO · CAD, GD&amp;T · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95758</id>
-    <title>WSP: Mechanical Engineering Co-op - Spring/Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95758"/>
-    <updated>2026-10-06T00:13:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Philadelphia, PA, United States · $23.9–$31.11/hr · AutoCAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:borgwarner:/job/Kokomo-Technical-Center---Indiana---USA/Manufacturing-Process-Engineering-Intern_R2026-3943-1</id>
@@ -774,37 +806,5 @@
     <updated>2026-09-30T22:29:39Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Test &amp; Validation · Santa Clara, CA · Python · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wattswater:/job/Fort-Worth-TX/Production-Engineer-Intern--Summer-2027_10017592</id>
-    <title>Watts Water: Production Engineer Intern, Summer 2027 🛂</title>
-    <link href="https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Production-Engineer-Intern--Summer-2027_10017592"/>
-    <updated>2026-09-30T22:29:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Fort Worth, TX · CAD, Lean Manufacturing · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:zekelman:/job/Rochelle-IL/Intern--Manufacturing-Engineer_JR002824</id>
-    <title>Zekelman Industries: Intern, Manufacturing Engineer</title>
-    <link href="https://zekelman.wd12.myworkdayjobs.com/Careers/job/Rochelle-IL/Intern--Manufacturing-Engineer_JR002824"/>
-    <updated>2026-09-30T22:29:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Rochelle, IL · SolidWorks, AutoCAD, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:zekelman:/job/Warren-OH/Intern--Quality-Engineer_JR002821</id>
-    <title>Zekelman Industries: Intern, Quality Engineer</title>
-    <link href="https://zekelman.wd12.myworkdayjobs.com/Careers/job/Warren-OH/Intern--Quality-Engineer_JR002821"/>
-    <updated>2026-09-30T22:29:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Warren, OH</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Manufacturing-Engineer-Intern---1st-shift---On-site---Aeroestructuras_01872645</id>
-    <title>RTX: Manufacturing Engineer Intern - 1st shift - On site - Aeroestructuras</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Manufacturing-Engineer-Intern---1st-shift---On-site---Aeroestructuras_01872645"/>
-    <updated>2026-09-30T12:54:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carranza #238 ~ BLDG 238, Desarrollo Industrial Colorado · CATIA</summary>
   </entry>
 </feed>

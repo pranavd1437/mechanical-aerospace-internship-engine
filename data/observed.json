@@ -231,9 +231,11 @@
       "greenhouse:andurilindustries:5153187007",
       "greenhouse:andurilindustries:5153218007",
       "greenhouse:andurilindustries:5236893007",
-      "greenhouse:andurilindustries:5255593007"
+      "greenhouse:andurilindustries:5255593007",
+      "greenhouse:andurilindustries:5257674007",
+      "greenhouse:andurilindustries:5257682007"
      ],
-     "count": 4
+     "count": 6
     }
    }
   },
@@ -258,9 +260,10 @@
      "first_posted": "2026-10-05",
      "role_ids": [
       "greenhouse:arcboatcompany:5442902008",
-      "greenhouse:arcboatcompany:5442958008"
+      "greenhouse:arcboatcompany:5442958008",
+      "greenhouse:arcboatcompany:5443971008"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2569,5 +2572,5 @@
    }
   }
  },
- "updated_at": "2026-10-06T00:13:30Z"
+ "updated_at": "2026-10-06T06:36:41Z"
 }
