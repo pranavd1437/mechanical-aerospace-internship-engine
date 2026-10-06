@@ -5,8 +5,104 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-05T15:01:08Z</updated>
+  <updated>2026-10-06T00:13:33Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Intern---Summer-2027_JR00047889</id>
+    <title>ABB: Manufacturing Intern - Summer 2027 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Manufacturing-Intern---Summer-2027_JR00047889"/>
+    <updated>2026-10-06T00:13:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · USA, NM, Albuquerque · $20–$34/hr · SolidWorks, Creo · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:arcboatcompany:5442958008</id>
+    <title>Arc: Mechanical Engineering Intern - Powertrain</title>
+    <link href="https://job-boards.greenhouse.io/arcboatcompany/jobs/5442958008"/>
+    <updated>2026-10-06T00:13:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Torrance, CA · $36/hr · MATLAB, Simulink, CAD, FEA, CNC</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:arcboatcompany:5442902008</id>
+    <title>Arc: Vehicle Controls Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/arcboatcompany/jobs/5442902008"/>
+    <updated>2026-10-06T00:13:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · Torrance, CA · MATLAB, Simulink</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:cssmerge:8868918002</id>
+    <title>Atoms: Manufacturing Intern</title>
+    <link href="https://job-boards.greenhouse.io/cssmerge/jobs/8868918002"/>
+    <updated>2026-10-06T00:13:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · San Francisco, CA · $50/hr · Python, SolidWorks, Siemens NX, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hitachi:/job/Liberty-South-Carolina-United-States/Controls-Engineering-Internship-Co-op_R0144980</id>
+    <title>Hitachi Energy: Controls Engineering Internship/Co-op</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Controls-Engineering-Internship-Co-op_R0144980"/>
+    <updated>2026-10-06T00:13:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · Liberty, South Carolina, United States · CAD · H-1B track record: ~66 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hitachi:/job/Liberty-South-Carolina-United-States/Mechanical-Engineering-Internship-Co-op_R0144979</id>
+    <title>Hitachi Energy: Mechanical Engineering Internship/Co-op</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Mechanical-Engineering-Internship-Co-op_R0144979"/>
+    <updated>2026-10-06T00:13:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Liberty, South Carolina, United States · CAD · H-1B track record: ~66 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:ispace-inc:fa34bd91-bd23-460b-af53-4a7f2066d9f3</id>
+    <title>ispace: 2027 Summer Internship - Mechanical Test Engineer 🇺🇸</title>
+    <link href="https://jobs.lever.co/ispace-inc/fa34bd91-bd23-460b-af53-4a7f2066d9f3"/>
+    <updated>2026-10-06T00:13:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Englewood, Colorado · $28/hr · sponsorship: citizens-only · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:koppers:/job/Hubbell-MI/Mechanical-Engineer-Co-op_REQ03199</id>
+    <title>Koppers: Mechanical Engineer Co-op</title>
+    <link href="https://koppers.wd5.myworkdayjobs.com/Koppers/job/Hubbell-MI/Mechanical-Engineer-Co-op_REQ03199"/>
+    <updated>2026-10-06T00:13:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Hubbell, MI · CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2027-Mechanical-Engineering-Intern---Chandler-AZ_R10254534</id>
+    <title>Northrop Grumman: 2027 Mechanical Engineering Intern - Chandler AZ 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Mechanical-Engineering-Intern---Chandler-AZ_R10254534"/>
+    <updated>2026-10-06T00:13:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · United States-Arizona-Chandler · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Supplier-Quality-Engineer-Intern_R50855</id>
+    <title>Oshkosh: Supplier Quality Engineer Intern</title>
+    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Supplier-Quality-Engineer-Intern_R50855"/>
+    <updated>2026-10-06T00:13:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Oshkosh, Wisconsin, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Colorado-Springs-CO/Mechanical-Engineer-I--For-2026-Interns-Only-_R0030590</id>
+    <title>Sierra Nevada Corporation: Mechanical Engineer I (For 2026 Interns Only) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Colorado-Springs-CO/Mechanical-Engineer-I--For-2026-Interns-Only-_R0030590"/>
+    <updated>2026-10-06T00:13:30Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · Colorado Springs, CO · CAD, GD&amp;T · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95758</id>
+    <title>WSP: Mechanical Engineering Co-op - Spring/Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95758"/>
+    <updated>2026-10-06T00:13:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Philadelphia, PA, United States · $23.9–$31.11/hr · AutoCAD</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:borgwarner:/job/Kokomo-Technical-Center---Indiana---USA/Manufacturing-Process-Engineering-Intern_R2026-3943-1</id>
     <title>BorgWarner: Manufacturing Process Engineering Intern 🛂</title>
@@ -158,14 +254,6 @@
     <updated>2026-10-02T22:31:32Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Waltham, MA, United States · $25–$28/hr · C#, LabVIEW, Lean Manufacturing · H-1B track record: ~47 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Grand-Prairie-TX/Long-term-Internship---Quality-Engineering_JR10446781</id>
-    <title>Airbus: Long-term Internship - Quality Engineering</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Grand-Prairie-TX/Long-term-Internship---Quality-Engineering_JR10446781"/>
-    <updated>2026-10-02T22:31:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Grand Prairie, TX · AutoCAD, Six Sigma, Lean Manufacturing · H-1B track record: ~16 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:chartermfg:/job/Charter-Aarrowcast---Shawano-WI/Controls-Engineer-Intern--Summer-2027-_R08167</id>
@@ -718,93 +806,5 @@
     <updated>2026-09-30T12:54:50Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carranza #238 ~ BLDG 238, Desarrollo Industrial Colorado · CATIA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:graphcore-early-careers:8842365002</id>
-    <title>Graphcore Early Careers: System Validation Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8842365002"/>
-    <updated>2026-09-30T05:48:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Austin, Texas, United States · Python, Bash, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:graphcore:8841978002</id>
-    <title>Graphcore: System Validation Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8841978002"/>
-    <updated>2026-09-30T05:48:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Austin, Texas, United States · Python, Bash, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:muonspace:5252677007</id>
-    <title>Muon Space: GNC Hardware Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/muonspace/jobs/5252677007"/>
-    <updated>2026-09-30T05:48:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · Mountain View, CA · $40/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01874876</id>
-    <title>RTX: Industrial Engineering Co-op (Spring/Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01874876"/>
-    <updated>2026-09-30T05:48:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · SolidWorks, AutoCAD, CAD, Six Sigma · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874877</id>
-    <title>RTX: Industrial Engineering Co-op (Summer/Fall 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874877"/>
-    <updated>2026-09-30T05:48:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · SolidWorks, AutoCAD, CAD, Six Sigma · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Mechanical-Engineer-Intern---Rolling-Meadows-IL_R10252778</id>
-    <title>Northrop Grumman: 2027 Hardware Mechanical Engineer Intern - Rolling Meadows IL 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Mechanical-Engineer-Intern---Rolling-Meadows-IL_R10252778"/>
-    <updated>2026-09-30T05:48:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · United States-Illinois-Rolling Meadows · $20.5–$37.25/hr · SolidWorks, Siemens NX, Creo, CAD, ANSYS · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:freeformfuturecorp:8004101003</id>
-    <title>Freeform: Manufacturing Engineering Intern, CNC Machining (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8004101003"/>
-    <updated>2026-09-29T22:29:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Los Angeles, CA (On-site) · $30/hr · CNC, CAD, GD&amp;T</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107296</id>
-    <title>S&amp;C Electric Company: Test Equipment &amp; Maintenance Engineer Intern- Franklin, WI</title>
-    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107296"/>
-    <updated>2026-09-29T22:29:27Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Test &amp; Validation · Franklin, WI, United States · $22–$30/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107298</id>
-    <title>S&amp;C Electric Company: Manufacturing Engineer Intern- Palatine</title>
-    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107298"/>
-    <updated>2026-09-29T22:29:27Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Manufacturing &amp; Quality · Palatine, IL, United States · $22–$30/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107299</id>
-    <title>S&amp;C Electric Company: Mechanical Engineer Co-Op</title>
-    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107299"/>
-    <updated>2026-09-29T22:29:27Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Mechanical Design · Chicago, IL, United States · $22–$30/hr · CAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107302</id>
-    <title>S&amp;C Electric Company: Material Engineer Intern</title>
-    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107302"/>
-    <updated>2026-09-29T22:29:27Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Materials Engineering · Chicago, IL, United States · $22–$30/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

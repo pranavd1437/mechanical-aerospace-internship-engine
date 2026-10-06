@@ -16,9 +16,10 @@
       "workday:abb:/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726",
       "workday:abb:/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727",
       "workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Quality-Engineering-Intern---Summer-2027_JR00047273",
-      "workday:abb:/job/USA-NJ-Hackettstown/Manufacturing-Engineering-Intern---Summer-2027_JR00044977"
+      "workday:abb:/job/USA-NJ-Hackettstown/Manufacturing-Engineering-Intern---Summer-2027_JR00044977",
+      "workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Intern---Summer-2027_JR00047889"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -247,6 +248,19 @@
       "workday:amat:/job/HudsonMA/XMLNAME-2026-Fall-Process-Integration-Engineer-Co-op--Cambridge--MA-_R2618309-1"
      ],
      "count": 3
+    }
+   }
+  },
+  "arc": {
+   "name": "Arc",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-05",
+     "role_ids": [
+      "greenhouse:arcboatcompany:5442902008",
+      "greenhouse:arcboatcompany:5442958008"
+     ],
+     "count": 2
     }
    }
   },
@@ -927,9 +941,11 @@
       "workday:hitachi:/job/Auburn-Hills-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0143857",
       "workday:hitachi:/job/Holland-Michigan-United-States/Controls-Engineering-Internship-Co-op_R0144972",
       "workday:hitachi:/job/Holland-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0144975",
-      "workday:hitachi:/job/Holland-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0144977"
+      "workday:hitachi:/job/Holland-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0144977",
+      "workday:hitachi:/job/Liberty-South-Carolina-United-States/Controls-Engineering-Internship-Co-op_R0144980",
+      "workday:hitachi:/job/Liberty-South-Carolina-United-States/Mechanical-Engineering-Internship-Co-op_R0144979"
      ],
-     "count": 5
+     "count": 7
     }
    }
   },
@@ -1076,6 +1092,18 @@
       "workday:irhythmtech:/job/San-Francisco-CA/System-Test-Engineer-Co-Op-Full-Time-Intern-Jan-June-2027_JR1781"
      ],
      "count": 3
+    }
+   }
+  },
+  "ispace": {
+   "name": "ispace",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-02",
+     "role_ids": [
+      "lever:ispace-inc:fa34bd91-bd23-460b-af53-4a7f2066d9f3"
+     ],
+     "count": 1
     }
    }
   },
@@ -1523,6 +1551,7 @@
      "first_posted": "2026-08-07",
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
+      "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2027-Mechanical-Engineering-Intern---Chandler-AZ_R10254534",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253538",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139",
@@ -1545,7 +1574,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 22
+     "count": 23
     }
    }
   },
@@ -1632,9 +1661,10 @@
       "workday:oshkoshcorporation:/job/Kewaunee-Wisconsin-United-States/Engineer-Intern---Manufacturing--Summer-2027-_R49737",
       "workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Robotic-Programming-Welding-Intern--Summer-2027-_R49598",
       "workday:oshkoshcorporation:/job/New-Hudson-Michigan-United-States/Manufacturing-Intern---Summer-2027_R50275",
-      "workday:oshkoshcorporation:/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823"
+      "workday:oshkoshcorporation:/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823",
+      "workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Supplier-Quality-Engineer-Intern_R50855"
      ],
-     "count": 10
+     "count": 11
     }
    }
   },
@@ -2011,9 +2041,10 @@
     "Fall 2026": {
      "first_posted": "2026-09-23",
      "role_ids": [
+      "workday:snc:/job/Colorado-Springs-CO/Mechanical-Engineer-I--For-2026-Interns-Only-_R0030590",
       "workday:snc:/job/Hagerstown-MD/Quality-Engineer-I--For-2026-Interns-Only-_R0030583"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2453,13 +2484,14 @@
       "oracle:emit.fa.ca3.oraclecloud.com:95483",
       "oracle:emit.fa.ca3.oraclecloud.com:95528",
       "oracle:emit.fa.ca3.oraclecloud.com:95693",
+      "oracle:emit.fa.ca3.oraclecloud.com:95758",
       "oracle:emit.fa.ca3.oraclecloud.com:95761",
       "oracle:emit.fa.ca3.oraclecloud.com:95871",
       "oracle:emit.fa.ca3.oraclecloud.com:96292",
       "oracle:emit.fa.ca3.oraclecloud.com:96332",
       "oracle:emit.fa.ca3.oraclecloud.com:96611"
      ],
-     "count": 32
+     "count": 33
     }
    }
   },
@@ -2537,5 +2569,5 @@
    }
   }
  },
- "updated_at": "2026-10-05T15:01:06Z"
+ "updated_at": "2026-10-06T00:13:30Z"
 }
