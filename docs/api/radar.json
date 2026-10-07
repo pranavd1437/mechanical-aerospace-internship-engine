@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T13:39:50Z",
+ "generated_at": "2026-10-07T23:18:39Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -1026,6 +1026,20 @@
    "note": ""
   },
   {
+   "company": "onsemi",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": -22,
+   "status": "open",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506639",
+   "note": ""
+  },
+  {
    "company": "TreeHouse Foods",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
@@ -1544,6 +1558,48 @@
    "note": ""
   },
   {
+   "company": "Ingredion",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/North-Kansas-City-MO/Mechanical-Engineer-Co-op-2027--January---August-_Req-40189-1",
+   "note": ""
+  },
+  {
+   "company": "Nissan",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290",
+   "note": ""
+  },
+  {
+   "company": "S&C Electric Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107366",
+   "note": ""
+  },
+  {
    "company": "Collier Aerospace",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1992,20 +2048,6 @@
    "note": ""
   },
   {
-   "company": "onsemi",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-15",
-   "days_until": -22,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Smith+Nephew",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -2076,5 +2118,5 @@
    "note": ""
   }
  ],
- "count": 148
+ "count": 151
 }
