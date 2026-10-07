@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/pranavd1437/mechanical-aerospace-internship-engine/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/pranavd1437/mechanical-aerospace-internship-engine/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fpranavd1437.github.io%2Fmechanical-aerospace-internship-engine%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%206%20hours-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)
 
-### 722 open roles (444 listed below) · 134 new this week
+### 720 open roles (442 listed below) · 132 new this week
 
-4,636 employers tracked · updated Oct 07, 2026 at 06:17 UTC
+4,636 employers tracked · updated Oct 07, 2026 at 13:39 UTC
 
-_440 have a cycle the employer stated · 282 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_440 have a cycle the employer stated · 280 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)** · **[📡 RSS](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)** · **[⚙️ JSON API](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/api/jobs.json)**
 
@@ -88,13 +88,13 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| ABB ✓ | Manufacturing Quality Intern - Summer 2027 🛂 🆕 | Manufacturing & Quality | USA, NM, Albuquerque | No skills listed | Oct 06, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Manufacturing-Quality-Intern---Summer-2027_JR00048446) |
-| Bosch ✓ | Supplier Quality Intern - Summer 2027 🆕 | Manufacturing & Quality | Lincolnshire, IL, United States | GD&T, Six Sigma | Oct 06, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000153856764) |
 | Clean Harbors ✓ | Mechanical Engineer Intern - Summer 2027 🆕 | Mechanical Design | La Porte, TX, United States | CAD | Oct 06, 2026 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166786) |
-| Northrop Grumman | 2027 Mechanical Engineer Intern - Annapolis MD 🇺🇸 🆕 | Mechanical Design | United States-Maryland-Annapolis | SolidWorks, Siemens NX, CAD | Oct 06, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10251185) |
-| RTX | Industrial Engineering Co-Op (Spring/Summer 2027) 🇺🇸 🆕 | Manufacturing & Quality | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd… | SolidWorks, AutoCAD, CAD | Oct 06, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01879706) |
+| Bosch ✓ | Supplier Quality Intern - Summer 2027 🆕 | Manufacturing & Quality | Lincolnshire, IL, United States | GD&T, Six Sigma | Oct 06, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000153856764) |
+| ABB ✓ | Manufacturing Quality Intern - Summer 2027 🛂 🆕 | Manufacturing & Quality | USA, NM, Albuquerque | No skills listed | Oct 06, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Manufacturing-Quality-Intern---Summer-2027_JR00048446) |
 | RTX | Industrial Engineering Co-Op (Spring/Summer 2027) 🇺🇸 🆕 | Manufacturing & Quality | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd… | SolidWorks, AutoCAD, CAD | Oct 06, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01879702) |
+| RTX | Industrial Engineering Co-Op (Spring/Summer 2027) 🇺🇸 🆕 | Manufacturing & Quality | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd… | SolidWorks, AutoCAD, CAD | Oct 06, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01879706) |
 | RTX | Industrial Engineering Co-Op (Summer/Fall 2027) 🇺🇸 🆕 | Manufacturing & Quality | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd… | SolidWorks, AutoCAD, CAD | Oct 06, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01879705) |
+| Northrop Grumman | 2027 Mechanical Engineer Intern - Annapolis MD 🇺🇸 🆕 | Mechanical Design | United States-Maryland-Annapolis | SolidWorks, Siemens NX, CAD | Oct 06, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10251185) |
 | Carpenter Technology | Maintenance Intern - Mechanical 🆕 | Mechanical Design | Reading, PA | Lean Manufacturing | Oct 06, 2026 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Maintenance-Intern---Mechanical_26885) |
 | Northrop Grumman | 2027 Mechanical Engineer Intern - Sunnyvale CA 🇺🇸 🆕 | Mechanical Design | United States-California-Sunnyvale | SolidWorks, Siemens NX, CAD | Oct 06, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Mechanical-Engineer-Intern---Sunnyvale-CA_R10251428) |
 | Anduril | 2027 Quality & Test Engineer Intern 🆕 | Test & Validation | Ashville +14 more | MATLAB, Computer Vision | Oct 05, 2026 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007) |
@@ -346,7 +346,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Mill | Product Design Engineering Intern, Fall/Winter 2026 🛂 | Mechanical Design | San Bruno, California | Siemens NX, CAD, FEA, DFM/DFA | Mar 17, 2026 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4674154005) |
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Materials Engineering | Westboro, Massachusetts, USA | CAD | Dec 17, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 
-## Recently posted — cycle not stated  (192 roles)
+## Recently posted — cycle not stated  (190 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent mechanical & aerospace internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -377,7 +377,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Hitachi Energy ✓ | Intern - Industrial Engineering | Manufacturing & Quality | Batesburg-Leesville +2 more | No skills listed | Oct 01, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Batesburg-Leesville-South-Carolina-United-States-of-America/Intern---Industrial-Engineering_R0144157) |
 | Hitachi Energy ✓ | Intern - Manufacturing Planner | Manufacturing & Quality | Batesburg-Leesville +2 more | No skills listed | Oct 01, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Batesburg-Leesville-South-Carolina-United-States-of-America/Intern---Manufacturing-Planner_R0144125) |
 | AECOM ✓ | Engineering Intern - Hydraulics - Hiring Event with AECOM – Raleigh 🛂 | Thermal, Fluids & Propulsion | Raleigh, NC, United States | CAD | Oct 01, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152820560) |
-| Teledyne | Manufacturing Engineer Co-Op | Manufacturing & Quality | US - Chestnut Ridge, NY | SolidWorks, CAD | Oct 01, 2026 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Manufacturing-Engineer-Co-Op_REQ36603) |
 | Base Power | Hardware Reliability & Test Engineering Intern | Test & Validation | Austin, TX | Python | Sep 30, 2026 | [Apply](https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406) |
 | Base Power | Mechanical Engineering Intern | Mechanical Design | Austin, TX | SolidWorks, CAD | Sep 30, 2026 | [Apply](https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f) |
 | Wabtec ✓ | Mechanical Engineer Intern - New Product Development | Mechanical Design | Oak Creek, WI, United States | Creo | Sep 30, 2026 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990015802516) |
@@ -437,7 +436,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | LivaNova ✓ | Manufacturing Engineer Intern | Manufacturing & Quality | Arvada, Colorado, US | No skills listed | Sep 21, 2026 | [Apply](https://livanova.wd5.myworkdayjobs.com/search/job/Arvada-Colorado-US/Manufacturing-Engineer-Intern_JR-14827) |
 | Valeo ✓ | Mechatronics Engineering Co-Op (Mechanical) 🛂 | Controls & Mechatronics | Troy, MI | Python, Java, LabVIEW | Sep 21, 2026 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Mechatronics-Engineering-Co-Op--Mechanical-_REQ2026080157) |
 | 1X | Internship - CNC Machine Park | Manufacturing & Quality | Hayward, CA | CNC, GD&T | Sep 18, 2026 | [Apply](https://jobs.ashbyhq.com/1x/ebc45d87-58d7-40d8-9e3d-5f3c8aa5eb48) |
-| Acron Aviation | Test Engineer Intern - Grand Rapids Site | Test & Validation | Grand Rapids, MI | Python, C++, LabVIEW | Sep 18, 2026 | [Apply](https://jobs.lever.co/acronaviation/efde3e9b-1ea5-45f7-ba1d-e26e084e28c7) |
 | Analytical Mechanics Associates | Mechanical Engineering Intern 🇺🇸 | Mechanical Design | Hampton, VA | Creo, CAD, GD&T | Sep 18, 2026 | [Apply](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Mechanical-Engineering-Intern_R-100764) |
 | Gordon Food Service ✓ | Industrial / Mechanical / Electrical Engineer Internship | Mechanical Design | Wyoming, Michigan | No skills listed | Sep 18, 2026 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Industrial---Mechanical---Electrical-Engineer-Internship_R-57373) |
 | Graco | CNC Machine Mechanic Intern 🛂 | Manufacturing & Quality | Dayton, Minnesota, USA | No skills listed | Sep 18, 2026 | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/CNC-Machine-Mechanic-Intern_R0023683) |
@@ -642,7 +640,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,435 of 4,765 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 466.7s · 117 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,416 of 4,765 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 298.3s · 130 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
