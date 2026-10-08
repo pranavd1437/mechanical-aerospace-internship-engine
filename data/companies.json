@@ -1812,6 +1812,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Apple Bank",
+    "slug": "applebank",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "applebankcareers"
+  },
+  {
     "name": "Applied Fluid Power",
     "slug": "applied",
     "ats": "workday",
@@ -5007,6 +5014,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Centric Software",
+    "slug": "centricsoftware",
+    "ats": "workday",
+    "wd": "wd501",
+    "site": "Centric"
+  },
+  {
     "name": "Centrica",
     "slug": "centrica",
     "ats": "workday",
@@ -5067,6 +5081,11 @@
   {
     "name": "Chainlink Labs",
     "slug": "chainlink-labs",
+    "ats": "ashby"
+  },
+  {
+    "name": "Chalk",
+    "slug": "chalk",
     "ats": "ashby"
   },
   {
@@ -8462,6 +8481,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "England Rugby",
+    "slug": "ecer.fa.em2.oraclecloud.com",
+    "ats": "oracle",
+    "host": "ecer.fa.em2.oraclecloud.com",
+    "site": "CX_1"
+  },
+  {
     "name": "Enigma",
     "slug": "enigmaio",
     "ats": "greenhouse"
@@ -10807,6 +10833,11 @@
     "ats": "lever"
   },
   {
+    "name": "Goodfire",
+    "slug": "goodfire",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Goodnotes",
     "slug": "gntemp",
     "ats": "greenhouse"
@@ -11308,6 +11339,11 @@
     "name": "Hanna Andersson",
     "slug": "hannaandersson",
     "ats": "lever"
+  },
+  {
+    "name": "Happyrobot",
+    "slug": "happyrobot",
+    "ats": "ashby"
   },
   {
     "name": "Harbinger Motors",
@@ -13584,6 +13620,13 @@
     "ats": "workday",
     "wd": "wd12",
     "site": "kenco"
+  },
+  {
+    "name": "Kendallgroup",
+    "slug": "kendallgroup",
+    "ats": "workday",
+    "wd": "wd503",
+    "site": "kendall_careers"
   },
   {
     "name": "Kensington",
@@ -22624,6 +22667,11 @@
     "name": "SpruceID",
     "slug": "sprucesystems",
     "ats": "lever"
+  },
+  {
+    "name": "SpruceID",
+    "slug": "spruceid",
+    "ats": "ashby"
   },
   {
     "name": "Spry Methods",
