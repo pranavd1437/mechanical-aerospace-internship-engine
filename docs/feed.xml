@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-08T06:23:48Z</updated>
+  <updated>2026-10-08T13:52:56Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:ruggedrobotics:4730900005</id>
+    <title>Rugged Robotics: Mechanical Engineering Intern/Co-op (Spring or Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730900005"/>
+    <updated>2026-10-08T13:52:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Houston, TX · SolidWorks, GD&amp;T, CNC</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:aptiv:/job/Warren-OH---USA/Mechanical-Engineering-Intern---Tooling_J000704864</id>
     <title>Aptiv: Mechanical Engineering Intern - Tooling</title>
@@ -14,14 +22,6 @@
     <updated>2026-10-08T06:23:45Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Warren, OH - USA · Siemens NX · H-1B track record: ~251 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003</id>
-    <title>Northrop Grumman: 2027 Mechanical/Aerospace Engineer Intern - Baltimore MD 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003"/>
-    <updated>2026-10-08T06:23:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136</id>
@@ -38,6 +38,14 @@
     <updated>2026-10-08T06:23:45Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · United States-California-San Diego · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003</id>
+    <title>Northrop Grumman: 2027 Mechanical/Aerospace Engineer Intern - Baltimore MD 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003"/>
+    <updated>2026-10-08T06:23:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:arcboatcompany:5445312008</id>
@@ -302,14 +310,6 @@
     <updated>2026-10-07T23:18:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · United States-Maryland-Annapolis · $20.5–$37.25/hr · SolidWorks, Siemens NX, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Test-Engineering---New-Kensington--PA---Summer-2027_591469</id>
-    <title>Philips: Intern - Systems Test Engineering – New Kensington, PA – Summer 2027</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Test-Engineering---New-Kensington--PA---Summer-2027_591469"/>
-    <updated>2026-10-07T23:18:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · New Kensington, Pennsylvania, United States · Python, MATLAB, LabVIEW</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:epyc.fa.us2.oraclecloud.com:166786</id>

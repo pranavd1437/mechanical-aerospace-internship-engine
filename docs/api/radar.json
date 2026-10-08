@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T06:23:49Z",
+ "generated_at": "2026-10-08T13:52:56Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -1600,6 +1600,20 @@
    "note": ""
   },
   {
+   "company": "Rugged Robotics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730900005",
+   "note": ""
+  },
+  {
    "company": "Collier Aerospace",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2118,5 +2132,5 @@
    "note": ""
   }
  ],
- "count": 151
+ "count": 152
 }
