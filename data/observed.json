@@ -95,9 +95,10 @@
      "first_posted": "2026-08-31",
      "role_ids": [
       "workday:alcon:/job/Fort-Worth-Texas/XMLNAME-2027-Spring-Summer-Co-Op---Manufacturing-Engineer_R-2026-49587",
-      "workday:alcon:/job/Houston-Texas/Fall---Spring-2026-2027-Co-Op---Manufacturing-Science---Technology_R-2026-47959"
+      "workday:alcon:/job/Houston-Texas/Fall---Spring-2026-2027-Co-Op---Manufacturing-Science---Technology_R-2026-47959",
+      "workday:alcon:/job/Houston-Texas/XMLNAME-2027-Spring-Summer-Manufacturing-Engineering-Co-op_R-2026-50147"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1601,9 +1602,11 @@
     "Summer 2027": {
      "first_posted": "2026-10-07",
      "role_ids": [
+      "workday:alliance:/job/Canton-Mississippi---United-States-of-America/Trim---Chassis-Manufacturing-Engineering-Intern---Summer-2027---Canton--MS_R00214255",
+      "workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881",
       "workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -1624,6 +1627,7 @@
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2027-Mechanical-Engineering-Intern---Chandler-AZ_R10254534",
       "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136",
+      "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253538",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134",
@@ -1653,7 +1657,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 31
+     "count": 32
     }
    }
   },
@@ -1803,6 +1807,18 @@
      "first_posted": "2026-08-04",
      "role_ids": [
       "greenhouse:phoenixcontact:7817228003"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "plastipak": {
+   "name": "Plastipak",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-08",
+     "role_ids": [
+      "workday:plastipak:/job/Plastipak---Havre-de-Grace-MD/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24670"
      ],
      "count": 1
     }
@@ -2100,6 +2116,13 @@
       "greenhouse:sharkninjaoperatingllc:4651641006"
      ],
      "count": 4
+    },
+    "Summer 2027": {
+     "first_posted": "2026-10-08",
+     "role_ids": [
+      "greenhouse:sharkninjaoperatingllc:4718812006"
+     ],
+     "count": 1
     }
    }
   },
@@ -2168,6 +2191,13 @@
      "first_posted": "2026-08-14",
      "role_ids": [
       "workday:sierraspace:/job/Centennial-CO/Fall-2026-Mechanical-Engineering-Intern_R26120"
+     ],
+     "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-10-08",
+     "role_ids": [
+      "workday:sierraspace:/job/Broomfield-CO/Summer-2027-Manufacturing-Engineer-Intern_R26389"
      ],
      "count": 1
     }
@@ -2316,9 +2346,11 @@
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17101",
       "workday:ttc:/job/Perry-OK/Quality-Engineer-Intern---Ditch-Witch_JR17218",
-      "workday:ttc:/job/Perry-OK/Test-Engineering-Intern---Ditch-Witch_JR17320"
+      "workday:ttc:/job/Perry-OK/Test-Engineering-Intern---Ditch-Witch_JR17320",
+      "workday:ttc:/job/Shakopee-MN/Manufacturing-Engineering-Intern---The-Toro-Company_JR17581",
+      "workday:ttc:/job/Windom-MN/Manufacturing-Engineer-Intern---The-Toro-Company_JR17578"
      ],
-     "count": 15
+     "count": 17
     }
    }
   },
@@ -2683,5 +2715,5 @@
    }
   }
  },
- "updated_at": "2026-10-08T13:52:52Z"
+ "updated_at": "2026-10-08T23:34:08Z"
 }

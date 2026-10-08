@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T13:52:56Z",
+ "generated_at": "2026-10-08T23:34:12Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -154,7 +154,7 @@
    "expected": "2026-08-17",
    "days_until": -52,
    "status": "open",
-   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16558",
    "note": ""
   },
   {
@@ -1600,6 +1600,20 @@
    "note": ""
   },
   {
+   "company": "Plastipak",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Plastipak---Havre-de-Grace-MD/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24670",
+   "note": ""
+  },
+  {
    "company": "Rugged Robotics",
    "last_cycle_posted": "",
    "posted_on": "2026-10-08",
@@ -1611,6 +1625,34 @@
    "days_until": 0,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730900005",
+   "note": ""
+  },
+  {
+   "company": "SharkNinja",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718812006",
+   "note": ""
+  },
+  {
+   "company": "Sierra Space",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Broomfield-CO/Summer-2027-Manufacturing-Engineer-Intern_R26389",
    "note": ""
   },
   {
@@ -2132,5 +2174,5 @@
    "note": ""
   }
  ],
- "count": 152
+ "count": 155
 }
