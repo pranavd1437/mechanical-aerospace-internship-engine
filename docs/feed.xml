@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-09T06:25:57Z</updated>
+  <updated>2026-10-09T18:32:57Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2326-1</id>
+    <title>Gorbel: Manufacturing Engineer Co-Op</title>
+    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2326-1"/>
+    <updated>2026-10-09T18:32:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · USA, New York, Victor · $23–$25/hr · SolidWorks, AutoCAD, CAD, Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jabil:/job/Clinton-MA/Metrology---Quality-Technician---Internship---Co-op_J2467577</id>
+    <title>Jabil: Metrology &amp; Quality Technician - Internship / Co-op</title>
+    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Clinton-MA/Metrology---Quality-Technician---Internship---Co-op_J2467577"/>
+    <updated>2026-10-09T18:32:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Clinton, MA · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Ann-Arbor-MI/Mechanical-Engineering-Intern_2640653-2</id>
+    <title>KLA: Mechanical Engineering Intern</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechanical-Engineering-Intern_2640653-2"/>
+    <updated>2026-10-09T18:32:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Ann Arbor, MI · $27–$38.5/hr · Creo, CAD, ANSYS · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:syskahennessy:8267628</id>
+    <title>Syska Hennessy Group: Mechanical Engineer Summer Intern</title>
+    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8267628"/>
+    <updated>2026-10-09T18:32:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Tampa, FL · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:97132</id>
+    <title>WSP: Controls Engineering Intern – Spring/Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97132"/>
+    <updated>2026-10-09T18:32:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · New York, NY, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:aptiv:/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863</id>
     <title>Aptiv: Manufacturing Engineering Intern – Metal Technology</title>
@@ -766,45 +806,5 @@
     <updated>2026-10-06T00:13:30Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Controls &amp; Mechatronics · Torrance, CA · MATLAB, Simulink</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:arcboatcompany:5442958008</id>
-    <title>Arc: Mechanical Engineering Intern - Powertrain</title>
-    <link href="https://job-boards.greenhouse.io/arcboatcompany/jobs/5442958008"/>
-    <updated>2026-10-06T00:13:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Torrance, CA · $36/hr · MATLAB, Simulink, CAD, FEA, CNC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:cssmerge:8868918002</id>
-    <title>Atoms: Manufacturing Intern</title>
-    <link href="https://job-boards.greenhouse.io/cssmerge/jobs/8868918002"/>
-    <updated>2026-10-06T00:13:30Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · San Francisco, CA · $50/hr · Python, SolidWorks, Siemens NX, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:ispace-inc:fa34bd91-bd23-460b-af53-4a7f2066d9f3</id>
-    <title>ispace: 2027 Summer Internship - Mechanical Test Engineer 🇺🇸</title>
-    <link href="https://jobs.lever.co/ispace-inc/fa34bd91-bd23-460b-af53-4a7f2066d9f3"/>
-    <updated>2026-10-06T00:13:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Englewood, Colorado · $28/hr · sponsorship: citizens-only · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95758</id>
-    <title>WSP: Mechanical Engineering Co-op - Spring/Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95758"/>
-    <updated>2026-10-06T00:13:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Philadelphia, PA, United States · $23.9–$31.11/hr · AutoCAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Intern---Summer-2027_JR00047889</id>
-    <title>ABB: Manufacturing Intern - Summer 2027 🛂</title>
-    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Manufacturing-Intern---Summer-2027_JR00047889"/>
-    <updated>2026-10-06T00:13:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA, NM, Albuquerque · $20–$34/hr · SolidWorks, Creo · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
