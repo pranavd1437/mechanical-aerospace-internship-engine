@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-09T18:32:57Z</updated>
+  <updated>2026-10-10T06:10:39Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:borgwarner:/job/Kokomo-Technical-Center---Indiana---USA/Electric-Machine-Design-Engineering-Intern_R2026-4040</id>
+    <title>BorgWarner: Electric Machine Design Engineering Intern</title>
+    <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electric-Machine-Design-Engineering-Intern_R2026-4040"/>
+    <updated>2026-10-10T06:10:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Kokomo Technical Center - Indiana - USA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154762134</id>
+    <title>Bosch: Manufacturing Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154762134"/>
+    <updated>2026-10-10T06:10:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Grand Rapids, MI, United States · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:harbingermotors:5255968007</id>
+    <title>Harbinger Motors: Intern, Test Engineering</title>
+    <link href="https://job-boards.greenhouse.io/harbingermotors/jobs/5255968007"/>
+    <updated>2026-10-10T06:10:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Garden Grove, CA · Python, CATIA, CAD, GD&amp;T, LabVIEW</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5441485008</id>
+    <title>Olsson: Structural Engineering Internship - Facilities</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5441485008"/>
+    <updated>2026-10-10T06:10:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Structures &amp; FEA · Dallas, TX; Fort Worth, TX</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008255</id>
+    <title>Stantec: Instrumentation &amp; Controls Engineering Intern – Energy &amp; Resources (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008255"/>
+    <updated>2026-10-10T06:10:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · Bakersfield, CA, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:syskahennessy:8267628</id>
+    <title>Syska Hennessy Group: Mechanical Engineer Summer Intern</title>
+    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8267628"/>
+    <updated>2026-10-09T18:32:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Tampa, FL · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:97132</id>
+    <title>WSP: Controls Engineering Intern – Spring/Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97132"/>
+    <updated>2026-10-09T18:32:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · New York, NY, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2326-1</id>
     <title>Gorbel: Manufacturing Engineer Co-Op</title>
@@ -32,22 +88,6 @@
     <summary>Not stated · Mechanical Design · Ann Arbor, MI · $27–$38.5/hr · Creo, CAD, ANSYS · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:syskahennessy:8267628</id>
-    <title>Syska Hennessy Group: Mechanical Engineer Summer Intern</title>
-    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8267628"/>
-    <updated>2026-10-09T18:32:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Tampa, FL · AutoCAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:97132</id>
-    <title>WSP: Controls Engineering Intern – Spring/Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97132"/>
-    <updated>2026-10-09T18:32:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · New York, NY, United States</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:aptiv:/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863</id>
     <title>Aptiv: Manufacturing Engineering Intern – Metal Technology</title>
     <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863"/>
@@ -62,14 +102,6 @@
     <updated>2026-10-09T06:25:53Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Montgomery, Texas · Six Sigma, Lean Manufacturing · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:generalmotors:/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071</id>
-    <title>General Motors: 2027 Summer Intern, Fleet Reliability &amp; Test Engineering, ASD</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071"/>
-    <updated>2026-10-09T06:25:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Milford, Michigan, United States of America · Python, SQL, MATLAB, Simulink · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hpe:/job/Sunnyvale-California-United-States-of-America/Thermal-Engineering-Intern_1214190</id>
@@ -736,14 +768,6 @@
     <summary>Not stated · Manufacturing &amp; Quality · Wilmer, TX · H-1B track record: ~15 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Walled-Lake-MI/Controls-Engineer-Intern_R-00193953</id>
-    <title>Leidos: Controls Engineer Intern</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Walled-Lake-MI/Controls-Engineer-Intern_R-00193953"/>
-    <updated>2026-10-06T18:38:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Walled Lake, MI · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:maxar:/job/Herndon-VA/Summer-Internship--Aerospace-Modeling---Simulation_R24758</id>
     <title>Vantor: Summer Internship: Aerospace Modeling &amp; Simulation 🇺🇸</title>
     <link href="https://maxar.wd1.myworkdayjobs.com/Vantor/job/Herndon-VA/Summer-Internship--Aerospace-Modeling---Simulation_R24758"/>
@@ -782,29 +806,5 @@
     <updated>2026-10-06T06:36:41Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Test &amp; Validation · Costa Mesa, California, United States · FMEA, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:arcboatcompany:5443971008</id>
-    <title>Arc: Powertrain Electrical Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/arcboatcompany/jobs/5443971008"/>
-    <updated>2026-10-06T06:36:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Torrance, CA · $40/hr · Python, FEA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:field-ai:5ae428f8-ac13-49b2-a244-fb97d31bfc79</id>
-    <title>Field AI: Mechanical Engineer Internship, Robotics Hardware</title>
-    <link href="https://jobs.lever.co/field-ai/5ae428f8-ac13-49b2-a244-fb97d31bfc79"/>
-    <updated>2026-10-06T06:36:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Boston, MA · 28–63 USD/hr · SolidWorks, CAD, GD&amp;T, FEA, CNC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:arcboatcompany:5442902008</id>
-    <title>Arc: Vehicle Controls Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/arcboatcompany/jobs/5442902008"/>
-    <updated>2026-10-06T00:13:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · Torrance, CA · MATLAB, Simulink</summary>
   </entry>
 </feed>
