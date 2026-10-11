@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-11T13:11:48Z",
+ "generated_at": "2026-10-11T22:14:40Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 721,
+ "count": 714,
  "jobs": [
   {
    "id": "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688",
@@ -11889,31 +11889,6 @@
    "remote": false
   },
   {
-   "id": "workday:brunswick:/job/Edgewater-FL/Manufacturing-Engineering-Intern-Summer--27_JR-051339",
-   "company": "Brunswick",
-   "title": "Manufacturing Engineering Intern Summer '27",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Manufacturing & Quality",
-   "location": "Edgewater, FL",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Edgewater-FL/Manufacturing-Engineering-Intern-Summer--27_JR-051339",
-   "posted_at": "2026-09-08T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-14T22:01:23Z",
-   "sponsorship": "no-sponsorship",
-   "salary": "$18–$26/hr",
-   "skills": [
-    "CAD",
-    "Six Sigma",
-    "Lean Manufacturing"
-   ],
-   "source": "workday",
-   "h1b_approvals": 54,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:brunswick:/job/Edgewater-FL/Manufacturing-Engineering-Intern_JR-051540",
    "company": "Brunswick",
    "title": "Manufacturing Engineering Intern",
@@ -11932,27 +11907,6 @@
     "Six Sigma",
     "Lean Manufacturing"
    ],
-   "source": "workday",
-   "h1b_approvals": 54,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:brunswick:/job/Tulsa-OK/Engineering-Intern_JR-051312",
-   "company": "Brunswick",
-   "title": "Validation Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Test & Validation",
-   "location": "Tulsa, OK",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Engineering-Intern_JR-051312",
-   "posted_at": "2026-09-08T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-14T22:01:23Z",
-   "sponsorship": "no-sponsorship",
-   "salary": "$18–$27/hr",
-   "skills": [],
    "source": "workday",
    "h1b_approvals": 54,
    "program": "Internship",
@@ -13822,29 +13776,6 @@
    "remote": false
   },
   {
-   "id": "workday:brunswick:/job/New-York-Mills-MN/Quality-Engineering-Intern_JR-051507",
-   "company": "Brunswick",
-   "title": "Quality Engineering Intern",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Manufacturing & Quality",
-   "location": "New York Mills, MN",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/New-York-Mills-MN/Quality-Engineering-Intern_JR-051507",
-   "posted_at": "2026-09-02T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-03T04:47:10Z",
-   "sponsorship": "no-sponsorship",
-   "salary": "$18–$27/hr",
-   "skills": [
-    "SolidWorks"
-   ],
-   "source": "workday",
-   "h1b_approvals": 54,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:axcelis:/job/Beverly-MA/Manufacturing-Test-Development-Engineer-Co-op_12010",
    "company": "Axcelis Technologies, Inc.",
    "title": "Manufacturing Test Development Engineer Co-op",
@@ -14266,30 +14197,6 @@
    "source": "lever",
    "h1b_approvals": null,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Mechatronics-Intern_JR-051269",
-   "company": "Brunswick",
-   "title": "Mercury Marine: Mechatronics Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Controls & Mechatronics",
-   "location": "Fond du Lac, WI",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Mechatronics-Intern_JR-051269",
-   "posted_at": "2026-09-01T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-02T04:51:16Z",
-   "sponsorship": "unknown",
-   "salary": "$18–$27.5/hr",
-   "skills": [
-    "Python",
-    "MATLAB"
-   ],
-   "source": "workday",
-   "h1b_approvals": 54,
-   "program": "Internship",
    "remote": false
   },
   {
@@ -15303,29 +15210,6 @@
    "remote": false
   },
   {
-   "id": "workday:brunswick:/job/Menomonee-Falls-WI/Industrial-Engineering-Intern_JR-051429",
-   "company": "Brunswick",
-   "title": "Industrial Engineering-Continuous Improvement Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Manufacturing & Quality",
-   "location": "Menomonee Falls, WI",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Industrial-Engineering-Intern_JR-051429",
-   "posted_at": "2026-08-28T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-31T23:04:21Z",
-   "sponsorship": "no-sponsorship",
-   "salary": "$18–$27/hr",
-   "skills": [
-    "Six Sigma"
-   ],
-   "source": "workday",
-   "h1b_approvals": 54,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "greenhouse:rebuildmanufacturing:4728423005",
    "company": "Re:Build Manufacturing",
    "title": "Process & Mechanical Engineer Co-op/Intern",
@@ -15497,31 +15381,6 @@
    "remote": false
   },
   {
-   "id": "workday:brunswick:/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1",
-   "company": "Brunswick",
-   "title": "Manufacturing Engineering Intern",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Manufacturing & Quality",
-   "location": "New York Mills, MN",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1",
-   "posted_at": "2026-08-27T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-28T11:38:04Z",
-   "sponsorship": "no-sponsorship",
-   "salary": "$18–$27/hr",
-   "skills": [
-    "SolidWorks",
-    "AutoCAD",
-    "CAD"
-   ],
-   "source": "workday",
-   "h1b_approvals": 54,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:airproducts:/job/Allentown-Pennsylvania/Summer-Intern-Co-op-Mechanical-Engineering--2027-_JR-2026-21956",
    "company": "Air Products",
    "title": "Summer Intern/Co-op-Mechanical Engineering (2027)",
@@ -15656,32 +15515,6 @@
    "source": "greenhouse",
    "h1b_approvals": null,
    "program": "Internship / Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238",
-   "company": "Brunswick",
-   "title": "Mercury Marine: Advanced Manufacturing/Operations Analytics Engineering Co-op",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Manufacturing & Quality",
-   "location": "Fond du Lac, WI",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238",
-   "posted_at": "2026-08-25T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-25T19:10:57Z",
-   "sponsorship": "unknown",
-   "salary": "$18–$27.5/hr",
-   "skills": [
-    "SQL",
-    "CAD",
-    "Six Sigma",
-    "Azure"
-   ],
-   "source": "workday",
-   "h1b_approvals": 54,
-   "program": "Co-op",
    "remote": false
   },
   {
