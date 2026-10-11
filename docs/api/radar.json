@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T06:04:32Z",
+ "generated_at": "2026-10-11T13:11:48Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -939,20 +939,6 @@
    "days_until": -30,
    "status": "open",
    "url": "https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3",
-   "note": ""
-  },
-  {
-   "company": "TD Bank",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-13",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-13",
-   "days_until": -28,
-   "status": "open",
-   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Quality-Engineer_R_1510798",
    "note": ""
   },
   {
@@ -2085,6 +2071,20 @@
    "source": "engine",
    "expected": "2026-09-11",
    "days_until": -30,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "TD Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-13",
+   "days_until": -28,
    "status": "dropped",
    "url": "",
    "note": ""
