@@ -1,9 +1,30 @@
 {
- "generated_at": "2026-10-12T06:15:59Z",
+ "generated_at": "2026-10-12T15:48:12Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
  "count": 711,
  "jobs": [
+  {
+   "id": "workday:snc:/job/Lone-Tree-CO/Test-Engineer-I--For-2026-Interns-Only-_R0030656",
+   "company": "Sierra Nevada Corporation",
+   "title": "Test Engineer I (For 2026 Interns Only)",
+   "season": "Fall 2026",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Test & Validation",
+   "location": "Lone Tree, CO",
+   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Test-Engineer-I--For-2026-Interns-Only-_R0030656",
+   "posted_at": "2026-10-12T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-12T15:48:09Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688",
    "company": "Northrop Grumman",
@@ -11359,29 +11380,6 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950",
-   "company": "General Motors",
-   "title": "2027 Summer Intern - PFMEA Manufacturing Engineer",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Manufacturing & Quality",
-   "location": "Warren, Michigan, United States of America",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950",
-   "posted_at": "2026-09-09T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-10T05:00:54Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "FMEA"
-   ],
-   "source": "workday",
-   "h1b_approvals": 928,
    "program": "Internship",
    "remote": false
   },

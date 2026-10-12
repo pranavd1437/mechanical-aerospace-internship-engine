@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-12T06:15:59Z</updated>
+  <updated>2026-10-12T15:48:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Test-Engineer-I--For-2026-Interns-Only-_R0030656</id>
+    <title>Sierra Nevada Corporation: Test Engineer I (For 2026 Interns Only) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Test-Engineer-I--For-2026-Interns-Only-_R0030656"/>
+    <updated>2026-10-12T15:48:09Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Test &amp; Validation · Lone Tree, CO · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688</id>
     <title>Northrop Grumman: 2027 Operations Manufacturing Engineering Intern 🇺🇸</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-06T06:36:41Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Boston, MA · 28–63 USD/hr · SolidWorks, CAD, GD&amp;T, FEA, CNC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:arcboatcompany:5442902008</id>
-    <title>Arc: Vehicle Controls Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/arcboatcompany/jobs/5442902008"/>
-    <updated>2026-10-06T00:13:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · Torrance, CA · MATLAB, Simulink</summary>
   </entry>
 </feed>
