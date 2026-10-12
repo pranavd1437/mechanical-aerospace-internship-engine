@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-11T22:14:40Z",
+ "generated_at": "2026-10-12T06:15:59Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 714,
+ "count": 711,
  "jobs": [
   {
    "id": "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688",
@@ -15278,85 +15278,6 @@
    "source": "oracle",
    "h1b_approvals": 2,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:asteraearlycareer2027:4724114005",
-   "company": "Astera Labs",
-   "title": "Hardware Test/Mechanical Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "San Jose, California",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724114005",
-   "posted_at": "2026-08-27T19:04:12-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-06T18:38:46Z",
-   "sponsorship": "unknown",
-   "salary": "$35/hr",
-   "skills": [
-    "CAD",
-    "GD&T",
-    "DFM/DFA",
-    "Tolerance Analysis",
-    "Airflow"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 29,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:asteraearlycareer2027:4728560005",
-   "company": "Astera Labs",
-   "title": "Hardware Design Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728560005",
-   "posted_at": "2026-08-27T20:32:05-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-06T18:38:46Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "MATLAB",
-    "CAD"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 29,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:asteraearlycareer2027:4728619005",
-   "company": "Astera Labs",
-   "title": "Packaging Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728619005",
-   "posted_at": "2026-08-27T20:21:14-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-06T18:38:46Z",
-   "sponsorship": "unknown",
-   "salary": "$35/hr",
-   "skills": [
-    "Python",
-    "MATLAB",
-    "AutoCAD",
-    "ANSYS",
-    "DFM/DFA"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 29,
-   "program": "Internship",
    "remote": false
   },
   {
