@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T14:32:29Z",
+ "generated_at": "2026-10-13T23:01:28Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -603,6 +603,20 @@
    "days_until": -40,
    "status": "open",
    "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Supplier-Quality_R9737",
+   "note": ""
+  },
+  {
+   "company": "Motorola",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": -40,
+   "status": "open",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Mechanical-Engineering-Intern---Summer-2027_R69030",
    "note": ""
   },
   {
@@ -1642,20 +1656,6 @@
    "note": ""
   },
   {
-   "company": "Collier Aerospace",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "",
-   "days_until": null,
-   "status": "open",
-   "url": "https://ats.rippling.com/collieraerospace/jobs/c1fcbdc3-fe19-4209-b080-15a5db8c75e1",
-   "note": ""
-  },
-  {
    "company": "Torus",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1978,20 +1978,6 @@
    "note": ""
   },
   {
-   "company": "Motorola",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-03",
-   "days_until": -40,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "CHAOS Industries",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -2160,5 +2146,5 @@
    "note": ""
   }
  ],
- "count": 154
+ "count": 153
 }

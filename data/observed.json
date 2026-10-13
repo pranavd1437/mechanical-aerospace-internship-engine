@@ -139,10 +139,12 @@
       "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008271",
       "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008277",
       "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineering-Intern---Summer-2027_R008126",
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineering-Internship---Summer-2026_R008288",
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineering-Internship---Summer-2026_R008289",
       "workday:allisontransmission:/job/Indianapolis-IN/Quality-Engineering-Intern---Summer-2027_R008206",
       "workday:allisontransmission:/job/Indianapolis-IN/Supplier-Quality-Intern---Summer-2027_R008280"
      ],
-     "count": 8
+     "count": 10
     }
    }
   },
@@ -1554,9 +1556,10 @@
      "first_posted": "2026-09-03",
      "role_ids": [
       "workday:motorolasolutions:/job/Chicago-IL/Product-Quality-Engineering-Intern_R68669",
-      "workday:motorolasolutions:/job/Elgin-IL/Industrial-Engineer--Continuous-Improvement-Summer-Internship-2027_R68051"
+      "workday:motorolasolutions:/job/Elgin-IL/Industrial-Engineer--Continuous-Improvement-Summer-Internship-2027_R68051",
+      "workday:motorolasolutions:/job/Plantation-FL/Mechanical-Engineering-Intern---Summer-2027_R69030"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1570,9 +1573,10 @@
       "greenhouse:muonspace:5253432007",
       "greenhouse:muonspace:5253474007",
       "greenhouse:muonspace:5256284007",
-      "greenhouse:muonspace:5256286007"
+      "greenhouse:muonspace:5256286007",
+      "greenhouse:muonspace:5256288007"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -2727,5 +2731,5 @@
    }
   }
  },
- "updated_at": "2026-10-13T14:32:25Z"
+ "updated_at": "2026-10-13T23:01:25Z"
 }

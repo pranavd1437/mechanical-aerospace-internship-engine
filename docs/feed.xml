@@ -5,15 +5,63 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-13T14:32:29Z</updated>
+  <updated>2026-10-13T23:01:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000155155259</id>
-    <title>AECOM: Engineering Intern - Hydraulics - Hiring Event with AECOM – Raleigh 🛂</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000155155259"/>
-    <updated>2026-10-13T14:32:25Z</updated>
+    <id>urn:intern-engine:workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineering-Internship---Summer-2026_R008289</id>
+    <title>Allison Transmission: Manufacturing Engineering Internship - Summer 2027 🇺🇸</title>
+    <link href="https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Manufacturing-Engineering-Internship---Summer-2026_R008289"/>
+    <updated>2026-10-13T23:01:25Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Indianapolis, IN · sponsorship: citizens-only · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineering-Internship---Summer-2026_R008288</id>
+    <title>Allison Transmission: Manufacturing Engineering Internship - Summer 2027 🇺🇸</title>
+    <link href="https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Manufacturing-Engineering-Internship---Summer-2026_R008288"/>
+    <updated>2026-10-13T23:01:25Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Indianapolis, IN · sponsorship: citizens-only · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739915005</id>
+    <title>Astera Labs: AMS Digital Design Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739915005"/>
+    <updated>2026-10-13T23:01:25Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Raleigh, NC, United States · CAD · sponsorship: no-sponsorship · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Mechanical Design · San Jose, CA · $35/hr · Python, Verilog · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:basspro:/job/Springfield-MO-Tracker-Marine-Base-Camp/Sourcing---Supplier-Quality-Engineering-Co-Op_R267077</id>
+    <title>Bass Pro Shops: Sourcing &amp; Supplier Quality Engineering Co-Op</title>
+    <link href="https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Tracker-Marine-Base-Camp/Sourcing---Supplier-Quality-Engineering-Co-Op_R267077"/>
+    <updated>2026-10-13T23:01:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Springfield, MO (Tracker Marine Base Camp) · GD&amp;T, FMEA, Six Sigma, Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Design-Engineering---Test-Equipment_R-26-20608</id>
+    <title>Moog: Intern, Design Engineering - Test Equipment</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Design-Engineering---Test-Equipment_R-26-20608"/>
+    <updated>2026-10-13T23:01:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Buffalo, NY</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Plantation-FL/Mechanical-Engineering-Intern---Summer-2027_R69030</id>
+    <title>Motorola: Mechanical Engineering Intern - Summer 2027</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Mechanical-Engineering-Intern---Summer-2027_R69030"/>
+    <updated>2026-10-13T23:01:25Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Plantation, FL · FEA, DFM/DFA, Tolerance Analysis · H-1B track record: ~191 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:muonspace:5256288007</id>
+    <title>Muon Space: Spacecraft Test Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/muonspace/jobs/5256288007"/>
+    <updated>2026-10-13T23:01:25Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · San Jose, CA · $40/hr · Python, C++, MATLAB, Simulink · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119924</id>
@@ -22,6 +70,14 @@
     <updated>2026-10-13T14:32:25Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Controls &amp; Mechatronics · Whitehall, MI, United States · SolidWorks, AutoCAD · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000155155259</id>
+    <title>AECOM: Engineering Intern - Hydraulics - Hiring Event with AECOM – Raleigh 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000155155259"/>
+    <updated>2026-10-13T14:32:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Raleigh, NC, United States · CAD · sponsorship: no-sponsorship · H-1B track record: ~246 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Ann-Arbor-MI/Mechanical-Design-Engineer-Intern_2642150-3</id>
@@ -208,14 +264,6 @@
     <summary>Not stated · Mechanical Design · Ann Arbor, MI · $27–$38.5/hr · Creo, CAD, ANSYS · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:aptiv:/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863</id>
-    <title>Aptiv: Manufacturing Engineering Intern – Metal Technology</title>
-    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863"/>
-    <updated>2026-10-09T06:25:53Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Warren, OH - USA · SolidWorks, Siemens NX, AutoCAD · H-1B track record: ~251 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:cranecompany:/job/Montgomery-Texas/Manufacturing-Intern-1_JR102723</id>
     <title>Crane Co.: Manufacturing Intern-1</title>
     <link href="https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Montgomery-Texas/Manufacturing-Intern-1_JR102723"/>
@@ -342,14 +390,6 @@
     <updated>2026-10-08T13:52:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Houston, TX · SolidWorks, GD&amp;T, CNC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aptiv:/job/Warren-OH---USA/Mechanical-Engineering-Intern---Tooling_J000704864</id>
-    <title>Aptiv: Mechanical Engineering Intern - Tooling</title>
-    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Warren-OH---USA/Mechanical-Engineering-Intern---Tooling_J000704864"/>
-    <updated>2026-10-08T06:23:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Warren, OH - USA · Siemens NX · H-1B track record: ~251 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136</id>
@@ -640,6 +680,14 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Lincolnshire, IL, United States · GD&amp;T, Six Sigma · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Quality-Intern---Summer-2027_JR00048446</id>
+    <title>ABB: Manufacturing Quality Intern - Summer 2027 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Manufacturing-Quality-Intern---Summer-2027_JR00048446"/>
+    <updated>2026-10-07T06:17:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · USA, NM, Albuquerque · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01879702</id>
     <title>RTX: Industrial Engineering Co-Op (Spring/Summer 2027) 🇺🇸</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01879702"/>
@@ -758,53 +806,5 @@
     <updated>2026-10-06T18:38:46Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Walker, Michigan, United States · SolidWorks, AutoCAD, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:iex-interns:8171333</id>
-    <title>IEX: Systems Reliability Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/iex-interns/jobs/8171333"/>
-    <updated>2026-10-06T18:38:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · New York · $45/hr · Python, Rust, Bash, Terraform, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:machindustries:4420611009</id>
-    <title>Mach Industries: Summer 2027 Engineering Internship, Mechanical 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/machindustries/jobs/4420611009"/>
-    <updated>2026-10-06T18:38:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Huntington Beach, California, United States; San Francisco, California, United States; San Luis Obispo, California, United States; Victorville, California, United States · CAD, Tolerance Analysis · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:machindustries:4420631009</id>
-    <title>Mach Industries: Summer 2027 Engineering Internship, Aerospace 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/machindustries/jobs/4420631009"/>
-    <updated>2026-10-06T18:38:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Aerospace &amp; Flight Sciences · Huntington Beach, California, United States; Victorville, California, United States · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:machindustries:4429928009</id>
-    <title>Mach Industries: Summer 2027 Engineering Internship, Manufacturing 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/machindustries/jobs/4429928009"/>
-    <updated>2026-10-06T18:38:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Huntington Beach, California, United States; Victorville, California, United States · SolidWorks, Siemens NX, CATIA, AutoCAD, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:iadugs.fa.ocs.oraclecloud.com:841</id>
-    <title>Legrand: Mechanical Engineering Co-op</title>
-    <link href="https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/841"/>
-    <updated>2026-10-06T18:38:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · West Hartford, CT, United States · SolidWorks, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:badgermeter:/job/US---WI---Milwaukee-HQ/Mechanical-Engineering-NPD-Intern_4642</id>
-    <title>Badger Meter: Mechanical Engineering NPD Intern</title>
-    <link href="https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Mechanical-Engineering-NPD-Intern_4642"/>
-    <updated>2026-10-06T18:38:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · US - WI - Milwaukee HQ</summary>
   </entry>
 </feed>
