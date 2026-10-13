@@ -1049,9 +1049,10 @@
      "role_ids": [
       "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119675",
       "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119686",
-      "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119687"
+      "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119687",
+      "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119924"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -1653,6 +1654,7 @@
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Vehicle-Engineer-Intern_R10253965",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2026-Intern-Tooling-Engineer_R10251724",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Tooling-Engineer_R10251728",
+      "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Vehicle-Engineering_R10255699",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10253458",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Structural-Engineer-Intern_R10251781",
       "workday:ngc:/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883",
@@ -1662,7 +1664,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 33
+     "count": 34
     }
    }
   },
@@ -2725,5 +2727,5 @@
    }
   }
  },
- "updated_at": "2026-10-13T00:56:08Z"
+ "updated_at": "2026-10-13T14:32:25Z"
 }
