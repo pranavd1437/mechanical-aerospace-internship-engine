@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T17:27:29Z",
+ "generated_at": "2026-10-14T21:55:30Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -116,6 +116,20 @@
    "note": ""
   },
   {
+   "company": "GlobalFoundries",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-14",
+   "days_until": -61,
+   "status": "open",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666",
+   "note": ""
+  },
+  {
    "company": "IMEG",
    "last_cycle_posted": "",
    "posted_on": "2026-08-17",
@@ -140,7 +154,7 @@
    "expected": "2026-08-17",
    "days_until": -58,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95758",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94708",
    "note": ""
   },
   {
@@ -662,20 +676,6 @@
    "note": ""
   },
   {
-   "company": "Saab",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-04",
-   "days_until": -40,
-   "status": "open",
-   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Mechanical-Engineer-Co-Op--Summer-2027-_R-03261-1",
-   "note": ""
-  },
-  {
    "company": "Skydio",
    "last_cycle_posted": "",
    "posted_on": "2026-09-04",
@@ -995,20 +995,6 @@
    "days_until": -29,
    "status": "open",
    "url": "https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Design-Engineering-Internship-Program_R7401",
-   "note": ""
-  },
-  {
-   "company": "onsemi",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-15",
-   "days_until": -29,
-   "status": "open",
-   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506639",
    "note": ""
   },
   {
@@ -1614,6 +1600,34 @@
    "note": ""
   },
   {
+   "company": "Haleon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---New-York---Oak-Hill/XMLNAME-2027-Co-Op--Oak-Hill-Manufacturing-Program--6-months--Jan-start-_548918",
+   "note": ""
+  },
+  {
+   "company": "Inversion Space",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4743748005",
+   "note": ""
+  },
+  {
    "company": "Torus",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1810,20 +1824,6 @@
    "note": ""
   },
   {
-   "company": "GlobalFoundries",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-14",
-   "days_until": -61,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Airbus",
    "last_cycle_posted": "",
    "posted_on": "2026-08-21",
@@ -1945,6 +1945,20 @@
    "source": "engine",
    "expected": "2026-09-01",
    "days_until": -43,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Saab",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -40,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -2076,6 +2090,20 @@
    "note": ""
   },
   {
+   "company": "onsemi",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": -29,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Smith+Nephew",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -2160,5 +2188,5 @@
    "note": ""
   }
  ],
- "count": 154
+ "count": 156
 }

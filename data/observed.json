@@ -34,9 +34,12 @@
       "smartrecruiters:AECOM2:744000149913009",
       "smartrecruiters:AECOM2:744000152172269",
       "smartrecruiters:AECOM2:744000152952229",
-      "smartrecruiters:AECOM2:744000154178117"
+      "smartrecruiters:AECOM2:744000154178117",
+      "smartrecruiters:AECOM2:744000155592720",
+      "smartrecruiters:AECOM2:744000155595277",
+      "smartrecruiters:AECOM2:744000155595329"
      ],
-     "count": 5
+     "count": 8
     }
    }
   },
@@ -239,9 +242,10 @@
       "greenhouse:andurilindustries:5236893007",
       "greenhouse:andurilindustries:5255593007",
       "greenhouse:andurilindustries:5257674007",
-      "greenhouse:andurilindustries:5257682007"
+      "greenhouse:andurilindustries:5257682007",
+      "greenhouse:andurilindustries:5257709007"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -504,9 +508,11 @@
       "workday:chartermfg:/job/Charter-Steel---Cleveland-OH/Quality-Engineer-Intern--Summer-2027-_R08068",
       "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineer-Intern--Year-Round-_R08102",
       "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineering-Intern--Year-Round-_R08122",
-      "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133"
+      "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133",
+      "workday:chartermfg:/job/Charter-Wire---81st-Street---Milwaukee-WI/Electrical-Controls-Engineer-Intern_R08114",
+      "workday:chartermfg:/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Mechanical-Engineer-Intern--Summer-2027-_R08115"
      ],
-     "count": 5
+     "count": 7
     }
    }
   },
@@ -924,6 +930,18 @@
     }
    }
   },
+  "haleon": {
+   "name": "Haleon",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-14",
+     "role_ids": [
+      "workday:gsknch:/job/USA---New-York---Oak-Hill/XMLNAME-2027-Co-Op--Oak-Hill-Manufacturing-Program--6-months--Jan-start-_548918"
+     ],
+     "count": 1
+    }
+   }
+  },
   "helion energy": {
    "name": "Helion Energy",
    "cycles": {
@@ -1129,6 +1147,19 @@
       "workday:insulet:/job/Irvine-California/Co-op--Manufacturing--January---June-2027--Onsite-_REQ-2026-18119"
      ],
      "count": 8
+    }
+   }
+  },
+  "inversion space": {
+   "name": "Inversion Space",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-14",
+     "role_ids": [
+      "greenhouse:inversionspace:4743740005",
+      "greenhouse:inversionspace:4743748005"
+     ],
+     "count": 2
     }
    }
   },
@@ -1843,9 +1874,10 @@
      "first_posted": "2026-10-08",
      "role_ids": [
       "workday:plastipak:/job/Plastipak---Havre-de-Grace-MD/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24670",
+      "workday:plastipak:/job/Plastipak---Pineville-LA/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24668",
       "workday:plastipak:/job/Plastipak---Plant-City-FL/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24669"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2747,5 +2779,5 @@
    }
   }
  },
- "updated_at": "2026-10-14T17:27:26Z"
+ "updated_at": "2026-10-14T21:55:26Z"
 }
