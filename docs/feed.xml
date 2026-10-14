@@ -5,15 +5,63 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-13T23:01:28Z</updated>
+  <updated>2026-10-14T05:09:48Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineering-Internship---Summer-2026_R008289</id>
-    <title>Allison Transmission: Manufacturing Engineering Internship - Summer 2027 🇺🇸</title>
-    <link href="https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Manufacturing-Engineering-Internship---Summer-2026_R008289"/>
+    <id>urn:intern-engine:workday:dtna:/job/Detroit-MI-US/Powertrain-Engineering-Intern_DT-20216</id>
+    <title>Daimler Truck: Powertrain Engineering Intern</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Powertrain-Engineering-Intern_DT-20216"/>
+    <updated>2026-10-14T05:09:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Detroit, MI US · $21–$29/hr · H-1B track record: ~50 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Mechanical-Engineering-Intern---Annapolis-MD_R10254668</id>
+    <title>Northrop Grumman: 2027 H/W Mechanical Engineering Intern – Annapolis MD 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Mechanical-Engineering-Intern---Annapolis-MD_R10254668"/>
+    <updated>2026-10-14T05:09:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · United States-Maryland-Annapolis · $20.5–$37.25/hr · Siemens NX, GD&amp;T, Teamcenter · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702</id>
+    <title>RTX: Mechanical Design Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702"/>
+    <updated>2026-10-14T05:09:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · SolidWorks, Siemens NX, CATIA, Creo, AutoCAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:cva.fa.us1.oraclecloud.com:10514</id>
+    <title>Standard Aero: Engineering Intern (Metallurgical Engineering)</title>
+    <link href="https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10514"/>
+    <updated>2026-10-14T05:09:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Materials Engineering · Dallas, TX, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:syskahennessy:8267624</id>
+    <title>Syska Hennessy Group: Mechanical Engineer Summer Intern</title>
+    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8267624"/>
+    <updated>2026-10-14T05:09:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Tampa, FL · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739915005</id>
+    <title>Astera Labs: AMS Digital Design Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739915005"/>
+    <updated>2026-10-13T23:01:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · San Jose, CA · $35/hr · Python, Verilog · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:muonspace:5256288007</id>
+    <title>Muon Space: Spacecraft Test Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/muonspace/jobs/5256288007"/>
     <updated>2026-10-13T23:01:25Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Indianapolis, IN · sponsorship: citizens-only · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Test &amp; Validation · San Jose, CA · $40/hr · Python, C++, MATLAB, Simulink · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineering-Internship---Summer-2026_R008288</id>
@@ -24,12 +72,12 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Indianapolis, IN · sponsorship: citizens-only · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739915005</id>
-    <title>Astera Labs: AMS Digital Design Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739915005"/>
+    <id>urn:intern-engine:workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineering-Internship---Summer-2026_R008289</id>
+    <title>Allison Transmission: Manufacturing Engineering Internship - Summer 2027 🇺🇸</title>
+    <link href="https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Manufacturing-Engineering-Internship---Summer-2026_R008289"/>
     <updated>2026-10-13T23:01:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · San Jose, CA · $35/hr · Python, Verilog · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Indianapolis, IN · sponsorship: citizens-only · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:basspro:/job/Springfield-MO-Tracker-Marine-Base-Camp/Sourcing---Supplier-Quality-Engineering-Co-Op_R267077</id>
@@ -54,14 +102,6 @@
     <updated>2026-10-13T23:01:25Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Plantation, FL · FEA, DFM/DFA, Tolerance Analysis · H-1B track record: ~191 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:muonspace:5256288007</id>
-    <title>Muon Space: Spacecraft Test Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/muonspace/jobs/5256288007"/>
-    <updated>2026-10-13T23:01:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · San Jose, CA · $40/hr · Python, C++, MATLAB, Simulink · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119924</id>
@@ -110,14 +150,6 @@
     <updated>2026-10-13T00:56:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Test &amp; Validation · San Jose, CA · $38/hr · Python, MATLAB, Verilog · H-1B track record: ~29 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:97462</id>
-    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97462"/>
-    <updated>2026-10-13T00:56:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Tempe, AZ, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000155100809</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-06T18:38:46Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · San Jose, CA · $35/hr · Python, C++, Linux, Git, Verilog · H-1B track record: ~29 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4731668005</id>
-    <title>Astera Labs: Product Quality Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731668005"/>
-    <updated>2026-10-06T18:38:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · San Jose, CA · $35/hr · Python, C++, MATLAB · H-1B track record: ~29 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:atoms:8868917002</id>
-    <title>Atoms: Manufacturing Intern</title>
-    <link href="https://job-boards.greenhouse.io/atoms/jobs/8868917002"/>
-    <updated>2026-10-06T18:38:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · San Francisco, CA · $50/hr · Python, SolidWorks, Siemens NX, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:axiscompany:8870866002</id>
-    <title>Axis Automation: GVSU Controls Engineering Intern Co-op</title>
-    <link href="https://job-boards.greenhouse.io/axiscompany/jobs/8870866002"/>
-    <updated>2026-10-06T18:38:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Walker, Michigan, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:axiscompany:8871027002</id>
-    <title>Axis Automation: GVSU Mechanical Engineering Intern Co-op</title>
-    <link href="https://job-boards.greenhouse.io/axiscompany/jobs/8871027002"/>
-    <updated>2026-10-06T18:38:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Walker, Michigan, United States · SolidWorks, AutoCAD, CAD</summary>
   </entry>
 </feed>
