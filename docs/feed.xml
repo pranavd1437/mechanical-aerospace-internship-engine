@@ -5,31 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-14T05:09:48Z</updated>
+  <updated>2026-10-14T12:09:57Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:dtna:/job/Detroit-MI-US/Powertrain-Engineering-Intern_DT-20216</id>
-    <title>Daimler Truck: Powertrain Engineering Intern</title>
-    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Powertrain-Engineering-Intern_DT-20216"/>
+    <id>urn:intern-engine:greenhouse:syskahennessy:8267624</id>
+    <title>Syska Hennessy Group: Mechanical Engineer Summer Intern</title>
+    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8267624"/>
     <updated>2026-10-14T05:09:44Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Detroit, MI US · $21–$29/hr · H-1B track record: ~50 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Mechanical-Engineering-Intern---Annapolis-MD_R10254668</id>
-    <title>Northrop Grumman: 2027 H/W Mechanical Engineering Intern – Annapolis MD 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Mechanical-Engineering-Intern---Annapolis-MD_R10254668"/>
-    <updated>2026-10-14T05:09:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · United States-Maryland-Annapolis · $20.5–$37.25/hr · Siemens NX, GD&amp;T, Teamcenter · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702</id>
-    <title>RTX: Mechanical Design Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702"/>
-    <updated>2026-10-14T05:09:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · SolidWorks, Siemens NX, CATIA, Creo, AutoCAD · sponsorship: citizens-only</summary>
+    <summary>Not stated · Mechanical Design · Tampa, FL · AutoCAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:cva.fa.us1.oraclecloud.com:10514</id>
@@ -40,12 +24,28 @@
     <summary>Not stated · Materials Engineering · Dallas, TX, United States</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:syskahennessy:8267624</id>
-    <title>Syska Hennessy Group: Mechanical Engineer Summer Intern</title>
-    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8267624"/>
+    <id>urn:intern-engine:workday:dtna:/job/Detroit-MI-US/Powertrain-Engineering-Intern_DT-20216</id>
+    <title>Daimler Truck: Powertrain Engineering Intern</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Powertrain-Engineering-Intern_DT-20216"/>
     <updated>2026-10-14T05:09:44Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Tampa, FL · AutoCAD</summary>
+    <summary>Not stated · Mechanical Design · Detroit, MI US · $21–$29/hr · H-1B track record: ~50 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702</id>
+    <title>RTX: Mechanical Design Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702"/>
+    <updated>2026-10-14T05:09:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · SolidWorks, Siemens NX, CATIA, Creo, AutoCAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Mechanical-Engineering-Intern---Annapolis-MD_R10254668</id>
+    <title>Northrop Grumman: 2027 H/W Mechanical Engineering Intern – Annapolis MD 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Mechanical-Engineering-Intern---Annapolis-MD_R10254668"/>
+    <updated>2026-10-14T05:09:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · United States-Maryland-Annapolis · $20.5–$37.25/hr · Siemens NX, GD&amp;T, Teamcenter · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739915005</id>
@@ -304,14 +304,6 @@
     <summary>Not stated · Manufacturing &amp; Quality · Montgomery, Texas · Six Sigma, Lean Manufacturing · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:hpe:/job/Sunnyvale-California-United-States-of-America/Thermal-Engineering-Intern_1214190</id>
-    <title>Hewlett Packard Enterprise: Thermal Engineering Intern</title>
-    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Thermal-Engineering-Intern_1214190"/>
-    <updated>2026-10-09T06:25:53Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Sunnyvale, California, United States of America · LabVIEW, HTML/CSS · H-1B track record: ~499 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4718812006</id>
     <title>SharkNinja: Summer 2027: Mechanical Engineering Intern, Shark (May to August)</title>
     <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718812006"/>
@@ -454,14 +446,6 @@
     <updated>2026-10-07T23:18:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Torrance, CA · $36/hr · SolidWorks, Siemens NX, CATIA, CAD, FEA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25015924</id>
-    <title>Texas Instruments: Analog Design Engineering Intern - ATD</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25015924"/>
-    <updated>2026-10-07T23:18:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Dallas, TX, United States · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107354</id>
@@ -806,5 +790,21 @@
     <updated>2026-10-06T18:38:46Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · San Jose, CA · $35/hr · Python, C++, Linux, Git, Verilog · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4731668005</id>
+    <title>Astera Labs: Product Quality Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731668005"/>
+    <updated>2026-10-06T18:38:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · San Jose, CA · $35/hr · Python, C++, MATLAB · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:atoms:8868917002</id>
+    <title>Atoms: Manufacturing Intern</title>
+    <link href="https://job-boards.greenhouse.io/atoms/jobs/8868917002"/>
+    <updated>2026-10-06T18:38:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · San Francisco, CA · $50/hr · Python, SolidWorks, Siemens NX, CAD</summary>
   </entry>
 </feed>
