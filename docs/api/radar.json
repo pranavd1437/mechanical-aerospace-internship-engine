@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T12:09:57Z",
+ "generated_at": "2026-10-14T17:27:29Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -645,6 +645,20 @@
    "days_until": -40,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/amca/jobs/4396629009",
+   "note": ""
+  },
+  {
+   "company": "Mdtkangaroo",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -40,
+   "status": "open",
+   "url": "https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/Northridge-California-United-States-of-America/Quality_R-801813",
    "note": ""
   },
   {
@@ -2146,5 +2160,5 @@
    "note": ""
   }
  ],
- "count": 153
+ "count": 154
 }
