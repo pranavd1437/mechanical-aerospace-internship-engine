@@ -24,6 +24,18 @@
     }
    }
   },
+  "adient": {
+   "name": "Adient",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-15",
+     "role_ids": [
+      "workday:adient:/job/Plymouth-MI/Lean-Manufacturing-Intern_R-29531"
+     ],
+     "count": 1
+    }
+   }
+  },
   "aecom": {
    "name": "AECOM",
    "cycles": {
@@ -546,9 +558,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-06",
      "role_ids": [
-      "oracle:epyc.fa.us2.oraclecloud.com:166786"
+      "oracle:epyc.fa.us2.oraclecloud.com:166786",
+      "oracle:epyc.fa.us2.oraclecloud.com:167238"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1315,9 +1328,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-29",
      "role_ids": [
+      "workday:leidos:/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193394",
       "workday:leidos:/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193413"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2078,6 +2092,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01871450",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-110--400-Collins-Rd-NE--BLDG-110/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01882360",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-123--350-Collins-Rd-NE--BLDG-123/Metrology-Engineering-Intern--Summer-2027-_01882625",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Hardware-Engineering-Intern--Summer-2027-_01870408",
@@ -2086,7 +2101,7 @@
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Repair-Design-Engineer-Intern--Summer-2027---Onsite-_01880133"
      ],
-     "count": 40
+     "count": 41
     }
    }
   },
@@ -2415,6 +2430,7 @@
       "workday:ttc:/job/Bloomington-MN/Mechanical-Engineering-Intern---Value-Engineering--VAVE----The-Toro-Company_JR17204",
       "workday:ttc:/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194",
       "workday:ttc:/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004",
+      "workday:ttc:/job/Lake-Mills-WI/Manufacturing-Engineering-Intern---HammerHead_JR17635",
       "workday:ttc:/job/Perry-OK/Manufacturing-Engineer-Intern---Ditch-Witch_JR17449",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17101",
@@ -2423,7 +2439,7 @@
       "workday:ttc:/job/Shakopee-MN/Manufacturing-Engineering-Intern---The-Toro-Company_JR17581",
       "workday:ttc:/job/Windom-MN/Manufacturing-Engineer-Intern---The-Toro-Company_JR17578"
      ],
-     "count": 17
+     "count": 18
     }
    }
   },
@@ -2792,5 +2808,5 @@
    }
   }
  },
- "updated_at": "2026-10-15T17:16:56Z"
+ "updated_at": "2026-10-15T21:41:38Z"
 }
