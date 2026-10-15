@@ -763,6 +763,13 @@
       "oracle:ejta.fa.us6.oraclecloud.com:10562"
      ],
      "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-10-15",
+     "role_ids": [
+      "oracle:ejta.fa.us6.oraclecloud.com:10826"
+     ],
+     "count": 1
     }
    }
   },
@@ -2779,5 +2786,5 @@
    }
   }
  },
- "updated_at": "2026-10-15T04:58:20Z"
+ "updated_at": "2026-10-15T11:49:11Z"
 }

@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-15T04:58:23Z</updated>
+  <updated>2026-10-15T11:49:14Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:ejta.fa.us6.oraclecloud.com:10826</id>
+    <title>Fortive: Mechanical Engineering Intern</title>
+    <link href="https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10826"/>
+    <updated>2026-10-15T11:49:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Irvine, CA, United States · CAD</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:rockwellautomation:/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553-1</id>
     <title>Rockwell Automation: Intern, Test Engineering (Milwaukee, WI) 🛂</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-07T23:18:35Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · United States-California-San Diego · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Materials-Engineer-Intern---Sunnyvale-CA_R10255084</id>
-    <title>Northrop Grumman: 2027 Materials Engineer Intern - Sunnyvale CA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Materials-Engineer-Intern---Sunnyvale-CA_R10255084"/>
-    <updated>2026-10-07T23:18:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Materials Engineering · United States-California-Sunnyvale · $21.5–$39/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>
