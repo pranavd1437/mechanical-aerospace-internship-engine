@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T04:49:32Z",
+ "generated_at": "2026-10-16T11:42:32Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -1292,20 +1292,6 @@
    "note": ""
   },
   {
-   "company": "Eversource Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-28",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-28",
-   "days_until": -18,
-   "status": "open",
-   "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/XMLNAME-2027-Co-op--Substation-Design-Engineering_R-031701",
-   "note": ""
-  },
-  {
    "company": "Mars",
    "last_cycle_posted": "",
    "posted_on": "2026-09-28",
@@ -1499,20 +1485,6 @@
    "days_until": -10,
    "status": "open",
    "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167238",
-   "note": ""
-  },
-  {
-   "company": "Ingredion",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-07",
-   "days_until": -9,
-   "status": "open",
-   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/North-Kansas-City-MO/Mechanical-Engineer-Co-op-2027--January---August-_Req-40189-1",
    "note": ""
   },
   {
@@ -2188,6 +2160,20 @@
    "note": ""
   },
   {
+   "company": "Eversource Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-28",
+   "days_until": -18,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Ralliant",
    "last_cycle_posted": "",
    "posted_on": "2026-09-29",
@@ -2211,6 +2197,20 @@
    "source": "engine",
    "expected": "2026-09-29",
    "days_until": -17,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Ingredion",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -9,
    "status": "dropped",
    "url": "",
    "note": ""
