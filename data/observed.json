@@ -347,9 +347,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-26",
      "role_ids": [
-      "greenhouse:axon:7978840003"
+      "greenhouse:axon:7978840003",
+      "greenhouse:axontalentcommunity:7978840003"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -937,12 +938,13 @@
       "workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578",
       "workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604587",
       "workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604588",
+      "workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604592",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604657",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -1739,6 +1741,7 @@
       "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253538",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
+      "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Guidance-Navigation-and-Control-Engineer_R10256435",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139",
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Materials-Engineer-Intern---Sunnyvale-CA_R10255084",
@@ -1771,7 +1774,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Analysis-Intern---Dulles-VA_R10256105",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 37
+     "count": 38
     }
    }
   },
@@ -2760,11 +2763,12 @@
       "oracle:emit.fa.ca3.oraclecloud.com:96332",
       "oracle:emit.fa.ca3.oraclecloud.com:96611",
       "oracle:emit.fa.ca3.oraclecloud.com:97068",
+      "oracle:emit.fa.ca3.oraclecloud.com:97070",
       "oracle:emit.fa.ca3.oraclecloud.com:97132",
       "oracle:emit.fa.ca3.oraclecloud.com:97462",
       "oracle:emit.fa.ca3.oraclecloud.com:97606"
      ],
-     "count": 37
+     "count": 38
     }
    }
   },
@@ -2842,5 +2846,5 @@
    }
   }
  },
- "updated_at": "2026-10-16T16:55:16Z"
+ "updated_at": "2026-10-16T21:29:58Z"
 }

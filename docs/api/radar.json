@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T16:55:19Z",
+ "generated_at": "2026-10-16T21:30:02Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -126,7 +126,7 @@
    "expected": "2026-08-14",
    "days_until": -63,
    "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578",
    "note": ""
   },
   {
@@ -295,6 +295,20 @@
    "days_until": -52,
    "status": "open",
    "url": "https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334",
+   "note": ""
+  },
+  {
+   "company": "Axon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -51,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7978840003",
    "note": ""
   },
   {
@@ -830,20 +844,6 @@
    "note": ""
   },
   {
-   "company": "Michael Baker International",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-09",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-09",
-   "days_until": -37,
-   "status": "open",
-   "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310073",
-   "note": ""
-  },
-  {
    "company": "Pacific Fusion",
    "last_cycle_posted": "",
    "posted_on": "2026-09-09",
@@ -1205,20 +1205,6 @@
    "days_until": -23,
    "status": "open",
    "url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148",
-   "note": ""
-  },
-  {
-   "company": "The Aerospace Corporation",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-23",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-23",
-   "days_until": -23,
-   "status": "open",
-   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Structural-Dynamics-Undergraduate-Intern_R016668",
    "note": ""
   },
   {
@@ -1596,7 +1582,7 @@
    "expected": "2026-10-09",
    "days_until": -7,
    "status": "open",
-   "url": "https://jobs.lever.co/cfsenergy/e3408817-347e-45bc-8627-305b75b6b978",
+   "url": "https://jobs.lever.co/cfsenergy/01ec2ee8-b8c9-4f32-9b66-3a2ce1ff704f",
    "note": ""
   },
   {
@@ -1894,20 +1880,6 @@
    "note": ""
   },
   {
-   "company": "Axon",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-26",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-26",
-   "days_until": -51,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Chamberlain Group",
    "last_cycle_posted": "",
    "posted_on": "2026-08-26",
@@ -2076,6 +2048,20 @@
    "note": ""
   },
   {
+   "company": "Michael Baker International",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -37,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Blue Origin",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -2169,6 +2155,20 @@
    "source": "engine",
    "expected": "2026-09-21",
    "days_until": -25,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "The Aerospace Corporation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-23",
+   "days_until": -23,
    "status": "dropped",
    "url": "",
    "note": ""
