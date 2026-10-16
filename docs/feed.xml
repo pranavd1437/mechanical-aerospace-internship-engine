@@ -5,15 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-15T21:41:43Z</updated>
+  <updated>2026-10-16T04:49:32Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:adient:/job/Plymouth-MI/Lean-Manufacturing-Intern_R-29531</id>
-    <title>Adient: Lean Manufacturing Intern</title>
-    <link href="https://adient.wd3.myworkdayjobs.com/External/job/Plymouth-MI/Lean-Manufacturing-Intern_R-29531"/>
-    <updated>2026-10-15T21:41:38Z</updated>
+    <id>urn:intern-engine:workday:abb:/job/USA-NC-Hickory/Manufacturing-Engineering-Intern---Summer-2027_JR00047568</id>
+    <title>ABB: Manufacturing Engineering Intern - Summer 2027 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Hickory/Manufacturing-Engineering-Intern---Summer-2027_JR00047568"/>
+    <updated>2026-10-16T04:49:28Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Plymouth, MI · Lean Manufacturing, AutoCAD · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · USA, NC, Hickory · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:avav:/job/Pottstown-PA/Manufacturing-Engineering-Intern_9104</id>
+    <title>Avav: Manufacturing Engineering Intern 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Pottstown-PA/Manufacturing-Engineering-Intern_9104"/>
+    <updated>2026-10-16T04:49:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Pottstown, PA · SolidWorks, CAD, DFM/DFA, FMEA, Six Sigma · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:inversionspace:4744390005</id>
+    <title>Inversion Space: Avionics Mechanical Engineer - Summer Internship 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/inversionspace/jobs/4744390005"/>
+    <updated>2026-10-16T04:49:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Playa Vista, California, United States · SolidWorks, Siemens NX, Creo, CAD, GD&amp;T · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25016081</id>
+    <title>Texas Instruments: Device Reliability Engineering Intern</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016081"/>
+    <updated>2026-10-15T21:41:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Dallas, TX, United States · MATLAB · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:epyc.fa.us2.oraclecloud.com:167238</id>
@@ -24,20 +48,20 @@
     <summary>Summer 2027 · Mechanical Design · Norwell, MA, United States · CAD · H-1B track record: ~38 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:adient:/job/Plymouth-MI/Lean-Manufacturing-Intern_R-29531</id>
+    <title>Adient: Lean Manufacturing Intern</title>
+    <link href="https://adient.wd3.myworkdayjobs.com/External/job/Plymouth-MI/Lean-Manufacturing-Intern_R-29531"/>
+    <updated>2026-10-15T21:41:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Plymouth, MI · Lean Manufacturing, AutoCAD · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:dtna:/job/Gastonia-NC-US/Automation-Engineer-Intern_DT-19944</id>
     <title>Daimler Truck: Automation Engineer Intern</title>
     <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Gastonia-NC-US/Automation-Engineer-Intern_DT-19944"/>
     <updated>2026-10-15T21:41:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Controls &amp; Mechatronics · Gastonia, NC US · $21–$29/hr · H-1B track record: ~50 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193394</id>
-    <title>Leidos: Electrical Hardware Design Engineering Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193394"/>
-    <updated>2026-10-15T21:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Huntsville, AL · Python, C++, MATLAB, Verilog · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-123--350-Collins-Rd-NE--BLDG-123/Metrology-Engineering-Intern--Summer-2027-_01882625</id>
@@ -48,12 +72,12 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-123 ~ 350 Collins Rd NE ~ BLDG 123 · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25016081</id>
-    <title>Texas Instruments: Device Reliability Engineering Intern</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016081"/>
+    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193394</id>
+    <title>Leidos: Electrical Hardware Design Engineering Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193394"/>
     <updated>2026-10-15T21:41:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Dallas, TX, United States · MATLAB · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Huntsville, AL · Python, C++, MATLAB, Verilog · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ttc:/job/Lake-Mills-WI/Manufacturing-Engineering-Intern---HammerHead_JR17635</id>
@@ -262,14 +286,6 @@
     <updated>2026-10-14T17:27:25Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Northridge, California, United States of America · $26.5–$45.25/hr · Python, Java, C++, C#, MATLAB · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Clearwater-Florida-United-States/Engineer-Intern---Mechanical--Year-Round-_R51145</id>
-    <title>Oshkosh: Engineer Intern - Mechanical (Year Round)</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Clearwater-Florida-United-States/Engineer-Intern---Mechanical--Year-Round-_R51145"/>
-    <updated>2026-10-14T17:27:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Clearwater, Florida, United States · CATIA, CAD, PLM</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:plastipak:/job/Plastipak---Plant-City-FL/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24669</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-07T23:18:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Chicago, IL, United States · $22–$30/hr · AutoCAD, CAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000154178117</id>
-    <title>AECOM: Mechanical Engineering Intern – Hiring Event with AECOM – Atlanta, GA</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000154178117"/>
-    <updated>2026-10-07T23:18:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Atlanta, GA, United States · AutoCAD · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290</id>
-    <title>Nissan: Raw Materials Engineering Intern - Summer 2027 - Decherd, TN</title>
-    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290"/>
-    <updated>2026-10-07T23:18:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Materials Engineering · Decherd, Tennessee - United States of America · H-1B track record: ~16 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
