@@ -463,6 +463,20 @@
     }
    }
   },
+  "caci": {
+   "name": "CACI",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "workday:caci:/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333570",
+      "workday:caci:/job/Danbury-CT-US/Manufacturing-Engineering-Intern---Summer-2027_333189-1",
+      "workday:caci:/job/Melbourne-FL-US/Manufacturing-Engineering-Intern---Summer-2027_332898"
+     ],
+     "count": 3
+    }
+   }
+  },
   "carpenter technology": {
    "name": "Carpenter Technology",
    "cycles": {
@@ -563,6 +577,21 @@
       "oracle:epyc.fa.us2.oraclecloud.com:167238"
      ],
      "count": 2
+    }
+   }
+  },
+  "commonwealth fusion systems": {
+   "name": "Commonwealth Fusion Systems",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-09",
+     "role_ids": [
+      "lever:cfsenergy:01ec2ee8-b8c9-4f32-9b66-3a2ce1ff704f",
+      "lever:cfsenergy:7ed4bf93-2b32-4096-9af3-2eb79e620039",
+      "lever:cfsenergy:9690a768-362f-4df8-86a1-554b896cbc76",
+      "lever:cfsenergy:e3408817-347e-45bc-8627-305b75b6b978"
+     ],
+     "count": 4
     }
    }
   },
@@ -905,13 +934,15 @@
     "Summer 2027": {
      "first_posted": "2026-08-14",
      "role_ids": [
+      "workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578",
       "workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604587",
+      "workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604588",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604657",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666"
      ],
-     "count": 5
+     "count": 7
     }
    }
   },
@@ -1504,9 +1535,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-09",
      "role_ids": [
-      "oracle:ebxs.fa.us2.oraclecloud.com:309855"
+      "oracle:ebxs.fa.us2.oraclecloud.com:309855",
+      "oracle:ebxs.fa.us2.oraclecloud.com:310073"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2810,5 +2842,5 @@
    }
   }
  },
- "updated_at": "2026-10-16T11:42:28Z"
+ "updated_at": "2026-10-16T16:55:16Z"
 }

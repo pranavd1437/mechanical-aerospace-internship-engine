@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T11:42:32Z",
+ "generated_at": "2026-10-16T16:55:19Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -662,20 +662,6 @@
    "note": ""
   },
   {
-   "company": "Mdtkangaroo",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-04",
-   "days_until": -42,
-   "status": "open",
-   "url": "https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/Northridge-California-United-States-of-America/Quality_R-801813",
-   "note": ""
-  },
-  {
    "company": "Skydio",
    "last_cycle_posted": "",
    "posted_on": "2026-09-04",
@@ -841,6 +827,20 @@
    "days_until": -37,
    "status": "open",
    "url": "https://jobs.smartrecruiters.com/LLNL/3743990015127766",
+   "note": ""
+  },
+  {
+   "company": "Michael Baker International",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -37,
+   "status": "open",
+   "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310073",
    "note": ""
   },
   {
@@ -1376,6 +1376,20 @@
    "note": ""
   },
   {
+   "company": "CACI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-01",
+   "days_until": -15,
+   "status": "open",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333570",
+   "note": ""
+  },
+  {
    "company": "CoStar Group",
    "last_cycle_posted": "",
    "posted_on": "2026-10-01",
@@ -1569,6 +1583,20 @@
    "days_until": -8,
    "status": "open",
    "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Broomfield-CO/Summer-2027-Manufacturing-Engineer-Intern_R26389",
+   "note": ""
+  },
+  {
+   "company": "Commonwealth Fusion Systems",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-09",
+   "days_until": -7,
+   "status": "open",
+   "url": "https://jobs.lever.co/cfsenergy/e3408817-347e-45bc-8627-305b75b6b978",
    "note": ""
   },
   {
@@ -1950,6 +1978,20 @@
    "note": ""
   },
   {
+   "company": "Mdtkangaroo",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -42,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Saab",
    "last_cycle_posted": "",
    "posted_on": "2026-09-04",
@@ -2021,20 +2063,6 @@
   },
   {
    "company": "Emerson Electric",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-09",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-09",
-   "days_until": -37,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Michael Baker International",
    "last_cycle_posted": "",
    "posted_on": "2026-09-09",
    "precision": "day",
@@ -2216,5 +2244,5 @@
    "note": ""
   }
  ],
- "count": 158
+ "count": 160
 }
