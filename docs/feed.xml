@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-16T21:30:02Z</updated>
+  <updated>2026-10-17T04:46:30Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Supplier-Quality-Engineer-Intern_JR00048713-1</id>
-    <title>ABB: Supplier Quality Engineer Intern 🛂</title>
-    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Supplier-Quality-Engineer-Intern_JR00048713-1"/>
-    <updated>2026-10-16T21:29:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · New Berlin, Wisconsin, United States of America · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:caci:/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333648</id>
+    <title>CACI: Aerospace Engineer Intern - Summer 2027 🇺🇸</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333648"/>
+    <updated>2026-10-17T04:46:27Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Aerospace &amp; Flight Sciences · Aberdeen Proving Ground, MD, US · CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:axontalentcommunity:7978840003</id>
@@ -22,6 +22,30 @@
     <updated>2026-10-16T21:29:58Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Arizona, USA · SolidWorks, Siemens NX, Creo, CAD · H-1B track record: ~72 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:97070</id>
+    <title>WSP: Mechanical Engineering Intern (Mission Critical/Data Center) - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97070"/>
+    <updated>2026-10-16T21:29:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Herndon, VA, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40850</id>
+    <title>Nokia: Mechanical Packaging Engineer Co-op</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40850"/>
+    <updated>2026-10-16T21:29:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · United States · SolidWorks, CAD, GD&amp;T, ANSYS, Tolerance Analysis · H-1B track record: ~321 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Supplier-Quality-Engineer-Intern_JR00048713-1</id>
+    <title>ABB: Supplier Quality Engineer Intern 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Supplier-Quality-Engineer-Intern_JR00048713-1"/>
+    <updated>2026-10-16T21:29:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · New Berlin, Wisconsin, United States of America · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:dtna:/job/Gaffney-SC-US/Mechanical-Product-Design-Intern_DT-20265</id>
@@ -64,28 +88,12 @@
     <summary>Not stated · Mechanical Design · Richardson, TX · Python, C++, CAD, Linux, Verilog · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40850</id>
-    <title>Nokia: Mechanical Packaging Engineer Co-op</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40850"/>
-    <updated>2026-10-16T21:29:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · United States · SolidWorks, CAD, GD&amp;T, ANSYS, Tolerance Analysis · H-1B track record: ~321 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Guidance-Navigation-and-Control-Engineer_R10256435</id>
     <title>Northrop Grumman: 2027 Intern - Guidance Navigation and Control Engineer 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Guidance-Navigation-and-Control-Engineer_R10256435"/>
     <updated>2026-10-16T21:29:58Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Controls &amp; Mechatronics · United States-California-San Diego · $21.5–$39/hr · Python, C++, MATLAB, Simulink · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:97070</id>
-    <title>WSP: Mechanical Engineering Intern (Mission Critical/Data Center) - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97070"/>
-    <updated>2026-10-16T21:29:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Herndon, VA, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:cfsenergy:01ec2ee8-b8c9-4f32-9b66-3a2ce1ff704f</id>
@@ -147,14 +155,6 @@
     <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578</id>
     <title>GlobalFoundries: Advanced Manufacturing Engineering Intern, Process &amp; Equipment (Summer 2027)</title>
     <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578"/>
-    <updated>2026-10-16T16:55:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA - New York - Malta · H-1B track record: ~110 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604588</id>
-    <title>GlobalFoundries: Advanced Manufacturing Engineering Intern, Process &amp; Equipment (Summer 2027)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604588"/>
     <updated>2026-10-16T16:55:16Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · USA - New York - Malta · H-1B track record: ~110 approvals (FY2022–2023)</summary>

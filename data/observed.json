@@ -471,10 +471,11 @@
      "first_posted": "2026-10-01",
      "role_ids": [
       "workday:caci:/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333570",
+      "workday:caci:/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333648",
       "workday:caci:/job/Danbury-CT-US/Manufacturing-Engineering-Intern---Summer-2027_333189-1",
       "workday:caci:/job/Melbourne-FL-US/Manufacturing-Engineering-Intern---Summer-2027_332898"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2846,5 +2847,5 @@
    }
   }
  },
- "updated_at": "2026-10-16T21:29:58Z"
+ "updated_at": "2026-10-17T04:46:27Z"
 }
