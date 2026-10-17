@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T04:46:30Z",
+ "generated_at": "2026-10-17T11:03:36Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -295,20 +295,6 @@
    "days_until": -53,
    "status": "open",
    "url": "https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334",
-   "note": ""
-  },
-  {
-   "company": "Axon",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-26",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-26",
-   "days_until": -52,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7978840003",
    "note": ""
   },
   {
@@ -1875,6 +1861,20 @@
    "source": "engine",
    "expected": "2026-08-25",
    "days_until": -53,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Axon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -52,
    "status": "dropped",
    "url": "",
    "note": ""

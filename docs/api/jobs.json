@@ -1,9 +1,32 @@
 {
- "generated_at": "2026-10-17T04:46:30Z",
+ "generated_at": "2026-10-17T11:03:36Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 743,
+ "count": 742,
  "jobs": [
+  {
+   "id": "workday:globalfoundries:/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575",
+   "company": "GlobalFoundries",
+   "title": "Industrial Engineering Intern (Summer 2027)",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Manufacturing & Quality",
+   "location": "USA - New York - Malta",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575",
+   "posted_at": "2026-10-16T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-17T11:03:32Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Six Sigma"
+   ],
+   "source": "workday",
+   "h1b_approvals": 110,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:caci:/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333648",
    "company": "CACI",
@@ -8434,6 +8457,27 @@
    "remote": false
   },
   {
+   "id": "workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989",
+   "company": "United Parcel Service (UPS)",
+   "title": "2027 Americas Region Industrial Engineering Summer Intern",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Manufacturing & Quality",
+   "location": "US - UPS CORPORATE OFFICES (GACOR)",
+   "url": "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989",
+   "posted_at": "2026-09-18T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-21T05:10:52Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "workday:philips:/job/Latham-New-York-United-States/Co-op---Design-Engineering---Latham--NY---January-June-2027_590362",
    "company": "Philips",
    "title": "Co-op - Design Engineering - Latham, NY - January-June 2027",
@@ -9220,29 +9264,6 @@
    "salary": null,
    "skills": [
     "SolidWorks",
-    "CAD"
-   ],
-   "source": "workday",
-   "h1b_approvals": 2,
-   "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:idexcorp:/job/Cedar-Falls-Iowa/Manufacturing-Engineering-Co-Op_R-09910",
-   "company": "IDEX",
-   "title": "Manufacturing Engineering Co-Op",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Manufacturing & Quality",
-   "location": "Cedar Falls, Iowa",
-   "url": "https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Cedar-Falls-Iowa/Manufacturing-Engineering-Co-Op_R-09910",
-   "posted_at": "2026-09-17T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-17T17:13:31Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
     "CAD"
    ],
    "source": "workday",
@@ -13391,29 +13412,6 @@
    "remote": false
   },
   {
-   "id": "smartrecruiters:Loram1:3743990015081125",
-   "company": "Loram",
-   "title": "Quality Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Manufacturing & Quality",
-   "location": "Hamel, MN, United States",
-   "url": "https://jobs.smartrecruiters.com/Loram1/3743990015081125",
-   "posted_at": "2026-09-04T16:31:04.681Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-04T20:56:27Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Six Sigma"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "smartrecruiters:Loram1:3743990015079155",
    "company": "Loram",
    "title": "Mechanical Engineering Intern",
@@ -16104,32 +16102,6 @@
    "skills": [],
    "source": "workday",
    "h1b_approvals": 489,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:axontalentcommunity:7978840003",
-   "company": "Axon",
-   "title": "2027 US Mechanical Engineering Internship",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Mechanical Design",
-   "location": "Arizona, USA",
-   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7978840003",
-   "posted_at": "2026-08-26T18:45:42-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-16T21:29:58Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "SolidWorks",
-    "Siemens NX",
-    "Creo",
-    "CAD"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 72,
    "program": "Internship",
    "remote": false
   },
