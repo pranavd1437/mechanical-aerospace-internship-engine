@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-17T11:03:36Z</updated>
+  <updated>2026-10-17T15:49:56Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
     <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575</id>
@@ -70,14 +70,6 @@
     <updated>2026-10-16T21:29:58Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · United States - Shakopee, MN (GHQ) · $25/hr · MATLAB, Simulink, SolidWorks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604592</id>
-    <title>GlobalFoundries: Advanced Manufacturing Engineering Intern, Process &amp; Equipment (Summer 2027)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604592"/>
-    <updated>2026-10-16T21:29:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA - New York - Malta · H-1B track record: ~110 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:micron:/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112529</id>
@@ -150,14 +142,6 @@
     <updated>2026-10-16T16:55:16Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Melbourne, FL, US · SolidWorks, AutoCAD, CAD, Six Sigma, Lean Manufacturing · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578</id>
-    <title>GlobalFoundries: Advanced Manufacturing Engineering Intern, Process &amp; Equipment (Summer 2027)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578"/>
-    <updated>2026-10-16T16:55:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA - New York - Malta · H-1B track record: ~110 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Ann-Arbor-MI/Opto-Mechanical-Intern_2641704</id>
@@ -806,5 +790,21 @@
     <updated>2026-10-08T23:34:08Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Plastipak - Havre de Grace, MD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sierraspace:/job/Broomfield-CO/Summer-2027-Manufacturing-Engineer-Intern_R26389</id>
+    <title>Sierra Space: Summer 2027 Manufacturing Engineer Intern 🇺🇸</title>
+    <link href="https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Broomfield-CO/Summer-2027-Manufacturing-Engineer-Intern_R26389"/>
+    <updated>2026-10-08T23:34:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Broomfield, CO · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ttc:/job/Shakopee-MN/Manufacturing-Engineering-Intern---The-Toro-Company_JR17581</id>
+    <title>The Toro Company: Manufacturing Engineering Intern - The Toro Company 🛂</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Shakopee-MN/Manufacturing-Engineering-Intern---The-Toro-Company_JR17581"/>
+    <updated>2026-10-08T23:34:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Shakopee, MN · SolidWorks, Creo, AutoCAD · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>
