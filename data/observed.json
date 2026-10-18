@@ -1399,6 +1399,25 @@
     }
    }
   },
+  "llnl": {
+   "name": "LLNL",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "smartrecruiters:llnl:3743990015127766"
+     ],
+     "count": 1
+    },
+    "Fall 2026": {
+     "first_posted": "2026-06-15",
+     "role_ids": [
+      "smartrecruiters:llnl:3743990013626030"
+     ],
+     "count": 1
+    }
+   }
+  },
   "lonza": {
    "name": "Lonza",
    "cycles": {
@@ -2848,5 +2867,5 @@
    }
   }
  },
- "updated_at": "2026-10-18T11:29:00Z"
+ "updated_at": "2026-10-18T16:05:12Z"
 }

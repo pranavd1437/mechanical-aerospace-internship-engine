@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T11:29:04Z",
+ "generated_at": "2026-10-18T16:05:16Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -827,6 +827,20 @@
    "days_until": -39,
    "status": "open",
    "url": "https://jobs.smartrecruiters.com/LLNL/3743990015127766",
+   "note": ""
+  },
+  {
+   "company": "LLNL",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -39,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/llnl/3743990015127766",
    "note": ""
   },
   {
@@ -2244,5 +2258,5 @@
    "note": ""
   }
  ],
- "count": 160
+ "count": 161
 }
