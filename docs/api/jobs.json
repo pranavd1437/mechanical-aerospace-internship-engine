@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-18T04:51:22Z",
+ "generated_at": "2026-10-18T11:29:04Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 735,
+ "count": 733,
  "jobs": [
   {
    "id": "workday:globalfoundries:/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575",
@@ -8593,27 +8593,6 @@
    "remote": false
   },
   {
-   "id": "workday:graco:/job/Dayton-Minnesota-USA/CNC-Machine-Mechanic-Intern_R0023683",
-   "company": "Graco",
-   "title": "CNC Machine Mechanic Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Manufacturing & Quality",
-   "location": "Dayton, Minnesota, USA",
-   "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/CNC-Machine-Mechanic-Intern_R0023683",
-   "posted_at": "2026-09-18T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-18T21:07:08Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:idexcorp:/job/Cedar-Falls-Iowa/Design-Engineering-Co-Op_R-09921",
    "company": "IDEX",
    "title": "Design Engineering Co-Op",
@@ -8724,27 +8703,6 @@
    "source": "workday",
    "h1b_approvals": 57,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:magna:/job/Auburn-Hills-Michigan-US/Intern---Validation-Engineering_R00261307",
-   "company": "Magna International",
-   "title": "Intern - Validation Engineering",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Test & Validation",
-   "location": "Auburn Hills, Michigan, US",
-   "url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Intern---Validation-Engineering_R00261307",
-   "posted_at": "2026-09-18T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-18T16:40:03Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 141,
-   "program": "Internship",
    "remote": false
   },
   {
