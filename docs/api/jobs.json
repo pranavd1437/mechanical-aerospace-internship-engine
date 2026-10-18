@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-18T16:05:16Z",
+ "generated_at": "2026-10-18T21:00:45Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 735,
+ "count": 734,
  "jobs": [
   {
    "id": "workday:globalfoundries:/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575",
@@ -5435,29 +5435,6 @@
    ],
    "source": "workday",
    "h1b_approvals": 369,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:marvell:/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002",
-   "company": "Marvell",
-   "title": "Test Engineering Intern, MS - Summer 2027",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Test & Validation",
-   "location": "Santa Clara, CA",
-   "url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002",
-   "posted_at": "2026-09-30T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-30T22:29:39Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python"
-   ],
-   "source": "workday",
-   "h1b_approvals": 234,
    "program": "Internship",
    "remote": false
   },

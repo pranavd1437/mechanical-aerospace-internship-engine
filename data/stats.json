@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T16:05:12Z",
-  "duration_seconds": 455.8,
+  "generated_at": "2026-10-18T21:00:41Z",
+  "duration_seconds": 486.9,
   "companies_total": 4843,
   "companies_by_source": {
     "greenhouse": 1145,
@@ -16,23 +16,22 @@
     "breezy": 16,
     "eightfold": 1
   },
-  "quarantined": 202,
-  "fetched_ok": 4422,
-  "fetch_errors": 219,
+  "quarantined": 380,
+  "fetched_ok": 4424,
+  "fetch_errors": 39,
   "errors_by_source": {
-    "greenhouse": 45,
-    "workday": 91,
-    "lever": 34,
-    "ashby": 43,
-    "rippling": 6
+    "recruitee": 1,
+    "workday": 36,
+    "lever": 1,
+    "workable": 1
   },
-  "fetch_success_rate": 0.953,
+  "fetch_success_rate": 0.991,
   "fetch_success_rate_registry": 0.913,
-  "snapshots_complete": 4317,
-  "snapshots_partial": 105,
-  "roles_matched": 529,
-  "dropped_no_year_in_title": 174,
-  "dropped_offcycle_by_text": 147,
+  "snapshots_complete": 4318,
+  "snapshots_partial": 106,
+  "roles_matched": 541,
+  "dropped_no_year_in_title": 176,
+  "dropped_offcycle_by_text": 129,
   "dropped_by_description_scope": 1,
   "roles_cycle_inferred": 260,
   "roles_by_source": {
@@ -45,28 +44,28 @@
     "rippling": 1,
     "smartrecruiters": 49,
     "workable": 4,
-    "workday": 481
+    "workday": 480
   },
   "roles_by_cycle": {
-    "Summer 2027": 453,
+    "Summer 2027": 452,
     "Fall 2026": 22,
     "Not stated": 260
   },
   "roles_by_region": {
-    "US": 735
+    "US": 734
   },
   "sponsorship_counts": {
     "no-sponsorship": 67,
-    "unknown": 458,
+    "unknown": 457,
     "citizens-only": 209,
     "offers": 1
   },
   "posted_date_coverage": 0.999,
-  "enriched_this_run": 3,
-  "enrichment_detail_fetches": 3,
+  "enriched_this_run": 1,
+  "enrichment_detail_fetches": 1,
   "purged_this_run": 0,
-  "new_this_run": 2,
-  "open_total": 735,
+  "new_this_run": 0,
+  "open_total": 734,
   "detection_latency": {
     "median_minutes": 220.9,
     "p95_minutes": 1336.6,
@@ -75,7 +74,7 @@
     "basis": "roles published in the window with an exact source timestamp"
   },
   "posting_lifetime": {
-    "median_days": 9.5,
-    "sample_size": 612
+    "median_days": 10,
+    "sample_size": 613
   }
 }

@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-18T16:05:16Z</updated>
+  <updated>2026-10-18T21:00:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990015127766</id>
-    <title>LLNL: Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990015127766"/>
-    <updated>2026-10-18T16:05:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Materials Engineering · Livermore, CA, United States · sponsorship: citizens-only</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:llnl:3743990013626030</id>
     <title>LLNL: Materials Science Division Undergraduate Intern - Fall 2026 🇺🇸</title>
@@ -22,6 +14,14 @@
     <updated>2026-10-18T16:05:12Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Materials Engineering · Livermore, CA, United States · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:llnl:3743990015127766</id>
+    <title>LLNL: Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/llnl/3743990015127766"/>
+    <updated>2026-10-18T16:05:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Materials Engineering · Livermore, CA, United States · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575</id>
