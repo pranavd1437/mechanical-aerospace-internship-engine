@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-17T20:54:48Z",
- "duration_seconds": 714.5,
+ "generated_at": "2026-10-18T04:51:18Z",
+ "duration_seconds": 454.0,
  "companies_total": 4842,
  "companies_by_source": {
   "greenhouse": 1145,
@@ -16,50 +16,48 @@
   "breezy": 16,
   "eightfold": 1
  },
- "quarantined": 348,
- "fetched_ok": 4328,
- "fetch_errors": 166,
+ "quarantined": 373,
+ "fetched_ok": 4407,
+ "fetch_errors": 62,
  "errors_by_source": {
-  "workable": 144,
-  "ashby": 7,
-  "greenhouse": 9,
-  "workday": 3,
-  "lever": 2,
-  "rippling": 1
+  "workday": 55,
+  "workable": 5,
+  "lever": 1,
+  "greenhouse": 1
  },
- "fetch_success_rate": 0.963,
- "fetch_success_rate_registry": 0.894,
- "snapshots_complete": 4225,
- "snapshots_partial": 103,
- "roles_matched": 532,
- "dropped_no_year_in_title": 213,
+ "fetch_success_rate": 0.986,
+ "fetch_success_rate_registry": 0.91,
+ "snapshots_complete": 4301,
+ "snapshots_partial": 106,
+ "roles_matched": 541,
+ "dropped_no_year_in_title": 221,
  "dropped_offcycle_by_text": 146,
  "dropped_by_description_scope": 1,
- "roles_cycle_inferred": 267,
+ "roles_cycle_inferred": 262,
  "roles_by_source": {
   "amazon": 2,
-  "ashby": 21,
+  "ashby": 19,
   "breezy": 1,
   "greenhouse": 119,
   "lever": 28,
   "oracle": 31,
   "rippling": 1,
-  "smartrecruiters": 48,
+  "smartrecruiters": 47,
   "workable": 4,
-  "workday": 485
+  "workday": 483
  },
  "roles_by_cycle": {
   "Summer 2027": 452,
   "Fall 2026": 21,
-  "Not stated": 267
+  "Not stated": 262
  },
  "roles_by_region": {
-  "US": 740
+  "US": 735
  },
  "sponsorship_counts": {
-  "no-sponsorship": 70,
-  "unknown": 461,
-  "citizens-only": 208,
+  "no-sponsorship": 68,
+  "unknown": 459,
+  "citizens-only": 207,
   "offers": 1
  },
  "posted_date_coverage": 0.999,
@@ -67,7 +65,7 @@
  "enrichment_detail_fetches": 1,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 740,
+ "open_total": 735,
  "detection_latency": {
   "median_minutes": 220.9,
   "p95_minutes": 1336.6,
@@ -76,7 +74,7 @@
   "basis": "roles published in the window with an exact source timestamp"
  },
  "posting_lifetime": {
-  "median_days": 9,
-  "sample_size": 605
+  "median_days": 9.0,
+  "sample_size": 610
  }
 }

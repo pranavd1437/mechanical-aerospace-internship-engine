@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-17T20:54:52Z",
+ "generated_at": "2026-10-18T04:51:22Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 740,
+ "count": 735,
  "jobs": [
   {
    "id": "workday:globalfoundries:/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575",
@@ -10911,57 +10911,6 @@
    "remote": false
   },
   {
-   "id": "workday:graco:/job/Erie-Pennsylvania-USA/Manufacturing-Engineering-Intern_R0023592",
-   "company": "Graco",
-   "title": "Manufacturing Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Manufacturing & Quality",
-   "location": "Erie, Pennsylvania, USA",
-   "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Erie-Pennsylvania-USA/Manufacturing-Engineering-Intern_R0023592",
-   "posted_at": "2026-09-11T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-11T21:09:25Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [
-    "AutoCAD",
-    "CAD",
-    "React"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:graco:/job/Erie-Pennsylvania-USA/Mechanical-Engineering-Intern_R0023550",
-   "company": "Graco",
-   "title": "Mechanical Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Erie, Pennsylvania, USA",
-   "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Erie-Pennsylvania-USA/Mechanical-Engineering-Intern_R0023550",
-   "posted_at": "2026-09-11T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-11T21:09:25Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [
-    "SolidWorks",
-    "Creo",
-    "CAD",
-    "FEA"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:moog:/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053",
    "company": "Moog",
    "title": "Intern, Embedded Design Engineering",
@@ -14117,54 +14066,6 @@
    "remote": false
   },
   {
-   "id": "ashby:hadrian-automation:02e33109-08c5-4db7-8881-67294c172584",
-   "company": "Hadrian",
-   "title": "Robotics Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Controls & Mechatronics",
-   "location": "Los Angeles, CA",
-   "url": "https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584",
-   "posted_at": "2026-09-02T21:47:12.152+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-03T04:47:10Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++"
-   ],
-   "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "ashby:reflect-orbital:242494ac-5d48-4d46-9b3c-16a8da598108",
-   "company": "Reflect Orbital",
-   "title": "GNC Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Controls & Mechatronics",
-   "location": "Hawthorne, CA",
-   "url": "https://jobs.ashbyhq.com/reflect-orbital/242494ac-5d48-4d46-9b3c-16a8da598108",
-   "posted_at": "2026-09-02T21:57:15.320+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-03T04:47:10Z",
-   "sponsorship": "unknown",
-   "salary": "$27 – $31 per hour",
-   "skills": [
-    "Python",
-    "C++"
-   ],
-   "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "ashby:reflect-orbital:ed0c926a-9a52-4c84-8488-2552b1f0cca6",
    "company": "Reflect Orbital",
    "title": "Mechanical Engineering Intern",
@@ -14182,32 +14083,6 @@
    "skills": [],
    "source": "ashby",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "smartrecruiters:Intuitive:744000147091674",
-   "company": "Intuitive Surgical",
-   "title": "Mechanical Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Sunnyvale, CA, United States",
-   "url": "https://jobs.smartrecruiters.com/Intuitive/744000147091674",
-   "posted_at": "2026-09-02T22:49:29.677Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-03T04:47:10Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "MATLAB",
-    "SolidWorks",
-    "CAD"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": 14,
    "program": "Internship",
    "remote": false
   },
