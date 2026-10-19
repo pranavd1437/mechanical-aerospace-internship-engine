@@ -1367,9 +1367,10 @@
      "first_posted": "2026-09-29",
      "role_ids": [
       "workday:leidos:/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193394",
-      "workday:leidos:/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193413"
+      "workday:leidos:/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193413",
+      "workday:leidos:/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00194798"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2868,5 +2869,5 @@
    }
   }
  },
- "updated_at": "2026-10-19T05:00:08Z"
+ "updated_at": "2026-10-19T13:43:11Z"
 }
