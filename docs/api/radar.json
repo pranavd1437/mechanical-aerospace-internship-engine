@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T13:43:15Z",
+ "generated_at": "2026-10-19T22:36:08Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -326,6 +326,20 @@
    "note": ""
   },
   {
+   "company": "Oshkosh",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -53,
+   "status": "open",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823",
+   "note": ""
+  },
+  {
    "company": "Shield AI",
    "last_cycle_posted": "",
    "posted_on": "2026-08-27",
@@ -478,6 +492,20 @@
    "status": "open",
    "url": "https://jobs.lever.co/foth/2dab53e6-9f06-41fe-a2c9-c9808402c1e7",
    "note": ""
+  },
+  {
+   "company": "General Motors",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -48,
+   "status": "open",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071",
+   "note": "fall opening"
   },
   {
    "company": "K2 Space",
@@ -645,6 +673,20 @@
    "days_until": -45,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/amca/jobs/4396629009",
+   "note": ""
+  },
+  {
+   "company": "Mdtkangaroo",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -45,
+   "status": "open",
+   "url": "https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/Northridge-California-United-States-of-America/Quality_R-801813",
    "note": ""
   },
   {
@@ -1138,6 +1180,20 @@
    "note": ""
   },
   {
+   "company": "Draper",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": -28,
+   "status": "open",
+   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern--Summer-2027-_JR002943",
+   "note": ""
+  },
+  {
    "company": "Life Fitness",
    "last_cycle_posted": "",
    "posted_on": "2026-09-21",
@@ -1628,6 +1684,20 @@
    "note": ""
   },
   {
+   "company": "Badger Meter",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-19",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Systems-Integration---Engineering-Intern_4641",
+   "note": ""
+  },
+  {
    "company": "Torus",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1894,20 +1964,6 @@
    "note": ""
   },
   {
-   "company": "Oshkosh",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -53,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Stryker",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -1920,20 +1976,6 @@
    "status": "dropped",
    "url": "",
    "note": ""
-  },
-  {
-   "company": "General Motors",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -48,
-   "status": "dropped",
-   "url": "",
-   "note": "fall opening"
   },
   {
    "company": "Hypertherm",
@@ -1959,20 +2001,6 @@
    "source": "engine",
    "expected": "2026-09-01",
    "days_until": -48,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Mdtkangaroo",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-04",
-   "days_until": -45,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -2160,20 +2188,6 @@
    "note": ""
   },
   {
-   "company": "Draper",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-21",
-   "days_until": -28,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "The Aerospace Corporation",
    "last_cycle_posted": "",
    "posted_on": "2026-09-23",
@@ -2258,5 +2272,5 @@
    "note": ""
   }
  ],
- "count": 161
+ "count": 162
 }

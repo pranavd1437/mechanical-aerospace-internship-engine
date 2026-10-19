@@ -110,11 +110,12 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
+      "workday:alcon:/job/Fort-Worth-Texas/Spring-Summer-2027-Manufacturing-Science---Technology-Co-op_R-2026-50373",
       "workday:alcon:/job/Fort-Worth-Texas/XMLNAME-2027-Spring-Summer-Co-Op---Manufacturing-Engineer_R-2026-49587",
       "workday:alcon:/job/Houston-Texas/Fall---Spring-2026-2027-Co-Op---Manufacturing-Science---Technology_R-2026-47959",
       "workday:alcon:/job/Houston-Texas/XMLNAME-2027-Spring-Summer-Manufacturing-Engineering-Co-op_R-2026-50147"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -256,9 +257,11 @@
       "greenhouse:andurilindustries:5255593007",
       "greenhouse:andurilindustries:5257674007",
       "greenhouse:andurilindustries:5257682007",
-      "greenhouse:andurilindustries:5257709007"
+      "greenhouse:andurilindustries:5257709007",
+      "greenhouse:andurilindustries:5268689007",
+      "greenhouse:andurilindustries:5268736007"
      ],
-     "count": 7
+     "count": 9
     }
    }
   },
@@ -351,6 +354,18 @@
       "greenhouse:axontalentcommunity:7978840003"
      ],
      "count": 2
+    }
+   }
+  },
+  "badger meter": {
+   "name": "Badger Meter",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-19",
+     "role_ids": [
+      "workday:badgermeter:/job/US---WI---Milwaukee-HQ/Systems-Integration---Engineering-Intern_4641"
+     ],
+     "count": 1
     }
    }
   },
@@ -473,9 +488,11 @@
       "workday:caci:/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333570",
       "workday:caci:/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333648",
       "workday:caci:/job/Danbury-CT-US/Manufacturing-Engineering-Intern---Summer-2027_333189-1",
+      "workday:caci:/job/Danbury-CT-US/Production-Engineering-Intern---Summer-2027_333767",
+      "workday:caci:/job/Dulles-VA-US/Mechanical-Engineering-Intern---Summer-2027_333564",
       "workday:caci:/job/Melbourne-FL-US/Manufacturing-Engineering-Intern---Summer-2027_332898"
      ],
-     "count": 4
+     "count": 6
     }
    }
   },
@@ -534,6 +551,7 @@
      "first_posted": "2026-09-11",
      "role_ids": [
       "workday:chartermfg:/job/Charter-Aarrowcast---Shawano-WI/Controls-Engineer-Intern--Summer-2027-_R08167",
+      "workday:chartermfg:/job/Charter-Aarrowcast---Shawano-WI/Materials-Engineer-Intern--Summer-2027-_R08192",
       "workday:chartermfg:/job/Charter-Steel---Cleveland-OH/Quality-Engineer-Intern--Summer-2027-_R08068",
       "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineer-Intern--Year-Round-_R08102",
       "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineering-Intern--Year-Round-_R08122",
@@ -541,7 +559,7 @@
       "workday:chartermfg:/job/Charter-Wire---81st-Street---Milwaukee-WI/Electrical-Controls-Engineer-Intern_R08114",
       "workday:chartermfg:/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Mechanical-Engineer-Intern--Summer-2027-_R08115"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -576,9 +594,10 @@
      "first_posted": "2026-10-06",
      "role_ids": [
       "oracle:epyc.fa.us2.oraclecloud.com:166786",
+      "oracle:epyc.fa.us2.oraclecloud.com:167236",
       "oracle:epyc.fa.us2.oraclecloud.com:167238"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1031,15 +1050,17 @@
       "lever:hermeus:1bc5c858-1b04-4093-80a0-2ba3491afc60",
       "lever:hermeus:1bdf3754-5649-4a50-913e-b05140cb004f",
       "lever:hermeus:29c10a11-aa02-4d64-83d0-00001cbd3ac0",
+      "lever:hermeus:2cbb75f7-a040-47b2-a442-d9cc1faedb11",
       "lever:hermeus:5f6a6e79-9836-4c33-b40b-a2bb6c27bd06",
       "lever:hermeus:60b5d40a-1065-4bd2-8c72-6b2fb69d4761",
       "lever:hermeus:643fd7b7-9015-43a1-aa2b-a54f117b403c",
       "lever:hermeus:6b65768c-a8b2-4c77-8d5f-f407e32bb878",
       "lever:hermeus:9229aa88-f54d-4ecd-85ee-b31f53b4207d",
       "lever:hermeus:943f51e4-5b26-432c-ae85-de5f43cadb86",
+      "lever:hermeus:d2651ecb-9aab-4d84-8e69-cbcf7cece28d",
       "lever:hermeus:ee3a4109-b6e7-4ed5-8981-a483b3936e5a"
      ],
-     "count": 10
+     "count": 12
     }
    }
   },
@@ -1738,9 +1759,11 @@
       "workday:alliance:/job/Canton-Mississippi---United-States-of-America/Trim---Chassis-Manufacturing-Engineering-Intern---Summer-2027---Canton--MS_R00214255",
       "workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881",
       "workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290",
+      "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Smyrna--TN_R00214284",
+      "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Smyrna--TN_R00214872",
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Smyrna--TN_R00214880"
      ],
-     "count": 4
+     "count": 6
     }
    }
   },
@@ -1795,9 +1818,10 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern---Dulles-VA_R10250744-1",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Analysis-Intern---Dulles-VA_R10256105",
+      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 38
+     "count": 39
     }
    }
   },
@@ -1925,6 +1949,7 @@
       "workday:philips:/job/Latham-New-York-United-States/Co-op---Design-Engineering---Latham--NY---January-June-2027_590362",
       "workday:philips:/job/Latham-New-York-United-States/Co-op---Manufacturing-Engineering---Latham--NY---January-August-2027_590906",
       "workday:philips:/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339",
+      "workday:philips:/job/Latham-New-York-United-States/Intern-Co-op---STET-Mechanical-Engineer---Latham--NY---Spring-Summer-2027_591053",
       "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op---Global-Supplier-Quality-Approved-Supplier-List--ASL----Murrysville--PA---January-June-2027_590536",
       "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op---Supplier-Quality-Engineer---Murrysville--PA---January-June-2027_590233",
       "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Murrysville--PA-January-June-2027_580754",
@@ -1936,7 +1961,7 @@
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Intern---Mechanical-Process-Engineer---Reedsville--PA---2026_592205",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807"
      ],
-     "count": 15
+     "count": 16
     }
    }
   },
@@ -2200,9 +2225,10 @@
       "oracle:ejia.fa.us6.oraclecloud.com:107367",
       "oracle:ejia.fa.us6.oraclecloud.com:107368",
       "oracle:ejia.fa.us6.oraclecloud.com:107373",
-      "oracle:ejia.fa.us6.oraclecloud.com:107379"
+      "oracle:ejia.fa.us6.oraclecloud.com:107379",
+      "oracle:ejia.fa.us6.oraclecloud.com:107433"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -2241,11 +2267,12 @@
     "Summer 2027": {
      "first_posted": "2026-08-25",
      "role_ids": [
+      "workday:sensata:/job/Attleboro-Massachusetts/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98629",
       "workday:sensata:/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334",
       "workday:sensata:/job/Thousand-Oaks-CA/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98482",
       "workday:sensata:/job/Vista-CA/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98483"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2869,5 +2896,5 @@
    }
   }
  },
- "updated_at": "2026-10-19T13:43:11Z"
+ "updated_at": "2026-10-19T22:36:05Z"
 }
