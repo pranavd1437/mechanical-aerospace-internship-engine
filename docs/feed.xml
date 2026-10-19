@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-18T21:00:45Z</updated>
+  <updated>2026-10-19T05:00:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Quality-Engineering-Co-Op--Summer-2027_R-103624</id>
+    <title>Johnson &amp; Johnson: Quality Engineering Co-Op, Summer 2027</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Engineering-Co-Op--Summer-2027_R-103624"/>
+    <updated>2026-10-19T05:00:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Cincinnati, Ohio, United States of America · $23.5/hr</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:llnl:3743990013626030</id>
     <title>LLNL: Materials Science Division Undergraduate Intern - Fall 2026 🇺🇸</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-08T23:34:08Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · United States-California-McClellan · $21.5–$39/hr · MATLAB, Simulink, SolidWorks, CAD, ANSYS · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:plastipak:/job/Plastipak---Havre-de-Grace-MD/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24670</id>
-    <title>Plastipak: Manufacturing Operations (Engineering) Intern – Summer 2027</title>
-    <link href="https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Plastipak---Havre-de-Grace-MD/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24670"/>
-    <updated>2026-10-08T23:34:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Plastipak - Havre de Grace, MD</summary>
   </entry>
 </feed>
