@@ -5,24 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-20T05:07:19Z</updated>
+  <updated>2026-10-20T11:57:05Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
-  <entry>
-    <id>urn:intern-engine:ashby:maticrobots:4b9f178f-5346-443d-899e-4d8a76372517</id>
-    <title>Matic: Mechanical Design Engineer Intern</title>
-    <link href="https://jobs.ashbyhq.com/maticrobots/4b9f178f-5346-443d-899e-4d8a76372517"/>
-    <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Menlo Park, CA · SolidWorks, CAD, GD&amp;T, FEA, PLM</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:maticrobots:92a24480-15df-4413-9736-91a4efd5058a</id>
-    <title>Matic: Manufacturing Design Engineer Intern</title>
-    <link href="https://jobs.ashbyhq.com/maticrobots/92a24480-15df-4413-9736-91a4efd5058a"/>
-    <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Menlo Park, CA · SolidWorks, CAD, PLM, CNC, DFM/DFA</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:andurilindustries:5268689007</id>
     <title>Anduril: 2027 Field Test Engineer Intern</title>
@@ -806,5 +790,21 @@
     <updated>2026-10-13T14:32:25Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Controls &amp; Mechatronics · Milpitas, CA · Python, MATLAB, Simulink · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Vehicle-Engineering_R10255699</id>
+    <title>Northrop Grumman: 2027 Intern Vehicle Engineering 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Vehicle-Engineering_R10255699"/>
+    <updated>2026-10-13T14:32:25Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · United States-Utah-Clearfield · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739769005</id>
+    <title>Astera Labs: Analog/Mixed Signal System Test Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739769005"/>
+    <updated>2026-10-13T00:56:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · San Jose, CA · $38/hr · Python, MATLAB, Verilog · H-1B track record: ~29 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
