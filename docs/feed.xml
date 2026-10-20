@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-19T22:36:08Z</updated>
+  <updated>2026-10-20T05:07:19Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:alcon:/job/Fort-Worth-Texas/Spring-Summer-2027-Manufacturing-Science---Technology-Co-op_R-2026-50373</id>
-    <title>Alcon: Spring/Summer 2027 Manufacturing Science &amp; Technology Co-op</title>
-    <link href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Spring-Summer-2027-Manufacturing-Science---Technology-Co-op_R-2026-50373"/>
+    <id>urn:intern-engine:ashby:maticrobots:4b9f178f-5346-443d-899e-4d8a76372517</id>
+    <title>Matic: Mechanical Design Engineer Intern</title>
+    <link href="https://jobs.ashbyhq.com/maticrobots/4b9f178f-5346-443d-899e-4d8a76372517"/>
     <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Fort Worth, Texas · PLM · H-1B track record: ~57 approvals (FY2022–2023)</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Menlo Park, CA · SolidWorks, CAD, GD&amp;T, FEA, PLM</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:maticrobots:92a24480-15df-4413-9736-91a4efd5058a</id>
+    <title>Matic: Manufacturing Design Engineer Intern</title>
+    <link href="https://jobs.ashbyhq.com/maticrobots/92a24480-15df-4413-9736-91a4efd5058a"/>
+    <updated>2026-10-19T22:36:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Menlo Park, CA · SolidWorks, CAD, PLM, CNC, DFM/DFA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:andurilindustries:5268689007</id>
@@ -30,6 +38,70 @@
     <updated>2026-10-19T22:36:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Controls &amp; Mechatronics · Costa Mesa, California, United States · MATLAB, Simulink, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:2cbb75f7-a040-47b2-a442-d9cc1faedb11</id>
+    <title>Hermeus: Propulsion Component Engineering Intern - Spring/Summer 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11"/>
+    <updated>2026-10-19T22:36:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Los Angeles, CA · 25–33 USD/hr · Python, MATLAB, Siemens NX, CAD, GD&amp;T · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:d2651ecb-9aab-4d84-8e69-cbcf7cece28d</id>
+    <title>Hermeus: Propulsion Test Engineering Intern - Spring/Summer/Fall 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d"/>
+    <updated>2026-10-19T22:36:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Jacksonville, FL · 25–33 USD/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107433</id>
+    <title>S&amp;C Electric Company: Manufacturing Engineer Intern</title>
+    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107433"/>
+    <updated>2026-10-19T22:36:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Chicago, IL, United States · $22–$30/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:epyc.fa.us2.oraclecloud.com:167236</id>
+    <title>Clean Harbors: Mechanical Project Engineer Intern - Summer 2027</title>
+    <link href="https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167236"/>
+    <updated>2026-10-19T22:36:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Dugway, UT, United States · CAD · H-1B track record: ~38 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26012073</id>
+    <title>Emerson Electric: Mechanical Engineer Co-op July-December 🛂</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012073"/>
+    <updated>2026-10-19T22:36:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Mansfield, MA, United States · SolidWorks, AutoCAD, CAD · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alcon:/job/Fort-Worth-Texas/Spring-Summer-2027-Manufacturing-Science---Technology-Co-op_R-2026-50373</id>
+    <title>Alcon: Spring/Summer 2027 Manufacturing Science &amp; Technology Co-op</title>
+    <link href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Spring-Summer-2027-Manufacturing-Science---Technology-Co-op_R-2026-50373"/>
+    <updated>2026-10-19T22:36:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Fort Worth, Texas · PLM · H-1B track record: ~57 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Smyrna--TN_R00214284</id>
+    <title>Nissan: Industrial Engineering Intern - Summer 2027 - Smyrna, TN</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Smyrna--TN_R00214284"/>
+    <updated>2026-10-19T22:36:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Smyrna, Tennessee - United States of America · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Smyrna--TN_R00214872</id>
+    <title>Nissan: Industrial Engineering Intern - Summer 2027 - Smyrna, TN</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Smyrna--TN_R00214872"/>
+    <updated>2026-10-19T22:36:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Smyrna, Tennessee - United States of America · H-1B track record: ~16 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:badgermeter:/job/US---WI---Milwaukee-HQ/Continuous-Improvement-Intern_4634</id>
@@ -72,44 +144,12 @@
     <summary>Summer 2027 · Materials Engineering · Charter Aarrowcast - Shawano, WI · CAD</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:epyc.fa.us2.oraclecloud.com:167236</id>
-    <title>Clean Harbors: Mechanical Project Engineer Intern - Summer 2027</title>
-    <link href="https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167236"/>
-    <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Dugway, UT, United States · CAD · H-1B track record: ~38 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:daikinapplied:/job/Plymouth-MN-55441/Engineering-Technician-Intern_R003783</id>
     <title>Daikin Applied: HVAC Test Technician Intern 🛂</title>
     <link href="https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Plymouth-MN-55441/Engineering-Technician-Intern_R003783"/>
     <updated>2026-10-19T22:36:05Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Thermal, Fluids &amp; Propulsion · Plymouth, MN 55441 · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26012073</id>
-    <title>Emerson Electric: Mechanical Engineer Co-op July-December 🛂</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012073"/>
-    <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Mansfield, MA, United States · SolidWorks, AutoCAD, CAD · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:hermeus:2cbb75f7-a040-47b2-a442-d9cc1faedb11</id>
-    <title>Hermeus: Propulsion Component Engineering Intern - Spring/Summer 2027 🇺🇸</title>
-    <link href="https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11"/>
-    <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Los Angeles, CA · 25–33 USD/hr · Python, MATLAB, Siemens NX, CAD, GD&amp;T · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:hermeus:d2651ecb-9aab-4d84-8e69-cbcf7cece28d</id>
-    <title>Hermeus: Propulsion Test Engineering Intern - Spring/Summer/Fall 2027 🇺🇸</title>
-    <link href="https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d"/>
-    <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Jacksonville, FL · 25–33 USD/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:lumentum:/job/USA---CA---San-Jose-Ridder/Internship---Mechanical-Engineer_20261465</id>
@@ -120,30 +160,6 @@
     <summary>Not stated · Mechanical Design · USA - CA - San Jose (Ridder) · SolidWorks, GD&amp;T, ANSYS, FEA, DFM/DFA · H-1B track record: ~31 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:maticrobots:4b9f178f-5346-443d-899e-4d8a76372517</id>
-    <title>Matic: Mechanical Design Engineer Intern</title>
-    <link href="https://jobs.ashbyhq.com/maticrobots/4b9f178f-5346-443d-899e-4d8a76372517"/>
-    <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Menlo Park, CA · SolidWorks, CAD, GD&amp;T, FEA, PLM</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:maticrobots:92a24480-15df-4413-9736-91a4efd5058a</id>
-    <title>Matic: Manufacturing Design Engineer Intern</title>
-    <link href="https://jobs.ashbyhq.com/maticrobots/92a24480-15df-4413-9736-91a4efd5058a"/>
-    <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Menlo Park, CA · SolidWorks, CAD, PLM, CNC, DFM/DFA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112552</id>
-    <title>Micron Technology: Intern - Design Engineer, HBM</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112552"/>
-    <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Richardson, TX · Python, C++, CAD, Linux, Verilog · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:micron:/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545</id>
     <title>Micron Technology: Intern - Design Engineer, HBM</title>
     <link href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545"/>
@@ -152,20 +168,12 @@
     <summary>Not stated · Mechanical Design · Richardson, TX · Python, C++, CAD, Linux, Verilog · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Smyrna--TN_R00214872</id>
-    <title>Nissan: Industrial Engineering Intern - Summer 2027 - Smyrna, TN</title>
-    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Smyrna--TN_R00214872"/>
+    <id>urn:intern-engine:workday:micron:/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112552</id>
+    <title>Micron Technology: Intern - Design Engineer, HBM</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112552"/>
     <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Smyrna, Tennessee - United States of America · H-1B track record: ~16 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Smyrna--TN_R00214284</id>
-    <title>Nissan: Industrial Engineering Intern - Summer 2027 - Smyrna, TN</title>
-    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Smyrna--TN_R00214284"/>
-    <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Smyrna, Tennessee - United States of America · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Richardson, TX · Python, C++, CAD, Linux, Verilog · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657</id>
@@ -182,14 +190,6 @@
     <updated>2026-10-19T22:36:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Latham, New York, United States · CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107433</id>
-    <title>S&amp;C Electric Company: Manufacturing Engineer Intern</title>
-    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107433"/>
-    <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Chicago, IL, United States · $22–$30/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:sensata:/job/Attleboro-Massachusetts/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98629</id>
@@ -254,14 +254,6 @@
     <updated>2026-10-17T04:46:27Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Aerospace &amp; Flight Sciences · Aberdeen Proving Ground, MD, US · CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:97070</id>
-    <title>WSP: Mechanical Engineering Intern (Mission Critical/Data Center) - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97070"/>
-    <updated>2026-10-16T21:29:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Herndon, VA, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40850</id>
@@ -806,5 +798,13 @@
     <updated>2026-10-13T14:32:25Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Ann Arbor, MI · $27–$38.5/hr · Creo, CAD, ANSYS · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Precision-Motion-Control-Intern_2642139-1</id>
+    <title>KLA: Precision Motion Control Intern</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Precision-Motion-Control-Intern_2642139-1"/>
+    <updated>2026-10-13T14:32:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Milpitas, CA · Python, MATLAB, Simulink · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
