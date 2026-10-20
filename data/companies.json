@@ -3668,6 +3668,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Bloom & Wild Group",
+    "slug": "bloomon",
+    "ats": "lever"
+  },
+  {
     "name": "Bloom Energy",
     "slug": "bloomenergy",
     "ats": "workday",
@@ -4909,6 +4914,11 @@
     "name": "Castle",
     "slug": "castle",
     "ats": "ashby"
+  },
+  {
+    "name": "Castle Trust Bank",
+    "slug": "castle-trust",
+    "ats": "workable"
   },
   {
     "name": "Castleton Commodities International",
@@ -8220,6 +8230,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "eClerx",
+    "slug": "fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com",
+    "ats": "oracle",
+    "host": "fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com",
+    "site": "CX_1"
+  },
+  {
     "name": "Ecolab",
     "slug": "ecolab",
     "ats": "workday",
@@ -10960,6 +10977,11 @@
     "name": "Gong",
     "slug": "gong",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Gong",
+    "slug": "gong",
+    "ats": "recruitee"
   },
   {
     "name": "Good American",
@@ -17415,6 +17437,11 @@
     "ats": "lever"
   },
   {
+    "name": "Node.Digital",
+    "slug": "node",
+    "ats": "workable"
+  },
+  {
     "name": "Nokia",
     "slug": "fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com",
     "ats": "oracle",
@@ -17699,6 +17726,11 @@
     "name": "NumerixS Quant",
     "slug": "numerixs-quant",
     "ats": "ashby"
+  },
+  {
+    "name": "Nuovo Photography",
+    "slug": "nuovophotography",
+    "ats": "workable"
   },
   {
     "name": "Nuro",
