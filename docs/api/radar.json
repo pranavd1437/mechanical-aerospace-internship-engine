@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T17:29:28Z",
+ "generated_at": "2026-10-21T21:57:26Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -86,20 +86,6 @@
    "status": "open",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
    "note": "fall opening, many roles need clearance"
-  },
-  {
-   "company": "MKS Instruments",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-11",
-   "days_until": -71,
-   "status": "open",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Rochester-NY/XMLNAME-2027-Summer-Reliability-Engineering-Co-op_R20163",
-   "note": ""
   },
   {
    "company": "Ameren",
@@ -1166,20 +1152,6 @@
    "note": ""
   },
   {
-   "company": "Avav",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-21",
-   "days_until": -30,
-   "status": "open",
-   "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551",
-   "note": ""
-  },
-  {
    "company": "Life Fitness",
    "last_cycle_posted": "",
    "posted_on": "2026-09-21",
@@ -1824,6 +1796,20 @@
    "note": ""
   },
   {
+   "company": "MKS Instruments",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-11",
+   "days_until": -71,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Nexus Engineering Group",
    "last_cycle_posted": "",
    "posted_on": "2026-08-12",
@@ -2169,6 +2155,20 @@
    "source": "engine",
    "expected": "2026-09-18",
    "days_until": -33,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Avav",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": -30,
    "status": "dropped",
    "url": "",
    "note": ""
