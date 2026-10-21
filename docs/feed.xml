@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-20T21:49:25Z</updated>
+  <updated>2026-10-21T05:06:53Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:RESPECInc:744000156644855</id>
+    <title>RESPEC: Student Engineering Intern (Structural)</title>
+    <link href="https://jobs.smartrecruiters.com/RESPECInc/744000156644855"/>
+    <updated>2026-10-20T21:49:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Structures &amp; FEA · Morgantown, WV, United States · AutoCAD</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:mksinst:/job/Rochester-NY/XMLNAME-2027-Summer-Reliability-Engineering-Co-op_R20163</id>
     <title>MKS Instruments: 2027 Summer Reliability Engineering Co-op 🇺🇸</title>
@@ -32,14 +40,6 @@
     <summary>Not stated · Mechanical Design · Spartanburg, South Carolina, United States · SolidWorks, Siemens NX, CATIA, CAD</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:RESPECInc:744000156644855</id>
-    <title>RESPEC: Student Engineering Intern (Structural)</title>
-    <link href="https://jobs.smartrecruiters.com/RESPECInc/744000156644855"/>
-    <updated>2026-10-20T21:49:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Structures &amp; FEA · Morgantown, WV, United States · AutoCAD</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:recar:/job/Warsaw-Indiana/Plant-Vehicle-Engineering-Intern--Electrical-Systems---Harness-Support_JR101531</id>
     <title>Slate Auto: Plant Vehicle Engineering Intern, Electrical Systems &amp; Harness Support</title>
     <link href="https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Warsaw-Indiana/Plant-Vehicle-Engineering-Intern--Electrical-Systems---Harness-Support_JR101531"/>
@@ -48,20 +48,20 @@
     <summary>Not stated · Mechanical Design · Warsaw, Indiana</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:tranetechnologies:/job/La-Crosse-Wisconsin/Quality-Engineering-Co-op_JR-9382</id>
-    <title>Tranetechnologies: Quality Engineering Co-op 🛂</title>
-    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/La-Crosse-Wisconsin/Quality-Engineering-Co-op_JR-9382"/>
-    <updated>2026-10-20T21:49:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · La Crosse, Wisconsin · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:tranetechnologies:/job/La-Crosse-Wisconsin/Industrial-Engineering---Manufacturing-Execution-Systems-Co-op_JR-10172</id>
     <title>Tranetechnologies: Industrial Engineering &amp; Manufacturing Execution Systems Co-op</title>
     <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/La-Crosse-Wisconsin/Industrial-Engineering---Manufacturing-Execution-Systems-Co-op_JR-10172"/>
     <updated>2026-10-20T21:49:21Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · La Crosse, Wisconsin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tranetechnologies:/job/La-Crosse-Wisconsin/Quality-Engineering-Co-op_JR-9382</id>
+    <title>Tranetechnologies: Quality Engineering Co-op 🛂</title>
+    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/La-Crosse-Wisconsin/Quality-Engineering-Co-op_JR-9382"/>
+    <updated>2026-10-20T21:49:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · La Crosse, Wisconsin · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10584122</id>
