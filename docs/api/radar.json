@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T05:06:53Z",
+ "generated_at": "2026-10-21T12:08:55Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -718,20 +718,6 @@
    "note": ""
   },
   {
-   "company": "Allen Control Systems",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -43,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/allen-control-systems/ad41a645-7b94-407d-a579-003fba1b8e68",
-   "note": ""
-  },
-  {
    "company": "Bedrock Robotics",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -1135,6 +1121,20 @@
    "days_until": -34,
    "status": "open",
    "url": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Industrial-Engineering---Undergrad-Internship---Summer-2027_JR-02651868-1",
+   "note": ""
+  },
+  {
+   "company": "Smith+Nephew",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -34,
+   "status": "open",
+   "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958",
    "note": ""
   },
   {
@@ -1586,20 +1586,6 @@
    "note": ""
   },
   {
-   "company": "Haleon",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-14",
-   "days_until": -7,
-   "status": "open",
-   "url": "https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---New-York---Oak-Hill/XMLNAME-2027-Co-Op--Oak-Hill-Manufacturing-Program--6-months--Jan-start-_548918",
-   "note": ""
-  },
-  {
    "company": "Inversion Space",
    "last_cycle_posted": "",
    "posted_on": "2026-10-14",
@@ -2006,6 +1992,20 @@
    "note": ""
   },
   {
+   "company": "Allen Control Systems",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -43,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "CHAOS Industries",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -2146,20 +2146,6 @@
    "note": ""
   },
   {
-   "company": "Smith+Nephew",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -34,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Valeo",
    "last_cycle_posted": "",
    "posted_on": "2026-09-18",
@@ -2295,6 +2281,20 @@
    "source": "engine",
    "expected": "2026-10-08",
    "days_until": -13,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Haleon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-14",
+   "days_until": -7,
    "status": "dropped",
    "url": "",
    "note": ""

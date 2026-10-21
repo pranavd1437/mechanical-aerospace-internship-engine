@@ -2415,9 +2415,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-17",
      "role_ids": [
+      "workday:smithnephew:/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958",
       "workday:smithnephew:/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2928,5 +2929,5 @@
    }
   }
  },
- "updated_at": "2026-10-21T05:06:49Z"
+ "updated_at": "2026-10-21T12:08:50Z"
 }

@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-21T05:06:53Z</updated>
+  <updated>2026-10-21T12:08:55Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:smithnephew:/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958</id>
+    <title>Smith+Nephew: Intern Mechanical Engineering</title>
+    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958"/>
+    <updated>2026-10-21T12:08:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Mansfield, MA · SolidWorks, CAD, FEA · H-1B track record: ~77 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:RESPECInc:744000156644855</id>
     <title>RESPEC: Student Engineering Intern (Structural)</title>
@@ -134,14 +142,6 @@
     <updated>2026-10-20T17:25:14Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Utah-Corinne · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:rockwellautomation:/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2</id>
-    <title>Rockwell Automation: Intern - Embedded Controls Engineering 🛂</title>
-    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2"/>
-    <updated>2026-10-20T17:25:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Orlando, Florida, United States · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:snc:/job/Vandalia-OH/Flight-Test-Engineer-Intern_R0031069</id>
@@ -736,14 +736,6 @@
     <summary>Summer 2027 · Mechanical Design · Charter Wire - Menomonee Valley - Milwaukee, WI · AutoCAD</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:gsknch:/job/USA---New-York---Oak-Hill/XMLNAME-2027-Co-Op--Oak-Hill-Manufacturing-Program--6-months--Jan-start-_548918</id>
-    <title>Haleon: 2027 Co-Op: Oak Hill Manufacturing Program (6 months, Jan. start)</title>
-    <link href="https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---New-York---Oak-Hill/XMLNAME-2027-Co-Op--Oak-Hill-Manufacturing-Program--6-months--Jan-start-_548918"/>
-    <updated>2026-10-14T21:55:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA - New York - Oak Hill · $20/hr</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:plastipak:/job/Plastipak---Pineville-LA/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24668</id>
     <title>Plastipak: Manufacturing Operations (Engineering) Intern – Summer 2027</title>
     <link href="https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Plastipak---Pineville-LA/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24668"/>
@@ -806,5 +798,13 @@
     <updated>2026-10-14T17:27:25Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Grand Rapids, Michigan · SolidWorks, Creo, AutoCAD, CAD, Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tranetechnologies:/job/Grand-Rapids-Michigan/Mechanical-Engineering-Co-op_JR-8957</id>
+    <title>Tranetechnologies: Mechanical Engineering Co-op</title>
+    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Grand-Rapids-Michigan/Mechanical-Engineering-Co-op_JR-8957"/>
+    <updated>2026-10-14T17:27:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Grand Rapids, Michigan · CAD</summary>
   </entry>
 </feed>
