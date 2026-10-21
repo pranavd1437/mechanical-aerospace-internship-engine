@@ -1687,9 +1687,11 @@
       "workday:moog:/job/Mineral-Wells-TX/Intern--Design-Engineering_R-26-19881",
       "workday:moog:/job/Mineral-Wells-TX/Intern--Design-Engineering_R-26-19882",
       "workday:moog:/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-26-19887",
-      "workday:moog:/job/Torrance-CA/Actuation-Engineer-Intern--Summer-2027-_R-26-19612"
+      "workday:moog:/job/Torrance-CA/Actuation-Engineer-Intern--Summer-2027-_R-26-19612",
+      "workday:moog:/job/Torrance-CA/Intern--Manufacturing-and-Industrial-Engineering_R-26-19823",
+      "workday:moog:/job/Torrance-CA/Intern--Quality-Engineering_R-26-19822"
      ],
-     "count": 5
+     "count": 7
     },
     "Fall 2026": {
      "first_posted": "2026-09-11",
@@ -2428,9 +2430,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
-      "workday:sbdinc:/job/Towson-MD-United-States/Mechanical-Engineering-Intern-Summer-2027_REQ-1000052017"
+      "workday:sbdinc:/job/Towson-MD-United-States/Mechanical-Engineering-Intern-Summer-2027_REQ-1000052017",
+      "workday:sbdinc:/job/Towson-MD-United-States/Packaging-Engineering-Intern---Summer-2027_REQ-1000052823"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2450,9 +2453,10 @@
      "role_ids": [
       "oracle:hdhl.fa.us6.oraclecloud.com:1008121",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008122",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008255"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008255",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008324"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2929,5 +2933,5 @@
    }
   }
  },
- "updated_at": "2026-10-21T12:08:50Z"
+ "updated_at": "2026-10-21T17:29:25Z"
 }

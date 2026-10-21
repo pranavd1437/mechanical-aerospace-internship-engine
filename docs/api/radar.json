@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T12:08:55Z",
+ "generated_at": "2026-10-21T17:29:28Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -518,7 +518,7 @@
    "expected": "2026-09-01",
    "days_until": -50,
    "status": "open",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Excellence-Industrial-Engineering_JR-202622634",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071",
    "note": "fall opening"
   },
   {
@@ -1418,6 +1418,20 @@
    "note": ""
   },
   {
+   "company": "Stantec",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-01",
+   "days_until": -20,
+   "status": "open",
+   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008324",
+   "note": ""
+  },
+  {
    "company": "Varda Space",
    "last_cycle_posted": "",
    "posted_on": "2026-10-01",
@@ -2239,20 +2253,6 @@
    "source": "engine",
    "expected": "2026-09-29",
    "days_until": -22,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Stantec",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-01",
-   "days_until": -20,
    "status": "dropped",
    "url": "",
    "note": ""
