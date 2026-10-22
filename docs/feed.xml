@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-22T12:09:34Z</updated>
+  <updated>2026-10-22T17:26:08Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2439927</id>
+    <title>Cummins: Manufacturing Summer Internship Positions</title>
+    <link href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439927"/>
+    <updated>2026-10-22T17:26:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Columbus, IN, United States · H-1B track record: ~917 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2439835</id>
+    <title>Cummins: Manufacturing Co-Op Positions</title>
+    <link href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439835"/>
+    <updated>2026-10-22T17:26:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Columbus, IN, United States · H-1B track record: ~917 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:doordashusa:8313401</id>
+    <title>DoorDash: Mechanical Engineering, Intern - Labs (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8313401"/>
+    <updated>2026-10-22T17:26:04Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Oakland, CA · SolidWorks, Siemens NX, CATIA, CAD · H-1B track record: ~685 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065</id>
+    <title>Oshkosh: Digital Manufacturing Intern</title>
+    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065"/>
+    <updated>2026-10-22T17:26:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Spartanburg, South Carolina, United States · Python, Java, C#, JavaScript, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Spartanburg-South-Carolina-United-States/Manufacturing-Engineering-Intern_R51334</id>
+    <title>Oshkosh: Manufacturing Engineering Intern</title>
+    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Manufacturing-Engineering-Intern_R51334"/>
+    <updated>2026-10-22T17:26:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Spartanburg, South Carolina, United States · CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:RESPECInc:744000157189739</id>
+    <title>RESPEC: Student Engineering Intern (Structural)</title>
+    <link href="https://jobs.smartrecruiters.com/RESPECInc/744000157189739"/>
+    <updated>2026-10-22T17:26:04Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · Anchorage, AK, United States · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98073</id>
+    <title>WSP: Structural Engineering Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98073"/>
+    <updated>2026-10-22T17:26:04Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · San Diego, CA, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:zoll:/job/US-CA-San-Jose/Manufacturing-Engineering-Intern_R20618</id>
+    <title>ZOLL Medical Corporation: Manufacturing Engineering Intern</title>
+    <link href="https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/US-CA-San-Jose/Manufacturing-Engineering-Intern_R20618"/>
+    <updated>2026-10-22T17:26:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · US CA San Jose · $24/hr · SolidWorks, CAD</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:flir:/job/US---Wilsonville-OR/Mechanical-Engineering-Intern---CW_REQ37514</id>
     <title>Teledyne: Mechanical Engineering Intern - CW</title>
@@ -742,69 +806,5 @@
     <updated>2026-10-15T17:16:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Analysis-Intern---Dulles-VA_R10256105</id>
-    <title>Northrop Grumman: 2027 Mechanical Analysis Intern - Dulles VA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Analysis-Intern---Dulles-VA_R10256105"/>
-    <updated>2026-10-15T17:16:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · United States-Virginia-Dulles · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nordsonhcm:/job/USA---South-Carolina---Clinton/Manufacturing-Engineer-Intern_REQ53354</id>
-    <title>Nordson: Manufacturing Engineer Intern</title>
-    <link href="https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---South-Carolina---Clinton/Manufacturing-Engineer-Intern_REQ53354"/>
-    <updated>2026-10-15T17:16:56Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · USA - South Carolina - Clinton · CAD, Lean Manufacturing</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Test-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031090</id>
-    <title>Sierra Nevada Corporation: Test Engineer Intern - Summer 2027 (For SNC Summer 2026 Interns Only) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Test-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031090"/>
-    <updated>2026-10-15T17:16:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Lone Tree, CO · MATLAB, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ejta.fa.us6.oraclecloud.com:10826</id>
-    <title>Fortive: Mechanical Engineering Intern</title>
-    <link href="https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10826"/>
-    <updated>2026-10-15T11:49:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Irvine, CA, United States · CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:rockwellautomation:/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553-1</id>
-    <title>Rockwell Automation: Intern, Test Engineering (Milwaukee, WI) 🛂</title>
-    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553-1"/>
-    <updated>2026-10-15T04:58:20Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Milwaukee, Wisconsin, United States · $22/hr · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:andurilindustries:5257709007</id>
-    <title>Anduril: 2027 Flight Test Engineer Intern</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007"/>
-    <updated>2026-10-14T21:55:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Costa Mesa, California, United States · Python, Java, C++, JavaScript, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:inversionspace:4743740005</id>
-    <title>Inversion Space: Mechanical Engineer - Summer Internship 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/inversionspace/jobs/4743740005"/>
-    <updated>2026-10-14T21:55:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Playa Vista, California, United States · SolidWorks, Siemens NX, CATIA, Creo, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:inversionspace:4743748005</id>
-    <title>Inversion Space: Manufacturing Engineer - Summer Internship 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/inversionspace/jobs/4743748005"/>
-    <updated>2026-10-14T21:55:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Playa Vista, California, United States · Siemens NX, CAD, GD&amp;T · sponsorship: citizens-only</summary>
   </entry>
 </feed>
