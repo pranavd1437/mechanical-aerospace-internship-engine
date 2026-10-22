@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T05:08:22Z",
+ "generated_at": "2026-10-22T12:09:34Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -312,20 +312,6 @@
    "note": ""
   },
   {
-   "company": "Oshkosh",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -56,
-   "status": "open",
-   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823",
-   "note": ""
-  },
-  {
    "company": "Shield AI",
    "last_cycle_posted": "",
    "posted_on": "2026-08-27",
@@ -351,20 +337,6 @@
    "days_until": -55,
    "status": "open",
    "url": "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---BAYONNE-CENTER-NJBAY/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Bayonne-NJ_R26030793",
-   "note": ""
-  },
-  {
-   "company": "Northwood Space",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-29",
-   "days_until": -54,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/northwoodspace/6081eebf-7021-4a3f-a34f-78c91c94fcd3",
    "note": ""
   },
   {
@@ -1306,20 +1278,6 @@
    "note": ""
   },
   {
-   "company": "Leidos",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-29",
-   "days_until": -23,
-   "status": "open",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193394",
-   "note": ""
-  },
-  {
    "company": "Muon Space",
    "last_cycle_posted": "",
    "posted_on": "2026-09-29",
@@ -1908,6 +1866,34 @@
    "note": ""
   },
   {
+   "company": "Oshkosh",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -56,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Northwood Space",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-29",
+   "days_until": -54,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Stryker",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -2211,6 +2197,20 @@
    "source": "engine",
    "expected": "2026-09-28",
    "days_until": -24,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Leidos",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": -23,
    "status": "dropped",
    "url": "",
    "note": ""

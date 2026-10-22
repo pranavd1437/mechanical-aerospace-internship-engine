@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-22T05:08:22Z</updated>
+  <updated>2026-10-22T12:09:34Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:flir:/job/US---Wilsonville-OR/Mechanical-Engineering-Intern---CW_REQ37514</id>
+    <title>Teledyne: Mechanical Engineering Intern - CW</title>
+    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Wilsonville-OR/Mechanical-Engineering-Intern---CW_REQ37514"/>
+    <updated>2026-10-22T12:09:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · US - Wilsonville, OR · SolidWorks, CAD</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/BEV-Systems-Engineering-Intern---Energy--Thermal---Analytics-Intern_DT-20328</id>
     <title>Daimler Truck: BEV Systems Engineering Intern — Energy, Thermal &amp; Analytics Intern</title>
@@ -480,14 +488,6 @@
     <summary>Not stated · Manufacturing &amp; Quality · Greenfield, IN - West 350N · Lean Manufacturing</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00194798</id>
-    <title>Leidos: Electrical Hardware Design Engineering Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00194798"/>
-    <updated>2026-10-19T13:43:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Huntsville, AL · Python, C++, MATLAB, Verilog · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Quality-Engineering-Co-Op--Summer-2027_R-103624</id>
     <title>Johnson &amp; Johnson: Quality Engineering Co-Op, Summer 2027</title>
     <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Engineering-Co-Op--Summer-2027_R-103624"/>
@@ -704,14 +704,6 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-123 ~ 350 Collins Rd NE ~ BLDG 123 · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193394</id>
-    <title>Leidos: Electrical Hardware Design Engineering Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193394"/>
-    <updated>2026-10-15T21:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Huntsville, AL · Python, C++, MATLAB, Verilog · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:ttc:/job/Lake-Mills-WI/Manufacturing-Engineering-Intern---HammerHead_JR17635</id>
     <title>The Toro Company: Manufacturing Engineering Intern - HammerHead 🛂</title>
     <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Lake-Mills-WI/Manufacturing-Engineering-Intern---HammerHead_JR17635"/>
@@ -806,5 +798,13 @@
     <updated>2026-10-14T21:55:26Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Playa Vista, California, United States · SolidWorks, Siemens NX, CATIA, Creo, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:inversionspace:4743748005</id>
+    <title>Inversion Space: Manufacturing Engineer - Summer Internship 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/inversionspace/jobs/4743748005"/>
+    <updated>2026-10-14T21:55:26Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Playa Vista, California, United States · Siemens NX, CAD, GD&amp;T · sponsorship: citizens-only</summary>
   </entry>
 </feed>
