@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-21T21:57:26Z</updated>
+  <updated>2026-10-22T05:08:22Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/BEV-Systems-Engineering-Intern---Energy--Thermal---Analytics-Intern_DT-20328</id>
+    <title>Daimler Truck: BEV Systems Engineering Intern — Energy, Thermal &amp; Analytics Intern</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/BEV-Systems-Engineering-Intern---Energy--Thermal---Analytics-Intern_DT-20328"/>
+    <updated>2026-10-22T05:08:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Portland, OR US · $21–$29/hr · Python, MATLAB · H-1B track record: ~50 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/Quality-Engineer-Internship_DT-20334</id>
+    <title>Daimler Truck: Quality Engineer Internship</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Quality-Engineer-Internship_DT-20334"/>
+    <updated>2026-10-22T05:08:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Portland, OR US · $21–$29/hr · FMEA · H-1B track record: ~50 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Aerodynamics-Engineer-Intern---Summer-2027_R0031131</id>
+    <title>Sierra Nevada Corporation: Aerodynamics Engineer Intern - Summer 2027 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Aerodynamics-Engineer-Intern---Summer-2027_R0031131"/>
+    <updated>2026-10-22T05:08:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Lone Tree, CO · MATLAB, CAD · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:borgwarner:/job/Kokomo-Technical-Center---Indiana---USA/Mechanical-Design-Engineer-Summer-Intern_R2026-4198</id>
     <title>BorgWarner: Mechanical Design Engineer Summer Intern 🛂</title>
@@ -32,20 +56,20 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · USA - Vermont - Essex Junction · Python, SQL · H-1B track record: ~110 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211</id>
-    <title>Northrop Grumman: 2027 Structural / Electromechanical Engineer Intern - Redondo Beach CA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211"/>
-    <updated>2026-10-21T21:57:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · United States-California-Redondo Beach · $21.5–$39/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Stress-Analysis-and-Tooling-Design-Engineer-Intern---Commerce-CA_R10257184</id>
     <title>Northrop Grumman: 2027 Stress Analysis and Tooling Design Engineer Intern - Commerce CA 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Stress-Analysis-and-Tooling-Design-Engineer-Intern---Commerce-CA_R10257184"/>
     <updated>2026-10-21T21:57:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · United States-California-Commerce · $21.5–$39/hr · MATLAB, SolidWorks, Siemens NX, CATIA, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211</id>
+    <title>Northrop Grumman: 2027 Structural / Electromechanical Engineer Intern - Redondo Beach CA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211"/>
+    <updated>2026-10-21T21:57:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · United States-California-Redondo Beach · $21.5–$39/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Structural-Engineer-Intern---San-Diego-CA_R10256968-1</id>
@@ -70,14 +94,6 @@
     <updated>2026-10-21T17:29:25Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Greenville, SC, United States · AutoCAD, CAD · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:borgwarner:/job/Kokomo-Technical-Center---Indiana---USA/EMC-Design-Engineer-Intern--Year-Round-_R2026-4152</id>
-    <title>BorgWarner: EMC Design Engineer Intern (Year-Round) 🛂</title>
-    <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/EMC-Design-Engineer-Intern--Year-Round-_R2026-4152"/>
-    <updated>2026-10-21T17:29:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Kokomo Technical Center - Indiana - USA · $17–$28.65/hr · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:dtna:/job/Cleveland-NC-US/Manufacturing-Engineering-Intern_DT-20268</id>
@@ -624,14 +640,6 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Melbourne, FL, US · SolidWorks, AutoCAD, CAD, Six Sigma, Lean Manufacturing · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578</id>
-    <title>GlobalFoundries: Advanced Manufacturing Engineering Intern, Process &amp; Equipment (Summer 2027)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578"/>
-    <updated>2026-10-16T16:55:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA - New York - Malta · H-1B track record: ~110 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:kla:/job/Ann-Arbor-MI/Opto-Mechanical-Intern_2641704</id>
     <title>KLA: Opto-Mechanical Intern</title>
     <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Opto-Mechanical-Intern_2641704"/>
@@ -798,13 +806,5 @@
     <updated>2026-10-14T21:55:26Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Playa Vista, California, United States · SolidWorks, Siemens NX, CATIA, Creo, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:inversionspace:4743748005</id>
-    <title>Inversion Space: Manufacturing Engineer - Summer Internship 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/inversionspace/jobs/4743748005"/>
-    <updated>2026-10-14T21:55:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Playa Vista, California, United States · Siemens NX, CAD, GD&amp;T · sponsorship: citizens-only</summary>
   </entry>
 </feed>
