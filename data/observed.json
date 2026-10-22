@@ -566,6 +566,7 @@
      "role_ids": [
       "workday:chartermfg:/job/Charter-Aarrowcast---Shawano-WI/Controls-Engineer-Intern--Summer-2027-_R08167",
       "workday:chartermfg:/job/Charter-Aarrowcast---Shawano-WI/Materials-Engineer-Intern--Summer-2027-_R08192",
+      "workday:chartermfg:/job/Charter-Aarrowcast---Shawano-WI/Quality-Engineer-Intern--Summer-2027-_R08205",
       "workday:chartermfg:/job/Charter-Steel---Cleveland-OH/Quality-Engineer-Intern--Summer-2027-_R08068",
       "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineer-Intern--Year-Round-_R08102",
       "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineering-Intern--Year-Round-_R08122",
@@ -573,7 +574,7 @@
       "workday:chartermfg:/job/Charter-Wire---81st-Street---Milwaukee-WI/Electrical-Controls-Engineer-Intern_R08114",
       "workday:chartermfg:/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Mechanical-Engineer-Intern--Summer-2027-_R08115"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -624,9 +625,10 @@
       "lever:cfsenergy:01ec2ee8-b8c9-4f32-9b66-3a2ce1ff704f",
       "lever:cfsenergy:7ed4bf93-2b32-4096-9af3-2eb79e620039",
       "lever:cfsenergy:9690a768-362f-4df8-86a1-554b896cbc76",
+      "lever:cfsenergy:da8cc185-70d0-4a8e-b484-9866c71b593e",
       "lever:cfsenergy:e3408817-347e-45bc-8627-305b75b6b978"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -1245,15 +1247,18 @@
      "first_posted": "2026-09-10",
      "role_ids": [
       "workday:insulet:/job/Acton-Massachusetts/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18125",
+      "workday:insulet:/job/Acton-Massachusetts/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18127",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Engineering--January---June-2027--Onsite-_REQ-2026-18078",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Graduate--January---June-2027--Onsite-_REQ-2026-18086",
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--Mechanical-Engineer--January-June-2027--Onsite-_REQ-2026-18798",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Mechanical-Lifecycle--January---June-2027--Onsite-_REQ-2026-18155",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Manufacturing--January-June-2027--Onsite-_REQ-2026-18069",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Mechanical-Engineering--January---June-2027--Hybrid-_REQ-2026-18007",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Supplier-Development-Engineering---Mechanical--January-June-2027--Onsite-_REQ-2026-18209",
-      "workday:insulet:/job/Irvine-California/Co-op--Manufacturing--January---June-2027--Onsite-_REQ-2026-18119"
+      "workday:insulet:/job/Irvine-California/Co-op--Manufacturing--January---June-2027--Onsite-_REQ-2026-18119",
+      "workday:insulet:/job/US---Massachusetts-Acton---Office/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18126"
      ],
-     "count": 8
+     "count": 11
     }
    }
   },
@@ -1488,9 +1493,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-17",
      "role_ids": [
+      "workday:lowes:/job/Mooresville-NC-SSC-1999/Industrial-Engineer-Intern---Undergrad-Internship---Summer-2027---Field_JR-02681866",
       "workday:lowes:/job/Mooresville-NC-SSC-1999/Store-Operations-Industrial-Engineering---Undergrad-Internship---Summer-2027_JR-02651868-1"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2388,13 +2394,16 @@
       "workday:snc:/job/Hagerstown-MD/Test-Engineering-Intern--Summer-2027-_R0030772",
       "workday:snc:/job/Lone-Tree-CO/Aerodynamics-Engineer-Intern---Summer-2027_R0031131",
       "workday:snc:/job/Lone-Tree-CO/Aerospace-Engineering-Intern--Summer-2027-_R0030735",
+      "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084",
+      "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern--Summer-2027-_R0031177",
       "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineering-Intern--Summer-2027-_R0030745",
+      "workday:snc:/job/Lone-Tree-CO/Structural-Engineering-Intern---Summer-2027_R0031160-1",
       "workday:snc:/job/Lone-Tree-CO/Test-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031090",
       "workday:snc:/job/Lone-Tree-CO/Test-Engineering-Intern--Summer-2027-_R0030771",
       "workday:snc:/job/Plano-TX/Aerospace-Engineering-Intern--Summer-2027-Intern-_R0030736",
       "workday:snc:/job/Plano-TX/Mechanical-Engineering-Intern--Summer-2027-_R0030746-1"
      ],
-     "count": 15
+     "count": 18
     },
     "Fall 2026": {
      "first_posted": "2026-09-23",
@@ -2402,9 +2411,10 @@
       "workday:snc:/job/Colorado-Springs-CO/Mechanical-Engineer-I--For-2026-Interns-Only-_R0030590",
       "workday:snc:/job/Hagerstown-MD/Quality-Engineer-I--For-2026-Interns-Only-_R0030583",
       "workday:snc:/job/Lone-Tree-CO/Aerospace-Engineer-I--For-2026-Interns-Only-_R0030592",
-      "workday:snc:/job/Lone-Tree-CO/Test-Engineer-I--For-2026-Interns-Only-_R0030656"
+      "workday:snc:/job/Lone-Tree-CO/Test-Engineer-I--For-2026-Interns-Only-_R0030656",
+      "workday:snc:/job/Plano-TX/Mechanical-Engineer-II--For-2026-Interns-Only-_R0031204"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -2496,12 +2506,13 @@
      "first_posted": "2026-08-31",
      "role_ids": [
       "workday:stryker:/job/Cary-Illinois/Summer-2027-Internship---Mechanical-Engineering---Illinois_R572602",
+      "workday:stryker:/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345",
       "workday:stryker:/job/Portage-Michigan/Summer-2027-Internship---Mechanical-Engineering---Michigan_R572603",
       "workday:stryker:/job/Portage-Michigan/Summer-2027-Internship---Quality-Engineering---Michigan_R572613",
       "workday:stryker:/job/San-Jose-California/Manufacturing-Engineering-Intern_R572749-1",
       "workday:stryker:/job/Tempe-Arizona/Summer-2027-Internship---Mechanical-Engineering---Arizona_R572599"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -2963,5 +2974,5 @@
    }
   }
  },
- "updated_at": "2026-10-22T17:26:04Z"
+ "updated_at": "2026-10-22T21:50:45Z"
 }

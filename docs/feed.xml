@@ -5,15 +5,127 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-22T17:26:08Z</updated>
+  <updated>2026-10-22T21:50:49Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2439927</id>
-    <title>Cummins: Manufacturing Summer Internship Positions</title>
-    <link href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439927"/>
-    <updated>2026-10-22T17:26:04Z</updated>
+    <id>urn:intern-engine:workday:ambarella:/job/US-Headquarters/Physical-Design-Engineer-Intern_JR100393</id>
+    <title>Ambarella: Physical Design Engineer Intern</title>
+    <link href="https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Physical-Design-Engineer-Intern_JR100393"/>
+    <updated>2026-10-22T21:50:45Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Columbus, IN, United States · H-1B track record: ~917 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Mechanical Design · US Headquarters · DFM/DFA · H-1B track record: ~26 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:chartermfg:/job/Charter-Aarrowcast---Shawano-WI/Quality-Engineer-Intern--Summer-2027-_R08205</id>
+    <title>Charter Manufacturing: Quality Engineer Intern (Summer 2027)</title>
+    <link href="https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Aarrowcast---Shawano-WI/Quality-Engineer-Intern--Summer-2027-_R08205"/>
+    <updated>2026-10-22T21:50:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Charter Aarrowcast - Shawano, WI · FMEA, Six Sigma</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:cfsenergy:da8cc185-70d0-4a8e-b484-9866c71b593e</id>
+    <title>Commonwealth Fusion Systems: Intern - Materials Test Engineer - Summer 2027</title>
+    <link href="https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e"/>
+    <updated>2026-10-22T21:50:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Devens, MA · 25–38 USD/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hitachi:/job/Norman-Oklahoma-United-States/Test-Engineering-Intern_R0148731</id>
+    <title>Hitachi Energy: Test Engineering Intern</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Norman-Oklahoma-United-States/Test-Engineering-Intern_R0148731"/>
+    <updated>2026-10-22T21:50:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Norman, Oklahoma, United States · LLMs · H-1B track record: ~66 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Co-op--Mechanical-Engineer--January-June-2027--Onsite-_REQ-2026-18798</id>
+    <title>Insulet Corporation: Co-op, Mechanical Engineer: January-June 2027 (Onsite)</title>
+    <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Mechanical-Engineer--January-June-2027--Onsite-_REQ-2026-18798"/>
+    <updated>2026-10-22T21:50:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Acton, Massachusetts · SolidWorks, CAD · H-1B track record: ~46 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18127</id>
+    <title>Insulet Corporation: Co-op - Supplier Quality Engineering: January - June 2027 (Onsite)</title>
+    <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18127"/>
+    <updated>2026-10-22T21:50:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Acton, Massachusetts · Six Sigma · H-1B track record: ~46 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:insulet:/job/US---Massachusetts-Acton---Office/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18126</id>
+    <title>Insulet Corporation: Co-op - Supplier Quality Engineering: January - June 2027 (Onsite)</title>
+    <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18126"/>
+    <updated>2026-10-22T21:50:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · US - Massachusetts (Acton - Office) · Six Sigma · H-1B track record: ~46 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:lowes:/job/Mooresville-NC-SSC-1999/Industrial-Engineer-Intern---Undergrad-Internship---Summer-2027---Field_JR-02681866</id>
+    <title>Lowe's: Industrial Engineer Intern – Undergrad Internship – Summer 2027 - Field</title>
+    <link href="https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Industrial-Engineer-Intern---Undergrad-Internship---Summer-2027---Field_JR-02681866"/>
+    <updated>2026-10-22T21:50:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Mooresville, NC (SSC) 1999 · Six Sigma</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084</id>
+    <title>Sierra Nevada Corporation: Mechanical Engineer Intern - Summer 2027 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084"/>
+    <updated>2026-10-22T21:50:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Lone Tree, CO · MATLAB, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern--Summer-2027-_R0031177</id>
+    <title>Sierra Nevada Corporation: Mechanical Engineer Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Mechanical-Engineer-Intern--Summer-2027-_R0031177"/>
+    <updated>2026-10-22T21:50:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Lone Tree, CO · MATLAB, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Structural-Engineering-Intern---Summer-2027_R0031160-1</id>
+    <title>Sierra Nevada Corporation: Structural Engineering Intern - Summer 2027 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Structural-Engineering-Intern---Summer-2027_R0031160-1"/>
+    <updated>2026-10-22T21:50:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · Lone Tree, CO · MATLAB, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Plano-TX/Mechanical-Engineer-II--For-2026-Interns-Only-_R0031204</id>
+    <title>Sierra Nevada Corporation: Mechanical Engineer II (For 2026 Interns Only) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Mechanical-Engineer-II--For-2026-Interns-Only-_R0031204"/>
+    <updated>2026-10-22T21:50:45Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Mechanical Design · Plano, TX · CAD, GD&amp;T · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:stryker:/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345</id>
+    <title>Stryker: Summer 2027 Internship - Mechanical Engineer</title>
+    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345"/>
+    <updated>2026-10-22T21:50:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Massachusetts, Virtual Address · CAD, FEA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:doordashusa:8313401</id>
+    <title>DoorDash: Mechanical Engineering, Intern - Labs (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8313401"/>
+    <updated>2026-10-22T17:26:04Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Oakland, CA · SolidWorks, Siemens NX, CATIA, CAD · H-1B track record: ~685 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98073</id>
+    <title>WSP: Structural Engineering Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98073"/>
+    <updated>2026-10-22T17:26:04Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · San Diego, CA, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2439835</id>
@@ -24,12 +136,20 @@
     <summary>Not stated · Manufacturing &amp; Quality · Columbus, IN, United States · H-1B track record: ~917 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:doordashusa:8313401</id>
-    <title>DoorDash: Mechanical Engineering, Intern - Labs (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8313401"/>
+    <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2439927</id>
+    <title>Cummins: Manufacturing Summer Internship Positions</title>
+    <link href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439927"/>
+    <updated>2026-10-22T17:26:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Columbus, IN, United States · H-1B track record: ~917 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:RESPECInc:744000157189739</id>
+    <title>RESPEC: Student Engineering Intern (Structural)</title>
+    <link href="https://jobs.smartrecruiters.com/RESPECInc/744000157189739"/>
     <updated>2026-10-22T17:26:04Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Oakland, CA · SolidWorks, Siemens NX, CATIA, CAD · H-1B track record: ~685 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Structures &amp; FEA · Anchorage, AK, United States · AutoCAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:oshkoshcorporation:/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065</id>
@@ -46,22 +166,6 @@
     <updated>2026-10-22T17:26:04Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Spartanburg, South Carolina, United States · CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:RESPECInc:744000157189739</id>
-    <title>RESPEC: Student Engineering Intern (Structural)</title>
-    <link href="https://jobs.smartrecruiters.com/RESPECInc/744000157189739"/>
-    <updated>2026-10-22T17:26:04Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Anchorage, AK, United States · AutoCAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98073</id>
-    <title>WSP: Structural Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98073"/>
-    <updated>2026-10-22T17:26:04Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · San Diego, CA, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:zoll:/job/US-CA-San-Jose/Manufacturing-Engineering-Intern_R20618</id>
@@ -702,109 +806,5 @@
     <updated>2026-10-16T16:55:16Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Melbourne, FL, US · SolidWorks, AutoCAD, CAD, Six Sigma, Lean Manufacturing · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:kla:/job/Ann-Arbor-MI/Opto-Mechanical-Intern_2641704</id>
-    <title>KLA: Opto-Mechanical Intern</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Opto-Mechanical-Intern_2641704"/>
-    <updated>2026-10-16T16:55:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Ann Arbor, MI · $26–$47/hr · CAD · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:inversionspace:4744390005</id>
-    <title>Inversion Space: Avionics Mechanical Engineer - Summer Internship 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/inversionspace/jobs/4744390005"/>
-    <updated>2026-10-16T04:49:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Playa Vista, California, United States · SolidWorks, Siemens NX, Creo, CAD, GD&amp;T · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:abb:/job/USA-NC-Hickory/Manufacturing-Engineering-Intern---Summer-2027_JR00047568</id>
-    <title>ABB: Manufacturing Engineering Intern - Summer 2027 🛂</title>
-    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Hickory/Manufacturing-Engineering-Intern---Summer-2027_JR00047568"/>
-    <updated>2026-10-16T04:49:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA, NC, Hickory · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:avav:/job/Pottstown-PA/Manufacturing-Engineering-Intern_9104</id>
-    <title>Avav: Manufacturing Engineering Intern 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Pottstown-PA/Manufacturing-Engineering-Intern_9104"/>
-    <updated>2026-10-16T04:49:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Pottstown, PA · SolidWorks, CAD, DFM/DFA, FMEA, Six Sigma · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:epyc.fa.us2.oraclecloud.com:167238</id>
-    <title>Clean Harbors: Mechanical Engineering Project Management Intern - Summer 2027</title>
-    <link href="https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167238"/>
-    <updated>2026-10-15T21:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Norwell, MA, United States · CAD · H-1B track record: ~38 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:adient:/job/Plymouth-MI/Lean-Manufacturing-Intern_R-29531</id>
-    <title>Adient: Lean Manufacturing Intern</title>
-    <link href="https://adient.wd3.myworkdayjobs.com/External/job/Plymouth-MI/Lean-Manufacturing-Intern_R-29531"/>
-    <updated>2026-10-15T21:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Plymouth, MI · Lean Manufacturing, AutoCAD · H-1B track record: ~29 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dtna:/job/Gastonia-NC-US/Automation-Engineer-Intern_DT-19944</id>
-    <title>Daimler Truck: Automation Engineer Intern</title>
-    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Gastonia-NC-US/Automation-Engineer-Intern_DT-19944"/>
-    <updated>2026-10-15T21:41:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Gastonia, NC US · $21–$29/hr · H-1B track record: ~50 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-123--350-Collins-Rd-NE--BLDG-123/Metrology-Engineering-Intern--Summer-2027-_01882625</id>
-    <title>RTX: Metrology Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-123--350-Collins-Rd-NE--BLDG-123/Metrology-Engineering-Intern--Summer-2027-_01882625"/>
-    <updated>2026-10-15T21:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-123 ~ 350 Collins Rd NE ~ BLDG 123 · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ttc:/job/Lake-Mills-WI/Manufacturing-Engineering-Intern---HammerHead_JR17635</id>
-    <title>The Toro Company: Manufacturing Engineering Intern - HammerHead 🛂</title>
-    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Lake-Mills-WI/Manufacturing-Engineering-Intern---HammerHead_JR17635"/>
-    <updated>2026-10-15T21:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Lake Mills, WI · SolidWorks, CAD · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hitachi:/job/Ogden-Utah-United-States/Mechanical-Engineering-Intern-Co-Op_R0146513</id>
-    <title>Hitachi Energy: Mechanical Engineering Intern/Co-Op</title>
-    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ogden-Utah-United-States/Mechanical-Engineering-Intern-Co-Op_R0146513"/>
-    <updated>2026-10-15T17:16:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Ogden, Utah, United States · CAD · H-1B track record: ~66 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:livanova:/job/Arvada-Colorado-US/Quality-Engineering-Intern_JR-14870</id>
-    <title>LivaNova: Quality Engineering Intern</title>
-    <link href="https://livanova.wd5.myworkdayjobs.com/search/job/Arvada-Colorado-US/Quality-Engineering-Intern_JR-14870"/>
-    <updated>2026-10-15T17:16:56Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Arvada, Colorado, US · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Manufacturing-and-Reliability-Engineering-Co-Op_R422487</id>
-    <title>Merck: 2027 Future Talent Program – Manufacturing and Reliability Engineering Co-Op</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Manufacturing-and-Reliability-Engineering-Co-Op_R422487"/>
-    <updated>2026-10-15T17:16:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA - Pennsylvania - West Point</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10256223</id>
-    <title>Northrop Grumman: 2027 Mechanical Engineering Intern - Roy UT 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10256223"/>
-    <updated>2026-10-15T17:16:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>
