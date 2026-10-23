@@ -958,6 +958,18 @@
     }
    }
   },
+  "genuine parts": {
+   "name": "Genuine Parts Company",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-23",
+     "role_ids": [
+      "workday:genpt:/job/Atlanta-GA-USA/Supplier-Quality-Intern---Summer-2027_R26_0000035650"
+     ],
+     "count": 1
+    }
+   }
+  },
   "gevernova": {
    "name": "Gevernova",
    "cycles": {
@@ -2388,10 +2400,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-27",
      "role_ids": [
+      "lever:shieldai:bef440ce-0365-4de7-9b1e-b1288cdaf7f3",
       "lever:shieldai:c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
       "lever:shieldai:da54c482-fe62-4f60-98b1-55ac0b82b3bc"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2645,6 +2658,18 @@
       "workday:treehouse:/job/USA-IL-Oak-Brook/Packaging-Engineer-Co-Op-2027_R30988"
      ],
      "count": 2
+    }
+   }
+  },
+  "trek": {
+   "name": "TREK",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-23",
+     "role_ids": [
+      "workday:trekbikes:/job/Waterloo-Wisconsin/Mechanical-Engineering-Intern_Trek115843"
+     ],
+     "count": 1
     }
    }
   },
@@ -3004,5 +3029,5 @@
    }
   }
  },
- "updated_at": "2026-10-23T17:22:19Z"
+ "updated_at": "2026-10-23T21:37:39Z"
 }

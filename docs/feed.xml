@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-23T17:22:22Z</updated>
+  <updated>2026-10-23T21:37:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000157554987</id>
+    <title>AECOM: Design Engineering Intern - Networking Event with AECOM – Raleigh, NC</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000157554987"/>
+    <updated>2026-10-23T21:37:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Greenville, SC, United States · AutoCAD, CAD · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gafsgi:/job/Gainesville-TX/Controls-Engineer-Co-Op_26428</id>
+    <title>GAF: Controls Engineer Co-Op</title>
+    <link href="https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Gainesville-TX/Controls-Engineer-Co-Op_26428"/>
+    <updated>2026-10-23T21:37:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Gainesville, TX · CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:genpt:/job/Atlanta-GA-USA/Supplier-Quality-Intern---Summer-2027_R26_0000035650</id>
+    <title>Genuine Parts Company: Supplier Quality Intern - Summer 2027</title>
+    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Supplier-Quality-Intern---Summer-2027_R26_0000035650"/>
+    <updated>2026-10-23T21:37:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Atlanta, GA, USA · CAD · H-1B track record: ~63 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2330-1</id>
+    <title>Gorbel: Manufacturing Engineer Co-Op</title>
+    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2330-1"/>
+    <updated>2026-10-23T21:37:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · USA, New York, Victor · $23–$25/hr · SolidWorks, AutoCAD, CAD, Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:shieldai:bef440ce-0365-4de7-9b1e-b1288cdaf7f3</id>
+    <title>Shield AI: June 2027 Co-op - Reliability Engineering #5953</title>
+    <link href="https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3"/>
+    <updated>2026-10-23T21:37:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Seattle, Washington · 38–73 USD/hr · Python, FMEA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trekbikes:/job/Waterloo-Wisconsin/Mechanical-Engineering-Intern_Trek115843</id>
+    <title>TREK: Mechanical Engineering Intern</title>
+    <link href="https://trekbikes.wd1.myworkdayjobs.com/TREK/job/Waterloo-Wisconsin/Mechanical-Engineering-Intern_Trek115843"/>
+    <updated>2026-10-23T21:37:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Waterloo, Wisconsin · CAD · H-1B track record: ~15 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pathrobotics:8911570002</id>
+    <title>Path Robotics: Manufacturing Design Engineering Internship</title>
+    <link href="https://boards.greenhouse.io/pathrobotics/jobs/8911570002?gh_jid=8911570002"/>
+    <updated>2026-10-23T17:22:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Columbus, Ohio · CAD, CNC · H-1B track record: ~13 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:gafsgi:/job/Parsippany-NJ/R-D-Product-Development-Engineer-Co-Op_26449</id>
     <title>GAF: R&amp;D Product Development Engineer Co-Op</title>
@@ -56,14 +112,6 @@
     <summary>Not stated · Mechanical Design · Milpitas, CA · $47–$56/hr · Python, MATLAB, HTML/CSS · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:oatey:/job/Shakopee-MN-Manufacturing/Design-Engineering-Intern_R7272</id>
-    <title>OATEY: Design Engineering Intern</title>
-    <link href="https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Shakopee-MN-Manufacturing/Design-Engineering-Intern_R7272"/>
-    <updated>2026-10-23T17:22:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Shakopee, MN (Manufacturing) · SolidWorks, AutoCAD, CAD, GD&amp;T</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:oatey:/job/Cleveland-OH-Manufacturing/Materials-Intern---Cleveland-Manufacturing_R7196</id>
     <title>OATEY: Materials Intern - Cleveland Manufacturing</title>
     <link href="https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Manufacturing/Materials-Intern---Cleveland-Manufacturing_R7196"/>
@@ -72,20 +120,20 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Cleveland, OH (Manufacturing)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:oatey:/job/Shakopee-MN-Manufacturing/Design-Engineering-Intern_R7272</id>
+    <title>OATEY: Design Engineering Intern</title>
+    <link href="https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Shakopee-MN-Manufacturing/Design-Engineering-Intern_R7272"/>
+    <updated>2026-10-23T17:22:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Shakopee, MN (Manufacturing) · SolidWorks, AutoCAD, CAD, GD&amp;T</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:oatey:/job/Shakopee-MN-Manufacturing/Engineering-Intern--Manufacturing---Automation_R7258</id>
     <title>OATEY: Engineering Intern, Manufacturing &amp; Automation</title>
     <link href="https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Shakopee-MN-Manufacturing/Engineering-Intern--Manufacturing---Automation_R7258"/>
     <updated>2026-10-23T17:22:19Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Shakopee, MN (Manufacturing) · SolidWorks, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:pathrobotics:8911570002</id>
-    <title>Path Robotics: Manufacturing Design Engineering Internship</title>
-    <link href="https://boards.greenhouse.io/pathrobotics/jobs/8911570002?gh_jid=8911570002"/>
-    <updated>2026-10-23T17:22:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Columbus, Ohio · CAD, CNC · H-1B track record: ~13 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:stvinc:/job/Philadelphia-Pennsylvania/Mechanical-Engineering-Intern---Summer-2027_JR6097-1</id>
@@ -209,7 +257,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084</id>
-    <title>Sierra Nevada Corporation: Mechanical Engineer Intern - Summer 2027 🇺🇸</title>
+    <title>Sierra Nevada Corporation: Mechanical Engineer Intern - Summer 2027 (For SNC Summer 2026 Interns Only) 🇺🇸</title>
     <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084"/>
     <updated>2026-10-22T21:50:45Z</updated>
     <category term="Summer 2027"/>
@@ -382,14 +430,6 @@
     <updated>2026-10-21T21:57:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · United States-California-San Diego · $21.5–$39/hr · Lean Manufacturing · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008324</id>
-    <title>Stantec: Process Mechanical Engineering Intern - Water (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008324"/>
-    <updated>2026-10-21T17:29:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Phoenix, AZ, United States · AutoCAD · H-1B track record: ~96 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000156853709</id>
@@ -766,45 +806,5 @@
     <updated>2026-10-19T22:36:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Latham, New York, United States · CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Greenfield-IN---West-350N/Summer-Intern---Manufacturing-Quality_JR37499-1</id>
-    <title>Allegion: Summer Intern - Manufacturing Quality</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Greenfield-IN---West-350N/Summer-Intern---Manufacturing-Quality_JR37499-1"/>
-    <updated>2026-10-19T13:43:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Greenfield, IN - West 350N · Lean Manufacturing</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Quality-Engineering-Co-Op--Summer-2027_R-103624</id>
-    <title>Johnson &amp; Johnson: Quality Engineering Co-Op, Summer 2027</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Engineering-Co-Op--Summer-2027_R-103624"/>
-    <updated>2026-10-19T05:00:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Cincinnati, Ohio, United States of America · $23.5/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990013626030</id>
-    <title>LLNL: Materials Science Division Undergraduate Intern - Fall 2026 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990013626030"/>
-    <updated>2026-10-18T16:05:12Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Materials Engineering · Livermore, CA, United States · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990015127766</id>
-    <title>LLNL: Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990015127766"/>
-    <updated>2026-10-18T16:05:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Materials Engineering · Livermore, CA, United States · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575</id>
-    <title>GlobalFoundries: Industrial Engineering Intern (Summer 2027)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575"/>
-    <updated>2026-10-17T11:03:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA - New York - Malta · Six Sigma · H-1B track record: ~110 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
