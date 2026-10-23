@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T05:09:31Z",
+ "generated_at": "2026-10-23T11:54:42Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -407,20 +407,6 @@
    "days_until": -53,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/olsson/jobs/5396012008",
-   "note": ""
-  },
-  {
-   "company": "Stryker",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -53,
-   "status": "open",
-   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345",
    "note": ""
   },
   {
@@ -1903,6 +1889,20 @@
    "source": "engine",
    "expected": "2026-08-29",
    "days_until": -55,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Stryker",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -53,
    "status": "dropped",
    "url": "",
    "note": ""

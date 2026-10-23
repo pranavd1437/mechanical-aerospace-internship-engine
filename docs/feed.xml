@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-23T05:09:31Z</updated>
+  <updated>2026-10-23T11:54:42Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4746898005</id>
@@ -24,20 +24,20 @@
     <summary>Not stated · Test &amp; Validation · Shreveport, LA, United States · sponsorship: citizens-only · H-1B track record: ~229 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Schaumburg-IL/Mechanical-Engineering-Intern---Summer-2027_R69727</id>
-    <title>Motorola: Mechanical Engineering Intern - Summer 2027</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mechanical-Engineering-Intern---Summer-2027_R69727"/>
-    <updated>2026-10-23T05:09:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Schaumburg, IL · CAD · H-1B track record: ~191 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:RESPECInc:744000157237049</id>
     <title>RESPEC: Student Engineering Intern (Mechanical or Electrical)</title>
     <link href="https://jobs.smartrecruiters.com/RESPECInc/744000157237049"/>
     <updated>2026-10-23T05:09:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Anchorage, AK, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Schaumburg-IL/Mechanical-Engineering-Intern---Summer-2027_R69727</id>
+    <title>Motorola: Mechanical Engineering Intern - Summer 2027</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mechanical-Engineering-Intern---Summer-2027_R69727"/>
+    <updated>2026-10-23T05:09:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Schaumburg, IL · CAD · H-1B track record: ~191 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:cfsenergy:da8cc185-70d0-4a8e-b484-9866c71b593e</id>
@@ -134,14 +134,6 @@
     <updated>2026-10-22T21:50:45Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Mechanical Design · Plano, TX · CAD, GD&amp;T · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:stryker:/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345</id>
-    <title>Stryker: Summer 2027 Internship - Mechanical Engineer</title>
-    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345"/>
-    <updated>2026-10-22T21:50:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Massachusetts, Virtual Address · CAD, FEA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:doordashusa:8313401</id>
@@ -304,6 +296,14 @@
     <summary>Not stated · Mechanical Design · Greenville, SC, United States · AutoCAD, CAD · H-1B track record: ~246 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:borgwarner:/job/Kokomo-Technical-Center---Indiana---USA/EMC-Design-Engineer-Intern--Year-Round-_R2026-4152</id>
+    <title>BorgWarner: EMC Design Engineer Intern (Year-Round) 🛂</title>
+    <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/EMC-Design-Engineer-Intern--Year-Round-_R2026-4152"/>
+    <updated>2026-10-21T17:29:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Kokomo Technical Center - Indiana - USA · $17–$28.65/hr · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:dtna:/job/Cleveland-NC-US/Manufacturing-Engineering-Intern_DT-20268</id>
     <title>Daimler Truck: Manufacturing Engineering Intern</title>
     <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Cleveland-NC-US/Manufacturing-Engineering-Intern_DT-20268"/>
@@ -374,14 +374,6 @@
     <updated>2026-10-20T21:49:21Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Test &amp; Validation · United States-Alabama-Huntsville · $25.5–$31/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Spartanburg-South-Carolina-United-States/Mechanical-Engineer-Intern_R51213</id>
-    <title>Oshkosh: Mechanical Engineer Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Mechanical-Engineer-Intern_R51213"/>
-    <updated>2026-10-20T21:49:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Spartanburg, South Carolina, United States · SolidWorks, Siemens NX, CATIA, CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:recar:/job/Warsaw-Indiana/Plant-Vehicle-Engineering-Intern--Electrical-Systems---Harness-Support_JR101531</id>
@@ -736,14 +728,6 @@
     <summary>Not stated · Manufacturing &amp; Quality · New Berlin, Wisconsin, United States of America · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:dtna:/job/Gaffney-SC-US/Mechanical-Product-Design-Intern_DT-20265</id>
-    <title>Daimler Truck: Mechanical Product Design Intern</title>
-    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Gaffney-SC-US/Mechanical-Product-Design-Intern_DT-20265"/>
-    <updated>2026-10-16T21:29:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Gaffney, SC US · $21–$29/hr · SolidWorks, Siemens NX, Creo, CAD, FEA · H-1B track record: ~50 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:entrust:/job/United-States---Shakopee-MN-GHQ/Mechanical-CAD-Designer--Internship_R004435</id>
     <title>Entrust: Mechanical CAD Designer  Internship</title>
     <link href="https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Mechanical-CAD-Designer--Internship_R004435"/>
@@ -806,5 +790,21 @@
     <updated>2026-10-16T16:55:16Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Controls &amp; Mechatronics · Milpitas, CA · 25–38 USD/hr · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:caci:/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333570</id>
+    <title>CACI: Aerospace Engineer Intern - Summer 2027 🇺🇸</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333570"/>
+    <updated>2026-10-16T16:55:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Aerospace &amp; Flight Sciences · Aberdeen Proving Ground, MD, US · CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:caci:/job/Danbury-CT-US/Manufacturing-Engineering-Intern---Summer-2027_333189-1</id>
+    <title>CACI: Manufacturing Engineering Intern - Summer 2027 🇺🇸</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Manufacturing-Engineering-Intern---Summer-2027_333189-1"/>
+    <updated>2026-10-16T16:55:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Danbury, CT, US · sponsorship: citizens-only</summary>
   </entry>
 </feed>

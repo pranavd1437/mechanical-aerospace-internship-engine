@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T05:09:29Z",
-  "duration_seconds": 490.1,
+  "generated_at": "2026-10-23T11:54:40Z",
+  "duration_seconds": 361.1,
   "companies_total": 4868,
   "companies_by_source": {
     "greenhouse": 1148,
@@ -16,57 +16,57 @@
     "breezy": 16,
     "eightfold": 1
   },
-  "quarantined": 300,
-  "fetched_ok": 4467,
-  "fetch_errors": 101,
+  "quarantined": 343,
+  "fetched_ok": 4474,
+  "fetch_errors": 51,
   "errors_by_source": {
-    "workday": 17,
-    "greenhouse": 13,
-    "lever": 4,
-    "ashby": 9,
-    "workable": 58
+    "greenhouse": 12,
+    "ashby": 3,
+    "workday": 7,
+    "workable": 27,
+    "lever": 2
   },
-  "fetch_success_rate": 0.978,
-  "fetch_success_rate_registry": 0.918,
-  "snapshots_complete": 4353,
-  "snapshots_partial": 114,
+  "fetch_success_rate": 0.989,
+  "fetch_success_rate_registry": 0.919,
+  "snapshots_complete": 4352,
+  "snapshots_partial": 122,
   "roles_matched": 523,
-  "dropped_no_year_in_title": 230,
+  "dropped_no_year_in_title": 247,
   "dropped_offcycle_by_text": 147,
   "dropped_by_description_scope": 2,
-  "roles_cycle_inferred": 270,
+  "roles_cycle_inferred": 262,
   "roles_by_source": {
     "amazon": 3,
     "ashby": 14,
     "breezy": 1,
     "greenhouse": 109,
     "lever": 29,
-    "oracle": 22,
+    "oracle": 20,
     "rippling": 1,
     "smartrecruiters": 51,
     "workable": 4,
-    "workday": 520
+    "workday": 512
   },
   "roles_by_cycle": {
-    "Summer 2027": 461,
+    "Summer 2027": 459,
     "Fall 2026": 23,
-    "Not stated": 270
+    "Not stated": 262
   },
   "roles_by_region": {
-    "US": 754
+    "US": 744
   },
   "sponsorship_counts": {
-    "no-sponsorship": 68,
-    "unknown": 464,
-    "citizens-only": 220,
+    "no-sponsorship": 69,
+    "unknown": 454,
+    "citizens-only": 219,
     "offers": 2
   },
   "posted_date_coverage": 0.999,
-  "enriched_this_run": 6,
-  "enrichment_detail_fetches": 6,
+  "enriched_this_run": 2,
+  "enrichment_detail_fetches": 2,
   "purged_this_run": 0,
-  "new_this_run": 4,
-  "open_total": 754,
+  "new_this_run": 0,
+  "open_total": 744,
   "detection_latency": {
     "median_minutes": 166.2,
     "p95_minutes": 439.7,
@@ -76,6 +76,6 @@
   },
   "posting_lifetime": {
     "median_days": 14,
-    "sample_size": 687
+    "sample_size": 697
   }
 }
