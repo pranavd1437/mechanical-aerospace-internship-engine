@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T11:54:42Z",
+ "generated_at": "2026-10-23T17:22:23Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -281,6 +281,20 @@
    "days_until": -59,
    "status": "open",
    "url": "https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334",
+   "note": ""
+  },
+  {
+   "company": "Verdantas",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -59,
+   "status": "open",
+   "url": "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Holden-MA/Mechanical-Engineer-Summer-Intern_R-101230",
    "note": ""
   },
   {
@@ -942,6 +956,20 @@
    "note": ""
   },
   {
+   "company": "onsemi",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": -38,
+   "status": "open",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506606",
+   "note": ""
+  },
+  {
    "company": "TreeHouse Foods",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
@@ -1488,6 +1516,20 @@
    "note": ""
   },
   {
+   "company": "OATEY",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-12",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-12",
+   "days_until": -11,
+   "status": "open",
+   "url": "https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Shakopee-MN-Manufacturing/Design-Engineering-Intern_R7272",
+   "note": ""
+  },
+  {
    "company": "Inversion Space",
    "last_cycle_posted": "",
    "posted_on": "2026-10-14",
@@ -1583,6 +1625,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://jobs.smartrecruiters.com/RESPECInc/744000157189739",
+   "note": ""
+  },
+  {
+   "company": "STV",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-23",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Philadelphia-Pennsylvania/Mechanical-Engineering-Intern---Summer-2027_JR6097-1",
    "note": ""
   },
   {
@@ -1811,20 +1867,6 @@
   },
   {
    "company": "MetOx International",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-25",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-25",
-   "days_until": -59,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Verdantas",
    "last_cycle_posted": "",
    "posted_on": "2026-08-25",
    "precision": "day",
@@ -2118,20 +2160,6 @@
    "note": ""
   },
   {
-   "company": "onsemi",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-15",
-   "days_until": -38,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Valeo",
    "last_cycle_posted": "",
    "posted_on": "2026-09-18",
@@ -2328,5 +2356,5 @@
    "note": ""
   }
  ],
- "count": 166
+ "count": 168
 }

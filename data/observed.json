@@ -964,9 +964,10 @@
     "Summer 2027": {
      "first_posted": "2026-07-31",
      "role_ids": [
+      "workday:gevernova:/job/Charleroi-USA/GE-Vernova-Manufacturing-Process-Engineer-Intern---Summer-2027_R5053285",
       "workday:gevernova:/job/Wilmington-NC-USA/GE-Vernova-Nuclear---Manufacturing---Supply-Chain-Intern--Summer-2027-_R5049016-2"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -992,10 +993,11 @@
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604657",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Industrial-Engineering-Intern--Summer-2027-_JR-2604569",
+      "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Industrial-Engineering-Intern--Summer-2027-_JR-2604630",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666"
      ],
-     "count": 10
+     "count": 11
     }
    }
   },
@@ -1904,6 +1906,20 @@
     }
    }
   },
+  "oatey": {
+   "name": "OATEY",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-12",
+     "role_ids": [
+      "workday:oatey:/job/Cleveland-OH-Manufacturing/Materials-Intern---Cleveland-Manufacturing_R7196",
+      "workday:oatey:/job/Shakopee-MN-Manufacturing/Design-Engineering-Intern_R7272",
+      "workday:oatey:/job/Shakopee-MN-Manufacturing/Engineering-Intern--Manufacturing---Automation_R7258"
+     ],
+     "count": 3
+    }
+   }
+  },
   "olsson": {
    "name": "Olsson",
    "cycles": {
@@ -2517,6 +2533,18 @@
     }
    }
   },
+  "stv": {
+   "name": "STV",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-23",
+     "role_ids": [
+      "workday:stvinc:/job/Philadelphia-Pennsylvania/Mechanical-Engineering-Intern---Summer-2027_JR6097-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "sunday robotics": {
    "name": "Sunday Robotics",
    "cycles": {
@@ -2708,9 +2736,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-25",
      "role_ids": [
+      "workday:verdantas:/job/Holden-MA/Mechanical-Engineer-Summer-Intern_R-101230",
       "workday:verdantas:/job/Holden-MA/Summer-2027-Hydraulic-Modeling-Intern_R-101125-1"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2975,5 +3004,5 @@
    }
   }
  },
- "updated_at": "2026-10-23T11:54:40Z"
+ "updated_at": "2026-10-23T17:22:19Z"
 }
