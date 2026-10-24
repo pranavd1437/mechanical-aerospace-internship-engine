@@ -1303,6 +1303,13 @@
     "site": "achomecare"
   },
   {
+    "name": "AMA",
+    "slug": "albertamotorassociation",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "ama"
+  },
+  {
     "name": "Amae Health",
     "slug": "amaehealth",
     "ats": "greenhouse"
@@ -1917,6 +1924,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "External"
+  },
+  {
+    "name": "Applied Underwriters",
+    "slug": "auw",
+    "ats": "lever"
   },
   {
     "name": "AppLovin",
@@ -9394,6 +9406,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Farther",
+    "slug": "fartherfinance",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Fasanara",
     "slug": "fasanara",
     "ats": "workable"
@@ -9997,6 +10014,11 @@
     "ats": "workable"
   },
   {
+    "name": "Focused",
+    "slug": "focused",
+    "ats": "ashby"
+  },
+  {
     "name": "Foley Hoag",
     "slug": "foleyhoag",
     "ats": "greenhouse"
@@ -10247,6 +10269,11 @@
     "site": "Freese_Nichols_External"
   },
   {
+    "name": "Freestone Capital Management",
+    "slug": "freestonecapitalmanagement",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Fresenius Kabi",
     "slug": "freseniusglobal",
     "ats": "workday",
@@ -10307,6 +10334,11 @@
     "ats": "workday",
     "wd": "wd108",
     "site": "FTIConsultingCareersPrivate"
+  },
+  {
+    "name": "Fuel Cycle",
+    "slug": "fuel-cycle",
+    "ats": "ashby"
   },
   {
     "name": "Fugro",
@@ -14787,6 +14819,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Linkup",
+    "slug": "linkup",
+    "ats": "ashby"
+  },
+  {
     "name": "LINQ",
     "slug": "linqapp",
     "ats": "ashby"
@@ -16765,6 +16802,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "careers"
+  },
+  {
+    "name": "Moxxi Digital",
+    "slug": "moxxidigital",
+    "ats": "greenhouse"
   },
   {
     "name": "Mozilla",
@@ -21932,6 +21974,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Scout AI",
+    "slug": "scout-ai",
+    "ats": "ashby"
+  },
+  {
     "name": "Scout Clean Energy",
     "slug": "scout-clean-energy",
     "ats": "workable"
@@ -22798,6 +22845,11 @@
     "name": "Software Quality Experts",
     "slug": "SQexpetsLLC",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Sola",
+    "slug": "sola",
+    "ats": "ashby"
   },
   {
     "name": "Solace Health",
