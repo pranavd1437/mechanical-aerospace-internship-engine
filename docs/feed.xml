@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-23T21:37:43Z</updated>
+  <updated>2026-10-24T04:54:17Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000157575569</id>
+    <title>AECOM: Engineering Intern - Hydraulics - Hiring Event with AECOM – Raleigh 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000157575569"/>
+    <updated>2026-10-24T04:54:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Raleigh, NC, United States · CAD · sponsorship: no-sponsorship · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98140</id>
+    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98140"/>
+    <updated>2026-10-24T04:54:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Minneapolis, MN, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:shieldai:bef440ce-0365-4de7-9b1e-b1288cdaf7f3</id>
+    <title>Shield AI: June 2027 Co-op - Reliability Engineering #5953</title>
+    <link href="https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3"/>
+    <updated>2026-10-23T21:37:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Seattle, Washington · 38–73 USD/hr · Python, FMEA</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000157554987</id>
     <title>AECOM: Design Engineering Intern - Networking Event with AECOM – Raleigh, NC</title>
@@ -38,14 +62,6 @@
     <updated>2026-10-23T21:37:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · USA, New York, Victor · $23–$25/hr · SolidWorks, AutoCAD, CAD, Lean Manufacturing</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:shieldai:bef440ce-0365-4de7-9b1e-b1288cdaf7f3</id>
-    <title>Shield AI: June 2027 Co-op - Reliability Engineering #5953</title>
-    <link href="https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3"/>
-    <updated>2026-10-23T21:37:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Seattle, Washington · 38–73 USD/hr · Python, FMEA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:trekbikes:/job/Waterloo-Wisconsin/Mechanical-Engineering-Intern_Trek115843</id>
@@ -296,14 +312,6 @@
     <summary>Summer 2027 · Mechanical Design · Oakland, CA · SolidWorks, Siemens NX, CATIA, CAD · H-1B track record: ~685 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98073</id>
-    <title>WSP: Structural Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98073"/>
-    <updated>2026-10-22T17:26:04Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · San Diego, CA, United States</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2439835</id>
     <title>Cummins: Manufacturing Co-Op Positions</title>
     <link href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439835"/>
@@ -438,14 +446,6 @@
     <updated>2026-10-21T17:29:25Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Greenville, SC, United States · AutoCAD, CAD · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:borgwarner:/job/Kokomo-Technical-Center---Indiana---USA/EMC-Design-Engineer-Intern--Year-Round-_R2026-4152</id>
-    <title>BorgWarner: EMC Design Engineer Intern (Year-Round) 🛂</title>
-    <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/EMC-Design-Engineer-Intern--Year-Round-_R2026-4152"/>
-    <updated>2026-10-21T17:29:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Kokomo Technical Center - Indiana - USA · $17–$28.65/hr · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:dtna:/job/Cleveland-NC-US/Manufacturing-Engineering-Intern_DT-20268</id>
