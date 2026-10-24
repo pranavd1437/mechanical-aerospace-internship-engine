@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-24T16:08:50Z",
+ "generated_at": "2026-10-24T21:07:16Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 753,
+ "count": 752,
  "jobs": [
   {
    "id": "oracle:emit.fa.ca3.oraclecloud.com:98140",
@@ -478,27 +478,6 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": 29,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160536",
-   "company": "Honeywell",
-   "title": "Reliability Engineering Intern - Bachelor's",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Test & Validation",
-   "location": "Shreveport, LA, United States",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160536",
-   "posted_at": "2026-10-22",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-23T05:09:29Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [],
-   "source": "oracle",
-   "h1b_approvals": 229,
    "program": "Internship",
    "remote": false
   },

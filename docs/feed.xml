@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-24T16:08:50Z</updated>
+  <updated>2026-10-24T21:07:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98140</id>
@@ -182,14 +182,6 @@
     <updated>2026-10-23T05:09:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · San Jose, CA · $35/hr · SolidWorks, Creo, CAD, ANSYS · H-1B track record: ~29 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160536</id>
-    <title>Honeywell: Reliability Engineering Intern - Bachelor's 🇺🇸</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160536"/>
-    <updated>2026-10-23T05:09:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Shreveport, LA, United States · sponsorship: citizens-only · H-1B track record: ~229 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:RESPECInc:744000157237049</id>
@@ -806,5 +798,13 @@
     <updated>2026-10-19T22:36:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · United States-Virginia-Dulles · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Latham-New-York-United-States/Intern-Co-op---STET-Mechanical-Engineer---Latham--NY---Spring-Summer-2027_591053</id>
+    <title>Philips: Intern/Co-op - STET Mechanical Engineer – Latham, NY – Spring/Summer 2027</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Intern-Co-op---STET-Mechanical-Engineer---Latham--NY---Spring-Summer-2027_591053"/>
+    <updated>2026-10-19T22:36:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Latham, New York, United States · CAD</summary>
   </entry>
 </feed>
