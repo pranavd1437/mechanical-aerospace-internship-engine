@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-24T04:54:17Z</updated>
+  <updated>2026-10-24T11:22:02Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000157575569</id>
-    <title>AECOM: Engineering Intern - Hydraulics - Hiring Event with AECOM – Raleigh 🛂</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000157575569"/>
-    <updated>2026-10-24T04:54:13Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Raleigh, NC, United States · CAD · sponsorship: no-sponsorship · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98140</id>
     <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
@@ -22,6 +14,14 @@
     <updated>2026-10-24T04:54:13Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Minneapolis, MN, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000157575569</id>
+    <title>AECOM: Engineering Intern - Hydraulics - Hiring Event with AECOM – Raleigh 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000157575569"/>
+    <updated>2026-10-24T04:54:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Raleigh, NC, United States · CAD · sponsorship: no-sponsorship · H-1B track record: ~246 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:shieldai:bef440ce-0365-4de7-9b1e-b1288cdaf7f3</id>
@@ -448,6 +448,14 @@
     <summary>Not stated · Mechanical Design · Greenville, SC, United States · AutoCAD, CAD · H-1B track record: ~246 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:borgwarner:/job/Kokomo-Technical-Center---Indiana---USA/EMC-Design-Engineer-Intern--Year-Round-_R2026-4152</id>
+    <title>BorgWarner: EMC Design Engineer Intern (Year-Round) 🛂</title>
+    <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/EMC-Design-Engineer-Intern--Year-Round-_R2026-4152"/>
+    <updated>2026-10-21T17:29:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Kokomo Technical Center - Indiana - USA · $17–$28.65/hr · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:dtna:/job/Cleveland-NC-US/Manufacturing-Engineering-Intern_DT-20268</id>
     <title>Daimler Truck: Manufacturing Engineering Intern</title>
     <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Cleveland-NC-US/Manufacturing-Engineering-Intern_DT-20268"/>
@@ -798,13 +806,5 @@
     <updated>2026-10-19T22:36:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · United States-Virginia-Dulles · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/Latham-New-York-United-States/Intern-Co-op---STET-Mechanical-Engineer---Latham--NY---Spring-Summer-2027_591053</id>
-    <title>Philips: Intern/Co-op - STET Mechanical Engineer – Latham, NY – Spring/Summer 2027</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Intern-Co-op---STET-Mechanical-Engineer---Latham--NY---Spring-Summer-2027_591053"/>
-    <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Latham, New York, United States · CAD</summary>
   </entry>
 </feed>

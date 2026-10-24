@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/pranavd1437/mechanical-aerospace-internship-engine/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/pranavd1437/mechanical-aerospace-internship-engine/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fpranavd1437.github.io%2Fmechanical-aerospace-internship-engine%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%206%20hours-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)
 
-### 754 open roles (418 listed below) · 105 new this week
+### 753 open roles (418 listed below) · 105 new this week
 
-4,748 employers tracked · updated Oct 24, 2026 at 04:54 UTC
+4,748 employers tracked · updated Oct 24, 2026 at 11:21 UTC
 
-_491 have a cycle the employer stated · 263 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_491 have a cycle the employer stated · 262 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)** · **[📡 RSS](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)** · **[⚙️ JSON API](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/api/jobs.json)**
 
@@ -380,11 +380,12 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Oshkosh | Manufacturing Engineering Intern 🆕 | Manufacturing & Quality | Spartanburg +2 more | CAD | Oct 22, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Manufacturing-Engineering-Intern_R51334) |
 | ZOLL Medical Corporation | Manufacturing Engineering Intern 🆕 | Manufacturing & Quality | US CA San Jose | SolidWorks, CAD | Oct 22, 2026 | [Apply](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/US-CA-San-Jose/Manufacturing-Engineering-Intern_R20618) |
 | Teledyne | Mechanical Engineering Intern - CW 🆕 | Mechanical Design | US - Wilsonville, OR | SolidWorks, CAD | Oct 22, 2026 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Wilsonville-OR/Mechanical-Engineering-Intern---CW_REQ37514) |
-| Daimler Truck ✓ | BEV Systems Engineering Intern — Energy, Thermal & Analytics Intern 🆕 | Thermal, Fluids & Propulsion | Portland, OR US | Python, MATLAB | Oct 21, 2026 | [Apply](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/BEV-Systems-Engineering-Intern---Energy--Thermal---Analytics-Intern_DT-20328) |
-| Daimler Truck ✓ | Quality Engineer Internship 🆕 | Manufacturing & Quality | Portland, OR US | FMEA | Oct 21, 2026 | [Apply](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Quality-Engineer-Internship_DT-20334) |
+| Daimler Truck ✓ | BEV Systems Engineering Intern — Energy, Thermal & Analytics Intern | Thermal, Fluids & Propulsion | Portland, OR US | Python, MATLAB | Oct 21, 2026 | [Apply](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/BEV-Systems-Engineering-Intern---Energy--Thermal---Analytics-Intern_DT-20328) |
+| Daimler Truck ✓ | Quality Engineer Internship | Manufacturing & Quality | Portland, OR US | FMEA | Oct 21, 2026 | [Apply](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Quality-Engineer-Internship_DT-20334) |
 | BorgWarner | Mechanical Design Engineer Summer Intern 🛂 | Mechanical Design | Kokomo Technical Center - Indiana - USA | Tolerance Analysis | Oct 21, 2026 | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Mechanical-Design-Engineer-Summer-Intern_R2026-4198) |
 | Crane Co. ✓ | Mechanical Engineer Intern | Mechanical Design | Saddle Brook, New Jersey | AutoCAD | Oct 21, 2026 | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Saddle-Brook-New-Jersey/Mechanical-Engineer-Intern_JR102780-1) |
 | AECOM ✓ | Design Engineering Intern - Networking Event with AECOM – Raleigh, NC | Mechanical Design | Greenville, SC, United States | AutoCAD, CAD | Oct 21, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156853709) |
+| BorgWarner | EMC Design Engineer Intern (Year-Round) 🛂 | Mechanical Design | Kokomo Technical Center - Indiana - USA | No skills listed | Oct 21, 2026 | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/EMC-Design-Engineer-Intern--Year-Round-_R2026-4152) |
 | Daimler Truck ✓ | Manufacturing Engineering Intern | Manufacturing & Quality | Cleveland, NC US | SolidWorks, AutoCAD, Lean Manufacturing, Tableau | Oct 21, 2026 | [Apply](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Cleveland-NC-US/Manufacturing-Engineering-Intern_DT-20268) |
 | Johnson & Johnson | Supplier Quality Engineering Coop | Manufacturing & Quality | Milpitas +2 more | FMEA | Oct 21, 2026 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Milpitas-California-United-States-of-America/Supplier-Quality-Engineering-Coop_R-098796) |
 | RESPEC | Student Engineering Intern (Structural) | Structures & FEA | Morgantown, WV, United States | AutoCAD | Oct 20, 2026 | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000156644855) |
@@ -424,7 +425,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Harbinger Motors | Intern, Test Engineering | Test & Validation | Garden Grove, CA | Python, CATIA, CAD, GD&T | Oct 09, 2026 | [Apply](https://job-boards.greenhouse.io/harbingermotors/jobs/5255968007) |
 | Olsson | Structural Engineering Internship - Facilities | Structures & FEA | Dallas, TX; Fort Worth, TX | No skills listed | Oct 09, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5441485008) |
 | Bosch ✓ | Manufacturing Engineering Intern | Manufacturing & Quality | Grand Rapids, MI, United States | No skills listed | Oct 09, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154762134) |
-| BorgWarner | Electric Machine Design Engineering Intern 🛂 | Mechanical Design | Kokomo Technical Center - Indiana - USA | Python, MATLAB, Simulink, ANSYS | Oct 09, 2026 | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electric-Machine-Design-Engineering-Intern_R2026-4040) |
 | Syska Hennessy Group | Mechanical Engineering Summer Intern | Mechanical Design | Hamilton, NJ | AutoCAD | Oct 08, 2026 | [Apply](https://job-boards.greenhouse.io/syskahennessy/jobs/8177728) |
 | Wabtec ✓ | Mechanical Engineer Intern - Production Operations | Mechanical Design | Oak Creek, WI, United States | Creo | Oct 08, 2026 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990016001786) |
 | Wabtec ✓ | Controls Engineering Intern | Controls & Mechatronics | Oak Creek, WI, United States | C++, Creo, AutoCAD | Oct 08, 2026 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990016001814) |
@@ -616,7 +616,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,424 of 4,886 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 479.5s · 105 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,393 of 4,886 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 483.8s · 103 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
