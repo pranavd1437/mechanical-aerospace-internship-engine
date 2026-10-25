@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-24T21:07:16Z",
+ "generated_at": "2026-10-25T04:59:40Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 752,
+ "count": 751,
  "jobs": [
   {
    "id": "oracle:emit.fa.ca3.oraclecloud.com:98140",
@@ -13069,27 +13069,6 @@
     "CFD"
    ],
    "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "smartrecruiters:RESPECInc:744000148594874",
-   "company": "RESPEC",
-   "title": "Student Engineering Intern (Mechanical or Electrical)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Anchorage, AK, United States",
-   "url": "https://jobs.smartrecruiters.com/RESPECInc/744000148594874",
-   "posted_at": "2026-09-09T19:35:08.807Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-09T21:07:19Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "smartrecruiters",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
