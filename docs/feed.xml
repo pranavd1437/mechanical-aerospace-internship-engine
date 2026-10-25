@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-25T04:59:40Z</updated>
+  <updated>2026-10-25T11:53:15Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:gehc:/job/Haifa-HEALTHCARE-HA-IL-2/V-V-Intern_R4048432-2</id>
+    <title>GE Healthcare: V&amp;V Intern</title>
+    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/V-V-Intern_R4048432-2"/>
+    <updated>2026-10-25T11:53:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Haifa HEALTHCARE HA IL 2 · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98140</id>
     <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-19T22:36:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · United States-Virginia-Dulles · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/Latham-New-York-United-States/Intern-Co-op---STET-Mechanical-Engineer---Latham--NY---Spring-Summer-2027_591053</id>
-    <title>Philips: Intern/Co-op - STET Mechanical Engineer – Latham, NY – Spring/Summer 2027</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Intern-Co-op---STET-Mechanical-Engineer---Latham--NY---Spring-Summer-2027_591053"/>
-    <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Latham, New York, United States · CAD</summary>
   </entry>
 </feed>
