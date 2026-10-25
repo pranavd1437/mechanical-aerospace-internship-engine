@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T11:53:15Z",
+ "generated_at": "2026-10-25T16:40:03Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -631,6 +631,20 @@
    "days_until": -51,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/amca/jobs/4396629009",
+   "note": ""
+  },
+  {
+   "company": "Applied Materials",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -51,
+   "status": "open",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710",
    "note": ""
   },
   {
@@ -2384,5 +2398,5 @@
    "note": ""
   }
  ],
- "count": 170
+ "count": 171
 }

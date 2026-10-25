@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-25T11:53:15Z</updated>
+  <updated>2026-10-25T16:40:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:amat:/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710</id>
+    <title>Applied Materials: Summer 2027 Industrial Engineering Intern- Bachelor's (Santa Clara, CA)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710"/>
+    <updated>2026-10-25T16:39:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Santa Clara,CA · Python, SQL, LLMs, Databricks, Tableau · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:gehc:/job/Haifa-HEALTHCARE-HA-IL-2/V-V-Intern_R4048432-2</id>
     <title>GE Healthcare: V&amp;V Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-19T22:36:05Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Richardson, TX · Python, C++, CAD, Linux, Verilog · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657</id>
-    <title>Northrop Grumman: 2027 Mechanical Propulsion Engineer Internship - Dulles VA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657"/>
-    <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · United States-Virginia-Dulles · sponsorship: citizens-only</summary>
   </entry>
 </feed>

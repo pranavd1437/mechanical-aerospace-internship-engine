@@ -289,6 +289,13 @@
       "workday:amat:/job/HudsonMA/XMLNAME-2026-Fall-Process-Integration-Engineer-Co-op--Cambridge--MA-_R2618309-1"
      ],
      "count": 3
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "workday:amat:/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710"
+     ],
+     "count": 1
     }
    }
   },
@@ -3030,5 +3037,5 @@
    }
   }
  },
- "updated_at": "2026-10-25T11:53:12Z"
+ "updated_at": "2026-10-25T16:39:59Z"
 }
