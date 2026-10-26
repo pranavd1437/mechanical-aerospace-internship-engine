@@ -293,9 +293,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-04",
      "role_ids": [
+      "workday:amat:/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093",
       "workday:amat:/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1341,9 +1342,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-11",
      "role_ids": [
+      "workday:jabil:/job/Austin-TX/Validation-Engineer-Intern_J2469310",
       "workday:jabil:/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2395,9 +2397,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-29",
      "role_ids": [
-      "oracle:ejhp.fa.us6.oraclecloud.com:2625128"
+      "oracle:ejhp.fa.us6.oraclecloud.com:2625128",
+      "oracle:ejhp.fa.us6.oraclecloud.com:2627473"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3037,5 +3040,5 @@
    }
   }
  },
- "updated_at": "2026-10-26T05:05:25Z"
+ "updated_at": "2026-10-26T13:26:09Z"
 }

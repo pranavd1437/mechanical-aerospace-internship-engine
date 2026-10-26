@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T05:05:29Z",
+ "generated_at": "2026-10-26T13:26:13Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -914,6 +914,20 @@
    "note": ""
   },
   {
+   "company": "Jabil",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -45,
+   "status": "open",
+   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Validation-Engineer-Intern_J2469310",
+   "note": ""
+  },
+  {
    "company": "Xcimer Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -1317,6 +1331,20 @@
    "days_until": -27,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5252677007",
+   "note": ""
+  },
+  {
+   "company": "Sherwin-Williams",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": -27,
+   "status": "open",
+   "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627473",
    "note": ""
   },
   {
@@ -2160,20 +2188,6 @@
    "note": "fall opening for next summer"
   },
   {
-   "company": "Jabil",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-11",
-   "days_until": -45,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "TD Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-09-13",
@@ -2287,20 +2301,6 @@
   },
   {
    "company": "Ralliant",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-29",
-   "days_until": -27,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Sherwin-Williams",
    "last_cycle_posted": "",
    "posted_on": "2026-09-29",
    "precision": "day",

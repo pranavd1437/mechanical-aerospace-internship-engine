@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-26T05:05:29Z</updated>
+  <updated>2026-10-26T13:26:13Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:amat:/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093</id>
+    <title>Applied Materials: Summer 2027 Mechanical Engineer Intern- Bachelor's (Austin, TX)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093"/>
+    <updated>2026-10-26T13:26:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Austin,TX · Python, Siemens NX, CAD, GD&amp;T, Teamcenter · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jabil:/job/Austin-TX/Validation-Engineer-Intern_J2469310</id>
+    <title>Jabil: Validation Engineer Intern</title>
+    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Validation-Engineer-Intern_J2469310"/>
+    <updated>2026-10-26T13:26:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Austin, TX · Python, Bash, Linux · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ejhp.fa.us6.oraclecloud.com:2627473</id>
+    <title>Sherwin-Williams: June 2027 Packaging Engineering Co-Op - Brecksville, OH</title>
+    <link href="https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627473"/>
+    <updated>2026-10-26T13:26:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Brecksville, OH, United States · H-1B track record: ~94 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:freese:/job/Fort-Worth-Texas/Part-Time-Structural-Engineering-Intern_JR103958</id>
     <title>Freese and Nichols: Part-Time Structural Engineering Intern</title>
@@ -782,29 +806,5 @@
     <updated>2026-10-19T22:36:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Materials Engineering · Charter Aarrowcast - Shawano, WI · CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:daikinapplied:/job/Plymouth-MN-55441/Engineering-Technician-Intern_R003783</id>
-    <title>Daikin Applied: HVAC Test Technician Intern 🛂</title>
-    <link href="https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Plymouth-MN-55441/Engineering-Technician-Intern_R003783"/>
-    <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Plymouth, MN 55441 · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lumentum:/job/USA---CA---San-Jose-Ridder/Internship---Mechanical-Engineer_20261465</id>
-    <title>Lumentum: Internship - Mechanical Engineer</title>
-    <link href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Mechanical-Engineer_20261465"/>
-    <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · USA - CA - San Jose (Ridder) · SolidWorks, GD&amp;T, ANSYS, FEA, DFM/DFA · H-1B track record: ~31 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545</id>
-    <title>Micron Technology: Intern - Design Engineer, HBM</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545"/>
-    <updated>2026-10-19T22:36:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Richardson, TX · Python, C++, CAD, Linux, Verilog · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
