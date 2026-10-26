@@ -991,6 +991,21 @@
     }
    }
   },
+  "global infrastructure": {
+   "name": "Global Infrastructure",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "workday:gi:/job/CA--AB--Calgary---685-Centre-Street-Southwest/Intern--Mechanical-Designer_6605",
+      "workday:gi:/job/CA--BC--Vancouver---200-Granville-Street/Intern--Mechanical-Designer_6607",
+      "workday:gi:/job/CA--BC--Victoria---1515-Douglas-Street/Intern--Mechanical-Designer_6602",
+      "workday:gi:/job/CA--ON--Toronto---380-Wellington-Street-West/Intern--Mechanical-Designer_6606"
+     ],
+     "count": 4
+    }
+   }
+  },
   "globalfoundries": {
    "name": "GlobalFoundries",
    "cycles": {
@@ -1342,10 +1357,23 @@
     "Summer 2027": {
      "first_posted": "2026-09-11",
      "role_ids": [
+      "workday:jabil:/job/Austin-TX/Mechanical-System-Architect-Intern_J2469350",
       "workday:jabil:/job/Austin-TX/Validation-Engineer-Intern_J2469310",
       "workday:jabil:/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367"
      ],
-     "count": 2
+     "count": 3
+    }
+   }
+  },
+  "jm family": {
+   "name": "JM Family",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "workday:jmfamily:/job/Florida---Jacksonville/Advance-Manufacturing-Engineering-Intern_JR105079"
+     ],
+     "count": 1
     }
    }
   },
@@ -1876,6 +1904,7 @@
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Tooling-Engineer_R10251728",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Vehicle-Engineering_R10255699",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10253458",
+      "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10257639-1",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Structural-Engineer-Intern_R10251781",
       "workday:ngc:/job/United-States-Utah-Corinne/XMLNAME-2027-Engineering-Intern--Manufacturing-and-Operations----Chandler-AZ_R10256661",
       "workday:ngc:/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883",
@@ -1888,7 +1917,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 43
+     "count": 44
     }
    }
   },
@@ -2007,6 +2036,18 @@
       "greenhouse:pacificfusion:4398388009"
      ],
      "count": 2
+    }
+   }
+  },
+  "parallel systems": {
+   "name": "Parallel Systems",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "greenhouse:parallel:5275660007"
+     ],
+     "count": 1
     }
    }
   },
@@ -2319,9 +2360,10 @@
       "oracle:ejia.fa.us6.oraclecloud.com:107368",
       "oracle:ejia.fa.us6.oraclecloud.com:107373",
       "oracle:ejia.fa.us6.oraclecloud.com:107379",
-      "oracle:ejia.fa.us6.oraclecloud.com:107433"
+      "oracle:ejia.fa.us6.oraclecloud.com:107433",
+      "oracle:ejia.fa.us6.oraclecloud.com:107465"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -2484,9 +2526,10 @@
      "first_posted": "2026-09-04",
      "role_ids": [
       "ashby:skydio:3eb06d6e-b6f0-4814-a80a-f1c43075873b",
+      "ashby:skydio:8f4f62b0-a2ea-498d-b78f-6f661b724a3c",
       "ashby:skydio:e541e878-567c-4c03-add8-baf19c63418f"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2948,9 +2991,11 @@
       "oracle:emit.fa.ca3.oraclecloud.com:97462",
       "oracle:emit.fa.ca3.oraclecloud.com:97606",
       "oracle:emit.fa.ca3.oraclecloud.com:98073",
-      "oracle:emit.fa.ca3.oraclecloud.com:98140"
+      "oracle:emit.fa.ca3.oraclecloud.com:98140",
+      "oracle:emit.fa.ca3.oraclecloud.com:98213",
+      "oracle:emit.fa.ca3.oraclecloud.com:98294"
      ],
-     "count": 40
+     "count": 42
     }
    }
   },
@@ -3040,5 +3085,5 @@
    }
   }
  },
- "updated_at": "2026-10-26T13:26:09Z"
+ "updated_at": "2026-10-26T22:52:24Z"
 }

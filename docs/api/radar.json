@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T13:26:13Z",
+ "generated_at": "2026-10-26T22:52:27Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -424,6 +424,20 @@
    "note": ""
   },
   {
+   "company": "Stryker",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -56,
+   "status": "open",
+   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345",
+   "note": ""
+  },
+  {
    "company": "Vermeer",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -644,7 +658,7 @@
    "expected": "2026-09-04",
    "days_until": -52,
    "status": "open",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093",
    "note": ""
   },
   {
@@ -1698,6 +1712,48 @@
    "note": ""
   },
   {
+   "company": "Global Infrastructure",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/CA--AB--Calgary---685-Centre-Street-Southwest/Intern--Mechanical-Designer_6605",
+   "note": ""
+  },
+  {
+   "company": "JM Family",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Jacksonville/Advance-Manufacturing-Engineering-Intern_JR105079",
+   "note": ""
+  },
+  {
+   "company": "Parallel Systems",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007",
+   "note": ""
+  },
+  {
    "company": "Torus",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1987,20 +2043,6 @@
    "source": "engine",
    "expected": "2026-08-29",
    "days_until": -58,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Stryker",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -56,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -2398,5 +2440,5 @@
    "note": ""
   }
  ],
- "count": 171
+ "count": 174
 }
