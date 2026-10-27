@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T12:33:42Z",
+ "generated_at": "2026-10-27T22:31:14Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -1460,6 +1460,20 @@
    "note": ""
   },
   {
+   "company": "Ingredion",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -20,
+   "status": "open",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Indianapolis-IN/Reliability-Engineering-Co-op----Indianapolis--IN_Req-40019-1",
+   "note": ""
+  },
+  {
    "company": "Nissan",
    "last_cycle_posted": "",
    "posted_on": "2026-10-07",
@@ -1751,6 +1765,34 @@
    "days_until": -1,
    "status": "open",
    "url": "https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007",
+   "note": ""
+  },
+  {
+   "company": "Radiance Technologies",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-27",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Mechanical-Engineer-Intern_HR102534",
+   "note": ""
+  },
+  {
+   "company": "Scout AI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-27",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/scout-ai/fba467c4-30e8-4ee1-8ac9-20b48e132076",
    "note": ""
   },
   {
@@ -2398,20 +2440,6 @@
    "note": ""
   },
   {
-   "company": "Ingredion",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-07",
-   "days_until": -20,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Sierra Space",
    "last_cycle_posted": "",
    "posted_on": "2026-10-08",
@@ -2468,5 +2496,5 @@
    "note": ""
   }
  ],
- "count": 176
+ "count": 178
 }
