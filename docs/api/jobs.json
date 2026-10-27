@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-27T05:22:22Z",
+ "generated_at": "2026-10-27T12:33:42Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 762,
+ "count": 759,
  "jobs": [
   {
    "id": "oracle:ejhp.fa.us6.oraclecloud.com:2627598",
@@ -447,30 +447,6 @@
    ],
    "source": "workday",
    "h1b_approvals": 9,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:jabil:/job/Austin-TX/Mechanical-System-Architect-Intern_J2469350",
-   "company": "Jabil",
-   "title": "Mechanical System Architect Intern",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Mechanical Design",
-   "location": "Austin, TX",
-   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Mechanical-System-Architect-Intern_J2469350",
-   "posted_at": "2026-10-26T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-26T22:52:24Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Creo",
-    "Windchill"
-   ],
-   "source": "workday",
-   "h1b_approvals": 69,
    "program": "Internship",
    "remote": false
   },
@@ -1576,29 +1552,6 @@
    "remote": false
   },
   {
-   "id": "workday:cranecompany:/job/Saddle-Brook-New-Jersey/Mechanical-Engineer-Intern_JR102780-1",
-   "company": "Crane Co.",
-   "title": "Mechanical Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Saddle Brook, New Jersey",
-   "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Saddle-Brook-New-Jersey/Mechanical-Engineer-Intern_JR102780-1",
-   "posted_at": "2026-10-21T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-21T21:57:22Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "AutoCAD"
-   ],
-   "source": "workday",
-   "h1b_approvals": 12,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Industrial-Engineering-Intern--Summer-2027-_JR-2604569",
    "company": "GlobalFoundries",
    "title": "Industrial Engineering Intern (Summer 2027)",
@@ -2336,27 +2289,6 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "oracle:ejia.fa.us6.oraclecloud.com:107433",
-   "company": "S&C Electric Company",
-   "title": "Manufacturing Engineer Intern",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Manufacturing & Quality",
-   "location": "Chicago, IL, United States",
-   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107433",
-   "posted_at": "2026-10-19",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-19T22:36:05Z",
-   "sponsorship": "unknown",
-   "salary": "$22–$30/hr",
-   "skills": [],
-   "source": "oracle",
-   "h1b_approvals": 10,
    "program": "Internship",
    "remote": false
   },

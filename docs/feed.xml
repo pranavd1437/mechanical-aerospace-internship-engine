@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-27T05:22:21Z</updated>
+  <updated>2026-10-27T12:33:42Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:gipathfinder:4747868005</id>
@@ -158,14 +158,6 @@
     <updated>2026-10-26T22:52:24Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · CA | ON | Toronto - 380 Wellington Street West · $20–$30/hr · AutoCAD, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jabil:/job/Austin-TX/Mechanical-System-Architect-Intern_J2469350</id>
-    <title>Jabil: Mechanical System Architect Intern</title>
-    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Mechanical-System-Architect-Intern_J2469350"/>
-    <updated>2026-10-26T22:52:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Austin, TX · Creo, Windchill · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:jmfamily:/job/Florida---Jacksonville/Advance-Manufacturing-Engineering-Intern_JR105079</id>
@@ -576,14 +568,6 @@
     <summary>Not stated · Mechanical Design · Kokomo Technical Center - Indiana - USA · $17–$28.65/hr · Tolerance Analysis · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:cranecompany:/job/Saddle-Brook-New-Jersey/Mechanical-Engineer-Intern_JR102780-1</id>
-    <title>Crane Co.: Mechanical Engineer Intern</title>
-    <link href="https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Saddle-Brook-New-Jersey/Mechanical-Engineer-Intern_JR102780-1"/>
-    <updated>2026-10-21T21:57:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Saddle Brook, New Jersey · AutoCAD · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Industrial-Engineering-Intern--Summer-2027-_JR-2604569</id>
     <title>GlobalFoundries: Industrial Engineering Intern (Summer 2027)</title>
     <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Industrial-Engineering-Intern--Summer-2027-_JR-2604569"/>
@@ -806,5 +790,21 @@
     <updated>2026-10-20T17:25:14Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Test &amp; Validation · Vandalia, OH · MATLAB, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wattswater:/job/Germantown-WI/Manufacturing-Engineer-Co-Op--Jan-June-2027_10017699</id>
+    <title>Watts Water: Manufacturing Engineer Co-Op, Jan-June 2027</title>
+    <link href="https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Germantown-WI/Manufacturing-Engineer-Co-Op--Jan-June-2027_10017699"/>
+    <updated>2026-10-20T17:25:14Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Germantown, WI · SolidWorks, AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627</id>
+    <title>Zebra Technologies: 2027 Summer Internship (US) - Mechanical Engineer 🛂</title>
+    <link href="https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627"/>
+    <updated>2026-10-20T17:25:14Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Holtsville, New York · $30/hr · Python, CAD, GD&amp;T, LLMs, Git · sponsorship: no-sponsorship · H-1B track record: ~126 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

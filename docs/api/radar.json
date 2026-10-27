@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T05:22:22Z",
+ "generated_at": "2026-10-27T12:33:42Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -928,20 +928,6 @@
    "note": ""
   },
   {
-   "company": "Jabil",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-11",
-   "days_until": -46,
-   "status": "open",
-   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Mechanical-System-Architect-Intern_J2469350",
-   "note": ""
-  },
-  {
    "company": "Xcimer Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -1498,7 +1484,7 @@
    "expected": "2026-10-07",
    "days_until": -20,
    "status": "open",
-   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107433",
+   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107465",
    "note": ""
   },
   {
@@ -2242,6 +2228,20 @@
    "status": "dropped",
    "url": "",
    "note": "fall opening for next summer"
+  },
+  {
+   "company": "Jabil",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -46,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   },
   {
    "company": "TD Bank",
