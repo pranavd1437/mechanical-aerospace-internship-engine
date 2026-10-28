@@ -5,8 +5,120 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-27T22:31:14Z</updated>
+  <updated>2026-10-28T06:02:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Design-Intern_J-00356190</id>
+    <title>ASML: Internship - Design Engineer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Design-Intern_J-00356190"/>
+    <updated>2026-10-28T06:02:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Wilton, CT, USA · $18–$48/hr · CAD, Tolerance Analysis, FMEA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/San-Diego-CA-USA/Internship---Mechanical-Engineering-Research_J-00355587</id>
+    <title>ASML: Internship - Mechanical Engineering Research</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Mechanical-Engineering-Research_J-00355587"/>
+    <updated>2026-10-28T06:02:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · San Diego, CA, USA · CAD, FEA, Tolerance Analysis · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:avav:/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253</id>
+    <title>Avav: Test Engineering Intern - Space Technologies 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253"/>
+    <updated>2026-10-28T06:02:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Albuquerque, NM · Python, MATLAB, LabVIEW, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:avav:/job/Albuquerque-NM/Mechanical-Engineering-Intern---Space-Technologies_9247</id>
+    <title>Avav: Mechanical Engineering Intern - Space Technologies 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Mechanical-Engineering-Intern---Space-Technologies_9247"/>
+    <updated>2026-10-28T06:02:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Albuquerque, NM · SolidWorks, CAD, FEA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Aerospace-Engineering-Internship---Linthicum-MD_R10256786</id>
+    <title>Northrop Grumman: 2027 Aerospace Engineering Internship - Linthicum MD 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Aerospace-Engineering-Internship---Linthicum-MD_R10256786"/>
+    <updated>2026-10-28T06:02:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Aerospace &amp; Flight Sciences · United States-Maryland-Linthicum · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000157909649</id>
+    <title>Veolia: Intern - Quality Engineering 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000157909649"/>
+    <updated>2026-10-28T06:02:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Boulder, CO, United States · $20–$25/hr · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:scout-ai:fba467c4-30e8-4ee1-8ac9-20b48e132076</id>
+    <title>Scout AI: Mechanical Engineer Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/scout-ai/fba467c4-30e8-4ee1-8ac9-20b48e132076"/>
+    <updated>2026-10-27T22:31:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Sunnyvale, CA · $45 – $65 per hour · SolidWorks, CAD, FEA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5465495008</id>
+    <title>Olsson: Mechanical Engineering Internship - Data Center Facilities</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5465495008"/>
+    <updated>2026-10-27T22:31:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Omaha, NE</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5465496008</id>
+    <title>Olsson: Mechanical Engineering Internship - Data Center Facilities</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5465496008"/>
+    <updated>2026-10-27T22:31:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · North Kansas City, MO</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98372</id>
+    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98372"/>
+    <updated>2026-10-27T22:31:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Tempe, AZ, United States · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:epyc.fa.us2.oraclecloud.com:167555</id>
+    <title>Clean Harbors: Mechanical Engineer Intern - Summer 2027</title>
+    <link href="https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167555"/>
+    <updated>2026-10-27T22:31:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · El Dorado, AR, United States · CAD · H-1B track record: ~38 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000157900487</id>
+    <title>Bosch: Mechanical Design Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000157900487"/>
+    <updated>2026-10-27T22:31:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Fort Lauderdale, FL, United States · Siemens NX, CAD, FEA · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Canton-Mississippi---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Canton--MS_R00214256</id>
+    <title>Nissan: Industrial Engineering Intern - Summer 2027 - Canton, MS</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Canton--MS_R00214256"/>
+    <updated>2026-10-27T22:31:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Canton, Mississippi - United States of America · Six Sigma, Lean Manufacturing · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Machining-Reliability-Intern---Summer-2027---Decherd--TN_R00214293</id>
+    <title>Nissan: Machining Reliability Intern - Summer 2027 - Decherd, TN</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Machining-Reliability-Intern---Summer-2027---Decherd--TN_R00214293"/>
+    <updated>2026-10-27T22:31:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Decherd, Tennessee - United States of America · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00355216</id>
     <title>ASML: Internship - Mechanical Engineer</title>
@@ -40,14 +152,6 @@
     <summary>Not stated · Manufacturing &amp; Quality · Petaluma, CA · SolidWorks, CAD, DFM/DFA, FMEA, Six Sigma · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000157900487</id>
-    <title>Bosch: Mechanical Design Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000157900487"/>
-    <updated>2026-10-27T22:31:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Fort Lauderdale, FL, United States · Siemens NX, CAD, FEA · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:campbellsoup:/job/USA---NJ---Camden/Packaging-Engineer-Co-Op_Req-68753</id>
     <title>Campbellsoup: Packaging Engineer Co-Op</title>
     <link href="https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Packaging-Engineer-Co-Op_Req-68753"/>
@@ -56,20 +160,28 @@
     <summary>Not stated · Mechanical Design · USA - NJ - Camden</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:epyc.fa.us2.oraclecloud.com:167555</id>
-    <title>Clean Harbors: Mechanical Engineer Intern - Summer 2027</title>
-    <link href="https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167555"/>
-    <updated>2026-10-27T22:31:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · El Dorado, AR, United States · CAD · H-1B track record: ~38 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:gi:/job/US--CA--Los-Angeles---707-Wilshire-Boulevard/Intern--Mechanical-Designer_6633</id>
     <title>Global Infrastructure: Intern, Mechanical Designer</title>
     <link href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--CA--Los-Angeles---707-Wilshire-Boulevard/Intern--Mechanical-Designer_6633"/>
     <updated>2026-10-27T22:31:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · US | CA | Los Angeles - 707 Wilshire Boulevard · $20–$30/hr · AutoCAD, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Quality-Engineering-Intern--Summer-2027-_01882062</id>
+    <title>RTX: Quality Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Quality-Engineering-Intern--Summer-2027-_01882062"/>
+    <updated>2026-10-27T22:31:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · US-CO-COLORADO SPRINGS-793 ~ 1225 Aeroplaza Dr ~ AEROPLAZA · GD&amp;T, FMEA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Product-Quality-Engineering-Co-Op--Spring-Summer-2027-_01885440</id>
+    <title>RTX: Product Quality Engineering Co-Op (Spring/Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Product-Quality-Engineering-Co-Op--Spring-Summer-2027-_01885440"/>
+    <updated>2026-10-27T22:31:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ingredion:/job/Indianapolis-IN/Reliability-Engineering-Co-op----Indianapolis--IN_Req-40019-1</id>
@@ -88,44 +200,12 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Buffalo, NY</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:alliance:/job/Canton-Mississippi---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Canton--MS_R00214256</id>
-    <title>Nissan: Industrial Engineering Intern - Summer 2027 - Canton, MS</title>
-    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Canton--MS_R00214256"/>
-    <updated>2026-10-27T22:31:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Canton, Mississippi - United States of America · Six Sigma, Lean Manufacturing · H-1B track record: ~16 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Machining-Reliability-Intern---Summer-2027---Decherd--TN_R00214293</id>
-    <title>Nissan: Machining Reliability Intern - Summer 2027 - Decherd, TN</title>
-    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Machining-Reliability-Intern---Summer-2027---Decherd--TN_R00214293"/>
-    <updated>2026-10-27T22:31:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Decherd, Tennessee - United States of America · H-1B track record: ~16 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:nvent:/job/Anoka-MN-US/R-D-Designer-Intern_R22089</id>
     <title>nVent: Mechanical Drafter/Designer Intern</title>
     <link href="https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/R-D-Designer-Intern_R22089"/>
     <updated>2026-10-27T22:31:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Anoka, MN, US · $25/hr · SolidWorks, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:olsson:5465496008</id>
-    <title>Olsson: Mechanical Engineering Internship - Data Center Facilities</title>
-    <link href="https://job-boards.greenhouse.io/olsson/jobs/5465496008"/>
-    <updated>2026-10-27T22:31:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · North Kansas City, MO</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:olsson:5465495008</id>
-    <title>Olsson: Mechanical Engineering Internship - Data Center Facilities</title>
-    <link href="https://job-boards.greenhouse.io/olsson/jobs/5465495008"/>
-    <updated>2026-10-27T22:31:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Omaha, NE</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op--Embedded-Test-Engineer---Murrysville--PA-January-June-2027_592065</id>
@@ -144,44 +224,12 @@
     <summary>Summer 2027 · Mechanical Design · Huntsville, AL · MATLAB, SolidWorks · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Product-Quality-Engineering-Co-Op--Spring-Summer-2027-_01885440</id>
-    <title>RTX: Product Quality Engineering Co-Op (Spring/Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Product-Quality-Engineering-Co-Op--Spring-Summer-2027-_01885440"/>
-    <updated>2026-10-27T22:31:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Quality-Engineering-Intern--Summer-2027-_01882062</id>
-    <title>RTX: Quality Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Quality-Engineering-Intern--Summer-2027-_01882062"/>
-    <updated>2026-10-27T22:31:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US-CO-COLORADO SPRINGS-793 ~ 1225 Aeroplaza Dr ~ AEROPLAZA · GD&amp;T, FMEA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:scout-ai:fba467c4-30e8-4ee1-8ac9-20b48e132076</id>
-    <title>Scout AI: Mechanical Engineer Intern (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/scout-ai/fba467c4-30e8-4ee1-8ac9-20b48e132076"/>
-    <updated>2026-10-27T22:31:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Sunnyvale, CA · $45 – $65 per hour · SolidWorks, CAD, FEA</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:tranetechnologies:/job/Greenville-South-Carolina/Quality-Engineer-Intern_JR-18912</id>
     <title>Tranetechnologies: Quality Engineer Intern</title>
     <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Greenville-South-Carolina/Quality-Engineer-Intern_JR-18912"/>
     <updated>2026-10-27T22:31:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Greenville, South Carolina</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98372</id>
-    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98372"/>
-    <updated>2026-10-27T22:31:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Tempe, AZ, United States · AutoCAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:xcelenergy:/job/Amarillo-TX-79101/Substation-Design-Engineering-Intern--Fall-Winter-_JR117357-1</id>
@@ -270,22 +318,6 @@
     <updated>2026-10-26T22:52:24Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Chicago, IL, United States · $22–$30/hr · AutoCAD, CAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98213</id>
-    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98213"/>
-    <updated>2026-10-26T22:52:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Boise, ID, United States · AutoCAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98294</id>
-    <title>WSP: Structural Engineering Intern- Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98294"/>
-    <updated>2026-10-26T22:52:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Lakewood, CO, United States · Python, MATLAB</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:dtna:/job/Gaffney-SC-US/Mechatronics-Engineering-Intern---Vehicle-Architecture-and-Controls_DT-20389</id>
@@ -438,14 +470,6 @@
     <updated>2026-10-23T21:37:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Greenville, SC, United States · AutoCAD, CAD · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2330-1</id>
-    <title>Gorbel: Manufacturing Engineer Co-Op</title>
-    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2330-1"/>
-    <updated>2026-10-23T21:37:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · USA, New York, Victor · $23–$25/hr · SolidWorks, AutoCAD, CAD, Lean Manufacturing</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:trekbikes:/job/Waterloo-Wisconsin/Mechanical-Engineering-Intern_Trek115843</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-21T21:57:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · United States-California-San Diego · $21.5–$39/hr · Lean Manufacturing · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000156853709</id>
-    <title>AECOM: Design Engineering Intern - Networking Event with AECOM – Raleigh, NC</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000156853709"/>
-    <updated>2026-10-21T17:29:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Greenville, SC, United States · AutoCAD, CAD · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:borgwarner:/job/Kokomo-Technical-Center---Indiana---USA/EMC-Design-Engineer-Intern--Year-Round-_R2026-4152</id>
-    <title>BorgWarner: EMC Design Engineer Intern (Year-Round) 🛂</title>
-    <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/EMC-Design-Engineer-Intern--Year-Round-_R2026-4152"/>
-    <updated>2026-10-21T17:29:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Kokomo Technical Center - Indiana - USA · $17–$28.65/hr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dtna:/job/Cleveland-NC-US/Manufacturing-Engineering-Intern_DT-20268</id>
-    <title>Daimler Truck: Manufacturing Engineering Intern</title>
-    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Cleveland-NC-US/Manufacturing-Engineering-Intern_DT-20268"/>
-    <updated>2026-10-21T17:29:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Cleveland, NC US · $21–$29/hr · SolidWorks, AutoCAD, Lean Manufacturing, Tableau · H-1B track record: ~50 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
