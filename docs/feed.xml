@@ -5,15 +5,55 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-28T06:02:45Z</updated>
+  <updated>2026-10-28T13:17:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Design-Intern_J-00356190</id>
-    <title>ASML: Internship - Design Engineer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Design-Intern_J-00356190"/>
+    <id>urn:intern-engine:workday:bah:/job/Lexington-Park-MD/Test-Engineer-Intern_R0252409</id>
+    <title>Booz Allen: Test Engineer Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-Park-MD/Test-Engineer-Intern_R0252409"/>
+    <updated>2026-10-28T13:17:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Lexington Park, MD · $108k/yr · Python, Java, C++ · sponsorship: citizens-only · H-1B track record: ~38 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cartech:/job/Tanner-AL/Metallurgy-Intern_26967</id>
+    <title>Carpenter Technology: Metallurgy Intern 🇺🇸</title>
+    <link href="https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Tanner-AL/Metallurgy-Intern_26967"/>
+    <updated>2026-10-28T13:17:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Materials Engineering · Tanner, AL · $21–$25/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/Mechanical-Product-Validation-Engineering-Intern_DT-20436</id>
+    <title>Daimler Truck: Mechanical Product Validation Engineering Intern</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Mechanical-Product-Validation-Engineering-Intern_DT-20436"/>
+    <updated>2026-10-28T13:17:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Portland, OR US · $21–$29/hr · LabVIEW · H-1B track record: ~50 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:firstquality:/job/US-PA-McElhattan/Quality-Engineering-Intern_R12308</id>
+    <title>First Quality: Quality Engineering Intern</title>
+    <link href="https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/Quality-Engineering-Intern_R12308"/>
+    <updated>2026-10-28T13:17:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · US PA McElhattan</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Manufacturing-Execution-System--MES--Co-Op--Spring-Summer-2027-_01885556</id>
+    <title>RTX: Manufacturing Execution System (MES) Co-Op (Spring/Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Manufacturing-Execution-System--MES--Co-Op--Spring-Summer-2027-_01885556"/>
+    <updated>2026-10-28T13:17:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · PLM · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000157909649</id>
+    <title>Veolia: Intern - Quality Engineering 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000157909649"/>
     <updated>2026-10-28T06:02:40Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Wilton, CT, USA · $18–$48/hr · CAD, Tolerance Analysis, FMEA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Manufacturing &amp; Quality · Boulder, CO, United States · $20–$25/hr · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/San-Diego-CA-USA/Internship---Mechanical-Engineering-Research_J-00355587</id>
@@ -24,12 +64,12 @@
     <summary>Not stated · Mechanical Design · San Diego, CA, USA · CAD, FEA, Tolerance Analysis · H-1B track record: ~384 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:avav:/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253</id>
-    <title>Avav: Test Engineering Intern - Space Technologies 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253"/>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Design-Intern_J-00356190</id>
+    <title>ASML: Internship - Design Engineer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Design-Intern_J-00356190"/>
     <updated>2026-10-28T06:02:40Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Albuquerque, NM · Python, MATLAB, LabVIEW, Git · sponsorship: citizens-only</summary>
+    <summary>Not stated · Mechanical Design · Wilton, CT, USA · $18–$48/hr · CAD, Tolerance Analysis, FMEA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:avav:/job/Albuquerque-NM/Mechanical-Engineering-Intern---Space-Technologies_9247</id>
@@ -40,20 +80,20 @@
     <summary>Not stated · Mechanical Design · Albuquerque, NM · SolidWorks, CAD, FEA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:avav:/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253</id>
+    <title>Avav: Test Engineering Intern - Space Technologies 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253"/>
+    <updated>2026-10-28T06:02:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Albuquerque, NM · Python, MATLAB, LabVIEW, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Aerospace-Engineering-Internship---Linthicum-MD_R10256786</id>
     <title>Northrop Grumman: 2027 Aerospace Engineering Internship - Linthicum MD 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Aerospace-Engineering-Internship---Linthicum-MD_R10256786"/>
     <updated>2026-10-28T06:02:40Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Aerospace &amp; Flight Sciences · United States-Maryland-Linthicum · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000157909649</id>
-    <title>Veolia: Intern - Quality Engineering 🛂</title>
-    <link href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000157909649"/>
-    <updated>2026-10-28T06:02:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Boulder, CO, United States · $20–$25/hr · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:scout-ai:fba467c4-30e8-4ee1-8ac9-20b48e132076</id>
@@ -766,45 +806,5 @@
     <updated>2026-10-22T05:08:19Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Lone Tree, CO · MATLAB, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:borgwarner:/job/Kokomo-Technical-Center---Indiana---USA/Mechanical-Design-Engineer-Summer-Intern_R2026-4198</id>
-    <title>BorgWarner: Mechanical Design Engineer Summer Intern 🛂</title>
-    <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Mechanical-Design-Engineer-Summer-Intern_R2026-4198"/>
-    <updated>2026-10-21T21:57:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Kokomo Technical Center - Indiana - USA · $17–$28.65/hr · Tolerance Analysis · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Industrial-Engineering-Intern--Summer-2027-_JR-2604569</id>
-    <title>GlobalFoundries: Industrial Engineering Intern (Summer 2027)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Industrial-Engineering-Intern--Summer-2027-_JR-2604569"/>
-    <updated>2026-10-21T21:57:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA - Vermont - Essex Junction · Python, SQL · H-1B track record: ~110 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Stress-Analysis-and-Tooling-Design-Engineer-Intern---Commerce-CA_R10257184</id>
-    <title>Northrop Grumman: 2027 Stress Analysis and Tooling Design Engineer Intern - Commerce CA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Stress-Analysis-and-Tooling-Design-Engineer-Intern---Commerce-CA_R10257184"/>
-    <updated>2026-10-21T21:57:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · United States-California-Commerce · $21.5–$39/hr · MATLAB, SolidWorks, Siemens NX, CATIA, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211</id>
-    <title>Northrop Grumman: 2027 Structural / Electromechanical Engineer Intern - Redondo Beach CA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211"/>
-    <updated>2026-10-21T21:57:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · United States-California-Redondo Beach · $21.5–$39/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Structural-Engineer-Intern---San-Diego-CA_R10256968-1</id>
-    <title>Northrop Grumman: 2027 Structural Engineer Intern - San Diego CA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Structural-Engineer-Intern---San-Diego-CA_R10256968-1"/>
-    <updated>2026-10-21T21:57:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · United States-California-San Diego · $21.5–$39/hr · Lean Manufacturing · sponsorship: citizens-only</summary>
   </entry>
 </feed>
