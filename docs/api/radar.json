@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T13:17:52Z",
+ "generated_at": "2026-10-28T22:49:51Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -771,6 +771,34 @@
    "days_until": -49,
    "status": "open",
    "url": "https://jobs.smartrecruiters.com/AveryDennison/744000149895029",
+   "note": ""
+  },
+  {
+   "company": "Emerson Electric",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -49,
+   "status": "open",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011001",
+   "note": ""
+  },
+  {
+   "company": "HMH",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -49,
+   "status": "open",
+   "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Manufacturing-Shop-Operations-Intern_JR102389",
    "note": ""
   },
   {
@@ -2203,34 +2231,6 @@
   },
   {
    "company": "Clarios",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-09",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-09",
-   "days_until": -49,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Emerson Electric",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-09",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-09",
-   "days_until": -49,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "HMH",
    "last_cycle_posted": "",
    "posted_on": "2026-09-09",
    "precision": "day",
