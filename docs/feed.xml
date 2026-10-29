@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-29T06:08:52Z</updated>
+  <updated>2026-10-29T13:25:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Automation-Engineer-Intern---Summer-2027_JR00049934</id>
+    <title>ABB: Automation Engineer Intern - Summer 2027 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Automation-Engineer-Intern---Summer-2027_JR00049934"/>
+    <updated>2026-10-29T13:25:25Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · New Berlin, Wisconsin, United States of America · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cubic:/job/San-Diego-California/Mechanical-Engineering-Intern_REQ_50332-1</id>
+    <title>Cubic: Mechanical Engineering Intern</title>
+    <link href="https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/San-Diego-California/Mechanical-Engineering-Intern_REQ_50332-1"/>
+    <updated>2026-10-29T13:25:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · San Diego, California · H-1B track record: ~44 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604583</id>
+    <title>GlobalFoundries: Advanced Manufacturing Engineering Intern, Process &amp; Equipment (Summer 2027)</title>
+    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604583"/>
+    <updated>2026-10-29T13:25:25Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · USA - New York - Malta · H-1B track record: ~110 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:arcboatcompany:5466630008</id>
     <title>Arc: Manufacturing Engineering Intern</title>
@@ -782,29 +806,5 @@
     <updated>2026-10-23T17:22:19Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Milpitas, CA · $47–$56/hr · Python, MATLAB, HTML/CSS · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oatey:/job/Cleveland-OH-Manufacturing/Materials-Intern---Cleveland-Manufacturing_R7196</id>
-    <title>OATEY: Materials Intern - Cleveland Manufacturing</title>
-    <link href="https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Manufacturing/Materials-Intern---Cleveland-Manufacturing_R7196"/>
-    <updated>2026-10-23T17:22:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Cleveland, OH (Manufacturing)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oatey:/job/Shakopee-MN-Manufacturing/Design-Engineering-Intern_R7272</id>
-    <title>OATEY: Design Engineering Intern</title>
-    <link href="https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Shakopee-MN-Manufacturing/Design-Engineering-Intern_R7272"/>
-    <updated>2026-10-23T17:22:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Shakopee, MN (Manufacturing) · SolidWorks, AutoCAD, CAD, GD&amp;T</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oatey:/job/Shakopee-MN-Manufacturing/Engineering-Intern--Manufacturing---Automation_R7258</id>
-    <title>OATEY: Engineering Intern, Manufacturing &amp; Automation</title>
-    <link href="https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Shakopee-MN-Manufacturing/Engineering-Intern--Manufacturing---Automation_R7258"/>
-    <updated>2026-10-23T17:22:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Shakopee, MN (Manufacturing) · SolidWorks, CAD</summary>
   </entry>
 </feed>

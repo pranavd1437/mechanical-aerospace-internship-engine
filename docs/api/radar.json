@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T06:08:52Z",
+ "generated_at": "2026-10-29T13:25:29Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -126,7 +126,7 @@
    "expected": "2026-08-14",
    "days_until": -76,
    "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604592",
    "note": ""
   },
   {
@@ -1121,20 +1121,6 @@
    "days_until": -42,
    "status": "open",
    "url": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Industrial-Engineer-Intern---Undergrad-Internship---Summer-2027---Field_JR-02681866",
-   "note": ""
-  },
-  {
-   "company": "Smith+Nephew",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -42,
-   "status": "open",
-   "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958",
    "note": ""
   },
   {
@@ -2267,6 +2253,20 @@
    "source": "engine",
    "expected": "2026-09-13",
    "days_until": -46,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Smith+Nephew",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -42,
    "status": "dropped",
    "url": "",
    "note": ""
