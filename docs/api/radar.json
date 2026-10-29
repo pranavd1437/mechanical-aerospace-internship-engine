@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T13:25:29Z",
+ "generated_at": "2026-10-29T22:58:37Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -126,7 +126,7 @@
    "expected": "2026-08-14",
    "days_until": -76,
    "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604592",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604583",
    "note": ""
   },
   {
@@ -154,7 +154,7 @@
    "expected": "2026-08-17",
    "days_until": -73,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95758",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94952",
    "note": ""
   },
   {
@@ -308,7 +308,7 @@
    "expected": "2026-08-27",
    "days_until": -63,
    "status": "open",
-   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Quality-Engineering-Intern---Summer-2027_JR00047273",
+   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Automation-Engineer-Intern---Summer-2027_JR00049934",
    "note": ""
   },
   {
@@ -490,7 +490,7 @@
    "expected": "2026-09-01",
    "days_until": -58,
    "status": "open",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Excellence-Industrial-Engineering_JR-202622634",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071",
    "note": "fall opening"
   },
   {
@@ -1334,6 +1334,20 @@
    "note": ""
   },
   {
+   "company": "Astronics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-30",
+   "days_until": -29,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4420383009",
+   "note": ""
+  },
+  {
    "company": "CACI",
    "last_cycle_posted": "",
    "posted_on": "2026-10-01",
@@ -1737,6 +1751,20 @@
    "days_until": -3,
    "status": "open",
    "url": "https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007",
+   "note": ""
+  },
+  {
+   "company": "Castelion",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-27",
+   "days_until": -2,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/castelioncorporation/jobs/4468205009",
    "note": ""
   },
   {
@@ -2496,5 +2524,5 @@
    "note": ""
   }
  ],
- "count": 178
+ "count": 180
 }

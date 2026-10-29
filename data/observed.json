@@ -15,6 +15,7 @@
      "role_ids": [
       "workday:abb:/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726",
       "workday:abb:/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727",
+      "workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Automation-Engineer-Intern---Summer-2027_JR00049932",
       "workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Automation-Engineer-Intern---Summer-2027_JR00049934",
       "workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Quality-Engineering-Intern---Summer-2027_JR00047273",
       "workday:abb:/job/USA-NC-Hickory/Manufacturing-Engineering-Intern---Summer-2027_JR00047568",
@@ -22,7 +23,7 @@
       "workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Intern---Summer-2027_JR00047889",
       "workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Quality-Intern---Summer-2027_JR00048446"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -295,9 +296,10 @@
      "first_posted": "2026-09-04",
      "role_ids": [
       "workday:amat:/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093",
+      "workday:amat:/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242",
       "workday:amat:/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -314,6 +316,19 @@
       "greenhouse:arcboatcompany:5466630008"
      ],
      "count": 5
+    }
+   }
+  },
+  "astronics": {
+   "name": "Astronics",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "greenhouse:astronicscorporation:4420383009",
+      "greenhouse:astronicscorporation:4430399009"
+     ],
+     "count": 2
     }
    }
   },
@@ -530,6 +545,18 @@
       "workday:cartech:/job/Tanner-AL/Metallurgy-Intern_26967"
      ],
      "count": 2
+    }
+   }
+  },
+  "castelion": {
+   "name": "Castelion",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-27",
+     "role_ids": [
+      "greenhouse:castelioncorporation:4468205009"
+     ],
+     "count": 1
     }
    }
   },
@@ -1289,9 +1316,10 @@
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375",
       "workday:imeg:/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495",
       "workday:imeg:/job/St-Louis-MO/Structural-Engineering-Intern---St-Louis--MO_R-16601",
+      "workday:imeg:/job/Urbandale-IA/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375",
       "workday:imeg:/job/Washington-DC/Structural-Intern---Fairfax--VA_R-16618"
      ],
-     "count": 21
+     "count": 22
     }
    }
   },
@@ -1910,6 +1938,7 @@
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2027-Mechanical-Engineering-Intern---Chandler-AZ_R10254534",
       "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Design-Intern---Gilbert-AZ_R10258156",
+      "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258213-1",
       "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208",
       "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136",
       "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Stress-Analysis-and-Tooling-Design-Engineer-Intern---Commerce-CA_R10257184",
@@ -1926,6 +1955,7 @@
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Test-Engineer-Intern---Sunnyvale-CA_R10255018-1",
       "workday:ngc:/job/United-States-California-Vandenberg-AFB/XMLNAME-2027-Test-Engineering-Intern---VSFB-CA_R10253497",
       "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Mechanical-Engineer-Intern---Woodland-Hills-CA_R10249483",
+      "workday:ngc:/job/United-States-Connecticut-East-Hartford/XMLNAME-2027-Mechanical-Engineer-Internship---East-Hartford-CT_R10258435",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253047",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688",
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Mechanical-Engineer-Intern---Rolling-Meadows-IL_R10252778",
@@ -1934,6 +1964,7 @@
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10254985",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088",
+      "workday:ngc:/job/United-States-Maryland-Hanover/XMLNAME-2027-Thermal-Mechanical-Engineer-Internship---Hanover-MD_R10258425",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Aerospace-Engineering-Internship---Linthicum-MD_R10256786",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Manufacturing-Engineer-Intern_R10251750-1",
@@ -1948,6 +1979,7 @@
       "workday:ngc:/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10249871",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10256223",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Structural-Engineering-Intern--Roy-UT_R10258270",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Test-Engineering-Intern---Roy-UT_R10249875",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern---Dulles-VA_R10250744-1",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322",
@@ -1955,7 +1987,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 47
+     "count": 51
     }
    }
   },
@@ -2243,9 +2275,10 @@
      "first_posted": "2026-09-16",
      "role_ids": [
       "greenhouse:rendezvousrobotics:4408587009",
+      "greenhouse:rendezvousrobotics:4408588009",
       "greenhouse:rendezvousrobotics:4408601009"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2557,13 +2590,14 @@
       "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084",
       "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern--Summer-2027-_R0031177",
       "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineering-Intern--Summer-2027-_R0030745",
+      "workday:snc:/job/Lone-Tree-CO/Structural-Engineering-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031291",
       "workday:snc:/job/Lone-Tree-CO/Structural-Engineering-Intern---Summer-2027_R0031160-1",
       "workday:snc:/job/Lone-Tree-CO/Test-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031090",
       "workday:snc:/job/Lone-Tree-CO/Test-Engineering-Intern--Summer-2027-_R0030771",
       "workday:snc:/job/Plano-TX/Aerospace-Engineering-Intern--Summer-2027-Intern-_R0030736",
       "workday:snc:/job/Plano-TX/Mechanical-Engineering-Intern--Summer-2027-_R0030746-1"
      ],
-     "count": 19
+     "count": 20
     },
     "Fall 2026": {
      "first_posted": "2026-09-23",
@@ -3165,5 +3199,5 @@
    }
   }
  },
- "updated_at": "2026-10-29T13:25:25Z"
+ "updated_at": "2026-10-29T22:58:34Z"
 }
