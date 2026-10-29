@@ -5,39 +5,87 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-28T22:49:51Z</updated>
+  <updated>2026-10-29T06:08:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:breezy:benchmark-space-systems-inc:bc01b3dfed6f</id>
-    <title>Benchmark Space Systems Inc: Mechanical Analysis Engineering Intern</title>
-    <link href="https://benchmark-space-systems-inc.breezy.hr/p/bc01b3dfed6f-mechanical-analysis-engineering-intern"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Burlington, VT · $23 – $26 / hour</summary>
+    <id>urn:intern-engine:greenhouse:arcboatcompany:5466630008</id>
+    <title>Arc: Manufacturing Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/arcboatcompany/jobs/5466630008"/>
+    <updated>2026-10-29T06:08:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Torrance, CA · $36/hr · Siemens NX, CAD, Teamcenter, Lean Manufacturing</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:breezy:benchmark-space-systems-inc:e411d03fd305</id>
-    <title>Benchmark Space Systems Inc: Mechanical Engineering Intern</title>
-    <link href="https://benchmark-space-systems-inc.breezy.hr/p/e411d03fd305-mechanical-engineering-intern"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Burlington, VT · $23 – $26 / hour</summary>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208</id>
+    <title>Northrop Grumman: 2027 Structural Engineer Intern - Gilbert AZ 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208"/>
+    <updated>2026-10-29T06:08:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · United States-Arizona-Gilbert · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:breezy:benchmark-space-systems-inc:a121fe738cc0</id>
-    <title>Benchmark Space Systems Inc: Mechatronics Engineering Intern</title>
-    <link href="https://benchmark-space-systems-inc.breezy.hr/p/a121fe738cc0-mechatronics-engineering-intern"/>
+    <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:043c739e-ff80-4faa-b2be-5d1e96768dfa</id>
+    <title>Shield AI: Summer 2027 - Advanced Manufacturing Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/043c739e-ff80-4faa-b2be-5d1e96768dfa"/>
     <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Pleasanton, CA · $24 – $27 / hour</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Dallas, Texas · SolidWorks, Siemens NX, CATIA, Creo, CAD</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:breezy:benchmark-space-systems-inc:c0756f9be62c</id>
-    <title>Benchmark Space Systems Inc: Production Engineering Intern</title>
-    <link href="https://benchmark-space-systems-inc.breezy.hr/p/c0756f9be62c-production-engineering-intern"/>
+    <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:0eb4a172-b6b9-4bda-85e5-fe566b342c0e</id>
+    <title>Shield AI: June 2027 Co-op - Reliability Engineering #5953</title>
+    <link href="https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0eb4a172-b6b9-4bda-85e5-fe566b342c0e"/>
     <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Burlington, VT · $23 – $26 / hour</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Seattle, Washington · Python, SolidWorks, ANSYS, FMEA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:38ba128e-815b-4a14-b4d2-446ffc190a33</id>
+    <title>Shield AI: Summer 2027 - Mechanical Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/38ba128e-815b-4a14-b4d2-446ffc190a33"/>
+    <updated>2026-10-28T22:49:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Seattle, Washington · SolidWorks, Siemens NX, CATIA, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:975400e0-ef9b-43a7-beac-f501dff8e9f5</id>
+    <title>Shield AI: Summer 2027 - Mechanical Engineering Intern, Air Vehicle Systems and Test #6465+</title>
+    <link href="https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/975400e0-ef9b-43a7-beac-f501dff8e9f5"/>
+    <updated>2026-10-28T22:49:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Seattle, Washington · Python, MATLAB, SolidWorks, Siemens NX, CATIA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:shieldai:043c739e-ff80-4faa-b2be-5d1e96768dfa</id>
+    <title>Shield AI: Summer 2027 - Advanced Manufacturing Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/shieldai/043c739e-ff80-4faa-b2be-5d1e96768dfa"/>
+    <updated>2026-10-28T22:49:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Dallas, Texas · SolidWorks, Siemens NX, CATIA, Creo, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:shieldai:0eb4a172-b6b9-4bda-85e5-fe566b342c0e</id>
+    <title>Shield AI: June 2027 Co-op - Reliability Engineering #5953</title>
+    <link href="https://jobs.ashbyhq.com/shieldai/0eb4a172-b6b9-4bda-85e5-fe566b342c0e"/>
+    <updated>2026-10-28T22:49:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Seattle, Washington · Python, SolidWorks, ANSYS, FMEA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:shieldai:38ba128e-815b-4a14-b4d2-446ffc190a33</id>
+    <title>Shield AI: Summer 2027 - Mechanical Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/shieldai/38ba128e-815b-4a14-b4d2-446ffc190a33"/>
+    <updated>2026-10-28T22:49:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Seattle, Washington · SolidWorks, Siemens NX, CATIA, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:shieldai:975400e0-ef9b-43a7-beac-f501dff8e9f5</id>
+    <title>Shield AI: Summer 2027 - Mechanical Engineering Intern, Air Vehicle Systems and Test #6465+</title>
+    <link href="https://jobs.ashbyhq.com/shieldai/975400e0-ef9b-43a7-beac-f501dff8e9f5"/>
+    <updated>2026-10-28T22:49:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Seattle, Washington · Python, MATLAB, SolidWorks, Siemens NX, CATIA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:breezy:benchmark-space-systems-inc:139505515416</id>
@@ -54,6 +102,54 @@
     <updated>2026-10-28T22:49:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Test &amp; Validation · Burlington, VT · $23 – $26 / hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:breezy:benchmark-space-systems-inc:a121fe738cc0</id>
+    <title>Benchmark Space Systems Inc: Mechatronics Engineering Intern</title>
+    <link href="https://benchmark-space-systems-inc.breezy.hr/p/a121fe738cc0-mechatronics-engineering-intern"/>
+    <updated>2026-10-28T22:49:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Pleasanton, CA · $24 – $27 / hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:breezy:benchmark-space-systems-inc:bc01b3dfed6f</id>
+    <title>Benchmark Space Systems Inc: Mechanical Analysis Engineering Intern</title>
+    <link href="https://benchmark-space-systems-inc.breezy.hr/p/bc01b3dfed6f-mechanical-analysis-engineering-intern"/>
+    <updated>2026-10-28T22:49:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Burlington, VT · $23 – $26 / hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:breezy:benchmark-space-systems-inc:c0756f9be62c</id>
+    <title>Benchmark Space Systems Inc: Production Engineering Intern</title>
+    <link href="https://benchmark-space-systems-inc.breezy.hr/p/c0756f9be62c-production-engineering-intern"/>
+    <updated>2026-10-28T22:49:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Burlington, VT · $23 – $26 / hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:breezy:benchmark-space-systems-inc:e411d03fd305</id>
+    <title>Benchmark Space Systems Inc: Mechanical Engineering Intern</title>
+    <link href="https://benchmark-space-systems-inc.breezy.hr/p/e411d03fd305-mechanical-engineering-intern"/>
+    <updated>2026-10-28T22:49:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Burlington, VT · $23 – $26 / hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:shieldai:bc41648b-c201-4b01-8feb-d228cbfdd875</id>
+    <title>Shield AI: Summer 2027 - Mechanical Engineering Intern, Air Vehicle Systems and Test #6465+</title>
+    <link href="https://jobs.lever.co/shieldai/bc41648b-c201-4b01-8feb-d228cbfdd875"/>
+    <updated>2026-10-28T22:49:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Seattle, Washington · 38–65 USD/hr · Python, MATLAB, SolidWorks, Siemens NX, CATIA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Intuitive:744000158313717</id>
+    <title>Intuitive Surgical: Robotics Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Intuitive/744000158313717"/>
+    <updated>2026-10-28T22:49:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Sunnyvale, CA, United States · Python, C++, MATLAB · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cranecompany:/job/70900-USA7900-VS-USA_TWINSBURG-OH/Manufacturing-Engineering-Intern_JR102806</id>
@@ -80,9 +176,9 @@
     <summary>Not stated · Manufacturing &amp; Quality · Danbury, CT · H-1B track record: ~60 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:flextronics:/job/USA-IA-Des-Moines/Quality-Engineering-Intern_WD232599-1</id>
-    <title>Flextronics International: Quality Engineering Intern</title>
-    <link href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IA-Des-Moines/Quality-Engineering-Intern_WD232599-1"/>
+    <id>urn:intern-engine:workday:flextronics:/job/USA-IA-Des-Moines/Manufacturing-Engineer-Intern_WD232920-1</id>
+    <title>Flextronics International: Manufacturing Engineer Intern</title>
+    <link href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IA-Des-Moines/Manufacturing-Engineer-Intern_WD232920-1"/>
     <updated>2026-10-28T22:49:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · USA, IA, Des Moines · sponsorship: offers · H-1B track record: ~65 approvals (FY2022–2023)</summary>
@@ -96,9 +192,9 @@
     <summary>Not stated · Manufacturing &amp; Quality · USA, IA, Des Moines · sponsorship: offers · H-1B track record: ~65 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:flextronics:/job/USA-IA-Des-Moines/Manufacturing-Engineer-Intern_WD232920-1</id>
-    <title>Flextronics International: Manufacturing Engineer Intern</title>
-    <link href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IA-Des-Moines/Manufacturing-Engineer-Intern_WD232920-1"/>
+    <id>urn:intern-engine:workday:flextronics:/job/USA-IA-Des-Moines/Quality-Engineering-Intern_WD232599-1</id>
+    <title>Flextronics International: Quality Engineering Intern</title>
+    <link href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IA-Des-Moines/Quality-Engineering-Intern_WD232599-1"/>
     <updated>2026-10-28T22:49:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · USA, IA, Des Moines · sponsorship: offers · H-1B track record: ~65 approvals (FY2022–2023)</summary>
@@ -120,14 +216,6 @@
     <summary>Not stated · Materials Engineering · Chester, SC · $25–$27/hr</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:Intuitive:744000158313717</id>
-    <title>Intuitive Surgical: Robotics Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Intuitive/744000158313717"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Sunnyvale, CA, United States · Python, C++, MATLAB · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Mechanical-Engineering_R-26-20902</id>
     <title>Moog: Intern, Mechanical Engineering</title>
     <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Mechanical-Engineering_R-26-20902"/>
@@ -142,78 +230,6 @@
     <updated>2026-10-28T22:49:47Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · United States-Arizona-Gilbert · $18.5–$33.5/hr · Creo, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:shieldai:0eb4a172-b6b9-4bda-85e5-fe566b342c0e</id>
-    <title>Shield AI: June 2027 Co-op - Reliability Engineering #5953</title>
-    <link href="https://jobs.ashbyhq.com/shieldai/0eb4a172-b6b9-4bda-85e5-fe566b342c0e"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Seattle, Washington · Python, SolidWorks, ANSYS, FMEA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:0eb4a172-b6b9-4bda-85e5-fe566b342c0e</id>
-    <title>Shield AI: June 2027 Co-op - Reliability Engineering #5953</title>
-    <link href="https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0eb4a172-b6b9-4bda-85e5-fe566b342c0e"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Seattle, Washington · Python, SolidWorks, ANSYS, FMEA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:shieldai:043c739e-ff80-4faa-b2be-5d1e96768dfa</id>
-    <title>Shield AI: Summer 2027 - Advanced Manufacturing Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/shieldai/043c739e-ff80-4faa-b2be-5d1e96768dfa"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Dallas, Texas · SolidWorks, Siemens NX, CATIA, Creo, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:043c739e-ff80-4faa-b2be-5d1e96768dfa</id>
-    <title>Shield AI: Summer 2027 - Advanced Manufacturing Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/043c739e-ff80-4faa-b2be-5d1e96768dfa"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Dallas, Texas · SolidWorks, Siemens NX, CATIA, Creo, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:shieldai:38ba128e-815b-4a14-b4d2-446ffc190a33</id>
-    <title>Shield AI: Summer 2027 - Mechanical Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/shieldai/38ba128e-815b-4a14-b4d2-446ffc190a33"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Seattle, Washington · SolidWorks, Siemens NX, CATIA, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:38ba128e-815b-4a14-b4d2-446ffc190a33</id>
-    <title>Shield AI: Summer 2027 - Mechanical Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/38ba128e-815b-4a14-b4d2-446ffc190a33"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Seattle, Washington · SolidWorks, Siemens NX, CATIA, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:shieldai:bc41648b-c201-4b01-8feb-d228cbfdd875</id>
-    <title>Shield AI: Summer 2027 - Mechanical Engineering Intern, Air Vehicle Systems and Test #6465+</title>
-    <link href="https://jobs.lever.co/shieldai/bc41648b-c201-4b01-8feb-d228cbfdd875"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Seattle, Washington · 38–65 USD/hr · Python, MATLAB, SolidWorks, Siemens NX, CATIA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:shieldai:975400e0-ef9b-43a7-beac-f501dff8e9f5</id>
-    <title>Shield AI: Summer 2027 - Mechanical Engineering Intern, Air Vehicle Systems and Test #6465+</title>
-    <link href="https://jobs.ashbyhq.com/shieldai/975400e0-ef9b-43a7-beac-f501dff8e9f5"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Seattle, Washington · Python, MATLAB, SolidWorks, Siemens NX, CATIA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:975400e0-ef9b-43a7-beac-f501dff8e9f5</id>
-    <title>Shield AI: Summer 2027 - Mechanical Engineering Intern, Air Vehicle Systems and Test #6465+</title>
-    <link href="https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/975400e0-ef9b-43a7-beac-f501dff8e9f5"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Seattle, Washington · Python, MATLAB, SolidWorks, Siemens NX, CATIA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:sbdinc:/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern--3D-Surfacing---Summer-2027_REQ-1000052665</id>
@@ -334,14 +350,6 @@
     <updated>2026-10-27T22:31:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · North Kansas City, MO</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98372</id>
-    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98372"/>
-    <updated>2026-10-27T22:31:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Tempe, AZ, United States · AutoCAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:epyc.fa.us2.oraclecloud.com:167555</id>
@@ -672,14 +680,6 @@
     <summary>Summer 2027 · Mechanical Design · United States-Utah-Clearfield · $23–$29/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:ejhp.fa.us6.oraclecloud.com:2627473</id>
-    <title>Sherwin-Williams: June 2027 Packaging Engineering Co-Op - Brecksville, OH</title>
-    <link href="https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627473"/>
-    <updated>2026-10-26T13:26:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Brecksville, OH, United States · H-1B track record: ~94 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:amat:/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093</id>
     <title>Applied Materials: Summer 2027 Mechanical Engineer Intern- Bachelor's (Austin, TX)</title>
     <link href="https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093"/>
@@ -768,14 +768,6 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · USA - Vermont - Essex Junction · H-1B track record: ~110 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Product-Development-Engineer-Intern_2642130-1</id>
-    <title>KLA: Product Development Engineer Intern</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2642130-1"/>
-    <updated>2026-10-23T17:22:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Milpitas, CA · $47–$56/hr · Python · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Product-Development-Engineering-Intern_2642328-1</id>
     <title>KLA: Product Development Engineering Intern</title>
     <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineering-Intern_2642328-1"/>
@@ -806,5 +798,13 @@
     <updated>2026-10-23T17:22:19Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Shakopee, MN (Manufacturing) · SolidWorks, AutoCAD, CAD, GD&amp;T</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oatey:/job/Shakopee-MN-Manufacturing/Engineering-Intern--Manufacturing---Automation_R7258</id>
+    <title>OATEY: Engineering Intern, Manufacturing &amp; Automation</title>
+    <link href="https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Shakopee-MN-Manufacturing/Engineering-Intern--Manufacturing---Automation_R7258"/>
+    <updated>2026-10-23T17:22:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Shakopee, MN (Manufacturing) · SolidWorks, CAD</summary>
   </entry>
 </feed>
