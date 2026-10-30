@@ -319,6 +319,18 @@
     }
    }
   },
+  "astrazeneca": {
+   "name": "AstraZeneca",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-30",
+     "role_ids": [
+      "workday:astrazeneca:/job/US---Gaithersburg---MD/Manufacturing-Solutions---Innovation-Intern_R-263167"
+     ],
+     "count": 1
+    }
+   }
+  },
   "astronics": {
    "name": "Astronics",
    "cycles": {
@@ -478,9 +490,10 @@
       "smartrecruiters:BoschGroup:744000148518808",
       "smartrecruiters:BoschGroup:744000148542054",
       "smartrecruiters:BoschGroup:744000153856764",
-      "smartrecruiters:BoschGroup:744000155100809"
+      "smartrecruiters:BoschGroup:744000155100809",
+      "smartrecruiters:BoschGroup:744000158774229"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -662,12 +675,15 @@
      "first_posted": "2026-10-09",
      "role_ids": [
       "lever:cfsenergy:01ec2ee8-b8c9-4f32-9b66-3a2ce1ff704f",
+      "lever:cfsenergy:2edaad6a-3def-479e-992e-b0c333b9022f",
+      "lever:cfsenergy:41725c72-2242-4ae4-815a-21064d7d7d05",
       "lever:cfsenergy:7ed4bf93-2b32-4096-9af3-2eb79e620039",
       "lever:cfsenergy:9690a768-362f-4df8-86a1-554b896cbc76",
       "lever:cfsenergy:da8cc185-70d0-4a8e-b484-9866c71b593e",
-      "lever:cfsenergy:e3408817-347e-45bc-8627-305b75b6b978"
+      "lever:cfsenergy:e3408817-347e-45bc-8627-305b75b6b978",
+      "lever:cfsenergy:faa295da-2f67-41af-88aa-516f118e38e3"
      ],
-     "count": 5
+     "count": 8
     }
    }
   },
@@ -1585,6 +1601,20 @@
     }
    }
   },
+  "loft orbital": {
+   "name": "Loft Orbital",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-27",
+     "role_ids": [
+      "lever:loftorbital:03f948ff-0767-4bb0-a13b-345321d63d71",
+      "lever:loftorbital:34edd0b7-2a5b-4efa-a379-860097784534",
+      "lever:loftorbital:be396d08-738d-4f3d-bea4-cbbdc88c3db9"
+     ],
+     "count": 3
+    }
+   }
+  },
   "lonza": {
    "name": "Lonza",
    "cycles": {
@@ -1947,6 +1977,7 @@
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253538",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
       "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211",
+      "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-mechanical-Engineer-Intern--Redondo-Beach-CA_R10258669",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Guidance-Navigation-and-Control-Engineer_R10256435",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139",
@@ -1988,7 +2019,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 51
+     "count": 52
     }
    }
   },
@@ -2579,6 +2610,7 @@
      "role_ids": [
       "workday:snc:/job/Dayton-OH/Aerospace-Engineering-Intern--Summer-2027-_R0030727",
       "workday:snc:/job/Dayton-OH/Mechanical-Engineer-Intern--Summer-2027-_R0030744",
+      "workday:snc:/job/Dayton-OH/Quality-Engineer-Intern--Summer-2027-_R0031194",
       "workday:snc:/job/Dayton-OH/Test-Engineering-Intern--Summer-2027-_R0030766",
       "workday:snc:/job/Hagerstown-MD/Aerospace-Engineering-Intern--Summer-2027-_R0030737",
       "workday:snc:/job/Hagerstown-MD/Manufacturing-Engineering-Intern--Summer-2027-_R0030784",
@@ -2596,9 +2628,10 @@
       "workday:snc:/job/Lone-Tree-CO/Test-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031090",
       "workday:snc:/job/Lone-Tree-CO/Test-Engineering-Intern--Summer-2027-_R0030771",
       "workday:snc:/job/Plano-TX/Aerospace-Engineering-Intern--Summer-2027-Intern-_R0030736",
-      "workday:snc:/job/Plano-TX/Mechanical-Engineering-Intern--Summer-2027-_R0030746-1"
+      "workday:snc:/job/Plano-TX/Mechanical-Engineering-Intern--Summer-2027-_R0030746-1",
+      "workday:snc:/job/Sparks-NV/Manufacturing-Engineer-Intern--Summer-2027-_R0031241"
      ],
-     "count": 20
+     "count": 22
     },
     "Fall 2026": {
      "first_posted": "2026-09-23",
@@ -2690,9 +2723,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008121",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008122",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008255",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008324"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008324",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008551"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -2795,6 +2829,7 @@
      "first_posted": "2026-09-10",
      "role_ids": [
       "workday:ttc:/job/Beatrice-NE/Design-Engineering-Intern---Exmark_JR17085",
+      "workday:ttc:/job/Beatrice-NE/Manufacturing-Engineer-Intern---Exmark_JR17707",
       "workday:ttc:/job/Beatrice-NE/Test-Engineer-Intern---Exmark_JR17050",
       "workday:ttc:/job/Bloomington-MN/Advanced-Quality-Engineering-Intern---The-Toro-Company_JR17231",
       "workday:ttc:/job/Bloomington-MN/Mechanical-Design-Engineering-Intern---The-Toro-Company_JR17094",
@@ -2813,7 +2848,7 @@
       "workday:ttc:/job/Shakopee-MN/Manufacturing-Engineering-Intern---The-Toro-Company_JR17581",
       "workday:ttc:/job/Windom-MN/Manufacturing-Engineer-Intern---The-Toro-Company_JR17578"
      ],
-     "count": 18
+     "count": 19
     }
    }
   },
@@ -2873,6 +2908,7 @@
      "first_posted": "2026-08-28",
      "role_ids": [
       "workday:hcmportal:/job/US---BAYONNE-CENTER-NJBAY/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Bayonne-NJ_R26030793",
+      "workday:hcmportal:/job/US---COMMERCE-CITY-CODEN/XMLNAME-2027-Industrial-Engineering-Summer-Internship---Denver--CO_R26039749",
       "workday:hcmportal:/job/US---JEFFERSON-HUB-ILJEF/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Chicago-IL_R26030597",
       "workday:hcmportal:/job/US---PORTLAND-HUB-ORPOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Portland--OR_R26030709",
       "workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989",
@@ -2880,7 +2916,7 @@
       "workday:hcmportal:/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1",
       "workday:hcmportal:/job/US---UTAH-REGIONAL-HUB-UTLKE/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Salt-Lake-City--UT_R26030699"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -3214,5 +3250,5 @@
    }
   }
  },
- "updated_at": "2026-10-30T13:18:00Z"
+ "updated_at": "2026-10-30T22:35:11Z"
 }
