@@ -1928,9 +1928,10 @@
      "first_posted": "2026-08-03",
      "role_ids": [
       "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Mechanical-Engineering-Intern---Chandler-AZ_R10247965",
+      "workday:ngc:/job/United-States-California-Manhattan-Beach/XMLNAME-2026-Mechanical-Engineer-Intern---Manhattan-Beach-CA_R10255821",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2026-Fall-Co-op-Manufacturing-Engineering---Baltimore-MD_R10243390-1"
      ],
-     "count": 2
+     "count": 3
     },
     "Summer 2027": {
      "first_posted": "2026-08-07",
@@ -2695,6 +2696,20 @@
     }
    }
   },
+  "stratolaunch": {
+   "name": "Stratolaunch",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-30",
+     "role_ids": [
+      "greenhouse:stratolaunch:5467824008",
+      "greenhouse:stratolaunch:5467828008",
+      "greenhouse:stratolaunch:5467832008"
+     ],
+     "count": 3
+    }
+   }
+  },
   "stryker": {
    "name": "Stryker",
    "cycles": {
@@ -3199,5 +3214,5 @@
    }
   }
  },
- "updated_at": "2026-10-29T22:58:34Z"
+ "updated_at": "2026-10-30T06:09:22Z"
 }
