@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-30T06:09:26Z</updated>
+  <updated>2026-10-30T13:18:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:stratolaunch:5467824008</id>
+    <title>Stratolaunch: Manufacturing (Systems) Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008"/>
+    <updated>2026-10-30T06:09:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Mojave, California, United States · $33/hr · Python, SQL, Tableau · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:stratolaunch:5467828008</id>
+    <title>Stratolaunch: Manufacturing Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/stratolaunch/jobs/5467828008"/>
+    <updated>2026-10-30T06:09:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Mojave, California, United States · $33/hr · SQL, CAD, Lean Manufacturing, Tableau · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:stratolaunch:5467832008</id>
+    <title>Stratolaunch: Manufacturing (Electrical) Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/stratolaunch/jobs/5467832008"/>
+    <updated>2026-10-30T06:09:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Mojave, California, United States · $33/hr · CAD · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356213</id>
     <title>ASML: Internship - Mechatronics Engineer</title>
@@ -22,30 +46,6 @@
     <updated>2026-10-30T06:09:22Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Mechanical Design · United States-California-Manhattan Beach · $26.75–$32.5/hr · CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:stratolaunch:5467832008</id>
-    <title>Stratolaunch: Manufacturing (Electrical) Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/stratolaunch/jobs/5467832008"/>
-    <updated>2026-10-30T06:09:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Mojave, California, United States · $33/hr · CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:stratolaunch:5467828008</id>
-    <title>Stratolaunch: Manufacturing Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/stratolaunch/jobs/5467828008"/>
-    <updated>2026-10-30T06:09:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Mojave, California, United States · $33/hr · SQL, CAD, Lean Manufacturing, Tableau · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:stratolaunch:5467824008</id>
-    <title>Stratolaunch: Manufacturing (Systems) Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008"/>
-    <updated>2026-10-30T06:09:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Mojave, California, United States · $33/hr · Python, SQL, Tableau · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:astronicscorporation:4420383009</id>
