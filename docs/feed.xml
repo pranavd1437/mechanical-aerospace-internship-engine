@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-31T12:53:41Z</updated>
+  <updated>2026-10-31T21:51:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:morph:4467371009</id>
+    <title>Morph Labs: Design Intern (Industrial / Mechanical)</title>
+    <link href="https://job-boards.greenhouse.io/morph/jobs/4467371009"/>
+    <updated>2026-10-31T21:51:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · New York City · CAD</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:rippling:omnis-corporation:b03c6d08-5a09-4d4d-b34c-c5a1aa2214b5</id>
     <title>Omnis: GNC Engineering Intern, ADCS and Orbit (Spring and Summer 2027)</title>
@@ -382,14 +390,6 @@
     <updated>2026-10-29T13:25:25Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · San Diego, California · H-1B track record: ~44 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604583</id>
-    <title>GlobalFoundries: Advanced Manufacturing Engineering Intern, Process &amp; Equipment (Summer 2027)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604583"/>
-    <updated>2026-10-29T13:25:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA - New York - Malta · H-1B track record: ~110 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:arcboatcompany:5466630008</id>
