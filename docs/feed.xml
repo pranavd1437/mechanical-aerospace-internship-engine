@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-30T22:35:13Z</updated>
+  <updated>2026-10-31T06:03:37Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:astrazeneca:/job/US---Gaithersburg---MD/Manufacturing-Solutions---Innovation-Intern_R-263167</id>
-    <title>AstraZeneca: Manufacturing Solutions &amp; Innovation Intern</title>
-    <link href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Solutions---Innovation-Intern_R-263167"/>
-    <updated>2026-10-30T22:35:11Z</updated>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00356448</id>
+    <title>ASML: Internship - Mechanical Engineer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00356448"/>
+    <updated>2026-10-31T06:03:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Wilton, CT, USA · $18–$48/hr · CAD · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:rippling:omnis-corporation:b03c6d08-5a09-4d4d-b34c-c5a1aa2214b5</id>
+    <title>Omnis: GNC Engineering Intern, ADCS and Orbit (Spring and Summer 2027)</title>
+    <link href="https://ats.rippling.com/omnis-corporation/jobs/b03c6d08-5a09-4d4d-b34c-c5a1aa2214b5"/>
+    <updated>2026-10-31T06:03:33Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US - Gaithersburg - MD · $37–$39/hr · Python, Java, C++, SQL · H-1B track record: ~115 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · Venice, CA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:rippling:omnis-corporation:c6a2ae56-59aa-4493-bc4b-5d555b21b9c9</id>
+    <title>Omnis: Mechanical Engineering Intern (Spring and Summer 2027)</title>
+    <link href="https://ats.rippling.com/omnis-corporation/jobs/c6a2ae56-59aa-4493-bc4b-5d555b21b9c9"/>
+    <updated>2026-10-31T06:03:33Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Venice, CA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:base-power:0594dd17-1291-4802-90fb-14e0d775d2d6</id>
@@ -24,20 +40,12 @@
     <summary>Not stated · Manufacturing &amp; Quality · Austin, TX · Python, MATLAB, LabVIEW, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:bdx:/job/USA-NE---Columbus-Molding-Center/Molding-Reliability-Engineering-Intern_R-559082</id>
-    <title>Becton Dickinson: Molding Reliability Engineering Intern</title>
-    <link href="https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-Molding-Center/Molding-Reliability-Engineering-Intern_R-559082"/>
+    <id>urn:intern-engine:greenhouse:samsungsemiconductor:8081483003</id>
+    <title>Samsung: Intern, SRAM Design Engineer</title>
+    <link href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8081483003"/>
     <updated>2026-10-30T22:35:11Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · USA NE - Columbus (Molding Center) · H-1B track record: ~181 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158774229</id>
-    <title>Bosch: Manufacturing Engineering Intern (Jan 2027)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158774229"/>
-    <updated>2026-10-30T22:35:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Grand Rapids, MI, United States · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Mechanical Design · San Jose, California, United States · Python</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:cfsenergy:2edaad6a-3def-479e-992e-b0c333b9022f</id>
@@ -96,20 +104,52 @@
     <summary>Not stated · Mechanical Design · United States · ANSYS · H-1B track record: ~321 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008551</id>
+    <title>Stantec: Metallurgy &amp; Process Engineering Intern - Energy &amp; Resources (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008551"/>
+    <updated>2026-10-30T22:35:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Materials Engineering · Reno, NV, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158774229</id>
+    <title>Bosch: Manufacturing Engineering Intern (Jan 2027)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158774229"/>
+    <updated>2026-10-30T22:35:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Grand Rapids, MI, United States · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:astrazeneca:/job/US---Gaithersburg---MD/Manufacturing-Solutions---Innovation-Intern_R-263167</id>
+    <title>AstraZeneca: Manufacturing Solutions &amp; Innovation Intern</title>
+    <link href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Solutions---Innovation-Intern_R-263167"/>
+    <updated>2026-10-30T22:35:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · US - Gaithersburg - MD · $37–$39/hr · Python, Java, C++, SQL · H-1B track record: ~115 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bdx:/job/USA-NE---Columbus-Molding-Center/Molding-Reliability-Engineering-Intern_R-559082</id>
+    <title>Becton Dickinson: Molding Reliability Engineering Intern</title>
+    <link href="https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-Molding-Center/Molding-Reliability-Engineering-Intern_R-559082"/>
+    <updated>2026-10-30T22:35:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · USA NE - Columbus (Molding Center) · H-1B track record: ~181 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hcmportal:/job/US---COMMERCE-CITY-CODEN/XMLNAME-2027-Industrial-Engineering-Summer-Internship---Denver--CO_R26039749</id>
+    <title>United Parcel Service (UPS): 2027 Industrial Engineering Summer Internship - Denver, CO 🇺🇸</title>
+    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---COMMERCE-CITY-CODEN/XMLNAME-2027-Industrial-Engineering-Summer-Internship---Denver--CO_R26039749"/>
+    <updated>2026-10-30T22:35:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · US - COMMERCE CITY (CODEN) · $16–$33.44/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-mechanical-Engineer-Intern--Redondo-Beach-CA_R10258669</id>
     <title>Northrop Grumman: 2027 mechanical Engineer Intern- Redondo Beach CA 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-mechanical-Engineer-Intern--Redondo-Beach-CA_R10258669"/>
     <updated>2026-10-30T22:35:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · United States-California-Redondo Beach · $21.5–$39/hr · CAD, GD&amp;T · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:samsungsemiconductor:8081483003</id>
-    <title>Samsung: Intern, SRAM Design Engineer</title>
-    <link href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8081483003"/>
-    <updated>2026-10-30T22:35:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · San Jose, California, United States · Python</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:snc:/job/Dayton-OH/Quality-Engineer-Intern--Summer-2027-_R0031194</id>
@@ -128,28 +168,12 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Sparks, NV · MATLAB, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008551</id>
-    <title>Stantec: Metallurgy &amp; Process Engineering Intern - Energy &amp; Resources (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008551"/>
-    <updated>2026-10-30T22:35:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Materials Engineering · Reno, NV, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:ttc:/job/Beatrice-NE/Manufacturing-Engineer-Intern---Exmark_JR17707</id>
     <title>The Toro Company: Manufacturing Engineer Intern - Exmark 🛂</title>
     <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Beatrice-NE/Manufacturing-Engineer-Intern---Exmark_JR17707"/>
     <updated>2026-10-30T22:35:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Beatrice, NE · CAD · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hcmportal:/job/US---COMMERCE-CITY-CODEN/XMLNAME-2027-Industrial-Engineering-Summer-Internship---Denver--CO_R26039749</id>
-    <title>United Parcel Service (UPS): 2027 Industrial Engineering Summer Internship - Denver, CO 🇺🇸</title>
-    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---COMMERCE-CITY-CODEN/XMLNAME-2027-Industrial-Engineering-Summer-Internship---Denver--CO_R26039749"/>
-    <updated>2026-10-30T22:35:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US - COMMERCE CITY (CODEN) · $16–$33.44/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:stratolaunch:5467824008</id>
@@ -216,14 +240,6 @@
     <summary>Summer 2027 · Mechanical Design · Allen, TX · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:heartaerospace:4472809009</id>
-    <title>Heart Aerospace: Mechanical Design Intern, Mechanical Systems</title>
-    <link href="https://job-boards.greenhouse.io/heartaerospace/jobs/4472809009"/>
-    <updated>2026-10-29T22:58:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Los Angeles, CA · $30/hr · SolidWorks, Siemens NX, CATIA, CAD</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:rendezvousrobotics:4408588009</id>
     <title>Rendezvous Robotics: Manufacturing and Test Engineering Intern (Summer 2027) 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408588009"/>
@@ -286,14 +302,6 @@
     <updated>2026-10-29T22:58:34Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · High Point, NC US · $21–$29/hr · AutoCAD · H-1B track record: ~50 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:imeg:/job/Urbandale-IA/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375</id>
-    <title>IMEG: Mechanical Engineering Intern | Urbandale, IA</title>
-    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Urbandale-IA/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375"/>
-    <updated>2026-10-29T22:58:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Urbandale, IA · $22.5–$24.5/hr · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:jci:/job/Glendale-Wisconsin-United-States-of-America/HVAC-Controls-Systems-Intern_WD30282521-1</id>
@@ -742,14 +750,6 @@
     <updated>2026-10-27T22:31:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · USA - NJ - Camden</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gi:/job/US--CA--Los-Angeles---707-Wilshire-Boulevard/Intern--Mechanical-Designer_6633</id>
-    <title>Global Infrastructure: Intern, Mechanical Designer</title>
-    <link href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--CA--Los-Angeles---707-Wilshire-Boulevard/Intern--Mechanical-Designer_6633"/>
-    <updated>2026-10-27T22:31:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · US | CA | Los Angeles - 707 Wilshire Boulevard · $20–$30/hr · AutoCAD, CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Quality-Engineering-Intern--Summer-2027-_01882062</id>
