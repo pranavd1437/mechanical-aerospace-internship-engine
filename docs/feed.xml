@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-10-31T06:03:37Z</updated>
+  <updated>2026-10-31T12:53:41Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00356448</id>
-    <title>ASML: Internship - Mechanical Engineer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00356448"/>
-    <updated>2026-10-31T06:03:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Wilton, CT, USA · $18–$48/hr · CAD · H-1B track record: ~384 approvals (FY2022–2023)</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:rippling:omnis-corporation:b03c6d08-5a09-4d4d-b34c-c5a1aa2214b5</id>
     <title>Omnis: GNC Engineering Intern, ADCS and Orbit (Spring and Summer 2027)</title>
@@ -30,6 +22,14 @@
     <updated>2026-10-31T06:03:33Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Venice, CA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00356448</id>
+    <title>ASML: Internship - Mechanical Engineer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00356448"/>
+    <updated>2026-10-31T06:03:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Wilton, CT, USA · $18–$48/hr · CAD · H-1B track record: ~384 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:base-power:0594dd17-1291-4802-90fb-14e0d775d2d6</id>
