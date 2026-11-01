@@ -2130,6 +2130,18 @@
     }
    }
   },
+  "otto engineering": {
+   "name": "Otto Engineering Inc",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-30",
+     "role_ids": [
+      "breezy:otto-engineering-inc:927f7cd9821f"
+     ],
+     "count": 1
+    }
+   }
+  },
   "pacific fusion": {
    "name": "Pacific Fusion",
    "cycles": {
@@ -3250,5 +3262,5 @@
    }
   }
  },
- "updated_at": "2026-11-01T06:30:11Z"
+ "updated_at": "2026-11-01T18:05:08Z"
 }

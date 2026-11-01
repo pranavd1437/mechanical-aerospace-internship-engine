@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-01T06:30:15Z</updated>
+  <updated>2026-11-01T18:05:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:breezy:otto-engineering-inc:927f7cd9821f</id>
+    <title>Otto Engineering Inc: Mechanical Engineer Intern - Communications - Summer 2027</title>
+    <link href="https://otto-engineering-inc.breezy.hr/p/927f7cd9821f-mechanical-engineer-intern-communications-summer-2027"/>
+    <updated>2026-11-01T18:05:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Carpentersville, IL · $18 / hour</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:morph:4467371009</id>
     <title>Morph Labs: Design Intern (Industrial / Mechanical)</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-27T22:31:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Test &amp; Validation · Murrysville, Pennsylvania, United States · C#</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:radiancetech:/job/Huntsville-AL/Mechanical-Engineer-Intern_HR102534</id>
-    <title>Radiance Technologies: Mechanical Engineer Intern 🇺🇸</title>
-    <link href="https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Mechanical-Engineer-Intern_HR102534"/>
-    <updated>2026-10-27T22:31:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Huntsville, AL · MATLAB, SolidWorks · sponsorship: citizens-only</summary>
   </entry>
 </feed>
