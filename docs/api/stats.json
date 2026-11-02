@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-01T22:17:24Z",
- "duration_seconds": 470.5,
+ "generated_at": "2026-11-02T06:30:56Z",
+ "duration_seconds": 464.5,
  "companies_total": 5067,
  "companies_by_source": {
   "greenhouse": 1206,
@@ -16,28 +16,31 @@
   "breezy": 19,
   "eightfold": 1
  },
- "quarantined": 413,
- "fetched_ok": 4639,
- "fetch_errors": 15,
+ "quarantined": 312,
+ "fetched_ok": 4629,
+ "fetch_errors": 126,
  "errors_by_source": {
-  "rippling": 3,
-  "workday": 1,
-  "workable": 11
+  "lever": 11,
+  "workday": 24,
+  "ashby": 18,
+  "greenhouse": 36,
+  "rippling": 4,
+  "workable": 33
  },
- "fetch_success_rate": 0.997,
- "fetch_success_rate_registry": 0.916,
- "snapshots_complete": 4520,
- "snapshots_partial": 119,
- "roles_matched": 549,
- "dropped_no_year_in_title": 263,
- "dropped_offcycle_by_text": 139,
+ "fetch_success_rate": 0.974,
+ "fetch_success_rate_registry": 0.914,
+ "snapshots_complete": 4504,
+ "snapshots_partial": 125,
+ "roles_matched": 542,
+ "dropped_no_year_in_title": 308,
+ "dropped_offcycle_by_text": 138,
  "dropped_by_description_scope": 1,
- "roles_cycle_inferred": 261,
+ "roles_cycle_inferred": 256,
  "roles_by_source": {
   "amazon": 3,
   "ashby": 22,
   "breezy": 7,
-  "greenhouse": 110,
+  "greenhouse": 105,
   "lever": 33,
   "oracle": 17,
   "rippling": 3,
@@ -48,14 +51,14 @@
  "roles_by_cycle": {
   "Summer 2027": 509,
   "Fall 2026": 22,
-  "Not stated": 261
+  "Not stated": 256
  },
  "roles_by_region": {
-  "US": 792
+  "US": 787
  },
  "sponsorship_counts": {
   "no-sponsorship": 70,
-  "unknown": 484,
+  "unknown": 479,
   "citizens-only": 235,
   "offers": 3
  },
@@ -64,7 +67,7 @@
  "enrichment_detail_fetches": 1,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 792,
+ "open_total": 787,
  "detection_latency": {
   "median_minutes": 400.5,
   "p95_minutes": 4241.3,
@@ -73,7 +76,7 @@
   "basis": "roles published in the window with an exact source timestamp"
  },
  "posting_lifetime": {
-  "median_days": 16.0,
-  "sample_size": 822
+  "median_days": 17,
+  "sample_size": 827
  }
 }

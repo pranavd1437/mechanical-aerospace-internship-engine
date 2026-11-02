@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-01T22:17:28Z",
+ "generated_at": "2026-11-02T06:30:59Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 792,
+ "count": 787,
  "jobs": [
   {
    "id": "breezy:otto-engineering-inc:927f7cd9821f",
@@ -11786,33 +11786,6 @@
    "remote": false
   },
   {
-   "id": "greenhouse:asteraearlycareer2027:4729021005",
-   "company": "Astera Labs",
-   "title": "System Validation Engineer Intern (Vancouver)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Test & Validation",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729021005",
-   "posted_at": "2026-09-17T15:52:21-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-06T18:38:46Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++",
-    "Bash",
-    "Linux",
-    "Git"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 29,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Intern--Summer-2027----Onsite_01871125",
    "company": "RTX",
    "title": "Flight Controls Systems Intern (Summer 2027) - Onsite",
@@ -11979,108 +11952,6 @@
    "source": "workday",
    "h1b_approvals": 6,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:sharkninjaoperatingllc:4713783006",
-   "company": "SharkNinja",
-   "title": "Mechanical Engineering Co-op Opportunities",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Needham, MA, United States",
-   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713783006",
-   "posted_at": "2026-09-17T11:26:33-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-17T17:13:31Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SolidWorks",
-    "Creo",
-    "CAD"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 23,
-   "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:sharkninjaoperatingllc:4713800006",
-   "company": "SharkNinja",
-   "title": "Product Design Engineering Co-op Opportunities",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Needham, MA, United States",
-   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713800006",
-   "posted_at": "2026-09-17T11:27:25-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-17T17:13:31Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "SolidWorks",
-    "Creo",
-    "CAD"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 23,
-   "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:sharkninjaoperatingllc:4713810006",
-   "company": "SharkNinja",
-   "title": "Product Design Engineering Intern Opportunities",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Needham, MA, United States",
-   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713810006",
-   "posted_at": "2026-09-17T11:22:49-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-17T17:13:31Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "SolidWorks",
-    "Creo",
-    "CAD"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 23,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:sharkninjaoperatingllc:4713812006",
-   "company": "SharkNinja",
-   "title": "Mechanical Engineering Intern Opportunities",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Needham, MA, United States",
-   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713812006",
-   "posted_at": "2026-09-17T11:25:56-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-17T17:13:31Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SolidWorks",
-    "Creo",
-    "CAD"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 23,
-   "program": "Internship",
    "remote": false
   },
   {
