@@ -1506,6 +1506,18 @@
     }
    }
   },
+  "kla": {
+   "name": "KLA",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-02",
+     "role_ids": [
+      "workday:kla:/job/Ann-Arbor-MI/Mechatronics-Summer-Intern_2641557-3"
+     ],
+     "count": 1
+    }
+   }
+  },
   "kraft heinz": {
    "name": "Kraft Heinz",
    "cycles": {
@@ -2601,16 +2613,19 @@
       "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:0eb4a172-b6b9-4bda-85e5-fe566b342c0e",
       "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:38ba128e-815b-4a14-b4d2-446ffc190a33",
       "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:975400e0-ef9b-43a7-beac-f501dff8e9f5",
+      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:ebdcc6cf-04da-47a7-971d-17e43f64c37c",
       "ashby:shieldai:043c739e-ff80-4faa-b2be-5d1e96768dfa",
       "ashby:shieldai:0eb4a172-b6b9-4bda-85e5-fe566b342c0e",
       "ashby:shieldai:38ba128e-815b-4a14-b4d2-446ffc190a33",
       "ashby:shieldai:975400e0-ef9b-43a7-beac-f501dff8e9f5",
+      "ashby:shieldai:ebdcc6cf-04da-47a7-971d-17e43f64c37c",
+      "lever:shieldai:1be0e71a-cf7f-4966-8532-09e6f40bb9dc",
       "lever:shieldai:bc41648b-c201-4b01-8feb-d228cbfdd875",
       "lever:shieldai:bef440ce-0365-4de7-9b1e-b1288cdaf7f3",
       "lever:shieldai:c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
       "lever:shieldai:da54c482-fe62-4f60-98b1-55ac0b82b3bc"
      ],
-     "count": 12
+     "count": 15
     }
    }
   },
@@ -2922,13 +2937,14 @@
       "workday:hcmportal:/job/US---BAYONNE-CENTER-NJBAY/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Bayonne-NJ_R26030793",
       "workday:hcmportal:/job/US---COMMERCE-CITY-CODEN/XMLNAME-2027-Industrial-Engineering-Summer-Internship---Denver--CO_R26039749",
       "workday:hcmportal:/job/US---JEFFERSON-HUB-ILJEF/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Chicago-IL_R26030597",
+      "workday:hcmportal:/job/US---PHOENIX-HUB-AZPHO/XMLNAME-2027-Industrial-Engineering-Summer-Internship---Phoenix--AZ_R26039747",
       "workday:hcmportal:/job/US---PORTLAND-HUB-ORPOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Portland--OR_R26030709",
       "workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989",
       "workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Atlanta--GA_R26030769",
       "workday:hcmportal:/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1",
       "workday:hcmportal:/job/US---UTAH-REGIONAL-HUB-UTLKE/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Salt-Lake-City--UT_R26030699"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -3255,12 +3271,13 @@
       "workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020073",
       "workday:elkay:/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075",
       "workday:elkay:/job/Lanark-IL/Manufacturing-Engineering-Intern--Summer-2027-_REQ-020074",
+      "workday:elkay:/job/Lanark-IL/Mechanical-Engineering-Intern--Summer-2027-_REQ-020095",
       "workday:elkay:/job/Paso-Robles-CA/Mechanical-Engineering-Intern--Summer-2027-_REQ-020111"
      ],
-     "count": 5
+     "count": 6
     }
    }
   }
  },
- "updated_at": "2026-11-02T06:30:56Z"
+ "updated_at": "2026-11-02T21:55:55Z"
 }
