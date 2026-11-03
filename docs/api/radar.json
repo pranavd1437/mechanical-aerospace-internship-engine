@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T07:06:51Z",
+ "generated_at": "2026-11-03T19:44:38Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -421,6 +421,20 @@
    "days_until": -64,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/olsson/jobs/5396012008",
+   "note": ""
+  },
+  {
+   "company": "Stryker",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -64,
+   "status": "open",
+   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345",
    "note": ""
   },
   {
@@ -1386,7 +1400,7 @@
    "expected": "2026-10-06",
    "days_until": -28,
    "status": "open",
-   "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167236",
+   "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166786",
    "note": ""
   },
   {
@@ -1586,20 +1600,6 @@
    "note": ""
   },
   {
-   "company": "STV",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-23",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-23",
-   "days_until": -11,
-   "status": "open",
-   "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Philadelphia-Pennsylvania/Mechanical-Engineering-Intern---Summer-2027_JR6097-1",
-   "note": ""
-  },
-  {
    "company": "GIPathfinder",
    "last_cycle_posted": "",
    "posted_on": "2026-10-26",
@@ -1779,6 +1779,34 @@
    "days_until": -1,
    "status": "open",
    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Irving-Texas/Summer-2027-Industrial-Engineering-Internship_REQ380736",
+   "note": ""
+  },
+  {
+   "company": "Bristol Myers Squibb",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-03",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Summit-West---NJ---US/Manufacturing-Science-and-Technology-Process-Engineering-Co-Op_R1608131",
+   "note": ""
+  },
+  {
+   "company": "Westlake",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-03",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Calvert-City-KY/Process-Control-Engineer-Intern--Summer-2027-_R33711-1",
    "note": ""
   },
   {
@@ -2085,20 +2113,6 @@
    "source": "engine",
    "expected": "2026-08-29",
    "days_until": -66,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Stryker",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -64,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -2594,6 +2608,20 @@
    "note": ""
   },
   {
+   "company": "STV",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-23",
+   "days_until": -11,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "TREK",
    "last_cycle_posted": "",
    "posted_on": "2026-10-23",
@@ -2622,5 +2650,5 @@
    "note": ""
   }
  ],
- "count": 187
+ "count": 189
 }

@@ -511,6 +511,18 @@
     }
    }
   },
+  "bristol myers squibb": {
+   "name": "Bristol Myers Squibb",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-03",
+     "role_ids": [
+      "workday:bristolmyerssquibb:/job/Summit-West---NJ---US/Manufacturing-Science-and-Technology-Process-Engineering-Co-Op_R1608131"
+     ],
+     "count": 1
+    }
+   }
+  },
   "brunswick": {
    "name": "Brunswick",
    "cycles": {
@@ -1447,9 +1459,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-26",
      "role_ids": [
-      "workday:jmfamily:/job/Florida---Jacksonville/Advance-Manufacturing-Engineering-Intern_JR105079"
+      "workday:jmfamily:/job/Florida---Jacksonville/Advance-Manufacturing-Engineering-Intern_JR105079",
+      "workday:jmfamily:/job/Florida---Jacksonville/Industrial-Engineering-Intern_JR105189"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3127,6 +3140,13 @@
       "workday:westlake:/job/US---Houston-TX/XMLNAME-2026-Intern---Mechanical-Engineer_R30240"
      ],
      "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-11-03",
+     "role_ids": [
+      "workday:westlake:/job/US---Calvert-City-KY/Process-Control-Engineer-Intern--Summer-2027-_R33711-1"
+     ],
+     "count": 1
     }
    }
   },
@@ -3292,5 +3312,5 @@
    }
   }
  },
- "updated_at": "2026-11-03T07:06:47Z"
+ "updated_at": "2026-11-03T19:44:34Z"
 }

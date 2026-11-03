@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-03T07:06:51Z</updated>
+  <updated>2026-11-03T19:44:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com:10005993</id>
+    <title>Berkshire Hathaway Energy: Intern - CAD Technician/Drafter</title>
+    <link href="https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005993"/>
+    <updated>2026-11-03T19:44:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Des Moines, IA, United States · CAD, AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bristolmyerssquibb:/job/Summit-West---NJ---US/Manufacturing-Science-and-Technology-Process-Engineering-Co-Op_R1608131</id>
+    <title>Bristol Myers Squibb: Manufacturing Science and Technology Process Engineering Co-Op</title>
+    <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Summit-West---NJ---US/Manufacturing-Science-and-Technology-Process-Engineering-Co-Op_R1608131"/>
+    <updated>2026-11-03T19:44:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Summit West - NJ - US · Python, MATLAB · H-1B track record: ~226 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jmfamily:/job/Florida---Jacksonville/Industrial-Engineering-Intern_JR105189</id>
+    <title>JM Family: Industrial Engineering Intern</title>
+    <link href="https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Jacksonville/Industrial-Engineering-Intern_JR105189"/>
+    <updated>2026-11-03T19:44:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Florida - Jacksonville</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Loram1:3743990016593745</id>
+    <title>Loram: Mechanical Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Loram1/3743990016593745"/>
+    <updated>2026-11-03T19:44:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Hamel, MN, United States · AutoCAD, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:neogen:/job/Lansing-MI/Supply-Chain-QC-Intern_REQ-11072</id>
+    <title>Neogen: Supplier Quality Intern</title>
+    <link href="https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Lansing-MI/Supply-Chain-QC-Intern_REQ-11072"/>
+    <updated>2026-11-03T19:44:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Lansing, MI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tranetechnologies:/job/Grand-Rapids-Michigan/Manufacturing-Engineering-MES-Intern_JR-19264</id>
+    <title>Tranetechnologies: Manufacturing Engineering MES Intern</title>
+    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Grand-Rapids-Michigan/Manufacturing-Engineering-MES-Intern_JR-19264"/>
+    <updated>2026-11-03T19:44:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Grand Rapids, Michigan · Python, SQL, Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vermeer:/job/Piedmont-South-Carolina-USA/Manufacturing-Engineer-Intern_REQ-22546</id>
+    <title>Vermeer: Manufacturing Engineer Intern</title>
+    <link href="https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Piedmont-South-Carolina-USA/Manufacturing-Engineer-Intern_REQ-22546"/>
+    <updated>2026-11-03T19:44:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Piedmont, South Carolina, USA · Teamcenter, Windchill, PLM, Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:westlake:/job/US---Calvert-City-KY/Process-Control-Engineer-Intern--Summer-2027-_R33711-1</id>
+    <title>Westlake: Process Control Engineer Intern (Summer 2027) 🛂</title>
+    <link href="https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Calvert-City-KY/Process-Control-Engineer-Intern--Summer-2027-_R33711-1"/>
+    <updated>2026-11-03T19:44:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · US - Calvert City, KY · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:adient:/job/Plymouth-MI/Manufacturing-Intern_R-29532</id>
     <title>Adient: Manufacturing Intern</title>
@@ -16,20 +80,20 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Plymouth, MI · AutoCAD · H-1B track record: ~29 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00355336</id>
-    <title>ASML: Internship - Mechanical Engineer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00355336"/>
-    <updated>2026-11-03T07:06:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Wilton, CT, USA · $18–$48/hr · CAD, FEA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Coop---Mechatronics-Engineer--Internship-_J-00356203</id>
     <title>ASML: Coop - Mechatronics Engineer (Internship)</title>
     <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Coop---Mechatronics-Engineer--Internship-_J-00356203"/>
     <updated>2026-11-03T07:06:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Controls &amp; Mechatronics · Wilton, CT, USA · $18–$48/hr · MATLAB, Git · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00355336</id>
+    <title>ASML: Internship - Mechanical Engineer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00355336"/>
+    <updated>2026-11-03T07:06:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Wilton, CT, USA · $18–$48/hr · CAD, FEA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:tmobile:/job/Irving-Texas/Summer-2027-Industrial-Engineering-Internship_REQ380736</id>
@@ -742,69 +806,5 @@
     <updated>2026-10-28T22:49:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Danbury, CT · H-1B track record: ~60 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gafsgi:/job/Parsippany-NJ/R-D-Commercial-Product-Development-Engineer-Intern_26417</id>
-    <title>GAF: R&amp;D Commercial Product Development Engineer Intern</title>
-    <link href="https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/R-D-Commercial-Product-Development-Engineer-Intern_26417"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Parsippany, NJ · Python, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:iko:/job/Chester-SC/Materials-Engineering-Intern-Co-Op_REQ-12581</id>
-    <title>IKO: Materials Engineering Intern/Co-Op</title>
-    <link href="https://iko.wd3.myworkdayjobs.com/iko_careers/job/Chester-SC/Materials-Engineering-Intern-Co-Op_REQ-12581"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Materials Engineering · Chester, SC · $25–$27/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Mechanical-Engineering_R-26-20902</id>
-    <title>Moog: Intern, Mechanical Engineering</title>
-    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Mechanical-Engineering_R-26-20902"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Buffalo, NY</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Design-Intern---Gilbert-AZ_R10258156</id>
-    <title>Northrop Grumman: 2027 Mechanical Design Intern - Gilbert AZ 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Design-Intern---Gilbert-AZ_R10258156"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · United States-Arizona-Gilbert · $18.5–$33.5/hr · Creo, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sbdinc:/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern--3D-Surfacing---Summer-2027_REQ-1000052665</id>
-    <title>Stanley Black &amp; Decker: Industrial Design Engineering Intern, 3D Surfacing - Summer 2027</title>
-    <link href="https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern--3D-Surfacing---Summer-2027_REQ-1000052665"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Towson, MD, United States · $22–$27/hr · CATIA, CAD, PLM · H-1B track record: ~124 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Lexington-Park-MD/Test-Engineer-Intern_R0252409</id>
-    <title>Booz Allen: Test Engineer Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-Park-MD/Test-Engineer-Intern_R0252409"/>
-    <updated>2026-10-28T13:17:49Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Lexington Park, MD · $108k/yr · Python, Java, C++ · sponsorship: citizens-only · H-1B track record: ~38 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cartech:/job/Tanner-AL/Metallurgy-Intern_26967</id>
-    <title>Carpenter Technology: Metallurgy Intern 🇺🇸</title>
-    <link href="https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Tanner-AL/Metallurgy-Intern_26967"/>
-    <updated>2026-10-28T13:17:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Materials Engineering · Tanner, AL · $21–$25/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/Mechanical-Product-Validation-Engineering-Intern_DT-20436</id>
-    <title>Daimler Truck: Mechanical Product Validation Engineering Intern</title>
-    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Mechanical-Product-Validation-Engineering-Intern_DT-20436"/>
-    <updated>2026-10-28T13:17:49Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Portland, OR US · $21–$29/hr · LabVIEW · H-1B track record: ~50 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
