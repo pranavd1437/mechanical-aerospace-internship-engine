@@ -5,23 +5,71 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-02T21:55:58Z</updated>
+  <updated>2026-11-03T07:06:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:austalusa:/job/Danville-VA/Welding-Engineer-Intern---AAT_R0012169</id>
-    <title>Austal USA: Welding Engineer Intern - AAT</title>
-    <link href="https://austalusa.wd1.myworkdayjobs.com/austal/job/Danville-VA/Welding-Engineer-Intern---AAT_R0012169"/>
-    <updated>2026-11-02T21:55:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Danville, VA · CAD, AWS</summary>
+    <id>urn:intern-engine:workday:adient:/job/Plymouth-MI/Manufacturing-Intern_R-29532</id>
+    <title>Adient: Manufacturing Intern</title>
+    <link href="https://adient.wd3.myworkdayjobs.com/External/job/Plymouth-MI/Manufacturing-Intern_R-29532"/>
+    <updated>2026-11-03T07:06:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Plymouth, MI · AutoCAD · H-1B track record: ~29 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:kiongroup:/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-Op_JR-0094002</id>
-    <title>Dematic: Controls Engineering Intern/Co-Op</title>
-    <link href="https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-Op_JR-0094002"/>
-    <updated>2026-11-02T21:55:55Z</updated>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00355336</id>
+    <title>ASML: Internship - Mechanical Engineer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00355336"/>
+    <updated>2026-11-03T07:06:47Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Grand Rapids, MI, United States · $20–$29/hr · CAD · H-1B track record: ~59 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Mechanical Design · Wilton, CT, USA · $18–$48/hr · CAD, FEA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Coop---Mechatronics-Engineer--Internship-_J-00356203</id>
+    <title>ASML: Coop - Mechatronics Engineer (Internship)</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Coop---Mechatronics-Engineer--Internship-_J-00356203"/>
+    <updated>2026-11-03T07:06:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Wilton, CT, USA · $18–$48/hr · MATLAB, Git · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tmobile:/job/Irving-Texas/Summer-2027-Industrial-Engineering-Internship_REQ380736</id>
+    <title>T-Mobile: Summer 2027 Industrial Engineering Internship</title>
+    <link href="https://tmobile.wd1.myworkdayjobs.com/External/job/Irving-Texas/Summer-2027-Industrial-Engineering-Internship_REQ380736"/>
+    <updated>2026-11-03T07:06:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Irving, Texas · Python, SQL, Six Sigma, Tableau · H-1B track record: ~697 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tranetechnologies:/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-1_JR-18898</id>
+    <title>Tranetechnologies: Manufacturing Engineering Intern-1</title>
+    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-1_JR-18898"/>
+    <updated>2026-11-03T07:06:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Kentwood, Michigan · SolidWorks, Creo, AutoCAD, CAD, Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tranetechnologies:/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-3_JR-18900</id>
+    <title>Tranetechnologies: Manufacturing Engineering Intern-3</title>
+    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-3_JR-18900"/>
+    <updated>2026-11-03T07:06:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Kentwood, Michigan · SolidWorks, Creo, AutoCAD, CAD, Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:ebdcc6cf-04da-47a7-971d-17e43f64c37c</id>
+    <title>Shield AI: Structures / Mechanical Test Co-op - January 2027 Co-op</title>
+    <link href="https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/ebdcc6cf-04da-47a7-971d-17e43f64c37c"/>
+    <updated>2026-11-02T21:55:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · Dallas, Texas · Python, SolidWorks, Siemens NX, Creo, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:shieldai:ebdcc6cf-04da-47a7-971d-17e43f64c37c</id>
+    <title>Shield AI: Structures / Mechanical Test Co-op - January 2027 Co-op</title>
+    <link href="https://jobs.ashbyhq.com/shieldai/ebdcc6cf-04da-47a7-971d-17e43f64c37c"/>
+    <updated>2026-11-02T21:55:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · Dallas, Texas · Python, SolidWorks, Siemens NX, Creo, CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:fanaticscollectibles:4475040009</id>
@@ -30,70 +78,6 @@
     <updated>2026-11-02T21:55:55Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Sunnyvale, TX, United States · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Mechanical-Engineering-Co-Op_REQ-2026-2344-1</id>
-    <title>Gorbel: Mechanical Engineering Co-Op</title>
-    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Mechanical-Engineering-Co-Op_REQ-2026-2344-1"/>
-    <updated>2026-11-02T21:55:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · USA, New York, Victor · SolidWorks, AutoCAD, CAD, GD&amp;T, FEA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Mechanical-Engineering-Co-Op_REQ-2026-2342-1</id>
-    <title>Gorbel: Mechanical Engineering Co-Op</title>
-    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Mechanical-Engineering-Co-Op_REQ-2026-2342-1"/>
-    <updated>2026-11-02T21:55:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · USA, New York, Victor · SolidWorks, AutoCAD, CAD, GD&amp;T, FEA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Mechanical-Engineering-Co-Op_REQ-2026-2343-1</id>
-    <title>Gorbel: Mechanical Engineering Co-Op</title>
-    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Mechanical-Engineering-Co-Op_REQ-2026-2343-1"/>
-    <updated>2026-11-02T21:55:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · USA, New York, Victor · SolidWorks, AutoCAD, CAD, GD&amp;T, FEA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jci:/job/Glendale-Wisconsin-United-States-of-America/HVAC-Control-Systems-Engineering-Intern_WD30282523</id>
-    <title>Johnson Controls: HVAC Control Systems Engineering Intern</title>
-    <link href="https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/HVAC-Control-Systems-Engineering-Intern_WD30282523"/>
-    <updated>2026-11-02T21:55:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Glendale-Wisconsin-United States of America · $22–$25.5/hr · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:kla:/job/Ann-Arbor-MI/Mechatronics-Summer-Intern_2641557-3</id>
-    <title>KLA: Mechatronics Summer Intern</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechatronics-Summer-Intern_2641557-3"/>
-    <updated>2026-11-02T21:55:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · Ann Arbor, MI · $27–$38.5/hr · Python, CAD, FEA · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---HVM-Area-Manufacturing-Engineer--AME-_JR116168</id>
-    <title>Micron Technology: Intern - HVM Area Manufacturing Engineer (AME)</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---HVM-Area-Manufacturing-Engineer--AME-_JR116168"/>
-    <updated>2026-11-02T21:55:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Boise, ID - Main Site · Python, SQL, LLMs, Tableau · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Boise-ID---ID1/Intern---YE-Electrical-Failure-Analysis-Engineer_JR114538</id>
-    <title>Micron Technology: Intern - YE-Electrical Failure Analysis Engineer</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---YE-Electrical-Failure-Analysis-Engineer_JR114538"/>
-    <updated>2026-11-02T21:55:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Materials Engineering · Boise, ID - ID1 · Python, SQL, LLMs, Tableau · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Boise-ID---ID1/Intern--YE-Physical-Failure-Analysis-Engineer_JR114537</id>
-    <title>Micron Technology: Intern- YE Physical Failure Analysis Engineer</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern--YE-Physical-Failure-Analysis-Engineer_JR114537"/>
-    <updated>2026-11-02T21:55:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Materials Engineering · Boise, ID - ID1 · Python · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rebuildmanufacturing:4748466005</id>
@@ -112,20 +96,100 @@
     <summary>Summer 2027 · Structures &amp; FEA · Dallas, Texas · 41–70 USD/hr · Python, SolidWorks, Siemens NX, Creo, CAD</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:shieldai:ebdcc6cf-04da-47a7-971d-17e43f64c37c</id>
-    <title>Shield AI: Structures / Mechanical Test Co-op - January 2027 Co-op</title>
-    <link href="https://jobs.ashbyhq.com/shieldai/ebdcc6cf-04da-47a7-971d-17e43f64c37c"/>
+    <id>urn:intern-engine:workday:austalusa:/job/Danville-VA/Welding-Engineer-Intern---AAT_R0012169</id>
+    <title>Austal USA: Welding Engineer Intern - AAT</title>
+    <link href="https://austalusa.wd1.myworkdayjobs.com/austal/job/Danville-VA/Welding-Engineer-Intern---AAT_R0012169"/>
     <updated>2026-11-02T21:55:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Dallas, Texas · Python, SolidWorks, Siemens NX, Creo, CAD</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Danville, VA · CAD, AWS</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:ebdcc6cf-04da-47a7-971d-17e43f64c37c</id>
-    <title>Shield AI: Structures / Mechanical Test Co-op - January 2027 Co-op</title>
-    <link href="https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/ebdcc6cf-04da-47a7-971d-17e43f64c37c"/>
+    <id>urn:intern-engine:workday:elkay:/job/Lanark-IL/Mechanical-Engineering-Intern--Summer-2027-_REQ-020095</id>
+    <title>Zurn Elkay Water Solutions: Mechanical Engineering Intern (Summer 2027)</title>
+    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Lanark-IL/Mechanical-Engineering-Intern--Summer-2027-_REQ-020095"/>
     <updated>2026-11-02T21:55:55Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Dallas, Texas · Python, SolidWorks, Siemens NX, Creo, CAD</summary>
+    <summary>Summer 2027 · Mechanical Design · Lanark, IL · $19.5–$21.5/hr · CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Mechanical-Engineering-Co-Op_REQ-2026-2342-1</id>
+    <title>Gorbel: Mechanical Engineering Co-Op</title>
+    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Mechanical-Engineering-Co-Op_REQ-2026-2342-1"/>
+    <updated>2026-11-02T21:55:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · USA, New York, Victor · SolidWorks, AutoCAD, CAD, GD&amp;T, FEA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Mechanical-Engineering-Co-Op_REQ-2026-2343-1</id>
+    <title>Gorbel: Mechanical Engineering Co-Op</title>
+    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Mechanical-Engineering-Co-Op_REQ-2026-2343-1"/>
+    <updated>2026-11-02T21:55:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · USA, New York, Victor · SolidWorks, AutoCAD, CAD, GD&amp;T, FEA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Mechanical-Engineering-Co-Op_REQ-2026-2344-1</id>
+    <title>Gorbel: Mechanical Engineering Co-Op</title>
+    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Mechanical-Engineering-Co-Op_REQ-2026-2344-1"/>
+    <updated>2026-11-02T21:55:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · USA, New York, Victor · SolidWorks, AutoCAD, CAD, GD&amp;T, FEA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hcmportal:/job/US---PHOENIX-HUB-AZPHO/XMLNAME-2027-Industrial-Engineering-Summer-Internship---Phoenix--AZ_R26039747</id>
+    <title>United Parcel Service (UPS): 2027 Industrial Engineering Summer Internship - Phoenix, AZ 🇺🇸</title>
+    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---PHOENIX-HUB-AZPHO/XMLNAME-2027-Industrial-Engineering-Summer-Internship---Phoenix--AZ_R26039747"/>
+    <updated>2026-11-02T21:55:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · US - PHOENIX HUB (AZPHO) · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jci:/job/Glendale-Wisconsin-United-States-of-America/HVAC-Control-Systems-Engineering-Intern_WD30282523</id>
+    <title>Johnson Controls: HVAC Control Systems Engineering Intern</title>
+    <link href="https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/HVAC-Control-Systems-Engineering-Intern_WD30282523"/>
+    <updated>2026-11-02T21:55:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Thermal, Fluids &amp; Propulsion · Glendale-Wisconsin-United States of America · $22–$25.5/hr · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kiongroup:/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-Op_JR-0094002</id>
+    <title>Dematic: Controls Engineering Intern/Co-Op</title>
+    <link href="https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-Op_JR-0094002"/>
+    <updated>2026-11-02T21:55:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Grand Rapids, MI, United States · $20–$29/hr · CAD · H-1B track record: ~59 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Ann-Arbor-MI/Mechatronics-Summer-Intern_2641557-3</id>
+    <title>KLA: Mechatronics Summer Intern</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechatronics-Summer-Intern_2641557-3"/>
+    <updated>2026-11-02T21:55:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · Ann Arbor, MI · $27–$38.5/hr · Python, CAD, FEA · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Boise-ID---ID1/Intern---YE-Electrical-Failure-Analysis-Engineer_JR114538</id>
+    <title>Micron Technology: Intern - YE-Electrical Failure Analysis Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---YE-Electrical-Failure-Analysis-Engineer_JR114538"/>
+    <updated>2026-11-02T21:55:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Materials Engineering · Boise, ID - ID1 · Python, SQL, LLMs, Tableau · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Boise-ID---ID1/Intern--YE-Physical-Failure-Analysis-Engineer_JR114537</id>
+    <title>Micron Technology: Intern- YE Physical Failure Analysis Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern--YE-Physical-Failure-Analysis-Engineer_JR114537"/>
+    <updated>2026-11-02T21:55:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Materials Engineering · Boise, ID - ID1 · Python · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---HVM-Area-Manufacturing-Engineer--AME-_JR116168</id>
+    <title>Micron Technology: Intern - HVM Area Manufacturing Engineer (AME)</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---HVM-Area-Manufacturing-Engineer--AME-_JR116168"/>
+    <updated>2026-11-02T21:55:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Boise, ID - Main Site · Python, SQL, LLMs, Tableau · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:tranetechnologies:/job/Grand-Rapids-Michigan/Manufacturing-Engineering-Intern_JR-18897</id>
@@ -142,22 +206,6 @@
     <updated>2026-11-02T21:55:55Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Kentwood, Michigan · SolidWorks, Creo, AutoCAD, CAD, Lean Manufacturing</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hcmportal:/job/US---PHOENIX-HUB-AZPHO/XMLNAME-2027-Industrial-Engineering-Summer-Internship---Phoenix--AZ_R26039747</id>
-    <title>United Parcel Service (UPS): 2027 Industrial Engineering Summer Internship - Phoenix, AZ 🇺🇸</title>
-    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---PHOENIX-HUB-AZPHO/XMLNAME-2027-Industrial-Engineering-Summer-Internship---Phoenix--AZ_R26039747"/>
-    <updated>2026-11-02T21:55:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US - PHOENIX HUB (AZPHO) · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:elkay:/job/Lanark-IL/Mechanical-Engineering-Intern--Summer-2027-_REQ-020095</id>
-    <title>Zurn Elkay Water Solutions: Mechanical Engineering Intern (Summer 2027)</title>
-    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Lanark-IL/Mechanical-Engineering-Intern--Summer-2027-_REQ-020095"/>
-    <updated>2026-11-02T21:55:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Lanark, IL · $19.5–$21.5/hr · CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:breezy:otto-engineering-inc:927f7cd9821f</id>
@@ -758,53 +806,5 @@
     <updated>2026-10-28T13:17:49Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Test &amp; Validation · Portland, OR US · $21–$29/hr · LabVIEW · H-1B track record: ~50 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:firstquality:/job/US-PA-McElhattan/Quality-Engineering-Intern_R12308</id>
-    <title>First Quality: Quality Engineering Intern</title>
-    <link href="https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/Quality-Engineering-Intern_R12308"/>
-    <updated>2026-10-28T13:17:49Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · US PA McElhattan</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Manufacturing-Execution-System--MES--Co-Op--Spring-Summer-2027-_01885556</id>
-    <title>RTX: Manufacturing Execution System (MES) Co-Op (Spring/Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Manufacturing-Execution-System--MES--Co-Op--Spring-Summer-2027-_01885556"/>
-    <updated>2026-10-28T13:17:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · PLM · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000157909649</id>
-    <title>Veolia: Intern - Quality Engineering 🛂</title>
-    <link href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000157909649"/>
-    <updated>2026-10-28T06:02:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Boulder, CO, United States · $20–$25/hr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/San-Diego-CA-USA/Internship---Mechanical-Engineering-Research_J-00355587</id>
-    <title>ASML: Internship - Mechanical Engineering Research</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Mechanical-Engineering-Research_J-00355587"/>
-    <updated>2026-10-28T06:02:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · San Diego, CA, USA · CAD, FEA, Tolerance Analysis · H-1B track record: ~384 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Design-Intern_J-00356190</id>
-    <title>ASML: Internship - Design Engineer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Design-Intern_J-00356190"/>
-    <updated>2026-10-28T06:02:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Wilton, CT, USA · $18–$48/hr · CAD, Tolerance Analysis, FMEA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:avav:/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253</id>
-    <title>Avav: Test Engineering Intern - Space Technologies 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253"/>
-    <updated>2026-10-28T06:02:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Albuquerque, NM · Python, MATLAB, LabVIEW, Git · sponsorship: citizens-only</summary>
   </entry>
 </feed>

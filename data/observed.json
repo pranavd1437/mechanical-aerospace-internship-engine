@@ -33,9 +33,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-15",
      "role_ids": [
-      "workday:adient:/job/Plymouth-MI/Lean-Manufacturing-Intern_R-29531"
+      "workday:adient:/job/Plymouth-MI/Lean-Manufacturing-Intern_R-29531",
+      "workday:adient:/job/Plymouth-MI/Manufacturing-Intern_R-29532"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2812,6 +2813,18 @@
     }
    }
   },
+  "t mobile": {
+   "name": "T-Mobile",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-02",
+     "role_ids": [
+      "workday:tmobile:/job/Irving-Texas/Summer-2027-Industrial-Engineering-Internship_REQ380736"
+     ],
+     "count": 1
+    }
+   }
+  },
   "td bank": {
    "name": "TD Bank",
    "cycles": {
@@ -3279,5 +3292,5 @@
    }
   }
  },
- "updated_at": "2026-11-02T21:55:55Z"
+ "updated_at": "2026-11-03T07:06:47Z"
 }
