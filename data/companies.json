@@ -1837,6 +1837,13 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Apache Industrial",
+    "slug": "apacheip",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "apache_careers"
+  },
+  {
     "name": "APCON",
     "slug": "apcon",
     "ats": "greenhouse"
@@ -14070,6 +14077,11 @@
     "site": "Ext_Career_Site"
   },
   {
+    "name": "Jomboy Media",
+    "slug": "jomboymedia",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Jones Lang LaSalle (JLL)",
     "slug": "jll",
     "ats": "workday",
@@ -17166,6 +17178,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "External"
+  },
+  {
+    "name": "Morning Consult",
+    "slug": "morningconsult",
+    "ats": "ashby"
   },
   {
     "name": "Morningstar",
@@ -22947,6 +22964,11 @@
     "ats": "lever"
   },
   {
+    "name": "ShadowDragon",
+    "slug": "shadowdragon",
+    "ats": "rippling"
+  },
+  {
     "name": "Shake Shack",
     "slug": "shakeshack",
     "ats": "workday",
@@ -27171,6 +27193,11 @@
   {
     "name": "VAST",
     "slug": "vast",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Vatic Investments",
+    "slug": "vaticlabs",
     "ats": "greenhouse"
   },
   {
