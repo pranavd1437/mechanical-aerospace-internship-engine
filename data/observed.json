@@ -298,9 +298,10 @@
      "role_ids": [
       "workday:amat:/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093",
       "workday:amat:/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242",
+      "workday:amat:/job/Santa-ClaraCA/Summer-2027-Industrial-Engineer-Intern--Master-s--Santa-Clara--CA-_R2630072",
       "workday:amat:/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -3256,9 +3257,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-20",
      "role_ids": [
+      "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer--EMC-Handheld-BU_JR103631",
       "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3300,6 +3302,7 @@
     "Summer 2027": {
      "first_posted": "2026-09-14",
      "role_ids": [
+      "workday:elkay:/job/Downers-Grove-IL/CY27-Intern---Mechanical---HVAC-Refrigeration-Engineer_REQ-020096",
       "workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020072",
       "workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020073",
       "workday:elkay:/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075",
@@ -3307,10 +3310,10 @@
       "workday:elkay:/job/Lanark-IL/Mechanical-Engineering-Intern--Summer-2027-_REQ-020095",
       "workday:elkay:/job/Paso-Robles-CA/Mechanical-Engineering-Intern--Summer-2027-_REQ-020111"
      ],
-     "count": 6
+     "count": 7
     }
    }
   }
  },
- "updated_at": "2026-11-03T19:44:34Z"
+ "updated_at": "2026-11-04T06:46:38Z"
 }

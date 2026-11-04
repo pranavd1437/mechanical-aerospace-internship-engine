@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-03T19:44:38Z</updated>
+  <updated>2026-11-04T06:46:42Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:amat:/job/Santa-ClaraCA/Summer-2027-Industrial-Engineer-Intern--Master-s--Santa-Clara--CA-_R2630072</id>
+    <title>Applied Materials: Summer 2027 Industrial Engineer Intern- Master's (Santa Clara, CA)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineer-Intern--Master-s--Santa-Clara--CA-_R2630072"/>
+    <updated>2026-11-04T06:46:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Santa Clara,CA · Python, SQL, Six Sigma, Tableau · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Intuitive:744000159519489</id>
+    <title>Intuitive Surgical: Product Development Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Intuitive/744000159519489"/>
+    <updated>2026-11-04T06:46:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Durham, NC, United States · SolidWorks, CAD · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:regent:6d1fc228-f66c-4780-b358-7be3f6f64ed9</id>
+    <title>REGENT: Mechanical Engineering Co-Op</title>
+    <link href="https://jobs.ashbyhq.com/regent/6d1fc228-f66c-4780-b358-7be3f6f64ed9"/>
+    <updated>2026-11-04T06:46:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · North Kingstown, Rhode Island, USA · CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer--EMC-Handheld-BU_JR103631</id>
+    <title>Zebra Technologies: 2027 Summer Internship (US) - Mechanical Engineer, EMC Handheld BU 🛂</title>
+    <link href="https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer--EMC-Handheld-BU_JR103631"/>
+    <updated>2026-11-04T06:46:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Holtsville, New York · $30–$33/hr · Creo, CAD, LLMs · sponsorship: no-sponsorship · H-1B track record: ~126 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:elkay:/job/Downers-Grove-IL/CY27-Intern---Mechanical---HVAC-Refrigeration-Engineer_REQ-020096</id>
+    <title>Zurn Elkay Water Solutions: Mechanical &amp; HVAC Refrigeration Intern (Summer 2027)</title>
+    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/CY27-Intern---Mechanical---HVAC-Refrigeration-Engineer_REQ-020096"/>
+    <updated>2026-11-04T06:46:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Downers Grove, IL · $20–$25/hr</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com:10005993</id>
     <title>Berkshire Hathaway Energy: Intern - CAD Technician/Drafter</title>
@@ -14,6 +54,14 @@
     <updated>2026-11-03T19:44:34Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Des Moines, IA, United States · CAD, AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Loram1:3743990016593745</id>
+    <title>Loram: Mechanical Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Loram1/3743990016593745"/>
+    <updated>2026-11-03T19:44:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Hamel, MN, United States · AutoCAD, CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bristolmyerssquibb:/job/Summit-West---NJ---US/Manufacturing-Science-and-Technology-Process-Engineering-Co-Op_R1608131</id>
@@ -30,14 +78,6 @@
     <updated>2026-11-03T19:44:34Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Florida - Jacksonville</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Loram1:3743990016593745</id>
-    <title>Loram: Mechanical Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Loram1/3743990016593745"/>
-    <updated>2026-11-03T19:44:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Hamel, MN, United States · AutoCAD, CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:neogen:/job/Lansing-MI/Supply-Chain-QC-Intern_REQ-11072</id>
@@ -382,14 +422,6 @@
     <updated>2026-10-30T22:35:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · United States · ANSYS · H-1B track record: ~321 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008551</id>
-    <title>Stantec: Metallurgy &amp; Process Engineering Intern - Energy &amp; Resources (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008551"/>
-    <updated>2026-10-30T22:35:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Materials Engineering · Reno, NV, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158774229</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-28T22:49:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Burlington, VT · $23 – $26 / hour</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Intuitive:744000158313717</id>
-    <title>Intuitive Surgical: Robotics Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Intuitive/744000158313717"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Sunnyvale, CA, United States · Python, C++, MATLAB · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cranecompany:/job/70900-USA7900-VS-USA_TWINSBURG-OH/Manufacturing-Engineering-Intern_JR102806</id>
-    <title>Crane Co.: Manufacturing Engineering Intern</title>
-    <link href="https://cranecompany.wd5.myworkdayjobs.com/Careers/job/70900-USA7900-VS-USA_TWINSBURG-OH/Manufacturing-Engineering-Intern_JR102806"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · 70900-USA7900 VS USA_TWINSBURG-OH · SolidWorks · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dtna:/job/Gaffney-SC-US/Mechanical-Product-Design-Engineering-Intern_DT-20440-1</id>
-    <title>Daimler Truck: Mechanical Product Design Engineering Intern</title>
-    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Gaffney-SC-US/Mechanical-Product-Design-Engineering-Intern_DT-20440-1"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Gaffney, SC US · $21–$29/hr · Siemens NX, CAD, GD&amp;T · H-1B track record: ~50 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:entegris:/job/Danbury-CT/Manufacturing-Engineering-Co-Op_REQ-15071</id>
-    <title>Entegris: Manufacturing Engineering Co-Op</title>
-    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Danbury-CT/Manufacturing-Engineering-Co-Op_REQ-15071"/>
-    <updated>2026-10-28T22:49:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Danbury, CT · H-1B track record: ~60 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
