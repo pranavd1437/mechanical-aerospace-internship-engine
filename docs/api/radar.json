@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T06:46:42Z",
+ "generated_at": "2026-11-04T20:01:46Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -140,7 +140,7 @@
    "expected": "2026-08-17",
    "days_until": -79,
    "status": "open",
-   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16558",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014",
    "note": ""
   },
   {
@@ -239,6 +239,20 @@
    "days_until": -71,
    "status": "open",
    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Brownsburg-IN/Mercury-Marine--Industrial-Engineer-Intern_JR-051584",
+   "note": ""
+  },
+  {
+   "company": "MetOx International",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -71,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5471476008",
    "note": ""
   },
   {
@@ -462,7 +476,7 @@
    "expected": "2026-09-01",
    "days_until": -64,
    "status": "open",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Excellence-Industrial-Engineering_JR-202622634",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071",
    "note": "fall opening"
   },
   {
@@ -924,7 +938,7 @@
    "expected": "2026-09-14",
    "days_until": -51,
    "status": "open",
-   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020072",
+   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/CY27-Intern---Mechanical---HVAC-Refrigeration-Engineer_REQ-020096",
    "note": ""
   },
   {
@@ -1037,6 +1051,20 @@
    "days_until": -48,
    "status": "open",
    "url": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Industrial-Engineer-Intern---Undergrad-Internship---Summer-2027---Field_JR-02681866",
+   "note": ""
+  },
+  {
+   "company": "Smith+Nephew",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -48,
+   "status": "open",
+   "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958",
    "note": ""
   },
   {
@@ -1358,7 +1386,7 @@
    "expected": "2026-10-06",
    "days_until": -29,
    "status": "open",
-   "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166786",
+   "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167236",
    "note": ""
   },
   {
@@ -2034,20 +2062,6 @@
    "note": "fall opening"
   },
   {
-   "company": "MetOx International",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-25",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-25",
-   "days_until": -71,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Axon",
    "last_cycle_posted": "",
    "posted_on": "2026-08-26",
@@ -2365,20 +2379,6 @@
    "source": "engine",
    "expected": "2026-09-15",
    "days_until": -50,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Smith+Nephew",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -48,
    "status": "dropped",
    "url": "",
    "note": ""

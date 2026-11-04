@@ -569,9 +569,10 @@
      "first_posted": "2026-10-06",
      "role_ids": [
       "workday:cartech:/job/Reading-PA/Maintenance-Intern---Mechanical_26885",
+      "workday:cartech:/job/Reading-PA/Reliability-Engineering-Intern_26976",
       "workday:cartech:/job/Tanner-AL/Metallurgy-Intern_26967"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1772,9 +1773,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-25",
      "role_ids": [
-      "greenhouse:metoxinternationalinc:5405775008"
+      "greenhouse:metoxinternationalinc:5405775008",
+      "greenhouse:metoxinternationalinc:5471476008"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2740,11 +2742,12 @@
     "Summer 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
+      "workday:sbdinc:/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern---Summer-2027_REQ-1000052666",
       "workday:sbdinc:/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern--3D-Surfacing---Summer-2027_REQ-1000052665",
       "workday:sbdinc:/job/Towson-MD-United-States/Mechanical-Engineering-Intern-Summer-2027_REQ-1000052017",
       "workday:sbdinc:/job/Towson-MD-United-States/Packaging-Engineering-Intern---Summer-2027_REQ-1000052823"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2833,9 +2836,10 @@
     "Summer 2027": {
      "first_posted": "2026-11-02",
      "role_ids": [
-      "workday:tmobile:/job/Irving-Texas/Summer-2027-Industrial-Engineering-Internship_REQ380736"
+      "workday:tmobile:/job/Irving-Texas/Summer-2027-Industrial-Engineering-Internship_REQ380736",
+      "workday:tmobile:/job/Philadelphia-Pennsylvania/Summer-2027-Quality-Engineering-Internship_REQ381210"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3315,5 +3319,5 @@
    }
   }
  },
- "updated_at": "2026-11-04T06:46:38Z"
+ "updated_at": "2026-11-04T20:01:41Z"
 }
