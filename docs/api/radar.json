@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T07:09:03Z",
+ "generated_at": "2026-11-05T20:11:16Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -900,6 +900,20 @@
    "note": ""
   },
   {
+   "company": "Jabil",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -55,
+   "status": "open",
+   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Mechanical-Engineering-Intern_J2470824-1",
+   "note": ""
+  },
+  {
    "company": "Xcimer Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -953,6 +967,20 @@
    "days_until": -51,
    "status": "open",
    "url": "https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Design-Engineering-Internship-Program_R7401",
+   "note": ""
+  },
+  {
+   "company": "onsemi",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": -51,
+   "status": "open",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506613",
    "note": ""
   },
   {
@@ -1306,20 +1334,6 @@
    "note": ""
   },
   {
-   "company": "CoStar Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-01",
-   "days_until": -35,
-   "status": "open",
-   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Mechanical-Engineering-Intern_R39952",
-   "note": ""
-  },
-  {
    "company": "Varda Space",
    "last_cycle_posted": "",
    "posted_on": "2026-10-01",
@@ -1428,7 +1442,7 @@
    "expected": "2026-10-07",
    "days_until": -29,
    "status": "open",
-   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107465",
+   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107356",
    "note": ""
   },
   {
@@ -1807,6 +1821,20 @@
    "days_until": -2,
    "status": "open",
    "url": "https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Calvert-City-KY/Process-Control-Engineer-Intern--Summer-2027-_R33711-1",
+   "note": ""
+  },
+  {
+   "company": "Metalenz",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-05",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/metalenz/ecc0e9f9-e83e-4d72-abff-0bf6651850d4",
    "note": ""
   },
   {
@@ -2328,20 +2356,6 @@
    "note": "fall opening for next summer"
   },
   {
-   "company": "Jabil",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-11",
-   "days_until": -55,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "TD Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-09-13",
@@ -2351,20 +2365,6 @@
    "source": "engine",
    "expected": "2026-09-13",
    "days_until": -53,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "onsemi",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-15",
-   "days_until": -51,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -2524,6 +2524,20 @@
    "note": ""
   },
   {
+   "company": "CoStar Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-01",
+   "days_until": -35,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Stantec",
    "last_cycle_posted": "",
    "posted_on": "2026-10-01",
@@ -2650,5 +2664,5 @@
    "note": ""
   }
  ],
- "count": 189
+ "count": 190
 }
