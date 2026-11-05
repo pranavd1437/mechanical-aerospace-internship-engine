@@ -677,9 +677,10 @@
       "oracle:epyc.fa.us2.oraclecloud.com:166786",
       "oracle:epyc.fa.us2.oraclecloud.com:167236",
       "oracle:epyc.fa.us2.oraclecloud.com:167238",
-      "oracle:epyc.fa.us2.oraclecloud.com:167555"
+      "oracle:epyc.fa.us2.oraclecloud.com:167555",
+      "oracle:epyc.fa.us2.oraclecloud.com:168312"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -787,9 +788,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-21",
      "role_ids": [
+      "workday:draper:/job/Cambridge-MA/Electro-Mechanical-Instrument-Intern--Summer-2027-_JR003093",
       "workday:draper:/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern--Summer-2027-_JR002943"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1999,13 +2001,16 @@
       "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2027-Mechanical-Engineering-Intern---Chandler-AZ_R10254534",
       "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Design-Intern---Gilbert-AZ_R10258156",
       "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258213-1",
+      "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258214",
       "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208",
       "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136",
       "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Stress-Analysis-and-Tooling-Design-Engineer-Intern---Commerce-CA_R10257184",
       "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253538",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
+      "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Guidance-Navigation-and-Control-Engineer-Intern---Redondo-Beach-CA_R10259386",
       "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211",
+      "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural-Dynamics-Engineer-Intern---Redondo-Beach-CA_R10259391",
       "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-mechanical-Engineer-Intern--Redondo-Beach-CA_R10258669",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Guidance-Navigation-and-Control-Engineer_R10256435",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134",
@@ -2048,7 +2053,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 52
+     "count": 55
     }
    }
   },
@@ -3319,5 +3324,5 @@
    }
   }
  },
- "updated_at": "2026-11-04T20:01:41Z"
+ "updated_at": "2026-11-05T07:08:59Z"
 }
