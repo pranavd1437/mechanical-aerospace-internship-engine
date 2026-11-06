@@ -5,8 +5,120 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-06T07:04:54Z</updated>
+  <updated>2026-11-06T19:38:13Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000160245149</id>
+    <title>AECOM: Mechanical Intern 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000160245149"/>
+    <updated>2026-11-06T19:38:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Dallas, TX, United States · AutoCAD · sponsorship: citizens-only · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/Lexington-Park-MD/Test-Engineer-Intern_R0253124</id>
+    <title>Booz Allen: Test Engineer Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-Park-MD/Test-Engineer-Intern_R0253124"/>
+    <updated>2026-11-06T19:38:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Test &amp; Validation · Lexington Park, MD · $108k/yr · Python, Java, C++ · sponsorship: citizens-only · H-1B track record: ~38 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:draper:/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129</id>
+    <title>Draper: GNC Systems Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129"/>
+    <updated>2026-11-06T19:38:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · Cambridge, MA · Python, Java, C++, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hitachi:/job/Nashville-Tennessee-United-States-of-America/Mechanical-Engineering-Internship-Co-op_R0143935</id>
+    <title>Hitachi Energy: Mechanical Engineering Internship/Co-op</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Nashville-Tennessee-United-States-of-America/Mechanical-Engineering-Internship-Co-op_R0143935"/>
+    <updated>2026-11-06T19:38:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Nashville, Tennessee, United States of America · H-1B track record: ~66 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:llbean:/job/Freeport-ME/Industrial-Engineer-Intern--Summer-2027-_JR11264</id>
+    <title>L.L.Bean: Industrial Engineer Intern (Summer 2027)</title>
+    <link href="https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Industrial-Engineer-Intern--Summer-2027-_JR11264"/>
+    <updated>2026-11-06T19:38:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Freeport, ME · $20–$22/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:lumbermens:5474347008</id>
+    <title>Lumbermen's: Industrial Engineer Internship</title>
+    <link href="https://job-boards.greenhouse.io/lumbermens/jobs/5474347008"/>
+    <updated>2026-11-06T19:38:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Byron Center, MI · Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:breezy:otto-engineering-inc:79c359e540bd</id>
+    <title>Otto Engineering Inc: Quality Engineering Intern - Summer 2027</title>
+    <link href="https://otto-engineering-inc.breezy.hr/p/79c359e540bd-quality-engineering-intern-summer-2027"/>
+    <updated>2026-11-06T19:38:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Carpentersville, IL · $16 / hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:regent:eec58f59-934a-4426-95b1-312fa5d9f7c2</id>
+    <title>REGENT: Electric Propulsion Unit (EPU) Intern (Summer)</title>
+    <link href="https://jobs.ashbyhq.com/REGENT/eec58f59-934a-4426-95b1-312fa5d9f7c2"/>
+    <updated>2026-11-06T19:38:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Thermal, Fluids &amp; Propulsion · North Kingstown, Rhode Island, USA · Python, MATLAB, CAD, GD&amp;T</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:regent:1eec51d3-41c8-445f-817a-65c732a573a2</id>
+    <title>REGENT: Actuation Engineering Intern (Summer)</title>
+    <link href="https://jobs.ashbyhq.com/REGENT/1eec51d3-41c8-445f-817a-65c732a573a2"/>
+    <updated>2026-11-06T19:38:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · North Kingstown, Rhode Island, USA · Python, MATLAB, Simulink, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ryder:/job/USA---Hagerstown-MD-21740/Industrial-Engineer-Intern--summer-2027-_R188897</id>
+    <title>Ryder System: Industrial Engineer Intern (summer 2027)</title>
+    <link href="https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Hagerstown-MD-21740/Industrial-Engineer-Intern--summer-2027-_R188897"/>
+    <updated>2026-11-06T19:38:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · USA - Hagerstown MD 21740 · H-1B track record: ~58 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:tri:8955d154-acfc-4e6b-a68c-14f1438034c9</id>
+    <title>Toyota Research Institute: Robotics Intern, Mechanical Engineering</title>
+    <link href="https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9"/>
+    <updated>2026-11-06T07:04:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Cambridge, MA · $58/hr · Python, C++, MATLAB, SolidWorks, CAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:zoox:0c32245b-f51d-40d2-8e57-a0be1b744c5b</id>
+    <title>Zoox: Hardware Engineer Intern, Vehicle Systems [Summer 2027]</title>
+    <link href="https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b"/>
+    <updated>2026-11-06T07:04:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems Engineering · Foster City, CA · Python · H-1B track record: ~280 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:zoox:53f5297a-fe30-4e1e-ab1c-96db5b23eded</id>
+    <title>Zoox: Hardware Engineer Intern, Manufacturing Operations [Summer 2027]</title>
+    <link href="https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded"/>
+    <updated>2026-11-06T07:04:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Foster City, CA · Python, SQL, CAD, CNC, Databricks · H-1B track record: ~280 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008748</id>
+    <title>Stantec: Structural Engineering Intern</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008748"/>
+    <updated>2026-11-06T07:04:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Structures &amp; FEA · Chicago, IL, United States · AutoCAD · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship--Mechatronics-Engineer_J-00356535</id>
     <title>ASML: Internship -Mechatronics Engineer</title>
@@ -24,44 +136,12 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Camp Hill PA, 17011, Center Street Building 2A · sponsorship: no-sponsorship · H-1B track record: ~92 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008748</id>
-    <title>Stantec: Structural Engineering Intern</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008748"/>
-    <updated>2026-11-06T07:04:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Structures &amp; FEA · Chicago, IL, United States · AutoCAD · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tri:8955d154-acfc-4e6b-a68c-14f1438034c9</id>
-    <title>Toyota Research Institute: Robotics Intern, Mechanical Engineering</title>
-    <link href="https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9"/>
-    <updated>2026-11-06T07:04:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Cambridge, MA · $58/hr · Python, C++, MATLAB, SolidWorks, CAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:tranetechnologies:/job/La-Crosse-Wisconsin/Mechanical-Engineering-Co-op_JR-8684</id>
     <title>Tranetechnologies: Mechanical Engineering Co-op</title>
     <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/La-Crosse-Wisconsin/Mechanical-Engineering-Co-op_JR-8684"/>
     <updated>2026-11-06T07:04:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · La Crosse, Wisconsin · Creo, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:zoox:53f5297a-fe30-4e1e-ab1c-96db5b23eded</id>
-    <title>Zoox: Hardware Engineer Intern, Manufacturing Operations [Summer 2027]</title>
-    <link href="https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded"/>
-    <updated>2026-11-06T07:04:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Foster City, CA · Python, SQL, CAD, CNC, Databricks · H-1B track record: ~280 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:zoox:0c32245b-f51d-40d2-8e57-a0be1b744c5b</id>
-    <title>Zoox: Hardware Engineer Intern, Vehicle Systems [Summer 2027]</title>
-    <link href="https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b"/>
-    <updated>2026-11-06T07:04:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems Engineering · Foster City, CA · Python · H-1B track record: ~280 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:metalenz:ecc0e9f9-e83e-4d72-abff-0bf6651850d4</id>
@@ -78,14 +158,6 @@
     <updated>2026-11-05T20:11:12Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Hendersonville - North Carolina - USA · Python, Java, SQL · sponsorship: offers</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jabil:/job/St-PetersburgTampa-FL/Mechanical-Engineering-Intern_J2470824-1</id>
-    <title>Jabil: Mechanical Engineering Intern</title>
-    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Mechanical-Engineering-Intern_J2470824-1"/>
-    <updated>2026-11-05T20:11:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · St. Petersburg/Tampa, FL · CAD · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:epyc.fa.us2.oraclecloud.com:168312</id>
@@ -166,14 +238,6 @@
     <updated>2026-11-05T07:08:59Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · United States-California-Redondo Beach · $21.5–$39/hr · MATLAB, Nastran · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Dallas---Dallas-TX/Manufacturing-Intern---Texas_R56468</id>
-    <title>Niagara Bottling: Manufacturing Intern - Texas</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Dallas---Dallas-TX/Manufacturing-Intern---Texas_R56468"/>
-    <updated>2026-11-05T07:08:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Dallas - Dallas, TX · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:metoxinternationalinc:5471476008</id>
@@ -258,7 +322,7 @@
   <entry>
     <id>urn:intern-engine:ashby:regent:6d1fc228-f66c-4780-b358-7be3f6f64ed9</id>
     <title>REGENT: Mechanical Engineering Co-Op</title>
-    <link href="https://jobs.ashbyhq.com/regent/6d1fc228-f66c-4780-b358-7be3f6f64ed9"/>
+    <link href="https://jobs.ashbyhq.com/REGENT/6d1fc228-f66c-4780-b358-7be3f6f64ed9"/>
     <updated>2026-11-04T06:46:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · North Kingstown, Rhode Island, USA · CAD</summary>
@@ -392,14 +456,6 @@
     <summary>Not stated · Manufacturing &amp; Quality · Kentwood, Michigan · SolidWorks, Creo, AutoCAD, CAD, Lean Manufacturing</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:ebdcc6cf-04da-47a7-971d-17e43f64c37c</id>
-    <title>Shield AI: Structures / Mechanical Test Co-op - January 2027 Co-op</title>
-    <link href="https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/ebdcc6cf-04da-47a7-971d-17e43f64c37c"/>
-    <updated>2026-11-02T21:55:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Dallas, Texas · Python, SolidWorks, Siemens NX, Creo, CAD</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:ashby:shieldai:ebdcc6cf-04da-47a7-971d-17e43f64c37c</id>
     <title>Shield AI: Structures / Mechanical Test Co-op - January 2027 Co-op</title>
     <link href="https://jobs.ashbyhq.com/shieldai/ebdcc6cf-04da-47a7-971d-17e43f64c37c"/>
@@ -526,14 +582,6 @@
     <updated>2026-11-02T21:55:55Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Boise, ID - Main Site · Python, SQL, LLMs, Tableau · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tranetechnologies:/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-2_JR-18899</id>
-    <title>Tranetechnologies: Manufacturing Engineering Intern-2</title>
-    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-2_JR-18899"/>
-    <updated>2026-11-02T21:55:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Kentwood, Michigan · SolidWorks, Creo, AutoCAD, CAD, Lean Manufacturing</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:breezy:otto-engineering-inc:927f7cd9821f</id>
@@ -758,53 +806,5 @@
     <updated>2026-10-29T22:58:34Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Test &amp; Validation · Redmond, Washington, United States · $30/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:astronicscorporation:4430399009</id>
-    <title>Astronics: Mechanical Engineer Intern - Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/astronicscorporation/jobs/4430399009"/>
-    <updated>2026-10-29T22:58:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · United States · SolidWorks, ANSYS, CFD, CNC · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:castelioncorporation:4468205009</id>
-    <title>Castelion: Mechanical Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/castelioncorporation/jobs/4468205009"/>
-    <updated>2026-10-29T22:58:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Allen, TX · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rendezvousrobotics:4408588009</id>
-    <title>Rendezvous Robotics: Manufacturing and Test Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408588009"/>
-    <updated>2026-10-29T22:58:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Golden, CO · Python, LabVIEW · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:diversified-automation:9506c50b-2859-4a78-a6b2-229b1366611d</id>
-    <title>Diversified Automation: Controls Engineering Co-Op</title>
-    <link href="https://jobs.lever.co/diversified-automation/9506c50b-2859-4a78-a6b2-229b1366611d"/>
-    <updated>2026-10-29T22:58:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Louisville, KY</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tri:0e7063a7-7761-4843-bc28-bf7870fa44b3</id>
-    <title>Toyota Research Institute: Human Interactive Driving Intern, Platform Research Systems Integration</title>
-    <link href="https://jobs.lever.co/tri/0e7063a7-7761-4843-bc28-bf7870fa44b3"/>
-    <updated>2026-10-29T22:58:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems Engineering · Los Altos, CA · $65/hr · Python, C++, MATLAB, Simulink, CAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Automation-Engineer-Intern---Summer-2027_JR00049932</id>
-    <title>ABB: Automation Engineer Intern - Summer 2027 🛂</title>
-    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Automation-Engineer-Intern---Summer-2027_JR00049932"/>
-    <updated>2026-10-29T22:58:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · New Berlin, Wisconsin, United States of America · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

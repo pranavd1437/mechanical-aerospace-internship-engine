@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T07:04:54Z",
+ "generated_at": "2026-11-06T19:38:13Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -336,7 +336,7 @@
    "expected": "2026-08-27",
    "days_until": -71,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/043c739e-ff80-4faa-b2be-5d1e96768dfa",
+   "url": "https://jobs.ashbyhq.com/shieldai/043c739e-ff80-4faa-b2be-5d1e96768dfa",
    "note": ""
   },
   {
@@ -900,20 +900,6 @@
    "note": ""
   },
   {
-   "company": "Jabil",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-11",
-   "days_until": -56,
-   "status": "open",
-   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Mechanical-Engineering-Intern_J2470824-1",
-   "note": ""
-  },
-  {
    "company": "Xcimer Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -1009,20 +995,6 @@
    "days_until": -51,
    "status": "open",
    "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Advanced-Manufacturing-Intern-Summer-2027_R267458",
-   "note": ""
-  },
-  {
-   "company": "Duracell",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-16",
-   "days_until": -51,
-   "status": "open",
-   "url": "https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1399",
    "note": ""
   },
   {
@@ -1820,7 +1792,7 @@
    "expected": "2026-11-02",
    "days_until": -4,
    "status": "open",
-   "url": "https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded",
+   "url": "https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b",
    "note": ""
   },
   {
@@ -1852,6 +1824,20 @@
    "note": ""
   },
   {
+   "company": "Lumbermen's",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-05",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/lumbermens/jobs/5474347008",
+   "note": ""
+  },
+  {
    "company": "Metalenz",
    "last_cycle_posted": "",
    "posted_on": "2026-11-05",
@@ -1863,6 +1849,34 @@
    "days_until": -1,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/metalenz/ecc0e9f9-e83e-4d72-abff-0bf6651850d4",
+   "note": ""
+  },
+  {
+   "company": "L.L.Bean",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Industrial-Engineer-Intern--Summer-2027-_JR11264",
+   "note": ""
+  },
+  {
+   "company": "Ryder System",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Hagerstown-MD-21740/Industrial-Engineer-Intern--summer-2027-_R188897",
    "note": ""
   },
   {
@@ -2384,6 +2398,20 @@
    "note": "fall opening for next summer"
   },
   {
+   "company": "Jabil",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -56,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "TD Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-09-13",
@@ -2407,6 +2435,20 @@
    "source": "engine",
    "expected": "2026-09-15",
    "days_until": -52,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Duracell",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": -51,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -2692,5 +2734,5 @@
    "note": ""
   }
  ],
- "count": 192
+ "count": 195
 }

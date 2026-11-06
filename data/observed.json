@@ -53,9 +53,10 @@
       "smartrecruiters:AECOM2:744000154178117",
       "smartrecruiters:AECOM2:744000155592720",
       "smartrecruiters:AECOM2:744000155595277",
-      "smartrecruiters:AECOM2:744000155595329"
+      "smartrecruiters:AECOM2:744000155595329",
+      "smartrecruiters:AECOM2:744000160245149"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -789,9 +790,10 @@
      "first_posted": "2026-09-21",
      "role_ids": [
       "workday:draper:/job/Cambridge-MA/Electro-Mechanical-Instrument-Intern--Summer-2027-_JR003093",
+      "workday:draper:/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129",
       "workday:draper:/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern--Summer-2027-_JR002943"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1564,6 +1566,18 @@
     }
    }
   },
+  "l l bean": {
+   "name": "L.L.Bean",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-06",
+     "role_ids": [
+      "workday:llbean:/job/Freeport-ME/Industrial-Engineer-Intern--Summer-2027-_JR11264"
+     ],
+     "count": 1
+    }
+   }
+  },
   "lawrence livermore national laboratory llnl": {
    "name": "Lawrence Livermore National Laboratory (LLNL)",
    "cycles": {
@@ -1680,6 +1694,18 @@
       "workday:lowes:/job/Mooresville-NC-SSC-1999/Store-Operations-Industrial-Engineering---Undergrad-Internship---Summer-2027_JR-02651868-1"
      ],
      "count": 2
+    }
+   }
+  },
+  "lumbermen s": {
+   "name": "Lumbermen's",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-05",
+     "role_ids": [
+      "greenhouse:lumbermens:5474347008"
+     ],
+     "count": 1
     }
    }
   },
@@ -2195,9 +2221,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-30",
      "role_ids": [
+      "breezy:otto-engineering-inc:79c359e540bd",
       "breezy:otto-engineering-inc:927f7cd9821f"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2523,6 +2550,18 @@
      "first_posted": "2026-10-08",
      "role_ids": [
       "greenhouse:ruggedrobotics:4730900005"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "ryder system": {
+   "name": "Ryder System",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-06",
+     "role_ids": [
+      "workday:ryder:/job/USA---Hagerstown-MD-21740/Industrial-Engineer-Intern--summer-2027-_R188897"
      ],
      "count": 1
     }
@@ -3362,5 +3401,5 @@
    }
   }
  },
- "updated_at": "2026-11-06T07:04:52Z"
+ "updated_at": "2026-11-06T19:38:11Z"
 }
