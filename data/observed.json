@@ -1209,6 +1209,18 @@
     }
    }
   },
+  "highmark health": {
+   "name": "Highmark Health",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-29",
+     "role_ids": [
+      "workday:highmarkhealth:/job/Camp-Hill-PA-17011-Center-Street-Building-2A/Summer-2027-Quality-Engineer-enGen-Undergraduate-Intern_J290402"
+     ],
+     "count": 1
+    }
+   }
+  },
   "hitachi energy": {
    "name": "Hitachi Energy",
    "cycles": {
@@ -3318,6 +3330,19 @@
     }
    }
   },
+  "zoox": {
+   "name": "Zoox",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-02",
+     "role_ids": [
+      "lever:zoox:0c32245b-f51d-40d2-8e57-a0be1b744c5b",
+      "lever:zoox:53f5297a-fe30-4e1e-ab1c-96db5b23eded"
+     ],
+     "count": 2
+    }
+   }
+  },
   "zurn elkay water solutions": {
    "name": "Zurn Elkay Water Solutions",
    "cycles": {
@@ -3337,5 +3362,5 @@
    }
   }
  },
- "updated_at": "2026-11-05T20:11:12Z"
+ "updated_at": "2026-11-06T07:04:52Z"
 }
