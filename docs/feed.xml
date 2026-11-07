@@ -5,23 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-07T06:21:23Z</updated>
+  <updated>2026-11-07T13:22:54Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356548</id>
-    <title>ASML: Internship – Mechatronics Engineer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356548"/>
+    <id>urn:intern-engine:workday:asml:/job/San-Jose-CA-USA/Internship--Computational-imaging-and-metrology-summer_J-00355102</id>
+    <title>ASML: Internship- Computational imaging and metrology summer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Computational-imaging-and-metrology-summer_J-00355102"/>
     <updated>2026-11-07T06:21:19Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Wilton, CT, USA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356543</id>
-    <title>ASML: Internship – Mechatronics Engineer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356543"/>
-    <updated>2026-11-07T06:21:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Wilton, CT, USA · Python, C++, MATLAB, Siemens NX, CAD · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Manufacturing &amp; Quality · San Jose, CA, USA · Python, C++, MATLAB · H-1B track record: ~384 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechanical-Design-Engineer_J-00356215</id>
@@ -32,12 +24,28 @@
     <summary>Not stated · Mechanical Design · Wilton, CT, USA · CAD, FEA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/San-Jose-CA-USA/Internship--Computational-imaging-and-metrology-summer_J-00355102</id>
-    <title>ASML: Internship- Computational imaging and metrology summer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Computational-imaging-and-metrology-summer_J-00355102"/>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356543</id>
+    <title>ASML: Internship – Mechatronics Engineer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356543"/>
     <updated>2026-11-07T06:21:19Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · San Jose, CA, USA · Python, C++, MATLAB · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Controls &amp; Mechatronics · Wilton, CT, USA · Python, C++, MATLAB, Siemens NX, CAD · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356548</id>
+    <title>ASML: Internship – Mechatronics Engineer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356548"/>
+    <updated>2026-11-07T06:21:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Wilton, CT, USA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Mechanical-Engineering-Co-op--Summer-Fall-2027-_01887850</id>
+    <title>RTX: Mechanical Engineering Co-op (Summer/Fall 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Mechanical-Engineering-Co-op--Summer-Fall-2027-_01887850"/>
+    <updated>2026-11-07T06:21:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · SolidWorks, Siemens NX, CATIA, Creo, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:granite:/job/Vista-California/Intern---Design-Engineer_R0000008451</id>
@@ -56,9 +64,9 @@
     <summary>Not stated · Mechanical Design · Milpitas, CA · SolidWorks, Siemens NX, Creo, CAD, GD&amp;T · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:moog:/job/Torrance-CA/Intern--CNC-Machining-Engineer_R-26-21145</id>
+    <id>urn:intern-engine:workday:moog:/job/Torrance-CA/Intern--CNC-Machining-Engineer_R-26-21143</id>
     <title>Moog: Intern, CNC Machining Engineer</title>
-    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--CNC-Machining-Engineer_R-26-21145"/>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--CNC-Machining-Engineer_R-26-21143"/>
     <updated>2026-11-07T06:21:19Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Torrance, CA · CNC</summary>
@@ -72,20 +80,12 @@
     <summary>Not stated · Manufacturing &amp; Quality · Torrance, CA · CNC</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:moog:/job/Torrance-CA/Intern--CNC-Machining-Engineer_R-26-21143</id>
+    <id>urn:intern-engine:workday:moog:/job/Torrance-CA/Intern--CNC-Machining-Engineer_R-26-21145</id>
     <title>Moog: Intern, CNC Machining Engineer</title>
-    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--CNC-Machining-Engineer_R-26-21143"/>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--CNC-Machining-Engineer_R-26-21145"/>
     <updated>2026-11-07T06:21:19Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Torrance, CA · CNC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Mechanical-Engineering-Co-op--Summer-Fall-2027-_01887850</id>
-    <title>RTX: Mechanical Engineering Co-op (Summer/Fall 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Mechanical-Engineering-Co-op--Summer-Fall-2027-_01887850"/>
-    <updated>2026-11-07T06:21:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · SolidWorks, Siemens NX, CATIA, Creo, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ryder:/job/USA---Chambersburg-PA-17202/Industrial-Engineer-Intern--summer-2027-_R188911</id>
