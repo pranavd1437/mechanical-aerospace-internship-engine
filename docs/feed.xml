@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-07T13:22:54Z</updated>
+  <updated>2026-11-07T22:06:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ttc:/job/Tomah-WI/Manufacturing-Engineering-Intern--Tomah--WI----The-Toro-Company_JR17636</id>
+    <title>The Toro Company: Manufacturing Engineering Intern (Tomah, WI) - The Toro Company 🛂</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Tomah-WI/Manufacturing-Engineering-Intern--Tomah--WI----The-Toro-Company_JR17636"/>
+    <updated>2026-11-07T22:06:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Tomah, WI · Lean Manufacturing · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/San-Jose-CA-USA/Internship--Computational-imaging-and-metrology-summer_J-00355102</id>
     <title>ASML: Internship- Computational imaging and metrology summer</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-30T22:35:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Grand Rapids, MI, United States · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:astrazeneca:/job/US---Gaithersburg---MD/Manufacturing-Solutions---Innovation-Intern_R-263167</id>
-    <title>AstraZeneca: Manufacturing Solutions &amp; Innovation Intern</title>
-    <link href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Solutions---Innovation-Intern_R-263167"/>
-    <updated>2026-10-30T22:35:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US - Gaithersburg - MD · $37–$39/hr · Python, Java, C++, SQL · H-1B track record: ~115 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

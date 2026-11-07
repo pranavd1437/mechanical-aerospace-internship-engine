@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T13:22:54Z",
+ "generated_at": "2026-11-07T22:06:11Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -1009,20 +1009,6 @@
    "days_until": -52,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408587009",
-   "note": ""
-  },
-  {
-   "company": "Teledyne",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-16",
-   "days_until": -52,
-   "status": "open",
-   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1",
    "note": ""
   },
   {
@@ -2455,6 +2441,20 @@
   },
   {
    "company": "Lonza",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": -52,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Teledyne",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
    "precision": "day",
