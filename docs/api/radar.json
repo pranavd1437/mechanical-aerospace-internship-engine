@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T06:23:48Z",
+ "generated_at": "2026-11-08T13:50:33Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -1404,20 +1404,6 @@
    "note": ""
   },
   {
-   "company": "S&C Electric Company",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-07",
-   "days_until": -32,
-   "status": "open",
-   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107356",
-   "note": ""
-  },
-  {
    "company": "Plastipak",
    "last_cycle_posted": "",
    "posted_on": "2026-10-08",
@@ -2631,6 +2617,20 @@
    "source": "engine",
    "expected": "2026-10-02",
    "days_until": -37,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "S&C Electric Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -32,
    "status": "dropped",
    "url": "",
    "note": ""
