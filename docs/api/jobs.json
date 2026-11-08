@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T22:06:11Z",
+ "generated_at": "2026-11-08T06:23:48Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
  "count": 824,
@@ -5098,6 +5098,30 @@
    ],
    "source": "workday",
    "h1b_approvals": 8,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:flir:/job/US---Wilsonville-OR/Mechanical-Engineering-Intern---CW_REQ37514",
+   "company": "Teledyne",
+   "title": "Mechanical Engineering Intern - CW",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Mechanical Design",
+   "location": "US - Wilsonville, OR",
+   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Wilsonville-OR/Mechanical-Engineering-Intern---CW_REQ37514",
+   "posted_at": "2026-10-22T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-22T12:09:32Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "SolidWorks",
+    "CAD"
+   ],
+   "source": "workday",
+   "h1b_approvals": 5,
    "program": "Internship",
    "remote": false
   },
@@ -12037,29 +12061,6 @@
    "remote": false
   },
   {
-   "id": "smartrecruiters:Keenfinity:744000151397415",
-   "company": "Keenfinity",
-   "title": "Electrical Test Engineering Co-Op",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Test & Validation",
-   "location": "Fairport, NY, United States",
-   "url": "https://jobs.smartrecruiters.com/Keenfinity/744000151397415",
-   "posted_at": "2026-09-23T14:15:18.926Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-23T17:18:50Z",
-   "sponsorship": "unknown",
-   "salary": "$25–$26/hr",
-   "skills": [
-    "LabVIEW"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": null,
-   "program": "Co-op",
-   "remote": false
-  },
-  {
    "id": "workday:generac:/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Transfer-Switch---Summer-2027_JR17048",
    "company": "Generac",
    "title": "Mechanical Engineering Intern - Transfer Switch - Summer 2027",
@@ -12589,27 +12590,6 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:ttc:/job/Perry-OK/Quality-Engineer-Intern---Ditch-Witch_JR17218",
-   "company": "The Toro Company",
-   "title": "Quality Engineer Intern - Ditch Witch",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Manufacturing & Quality",
-   "location": "Perry, OK",
-   "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Quality-Engineer-Intern---Ditch-Witch_JR17218",
-   "posted_at": "2026-09-21T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-21T22:11:26Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 2,
-   "program": "Internship",
    "remote": false
   },
   {
@@ -13566,6 +13546,29 @@
    ],
    "source": "smartrecruiters",
    "h1b_approvals": 26,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:flir:/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1",
+   "company": "Teledyne",
+   "title": "EADSIM MBSE Intern (Summer 2027)",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Systems Engineering",
+   "location": "US - Huntsville, AL",
+   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1",
+   "posted_at": "2026-09-16T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-16T17:14:51Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [
+    "Git"
+   ],
+   "source": "workday",
+   "h1b_approvals": 5,
    "program": "Internship",
    "remote": false
   },
