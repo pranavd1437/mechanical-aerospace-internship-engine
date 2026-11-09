@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-08T22:22:03Z</updated>
+  <updated>2026-11-09T06:54:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:ttc:/job/Tomah-WI/Manufacturing-Engineering-Intern--Tomah--WI----The-Toro-Company_JR17636</id>
-    <title>The Toro Company: Manufacturing Engineering Intern (Tomah, WI) - The Toro Company 🛂</title>
-    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Tomah-WI/Manufacturing-Engineering-Intern--Tomah--WI----The-Toro-Company_JR17636"/>
-    <updated>2026-11-07T22:06:09Z</updated>
+    <id>urn:intern-engine:workday:amat:/job/GloucesterMA/XMLNAME-2027-Summer-Mechanical-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2630657</id>
+    <title>Applied Materials: 2027 Summer Mechanical Engineer Intern - BS or MS (Gloucester, MA)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Mechanical-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2630657"/>
+    <updated>2026-11-09T06:54:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Tomah, WI · Lean Manufacturing · sponsorship: no-sponsorship</summary>
+    <summary>Summer 2027 · Mechanical Design · Gloucester,MA · $31–$41/hr · Creo, ANSYS · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Mechanical-Engineer---BS-MS-Degree---Santa-Clara-_R2629426</id>
+    <title>Applied Materials: 2027 Summer Intern - Mechanical Engineer - BS/MS Degree, (Santa Clara)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Mechanical-Engineer---BS-MS-Degree---Santa-Clara-_R2629426"/>
+    <updated>2026-11-09T06:54:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Santa Clara,CA · H-1B track record: ~650 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/San-Jose-CA-USA/Internship--Computational-imaging-and-metrology-summer_J-00355102</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-30T22:35:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · United States · ANSYS · H-1B track record: ~321 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158774229</id>
-    <title>Bosch: Manufacturing Engineering Intern (Jan 2027)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158774229"/>
-    <updated>2026-10-30T22:35:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Grand Rapids, MI, United States · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
