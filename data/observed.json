@@ -19,11 +19,12 @@
       "workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Automation-Engineer-Intern---Summer-2027_JR00049934",
       "workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Quality-Engineering-Intern---Summer-2027_JR00047273",
       "workday:abb:/job/USA-NC-Hickory/Manufacturing-Engineering-Intern---Summer-2027_JR00047568",
+      "workday:abb:/job/USA-NC-Mebane/Mechanical-Engineering-Co-op--Summer-2027_JR00051089",
       "workday:abb:/job/USA-NJ-Hackettstown/Manufacturing-Engineering-Intern---Summer-2027_JR00044977",
       "workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Intern---Summer-2027_JR00047889",
       "workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Quality-Intern---Summer-2027_JR00048446"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -1927,6 +1928,7 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "workday:moog:/job/Buffalo-NY/Intern--Additive-Manufacturing-Engineering_R-26-20786",
+      "workday:moog:/job/Buffalo-NY/Intern--Mechanical-Design-Engineering_R-26-21029",
       "workday:moog:/job/Buffalo-NY/Intern--Mechanical-Engineering_R-26-20902",
       "workday:moog:/job/Buffalo-NY/Intern--Test-Engineering_R-26-20243-1",
       "workday:moog:/job/Mineral-Wells-TX/Intern--Design-Engineering_R-26-19881",
@@ -1936,7 +1938,7 @@
       "workday:moog:/job/Torrance-CA/Intern--Manufacturing-and-Industrial-Engineering_R-26-19823",
       "workday:moog:/job/Torrance-CA/Intern--Quality-Engineering_R-26-19822"
      ],
-     "count": 9
+     "count": 10
     },
     "Fall 2026": {
      "first_posted": "2026-09-11",
@@ -2736,6 +2738,7 @@
       "workday:snc:/job/Hagerstown-MD/Test-Engineering-Intern--Summer-2027-_R0030772",
       "workday:snc:/job/Lone-Tree-CO/Aerodynamics-Engineer-Intern---Summer-2027_R0031131",
       "workday:snc:/job/Lone-Tree-CO/Aerospace-Engineering-Intern--Summer-2027-_R0030735",
+      "workday:snc:/job/Lone-Tree-CO/Functional-Structural-Engineer-Intern--Summer-2027-_R0031371-1",
       "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031083",
       "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084",
       "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern--Summer-2027-_R0031177",
@@ -2748,7 +2751,7 @@
       "workday:snc:/job/Plano-TX/Mechanical-Engineering-Intern--Summer-2027-_R0030746-1",
       "workday:snc:/job/Sparks-NV/Manufacturing-Engineer-Intern--Summer-2027-_R0031241"
      ],
-     "count": 22
+     "count": 23
     },
     "Fall 2026": {
      "first_posted": "2026-09-23",
@@ -3406,5 +3409,5 @@
    }
   }
  },
- "updated_at": "2026-11-09T06:54:41Z"
+ "updated_at": "2026-11-09T22:39:21Z"
 }

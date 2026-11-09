@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T06:54:44Z",
+ "generated_at": "2026-11-09T22:39:25Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -323,6 +323,20 @@
    "days_until": -74,
    "status": "open",
    "url": "https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/Summer-Intern-Co-op-Mechanical-Engineering--2027-_JR-2026-21956",
+   "note": ""
+  },
+  {
+   "company": "Oshkosh",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -74,
+   "status": "open",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Supplier-Quality-Engineer-Intern_R50855",
    "note": ""
   },
   {
@@ -1764,7 +1778,7 @@
    "expected": "2026-11-02",
    "days_until": -7,
    "status": "open",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Irving-Texas/Summer-2027-Industrial-Engineering-Internship_REQ380736",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Quality-Engineering-Internship_REQ381210",
    "note": ""
   },
   {
@@ -2141,20 +2155,6 @@
    "source": "engine",
    "expected": "2026-08-26",
    "days_until": -75,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Oshkosh",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -74,
    "status": "dropped",
    "url": "",
    "note": ""
