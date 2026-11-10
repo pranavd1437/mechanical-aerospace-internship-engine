@@ -5,15 +5,87 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-09T22:39:24Z</updated>
+  <updated>2026-11-10T07:38:35Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:abb:/job/USA-NC-Mebane/Mechanical-Engineering-Co-op--Summer-2027_JR00051089</id>
-    <title>ABB: Mechanical Engineering Co-op- Summer 2027 🛂</title>
-    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/Mechanical-Engineering-Co-op--Summer-2027_JR00051089"/>
-    <updated>2026-11-09T22:39:21Z</updated>
+    <id>urn:intern-engine:workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Controls-Engineering-Intern--Summer-2027-_JR-2604647</id>
+    <title>GlobalFoundries: Controls Engineering Intern (Summer 2027)</title>
+    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Controls-Engineering-Intern--Summer-2027-_JR-2604647"/>
+    <updated>2026-11-10T07:38:31Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · USA, NC, Mebane · $20–$34/hr · SolidWorks, Creo · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · USA - Vermont - Essex Junction · H-1B track record: ~110 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Intuitive:744000160747319</id>
+    <title>Intuitive Surgical: Robotics and Controls Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Intuitive/744000160747319"/>
+    <updated>2026-11-10T07:38:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Sunnyvale, CA, United States · C++, MATLAB · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:pivotal:67927cb0-cf1a-4775-93be-61db3efe684b</id>
+    <title>Pivotal Software: Internship, Flight Test Engineer (Summer 2027) 🇺🇸</title>
+    <link href="https://jobs.lever.co/pivotal/67927cb0-cf1a-4775-93be-61db3efe684b"/>
+    <updated>2026-11-10T07:38:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Palo Alto, CA · CNC · sponsorship: citizens-only · H-1B track record: ~24 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:pivotal:b7f01112-1ca4-47c4-bd34-c291206bd506</id>
+    <title>Pivotal Software: Internship, Mechanical Engineering (Summer 2027) 🇺🇸</title>
+    <link href="https://jobs.lever.co/pivotal/b7f01112-1ca4-47c4-bd34-c291206bd506"/>
+    <updated>2026-11-10T07:38:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Palo Alto, CA · SolidWorks, CATIA, CAD, Tolerance Analysis · sponsorship: citizens-only · H-1B track record: ~24 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:pivotal:9aeda482-373d-4916-82a6-180748708ac2</id>
+    <title>Pivotal Software: Manufacturing Engineering Internship (Summer 2027) 🇺🇸</title>
+    <link href="https://jobs.lever.co/pivotal/9aeda482-373d-4916-82a6-180748708ac2"/>
+    <updated>2026-11-10T07:38:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Palo Alto, CA · 25 USD/hr · CNC, Six Sigma · sponsorship: citizens-only · H-1B track record: ~24 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:regent:7c8fd767-dbac-41d8-a9f8-a364741d6c2a</id>
+    <title>REGENT: Mass Properties Intern (Summer)</title>
+    <link href="https://jobs.ashbyhq.com/REGENT/7c8fd767-dbac-41d8-a9f8-a364741d6c2a"/>
+    <updated>2026-11-10T07:38:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · North Kingstown, Rhode Island, USA · Python, SQL, MATLAB, SolidWorks, Siemens NX</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874945</id>
+    <title>RTX: Industrial Engineering Co-op (Summer/Fall 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874945"/>
+    <updated>2026-11-10T07:38:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121 · SolidWorks, Creo, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sanofi:/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-Automation-and-Manufacturing-Sys-Swiftwater-PA_R2865046</id>
+    <title>Sanofi: 2027 Summer Intern Automation and Manufacturing Sys Swiftwater PA</title>
+    <link href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-Automation-and-Manufacturing-Sys-Swiftwater-PA_R2865046"/>
+    <updated>2026-11-10T07:38:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Swiftwater, PA · H-1B track record: ~105 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25019928</id>
+    <title>Texas Instruments: Quality Engineering Intern - Santa Clara 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019928"/>
+    <updated>2026-11-09T22:39:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:iadugs.fa.ocs.oraclecloud.com:1799</id>
+    <title>Legrand: Mechanical Engineering Intern</title>
+    <link href="https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1799"/>
+    <updated>2026-11-09T22:39:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · West Hartford, CT, United States · SolidWorks, CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000160640529</id>
@@ -22,6 +94,22 @@
     <updated>2026-11-09T22:39:21Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Roanoke, VA, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:RESPECInc:744000160722709</id>
+    <title>RESPEC: Student Engineering Intern (Mechanical or Electrical)</title>
+    <link href="https://jobs.smartrecruiters.com/RESPECInc/744000160722709"/>
+    <updated>2026-11-09T22:39:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Anchorage, AK, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:abb:/job/USA-NC-Mebane/Mechanical-Engineering-Co-op--Summer-2027_JR00051089</id>
+    <title>ABB: Mechanical Engineering Co-op- Summer 2027 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/Mechanical-Engineering-Co-op--Summer-2027_JR00051089"/>
+    <updated>2026-11-09T22:39:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · USA, NC, Mebane · $20–$34/hr · SolidWorks, Creo · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:allegion:/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering--Computer-Engineering_JR37433-1</id>
@@ -48,14 +136,6 @@
     <summary>Not stated · Mechanical Design · Milpitas, CA · $26–$36/hr · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:iadugs.fa.ocs.oraclecloud.com:1799</id>
-    <title>Legrand: Mechanical Engineering Intern</title>
-    <link href="https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1799"/>
-    <updated>2026-11-09T22:39:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · West Hartford, CT, United States · SolidWorks, CAD</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Mechanical-Design-Engineering_R-26-21029</id>
     <title>Moog: Intern, Mechanical Design Engineering</title>
     <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Mechanical-Design-Engineering_R-26-21029"/>
@@ -64,28 +144,12 @@
     <summary>Summer 2027 · Mechanical Design · Buffalo, NY</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:RESPECInc:744000160722709</id>
-    <title>RESPEC: Student Engineering Intern (Mechanical or Electrical)</title>
-    <link href="https://jobs.smartrecruiters.com/RESPECInc/744000160722709"/>
-    <updated>2026-11-09T22:39:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Anchorage, AK, United States</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Functional-Structural-Engineer-Intern--Summer-2027-_R0031371-1</id>
     <title>Sierra Nevada Corporation: Functional Structural Engineer Intern (Summer 2027) 🇺🇸</title>
     <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Functional-Structural-Engineer-Intern--Summer-2027-_R0031371-1"/>
     <updated>2026-11-09T22:39:21Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · Lone Tree, CO · MATLAB, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25019928</id>
-    <title>Texas Instruments: Quality Engineering Intern - Santa Clara 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019928"/>
-    <updated>2026-11-09T22:39:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:amat:/job/GloucesterMA/XMLNAME-2027-Summer-Mechanical-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2630657</id>
@@ -142,14 +206,6 @@
     <updated>2026-11-07T06:21:19Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · SolidWorks, Siemens NX, CATIA, Creo, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:granite:/job/Vista-California/Intern---Design-Engineer_R0000008451</id>
-    <title>Granite Construction: Intern - Design Engineer</title>
-    <link href="https://granite.wd1.myworkdayjobs.com/careers/job/Vista-California/Intern---Design-Engineer_R0000008451"/>
-    <updated>2026-11-07T06:21:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Vista, California</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Mechanical-Engineer-Intern_2643268-1</id>
@@ -294,14 +350,6 @@
     <updated>2026-11-06T07:04:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Foster City, CA · Python, SQL, CAD, CNC, Databricks · H-1B track record: ~280 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008748</id>
-    <title>Stantec: Structural Engineering Intern</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008748"/>
-    <updated>2026-11-06T07:04:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Structures &amp; FEA · Chicago, IL, United States · AutoCAD · H-1B track record: ~96 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship--Mechatronics-Engineer_J-00356535</id>
@@ -544,14 +592,6 @@
     <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Downers Grove, IL · $20–$25/hr</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer--EMC-Handheld-BU_JR103631</id>
-    <title>Zebra Technologies: 2027 Summer Internship (US) - Mechanical Engineer, EMC Handheld BU 🛂</title>
-    <link href="https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer--EMC-Handheld-BU_JR103631"/>
-    <updated>2026-11-04T06:46:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Holtsville, New York · $30–$33/hr · Creo, CAD, LLMs · sponsorship: no-sponsorship · H-1B track record: ~126 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com:10005993</id>
     <title>Berkshire Hathaway Energy: Intern - CAD Technician/Drafter</title>
     <link href="https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005993"/>
@@ -766,45 +806,5 @@
     <updated>2026-11-02T21:55:55Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Boise, ID - Main Site · Python, SQL, LLMs, Tableau · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:breezy:otto-engineering-inc:927f7cd9821f</id>
-    <title>Otto Engineering Inc: Mechanical Engineer Intern - Communications - Summer 2027</title>
-    <link href="https://otto-engineering-inc.breezy.hr/p/927f7cd9821f-mechanical-engineer-intern-communications-summer-2027"/>
-    <updated>2026-11-01T18:05:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Carpentersville, IL · $18 / hour</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:morph:4467371009</id>
-    <title>Morph Labs: Design Intern (Industrial / Mechanical)</title>
-    <link href="https://job-boards.greenhouse.io/morph/jobs/4467371009"/>
-    <updated>2026-10-31T21:51:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · New York City · CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:rippling:omnis-corporation:b03c6d08-5a09-4d4d-b34c-c5a1aa2214b5</id>
-    <title>Omnis: GNC Engineering Intern, ADCS and Orbit (Spring and Summer 2027)</title>
-    <link href="https://ats.rippling.com/omnis-corporation/jobs/b03c6d08-5a09-4d4d-b34c-c5a1aa2214b5"/>
-    <updated>2026-10-31T06:03:33Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · Venice, CA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:rippling:omnis-corporation:c6a2ae56-59aa-4493-bc4b-5d555b21b9c9</id>
-    <title>Omnis: Mechanical Engineering Intern (Spring and Summer 2027)</title>
-    <link href="https://ats.rippling.com/omnis-corporation/jobs/c6a2ae56-59aa-4493-bc4b-5d555b21b9c9"/>
-    <updated>2026-10-31T06:03:33Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Venice, CA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00356448</id>
-    <title>ASML: Internship - Mechanical Engineer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00356448"/>
-    <updated>2026-10-31T06:03:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Wilton, CT, USA · $18–$48/hr · CAD · H-1B track record: ~384 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

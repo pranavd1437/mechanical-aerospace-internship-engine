@@ -1110,12 +1110,13 @@
       "workday:globalfoundries:/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604657",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659",
+      "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Controls-Engineering-Intern--Summer-2027-_JR-2604647",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Industrial-Engineering-Intern--Summer-2027-_JR-2604569",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Industrial-Engineering-Intern--Summer-2027-_JR-2604630",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666"
      ],
-     "count": 12
+     "count": 13
     }
    }
   },
@@ -2306,6 +2307,20 @@
     }
    }
   },
+  "pivotal software": {
+   "name": "Pivotal Software",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-09",
+     "role_ids": [
+      "lever:pivotal:67927cb0-cf1a-4775-93be-61db3efe684b",
+      "lever:pivotal:9aeda482-373d-4916-82a6-180748708ac2",
+      "lever:pivotal:b7f01112-1ca4-47c4-bd34-c291206bd506"
+     ],
+     "count": 3
+    }
+   }
+  },
   "plastipak": {
    "name": "Plastipak",
    "cycles": {
@@ -2534,6 +2549,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01871450",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-110--400-Collins-Rd-NE--BLDG-110/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01882360",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874945",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-123--350-Collins-Rd-NE--BLDG-123/Metrology-Engineering-Intern--Summer-2027-_01882625",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Mechanical-Engineering-Co-op--Summer-Fall-2027-_01887850",
@@ -2544,7 +2560,7 @@
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Repair-Design-Engineer-Intern--Summer-2027---Onsite-_01880133"
      ],
-     "count": 45
+     "count": 46
     }
    }
   },
@@ -2617,6 +2633,18 @@
       "workday:saabusa:/job/West-Lafayette-IN/Quality-Engineer--Summer-2027-Intern_R-03212"
      ],
      "count": 5
+    }
+   }
+  },
+  "sanofi": {
+   "name": "Sanofi",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-09",
+     "role_ids": [
+      "workday:sanofi:/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-Automation-and-Manufacturing-Sys-Swiftwater-PA_R2865046"
+     ],
+     "count": 1
     }
    }
   },
@@ -3409,5 +3437,5 @@
    }
   }
  },
- "updated_at": "2026-11-09T22:39:21Z"
+ "updated_at": "2026-11-10T07:38:31Z"
 }
