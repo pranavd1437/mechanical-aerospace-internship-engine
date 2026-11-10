@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T07:38:35Z",
+ "generated_at": "2026-11-10T19:58:52Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -126,7 +126,7 @@
    "expected": "2026-08-14",
    "days_until": -88,
    "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604592",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575",
    "note": ""
   },
   {
@@ -1040,6 +1040,20 @@
    "note": ""
   },
   {
+   "company": "SharkNinja",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -54,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713810006",
+   "note": ""
+  },
+  {
    "company": "Smith+Nephew",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -1204,7 +1218,7 @@
    "expected": "2026-09-28",
    "days_until": -43,
    "status": "open",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Structural-Engineering-Intern---Summer-2027_R-161182-1",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USWABothell/Structural-Engineering-Intern---Summer-2027_R-162449-1",
    "note": ""
   },
   {
@@ -1429,20 +1443,6 @@
    "days_until": -33,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730900005",
-   "note": ""
-  },
-  {
-   "company": "SharkNinja",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-08",
-   "days_until": -33,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718812006",
    "note": ""
   },
   {

@@ -2060,6 +2060,7 @@
       "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258214",
       "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208",
       "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136",
+      "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern--Commerce-CA_R10259976",
       "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Stress-Analysis-and-Tooling-Design-Engineer-Intern---Commerce-CA_R10257184",
       "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253538",
@@ -2109,7 +2110,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 55
+     "count": 56
     }
    }
   },
@@ -2702,11 +2703,13 @@
      "count": 4
     },
     "Summer 2027": {
-     "first_posted": "2026-10-08",
+     "first_posted": "2026-09-17",
      "role_ids": [
+      "greenhouse:sharkninjaoperatingllc:4713810006",
+      "greenhouse:sharkninjaoperatingllc:4713812006",
       "greenhouse:sharkninjaoperatingllc:4718812006"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -2993,6 +2996,7 @@
       "workday:ttc:/job/Beatrice-NE/Design-Engineering-Intern---Exmark_JR17085",
       "workday:ttc:/job/Beatrice-NE/Manufacturing-Engineer-Intern---Exmark_JR17707",
       "workday:ttc:/job/Beatrice-NE/Test-Engineer-Intern---Exmark_JR17050",
+      "workday:ttc:/job/Bloomington-MN/Advanced-Manufacturing-Engineering-Intern---The-Toro-Company_JR17845",
       "workday:ttc:/job/Bloomington-MN/Advanced-Quality-Engineering-Intern---The-Toro-Company_JR17231",
       "workday:ttc:/job/Bloomington-MN/Mechanical-Design-Engineering-Intern---The-Toro-Company_JR17094",
       "workday:ttc:/job/Bloomington-MN/Mechanical-Design-Engineering-Intern---The-Toro-Company_JR17151",
@@ -3011,7 +3015,7 @@
       "workday:ttc:/job/Tomah-WI/Manufacturing-Engineering-Intern--Tomah--WI----The-Toro-Company_JR17636",
       "workday:ttc:/job/Windom-MN/Manufacturing-Engineer-Intern---The-Toro-Company_JR17578"
      ],
-     "count": 20
+     "count": 21
     }
    }
   },
@@ -3437,5 +3441,5 @@
    }
   }
  },
- "updated_at": "2026-11-10T07:38:31Z"
+ "updated_at": "2026-11-10T19:58:48Z"
 }
