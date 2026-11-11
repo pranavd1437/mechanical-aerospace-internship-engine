@@ -682,9 +682,10 @@
       "oracle:epyc.fa.us2.oraclecloud.com:167236",
       "oracle:epyc.fa.us2.oraclecloud.com:167238",
       "oracle:epyc.fa.us2.oraclecloud.com:167555",
-      "oracle:epyc.fa.us2.oraclecloud.com:168312"
+      "oracle:epyc.fa.us2.oraclecloud.com:168312",
+      "oracle:epyc.fa.us2.oraclecloud.com:168741"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -843,6 +844,22 @@
       "oracle:hdjq.fa.us2.oraclecloud.com:26011001"
      ],
      "count": 4
+    }
+   }
+  },
+  "entegris": {
+   "name": "Entegris",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-10",
+     "role_ids": [
+      "workday:entegris:/job/Bedford-MA/Manufacturing-Engineer-Intern_REQ-15886-1",
+      "workday:entegris:/job/Billerica-MA/Analytical-Metrology-Scientist-Intern_REQ-15873",
+      "workday:entegris:/job/Billerica-MA/Mechanical-Engineering-Intern_REQ-15834",
+      "workday:entegris:/job/Billerica-MA/Metrology-Scientist-Intern_REQ-15874",
+      "workday:entegris:/job/Franklin-MA/Quality-Engineering-Intern_REQ-15850"
+     ],
+     "count": 5
     }
    }
   },
@@ -2081,6 +2098,7 @@
       "workday:ngc:/job/United-States-Connecticut-East-Hartford/XMLNAME-2027-Mechanical-Engineer-Internship---East-Hartford-CT_R10258435",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253047",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688",
+      "workday:ngc:/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1",
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Mechanical-Engineer-Intern---Rolling-Meadows-IL_R10252778",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Mechanical-Engineering-Intern---Annapolis-MD_R10254668",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10251185",
@@ -2110,7 +2128,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 56
+     "count": 57
     }
    }
   },
@@ -3390,10 +3408,11 @@
       "workday:zekelman:/job/Kansas-City-MO/Intern--Mechanical-Engineer_JR002761",
       "workday:zekelman:/job/Killeen-TX/Industrial-Engineer---Intern_JR002772",
       "workday:zekelman:/job/Niles-OH/Intern--Manufacturing-Engineer_JR002843",
+      "workday:zekelman:/job/Rochelle-IL/Electrical-and-Controls-Engineer---Intern_JR002596",
       "workday:zekelman:/job/Rochelle-IL/Intern--Manufacturing-Engineer_JR002824",
       "workday:zekelman:/job/Warren-OH/Intern--Quality-Engineer_JR002821"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -3441,5 +3460,5 @@
    }
   }
  },
- "updated_at": "2026-11-10T19:58:48Z"
+ "updated_at": "2026-11-11T06:49:19Z"
 }
