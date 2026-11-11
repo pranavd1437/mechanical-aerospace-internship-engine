@@ -5,79 +5,127 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-11T06:49:22Z</updated>
+  <updated>2026-11-11T19:51:21Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:analogdevices:/job/US-OR-Beaverton/Mechatronics-Engineering-Intern_R268831</id>
-    <title>Analog Devices: Mechatronics Engineering Intern</title>
-    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Mechatronics-Engineering-Intern_R268831"/>
-    <updated>2026-11-11T06:49:19Z</updated>
+    <id>urn:intern-engine:workday:astrazeneca:/job/US---Gaithersburg---MD/Manufacturing-Sciences--Validation-Engineer-Intern_R-264093</id>
+    <title>AstraZeneca: Manufacturing Sciences, Validation Engineer Intern</title>
+    <link href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Sciences--Validation-Engineer-Intern_R-264093"/>
+    <updated>2026-11-11T19:51:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · US - Gaithersburg - MD · $37–$39/hr · H-1B track record: ~115 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:astrazeneca:/job/US---Rockville---MD/Manufacturing-Analyst-Intern_R-264060</id>
+    <title>AstraZeneca: Manufacturing Analyst Intern</title>
+    <link href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Rockville---MD/Manufacturing-Analyst-Intern_R-264060"/>
+    <updated>2026-11-11T19:51:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · US - Rockville - MD · $37–$39/hr · H-1B track record: ~115 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:slihrms:/job/USMILansing3100-West-Road/Structural-Engineering-Intern---Summer-2027_R-171365</id>
+    <title>AtkinsRéalis: Structural Engineering Intern - Summer 2027</title>
+    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USMILansing3100-West-Road/Structural-Engineering-Intern---Summer-2027_R-171365"/>
+    <updated>2026-11-11T19:51:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · US.MI.Lansing.3100 West Road · CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:castelioncorporation:4503740009</id>
+    <title>Castelion: Propulsion Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/castelioncorporation/jobs/4503740009"/>
+    <updated>2026-11-11T19:51:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Torrance, CA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cranecompany:/job/Auburn-California/CNC-Machinist-Intern_JR102829</id>
+    <title>Crane Co.: CNC Machinist Intern 🇺🇸</title>
+    <link href="https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Auburn-California/CNC-Machinist-Intern_JR102829"/>
+    <updated>2026-11-11T19:51:17Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · US, OR, Beaverton · Python, C++, MATLAB, CAD · H-1B track record: ~181 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Manufacturing &amp; Quality · Auburn, California · $24–$27.5/hr · CNC, Lean Manufacturing · sponsorship: citizens-only · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:epyc.fa.us2.oraclecloud.com:168741</id>
-    <title>Clean Harbors: Mechanical Engineering Intern Industrial Services | Summer 2027</title>
-    <link href="https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168741"/>
-    <updated>2026-11-11T06:49:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · OH, United States · $20/hr · CAD · H-1B track record: ~38 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dtna:/job/Detroit-MI-US/Heavy-Duty-Engine-Assembly-Industrial-Engineer-Intern_DT-20655</id>
-    <title>Daimler Truck: Heavy Duty Engine Assembly Industrial Engineer Intern</title>
-    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Heavy-Duty-Engine-Assembly-Industrial-Engineer-Intern_DT-20655"/>
-    <updated>2026-11-11T06:49:19Z</updated>
+    <id>urn:intern-engine:smartrecruiters:Loram1:3743990016798175</id>
+    <title>Loram: Mechanical Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Loram1/3743990016798175"/>
+    <updated>2026-11-11T19:51:17Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Detroit, MI US · $21–$29/hr · Lean Manufacturing · H-1B track record: ~50 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Mechanical Design · Hamel, MN, United States · AutoCAD, CAD</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:entegris:/job/Billerica-MA/Metrology-Scientist-Intern_REQ-15874</id>
-    <title>Entegris: Metrology Scientist Intern</title>
-    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Metrology-Scientist-Intern_REQ-15874"/>
-    <updated>2026-11-11T06:49:19Z</updated>
+    <id>urn:intern-engine:workday:mars:/job/USA-Pennsylvania-Elizabethtown/Summer-2027-Mars-Snacking-Manufacturing-Internship---Muncy--PA_R172446-1</id>
+    <title>Mars: Summer 2027 Mars Snacking Manufacturing Internship - Muncy, PA</title>
+    <link href="https://mars.wd3.myworkdayjobs.com/external/job/USA-Pennsylvania-Elizabethtown/Summer-2027-Mars-Snacking-Manufacturing-Internship---Muncy--PA_R172446-1"/>
+    <updated>2026-11-11T19:51:17Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Billerica, MA · $20–$30/hr · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · USA-Pennsylvania-Elizabethtown</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:entegris:/job/Billerica-MA/Mechanical-Engineering-Intern_REQ-15834</id>
-    <title>Entegris: Mechanical Engineering Intern</title>
-    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Mechanical-Engineering-Intern_REQ-15834"/>
-    <updated>2026-11-11T06:49:19Z</updated>
+    <id>urn:intern-engine:workday:mars:/job/USA-Tennessee-Franklin/Summer-2027-Mars-Snacking-Manufacturing-Internship---Jackson--TN_R172450-1</id>
+    <title>Mars: Summer 2027 Mars Snacking Manufacturing Internship - Jackson, TN</title>
+    <link href="https://mars.wd3.myworkdayjobs.com/external/job/USA-Tennessee-Franklin/Summer-2027-Mars-Snacking-Manufacturing-Internship---Jackson--TN_R172450-1"/>
+    <updated>2026-11-11T19:51:17Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Billerica, MA · $20–$30/hr · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · USA-Tennessee-Franklin</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:entegris:/job/Franklin-MA/Quality-Engineering-Intern_REQ-15850</id>
-    <title>Entegris: Quality Engineering Intern</title>
-    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Franklin-MA/Quality-Engineering-Intern_REQ-15850"/>
-    <updated>2026-11-11T06:49:19Z</updated>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260260</id>
+    <title>Northrop Grumman: 2027 Manufacturing Engineering Intern - Charlottesville VA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260260"/>
+    <updated>2026-11-11T19:51:17Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Franklin, MA · $20–$30/hr · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Virginia-Charlottesville · $18.5–$33.5/hr · CAD, CAM · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:entegris:/job/Bedford-MA/Manufacturing-Engineer-Intern_REQ-15886-1</id>
-    <title>Entegris: Manufacturing Engineer Intern</title>
-    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Manufacturing-Engineer-Intern_REQ-15886-1"/>
-    <updated>2026-11-11T06:49:19Z</updated>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Mechanical-Engineer-Intern--Redondo-Beach-CA_R10260186</id>
+    <title>Northrop Grumman: 2027 Mechanical Engineer Intern- Redondo Beach CA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Mechanical-Engineer-Intern--Redondo-Beach-CA_R10260186"/>
+    <updated>2026-11-11T19:51:17Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Bedford, MA · $20–$30/hr · Six Sigma · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Mechanical Design · United States-California-Redondo Beach · $21.5–$39/hr · SolidWorks, Siemens NX, CATIA, CAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:entegris:/job/Billerica-MA/Analytical-Metrology-Scientist-Intern_REQ-15873</id>
-    <title>Entegris: Analytical/Metrology Scientist Intern</title>
-    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Analytical-Metrology-Scientist-Intern_REQ-15873"/>
-    <updated>2026-11-11T06:49:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Billerica, MA · $20–$30/hr · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:ashby:regent:1197920e-95f8-42e9-b4a6-1c40ec7137bd</id>
+    <title>REGENT: Composite Structures Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/REGENT/1197920e-95f8-42e9-b4a6-1c40ec7137bd"/>
+    <updated>2026-11-11T19:51:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Structures &amp; FEA · North Kingstown, Rhode Island, USA · Siemens NX, CAD</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1</id>
-    <title>Northrop Grumman: 2027 Operations Manufacturing Engineering Intern 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1"/>
-    <updated>2026-11-11T06:49:19Z</updated>
+    <id>urn:intern-engine:ashby:shield:0eb4a172-b6b9-4bda-85e5-fe566b342c0e</id>
+    <title>Shield AI: June 2027 Co-op - Reliability Engineering #5953</title>
+    <link href="https://jobs.ashbyhq.com/shield/0eb4a172-b6b9-4bda-85e5-fe566b342c0e"/>
+    <updated>2026-11-11T19:51:17Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Florida-Saint Augustine · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Test &amp; Validation · Seattle, Washington · Python, SolidWorks, ANSYS, FMEA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:shield:ebdcc6cf-04da-47a7-971d-17e43f64c37c</id>
+    <title>Shield AI: Structures / Mechanical Test Co-op - January 2027 Co-op</title>
+    <link href="https://jobs.ashbyhq.com/shield/ebdcc6cf-04da-47a7-971d-17e43f64c37c"/>
+    <updated>2026-11-11T19:51:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · Dallas, Texas · Python, SolidWorks, Siemens NX, Creo, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:shield:043c739e-ff80-4faa-b2be-5d1e96768dfa</id>
+    <title>Shield AI: Summer 2027 - Advanced Manufacturing Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/shield/043c739e-ff80-4faa-b2be-5d1e96768dfa"/>
+    <updated>2026-11-11T19:51:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Dallas, Texas · SolidWorks, Siemens NX, CATIA, Creo, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:shield:38ba128e-815b-4a14-b4d2-446ffc190a33</id>
+    <title>Shield AI: Summer 2027 - Mechanical Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/shield/38ba128e-815b-4a14-b4d2-446ffc190a33"/>
+    <updated>2026-11-11T19:51:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Seattle, Washington · SolidWorks, Siemens NX, CATIA, CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:regent:8bd9c9a5-04f4-4321-b837-9888a70d363d</id>
@@ -96,12 +144,28 @@
     <summary>Not stated · Test &amp; Validation · North Kingstown, Rhode Island, USA · Python, MATLAB</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:zekelman:/job/Rochelle-IL/Electrical-and-Controls-Engineer---Intern_JR002596</id>
-    <title>Zekelman Industries: Electrical and Controls Engineer - Intern</title>
-    <link href="https://zekelman.wd12.myworkdayjobs.com/Careers/job/Rochelle-IL/Electrical-and-Controls-Engineer---Intern_JR002596"/>
+    <id>urn:intern-engine:oracle:epyc.fa.us2.oraclecloud.com:168741</id>
+    <title>Clean Harbors: Mechanical Engineering Intern Industrial Services | Summer 2027</title>
+    <link href="https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168741"/>
     <updated>2026-11-11T06:49:19Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · Rochelle, IL</summary>
+    <summary>Summer 2027 · Mechanical Design · Canal Fulton, OH, United States · $20/hr · CAD · H-1B track record: ~38 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:analogdevices:/job/US-OR-Beaverton/Mechatronics-Engineering-Intern_R268831</id>
+    <title>Analog Devices: Mechatronics Engineering Intern</title>
+    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Mechatronics-Engineering-Intern_R268831"/>
+    <updated>2026-11-11T06:49:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · US, OR, Beaverton · Python, C++, MATLAB, CAD · H-1B track record: ~181 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:dtna:/job/Detroit-MI-US/Heavy-Duty-Engine-Assembly-Industrial-Engineer-Intern_DT-20655</id>
+    <title>Daimler Truck: Heavy Duty Engine Assembly Industrial Engineer Intern</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Heavy-Duty-Engine-Assembly-Industrial-Engineer-Intern_DT-20655"/>
+    <updated>2026-11-11T06:49:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Detroit, MI US · $21–$29/hr · Lean Manufacturing · H-1B track record: ~50 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:elkay:/job/Freeport-IL/Manufacturing-Quality-Intern_REQ-020098</id>
@@ -110,6 +174,62 @@
     <updated>2026-11-11T06:49:19Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Freeport, IL · $20–$25/hr · FMEA, Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:entegris:/job/Bedford-MA/Manufacturing-Engineer-Intern_REQ-15886-1</id>
+    <title>Entegris: Manufacturing Engineer Intern</title>
+    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Manufacturing-Engineer-Intern_REQ-15886-1"/>
+    <updated>2026-11-11T06:49:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Bedford, MA · $20–$30/hr · Six Sigma · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:entegris:/job/Billerica-MA/Analytical-Metrology-Scientist-Intern_REQ-15873</id>
+    <title>Entegris: Analytical/Metrology Scientist Intern</title>
+    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Analytical-Metrology-Scientist-Intern_REQ-15873"/>
+    <updated>2026-11-11T06:49:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Billerica, MA · $20–$30/hr · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:entegris:/job/Billerica-MA/Mechanical-Engineering-Intern_REQ-15834</id>
+    <title>Entegris: Mechanical Engineering Intern</title>
+    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Mechanical-Engineering-Intern_REQ-15834"/>
+    <updated>2026-11-11T06:49:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Billerica, MA · $20–$30/hr · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:entegris:/job/Billerica-MA/Metrology-Scientist-Intern_REQ-15874</id>
+    <title>Entegris: Metrology Scientist Intern</title>
+    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Metrology-Scientist-Intern_REQ-15874"/>
+    <updated>2026-11-11T06:49:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Billerica, MA · $20–$30/hr · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:entegris:/job/Franklin-MA/Quality-Engineering-Intern_REQ-15850</id>
+    <title>Entegris: Quality Engineering Intern</title>
+    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Franklin-MA/Quality-Engineering-Intern_REQ-15850"/>
+    <updated>2026-11-11T06:49:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Franklin, MA · $20–$30/hr · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1</id>
+    <title>Northrop Grumman: 2027 Operations Manufacturing Engineering Intern 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1"/>
+    <updated>2026-11-11T06:49:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Florida-Saint Augustine · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:zekelman:/job/Rochelle-IL/Electrical-and-Controls-Engineer---Intern_JR002596</id>
+    <title>Zekelman Industries: Electrical and Controls Engineer - Intern</title>
+    <link href="https://zekelman.wd12.myworkdayjobs.com/Careers/job/Rochelle-IL/Electrical-and-Controls-Engineer---Intern_JR002596"/>
+    <updated>2026-11-11T06:49:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · Rochelle, IL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:egay.fa.us6.oraclecloud.com:45478</id>
@@ -568,28 +688,12 @@
     <summary>Summer 2027 · Mechanical Design · Cambridge, MA · MATLAB, SolidWorks, CAD, ANSYS, COMSOL · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:dtna:/job/Detroit-MI-US/Industrial-Engineering-Intern_DT-20564</id>
-    <title>Daimler Truck: Industrial Engineering Intern</title>
-    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Industrial-Engineering-Intern_DT-20564"/>
-    <updated>2026-11-05T07:08:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Detroit, MI US · $21–$29/hr · Six Sigma, Lean Manufacturing · H-1B track record: ~50 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/Vehicle-Thermal-Integration---Validation-Engineering-Intern_DT-20558</id>
     <title>Daimler Truck: Vehicle Thermal Integration - Validation Engineering Intern</title>
     <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Vehicle-Thermal-Integration---Validation-Engineering-Intern_DT-20558"/>
     <updated>2026-11-05T07:08:59Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Thermal, Fluids &amp; Propulsion · Portland, OR US · $21–$29/hr · Python, MATLAB · H-1B track record: ~50 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lifefitness:/job/Schaumburg-IL/Mechanical-Engineering-Intern_JR-025279</id>
-    <title>Life Fitness: Mechanical Engineering Intern</title>
-    <link href="https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL/Mechanical-Engineering-Intern_JR-025279"/>
-    <updated>2026-11-05T07:08:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Schaumburg, IL · $24–$27/hr · SolidWorks, CAD, FEA, Tolerance Analysis · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258214</id>
@@ -648,14 +752,6 @@
     <summary>Summer 2027 · Test &amp; Validation · Reading, PA · $21–$25/hr · AutoCAD · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:dtna:/job/Gaffney-SC-US/Mechatronics-Engineering-Intern---Powertrain-Integration_DT-20546-1</id>
-    <title>Daimler Truck: Mechatronics Engineering Intern – Powertrain Integration</title>
-    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Gaffney-SC-US/Mechatronics-Engineering-Intern---Powertrain-Integration_DT-20546-1"/>
-    <updated>2026-11-04T20:01:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Gaffney, SC US · $21–$29/hr · H-1B track record: ~50 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/Manufacturing-Engineering-Co-op-Intern_DT-20544</id>
     <title>Daimler Truck: Manufacturing Engineering Co-op Intern</title>
     <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Manufacturing-Engineering-Co-op-Intern_DT-20544"/>
@@ -688,14 +784,6 @@
     <summary>Summer 2027 · Mechanical Design · Towson, MD, United States · SolidWorks, CATIA · sponsorship: no-sponsorship · H-1B track record: ~124 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:tmobile:/job/Philadelphia-Pennsylvania/Summer-2027-Quality-Engineering-Internship_REQ381210</id>
-    <title>T-Mobile: Summer 2027 Quality Engineering Internship</title>
-    <link href="https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Quality-Engineering-Internship_REQ381210"/>
-    <updated>2026-11-04T20:01:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Philadelphia, Pennsylvania · $27/hr · Python, Java, TypeScript, JavaScript, Git · H-1B track record: ~697 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:zoll:/job/Chelmsford-MA/Supplier-Quality-Engineering-Co-Op_R20738-1</id>
     <title>ZOLL Medical Corporation: Supplier Quality Engineering Co-Op</title>
     <link href="https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Supplier-Quality-Engineering-Co-Op_R20738-1"/>
@@ -718,93 +806,5 @@
     <updated>2026-11-04T06:46:38Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Santa Clara,CA · Python, SQL, Six Sigma, Tableau · H-1B track record: ~650 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:elkay:/job/Downers-Grove-IL/CY27-Intern---Mechanical---HVAC-Refrigeration-Engineer_REQ-020096</id>
-    <title>Zurn Elkay Water Solutions: Mechanical &amp; HVAC Refrigeration Intern (Summer 2027)</title>
-    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/CY27-Intern---Mechanical---HVAC-Refrigeration-Engineer_REQ-020096"/>
-    <updated>2026-11-04T06:46:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Downers Grove, IL · $20–$25/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com:10005993</id>
-    <title>Berkshire Hathaway Energy: Intern - CAD Technician/Drafter</title>
-    <link href="https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005993"/>
-    <updated>2026-11-03T19:44:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Des Moines, IA, United States · CAD, AutoCAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bristolmyerssquibb:/job/Summit-West---NJ---US/Manufacturing-Science-and-Technology-Process-Engineering-Co-Op_R1608131</id>
-    <title>Bristol Myers Squibb: Manufacturing Science and Technology Process Engineering Co-Op</title>
-    <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Summit-West---NJ---US/Manufacturing-Science-and-Technology-Process-Engineering-Co-Op_R1608131"/>
-    <updated>2026-11-03T19:44:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Summit West - NJ - US · Python, MATLAB · H-1B track record: ~226 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jmfamily:/job/Florida---Jacksonville/Industrial-Engineering-Intern_JR105189</id>
-    <title>JM Family: Industrial Engineering Intern</title>
-    <link href="https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Jacksonville/Industrial-Engineering-Intern_JR105189"/>
-    <updated>2026-11-03T19:44:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Florida - Jacksonville</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:neogen:/job/Lansing-MI/Supply-Chain-QC-Intern_REQ-11072</id>
-    <title>Neogen: Supplier Quality Intern</title>
-    <link href="https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Lansing-MI/Supply-Chain-QC-Intern_REQ-11072"/>
-    <updated>2026-11-03T19:44:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Lansing, MI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tranetechnologies:/job/Grand-Rapids-Michigan/Manufacturing-Engineering-MES-Intern_JR-19264</id>
-    <title>Tranetechnologies: Manufacturing Engineering MES Intern</title>
-    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Grand-Rapids-Michigan/Manufacturing-Engineering-MES-Intern_JR-19264"/>
-    <updated>2026-11-03T19:44:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Grand Rapids, Michigan · Python, SQL, Lean Manufacturing</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:westlake:/job/US---Calvert-City-KY/Process-Control-Engineer-Intern--Summer-2027-_R33711-1</id>
-    <title>Westlake: Process Control Engineer Intern (Summer 2027) 🛂</title>
-    <link href="https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Calvert-City-KY/Process-Control-Engineer-Intern--Summer-2027-_R33711-1"/>
-    <updated>2026-11-03T19:44:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · US - Calvert City, KY · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:adient:/job/Plymouth-MI/Manufacturing-Intern_R-29532</id>
-    <title>Adient: Manufacturing Intern</title>
-    <link href="https://adient.wd3.myworkdayjobs.com/External/job/Plymouth-MI/Manufacturing-Intern_R-29532"/>
-    <updated>2026-11-03T07:06:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Plymouth, MI · AutoCAD · H-1B track record: ~29 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Coop---Mechatronics-Engineer--Internship-_J-00356203</id>
-    <title>ASML: Coop - Mechatronics Engineer (Internship)</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Coop---Mechatronics-Engineer--Internship-_J-00356203"/>
-    <updated>2026-11-03T07:06:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Wilton, CT, USA · $18–$48/hr · MATLAB, Git · H-1B track record: ~384 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00355336</id>
-    <title>ASML: Internship - Mechanical Engineer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00355336"/>
-    <updated>2026-11-03T07:06:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Wilton, CT, USA · $18–$48/hr · CAD, FEA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tranetechnologies:/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-3_JR-18900</id>
-    <title>Tranetechnologies: Manufacturing Engineering Intern-3</title>
-    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-3_JR-18900"/>
-    <updated>2026-11-03T07:06:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Kentwood, Michigan · SolidWorks, Creo, AutoCAD, CAD, Lean Manufacturing</summary>
   </entry>
 </feed>

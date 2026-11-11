@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T06:49:22Z",
+ "generated_at": "2026-11-11T19:51:21Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -350,7 +350,7 @@
    "expected": "2026-08-27",
    "days_until": -76,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/shieldai/043c739e-ff80-4faa-b2be-5d1e96768dfa",
+   "url": "https://jobs.ashbyhq.com/shield/043c739e-ff80-4faa-b2be-5d1e96768dfa",
    "note": ""
   },
   {
@@ -1292,20 +1292,6 @@
    "note": ""
   },
   {
-   "company": "Astronics",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-30",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-30",
-   "days_until": -42,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4420383009",
-   "note": ""
-  },
-  {
    "company": "CACI",
    "last_cycle_posted": "",
    "posted_on": "2026-10-01",
@@ -1740,20 +1726,6 @@
    "note": ""
   },
   {
-   "company": "T-Mobile",
-   "last_cycle_posted": "",
-   "posted_on": "2026-11-02",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-11-02",
-   "days_until": -9,
-   "status": "open",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Quality-Engineering-Internship_REQ381210",
-   "note": ""
-  },
-  {
    "company": "Zoox",
    "last_cycle_posted": "",
    "posted_on": "2026-11-02",
@@ -1876,7 +1848,7 @@
    "expected": "2026-11-10",
    "days_until": -1,
    "status": "open",
-   "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Metrology-Scientist-Intern_REQ-15874",
+   "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Manufacturing-Engineer-Intern_REQ-15886-1",
    "note": ""
   },
   {
@@ -2594,6 +2566,20 @@
    "note": ""
   },
   {
+   "company": "Astronics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-30",
+   "days_until": -42,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "CoStar Group",
    "last_cycle_posted": "",
    "posted_on": "2026-10-01",
@@ -2757,6 +2743,20 @@
    "source": "engine",
    "expected": "2026-10-27",
    "days_until": -15,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "T-Mobile",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-02",
+   "days_until": -9,
    "status": "dropped",
    "url": "",
    "note": ""
