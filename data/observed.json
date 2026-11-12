@@ -356,13 +356,14 @@
    "name": "AtkinsRéalis",
    "cycles": {
     "Summer 2027": {
-     "first_posted": "2026-09-28",
+     "first_posted": "2026-09-21",
      "role_ids": [
       "workday:slihrms:/job/USCODenver/Structural-Engineering-Intern---Summer-2027_R-161182-1",
       "workday:slihrms:/job/USMILansing3100-West-Road/Structural-Engineering-Intern---Summer-2027_R-171365",
+      "workday:slihrms:/job/USNCRaleigh1616-East-Mill-Brook-Road/Roadway-Design-Engineering-Intern---Summer-2027_R-162556",
       "workday:slihrms:/job/USWABothell/Structural-Engineering-Intern---Summer-2027_R-162449-1"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -937,10 +938,12 @@
     "Summer 2027": {
      "first_posted": "2026-09-08",
      "role_ids": [
+      "greenhouse:formlabsinternships:8161818",
       "greenhouse:formlabsinternships:8186604",
-      "greenhouse:formlabsinternships:8199928"
+      "greenhouse:formlabsinternships:8199928",
+      "greenhouse:formlabsinternships:8381595"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -1664,6 +1667,19 @@
     }
    }
   },
+  "lightmatter": {
+   "name": "Lightmatter",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-11",
+     "role_ids": [
+      "greenhouse:lightmatter:5473871008",
+      "greenhouse:lightmatter:5479684008"
+     ],
+     "count": 2
+    }
+   }
+  },
   "llnl": {
    "name": "LLNL",
    "cycles": {
@@ -2112,6 +2128,8 @@
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10254985",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088",
+      "workday:ngc:/job/United-States-Maryland-Elkridge/XMLNAME-2027-Industrial-Engineering-Intern---Elkridge-MD_R10260314",
+      "workday:ngc:/job/United-States-Maryland-Elkridge/XMLNAME-2027-Manufacturing-Engineering-Intern---Elkridge-MD_R10260318",
       "workday:ngc:/job/United-States-Maryland-Hanover/XMLNAME-2027-Thermal-Mechanical-Engineer-Internship---Hanover-MD_R10258425",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Aerospace-Engineering-Internship---Linthicum-MD_R10256786",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
@@ -2129,14 +2147,17 @@
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10256223",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Structural-Engineering-Intern--Roy-UT_R10258270",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Test-Engineering-Intern---Roy-UT_R10249875",
+      "workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260251",
       "workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260260",
+      "workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260268-1",
+      "workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Waynesboro-VA_R10260271",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern---Dulles-VA_R10250744-1",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Analysis-Intern---Dulles-VA_R10256105",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 59
+     "count": 64
     }
    }
   },
@@ -2733,9 +2754,10 @@
      "role_ids": [
       "greenhouse:sharkninjaoperatingllc:4713810006",
       "greenhouse:sharkninjaoperatingllc:4713812006",
-      "greenhouse:sharkninjaoperatingllc:4718812006"
+      "greenhouse:sharkninjaoperatingllc:4718812006",
+      "greenhouse:sharkninjaoperatingllc:4721651006"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -3472,5 +3494,5 @@
    }
   }
  },
- "updated_at": "2026-11-11T19:51:17Z"
+ "updated_at": "2026-11-12T07:32:03Z"
 }
