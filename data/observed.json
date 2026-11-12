@@ -858,13 +858,18 @@
     "Summer 2027": {
      "first_posted": "2026-11-10",
      "role_ids": [
+      "workday:entegris:/job/Aurora-IL/Manufacturing-Engineering-Intern---Summer-2027_REQ-15835-1",
       "workday:entegris:/job/Bedford-MA/Manufacturing-Engineer-Intern_REQ-15886-1",
       "workday:entegris:/job/Billerica-MA/Analytical-Metrology-Scientist-Intern_REQ-15873",
       "workday:entegris:/job/Billerica-MA/Mechanical-Engineering-Intern_REQ-15834",
       "workday:entegris:/job/Billerica-MA/Metrology-Scientist-Intern_REQ-15874",
+      "workday:entegris:/job/Chaska-MN/Product-Development-Engineering-Intern_REQ-15875",
+      "workday:entegris:/job/Chaska-MN/Quality-Engineering-Intern_REQ-15878",
+      "workday:entegris:/job/Colorado-Springs-CO/Manufacturing-Engineer-Intern_REQ-15871",
+      "workday:entegris:/job/Colorado-Springs-CO/Quality-Engineering-Intern_REQ-15867",
       "workday:entegris:/job/Franklin-MA/Quality-Engineering-Intern_REQ-15850"
      ],
-     "count": 5
+     "count": 10
     }
    }
   },
@@ -1385,6 +1390,7 @@
       "workday:imeg:/job/Minneapolis-MN/Structural-Engineering-Intern---Minneapolis--MN_R-16483",
       "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16451",
       "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16471",
+      "workday:imeg:/job/Ontario-California/Structural-Engineering-Intern---Ontario--CA_R-16906",
       "workday:imeg:/job/Pensacola-FL/Structural-Engineering-Intern---Pensacola--FL_R-16600",
       "workday:imeg:/job/Philadelphia-PA/Mechanical-Engineering-Co-op---Philadelphia--PA_R-16908",
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366",
@@ -1394,7 +1400,7 @@
       "workday:imeg:/job/Urbandale-IA/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375",
       "workday:imeg:/job/Washington-DC/Structural-Intern---Fairfax--VA_R-16618"
      ],
-     "count": 22
+     "count": 23
     }
    }
   },
@@ -1494,9 +1500,10 @@
       "workday:jabil:/job/Austin-TX/Mechanical-System-Architect-Intern_J2469350",
       "workday:jabil:/job/Austin-TX/Validation-Engineer-Intern_J2469310",
       "workday:jabil:/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367",
+      "workday:jabil:/job/Monument-CO/Manufacturing-Engineering-Intern---Medical-Device-Manufacturing_J2469027",
       "workday:jabil:/job/St-PetersburgTampa-FL/Mechanical-Engineering-Intern_J2470824-1"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -1510,6 +1517,18 @@
       "workday:jmfamily:/job/Florida---Jacksonville/Industrial-Engineering-Intern_JR105189"
      ],
      "count": 2
+    }
+   }
+  },
+  "johnson controls": {
+   "name": "Johnson Controls",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-12",
+     "role_ids": [
+      "workday:jci:/job/Waynesboro-Pennsylvania-United-States-of-America/Computer-Science-CAD-Intern_WD30285046"
+     ],
+     "count": 1
     }
    }
   },
@@ -1778,6 +1797,18 @@
     }
    }
   },
+  "martin marietta": {
+   "name": "Martin Marietta",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-22",
+     "role_ids": [
+      "workday:martinmarietta:/job/Salisbury-NC/Intern--Continuous--Improvement-Industrial-Engineering--Summer-2027-_JR023610"
+     ],
+     "count": 1
+    }
+   }
+  },
   "marvell": {
    "name": "Marvell",
    "cycles": {
@@ -1896,6 +1927,18 @@
      "first_posted": "2026-08-31",
      "role_ids": [
       "workday:michelinhr:/job/EMPORIA-KS/XMLNAME-2027-Summer-Mechanical-Engineer--Emporia--KS-_R-2026030587"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "micron technology": {
+   "name": "Micron Technology",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-12",
+     "role_ids": [
+      "workday:micron:/job/Boise-ID---ID1/Physical-Failure-Analysis-Technician---6-Month-Intern-2027_JR114535"
      ],
      "count": 1
     }
@@ -2124,6 +2167,7 @@
       "workday:ngc:/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1",
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Mechanical-Engineer-Intern---Rolling-Meadows-IL_R10252778",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Mechanical-Engineering-Intern---Annapolis-MD_R10254668",
+      "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Manufacturing-Engineering-Intern---Annapolis-MD_R10260385",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10251185",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10254985",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003",
@@ -2157,7 +2201,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 64
+     "count": 65
     }
    }
   },
@@ -3058,6 +3102,7 @@
       "workday:ttc:/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194",
       "workday:ttc:/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004",
       "workday:ttc:/job/Lake-Mills-WI/Manufacturing-Engineering-Intern---HammerHead_JR17635",
+      "workday:ttc:/job/Lake-Mills-WI/Mechanical-Engineering-Intern---HammerHead_JR17392",
       "workday:ttc:/job/Perry-OK/Manufacturing-Engineer-Intern---Ditch-Witch_JR17449",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17101",
@@ -3067,7 +3112,7 @@
       "workday:ttc:/job/Tomah-WI/Manufacturing-Engineering-Intern--Tomah--WI----The-Toro-Company_JR17636",
       "workday:ttc:/job/Windom-MN/Manufacturing-Engineer-Intern---The-Toro-Company_JR17578"
      ],
-     "count": 21
+     "count": 22
     }
    }
   },
@@ -3494,5 +3539,5 @@
    }
   }
  },
- "updated_at": "2026-11-12T07:32:03Z"
+ "updated_at": "2026-11-12T20:13:04Z"
 }
