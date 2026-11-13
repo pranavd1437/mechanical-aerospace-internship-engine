@@ -863,6 +863,7 @@
       "workday:entegris:/job/Billerica-MA/Analytical-Metrology-Scientist-Intern_REQ-15873",
       "workday:entegris:/job/Billerica-MA/Mechanical-Engineering-Intern_REQ-15834",
       "workday:entegris:/job/Billerica-MA/Metrology-Scientist-Intern_REQ-15874",
+      "workday:entegris:/job/Bloomington-MN/Mechanical-Engineering-Intern_REQ-15847",
       "workday:entegris:/job/Chaska-MN/Product-Development-Engineering-Intern_REQ-15875",
       "workday:entegris:/job/Chaska-MN/Quality-Engineering-Intern_REQ-15878",
       "workday:entegris:/job/Colorado-Springs-CO/Manufacturing-Engineer-Intern_REQ-15871",
@@ -870,7 +871,7 @@
       "workday:entegris:/job/Franklin-MA/Quality-Engineering-Intern_REQ-15850",
       "workday:entegris:/job/San-Luis-Obispo-CA/Mechanical-Engineering-Intern---Summer-2027_REQ-15866"
      ],
-     "count": 11
+     "count": 12
     }
    }
   },
@@ -1502,9 +1503,10 @@
       "workday:jabil:/job/Austin-TX/Validation-Engineer-Intern_J2469310",
       "workday:jabil:/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367",
       "workday:jabil:/job/Monument-CO/Manufacturing-Engineering-Intern---Medical-Device-Manufacturing_J2469027",
+      "workday:jabil:/job/St-PetersburgTampa-FL/Industrial-Engineering-Intern_J2470894",
       "workday:jabil:/job/St-PetersburgTampa-FL/Mechanical-Engineering-Intern_J2470824-1"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -2158,6 +2160,7 @@
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Structural-Engineer-Intern---San-Diego-CA_R10256968-1",
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Aeronautical-Engineering-Intern---Sunnyvale-CA_R10260488",
+      "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Manufacturing-Engineering-Intern---Sunnyvale-CA_R10260394",
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Materials-Engineer-Intern---Sunnyvale-CA_R10255084",
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Mechanical-Engineer-Intern---Sunnyvale-CA_R10251428",
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Test-Engineer-Intern---Sunnyvale-CA_R10255018-1",
@@ -2203,7 +2206,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ],
-     "count": 66
+     "count": 67
     }
    }
   },
@@ -2499,6 +2502,24 @@
       "ashby:reflect-orbital:51d75a91-c088-4f00-89bc-4be8250b09f9"
      ],
      "count": 1
+    }
+   }
+  },
+  "reliable robotics": {
+   "name": "Reliable Robotics",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-13",
+     "role_ids": [
+      "ashby:reliable-robotics:0af72d5a-87b7-49a1-b49e-424d28758c9e",
+      "ashby:reliable-robotics:1085bdf8-f023-4cf6-90ed-93a2f4f6ded8",
+      "ashby:reliable-robotics:1d020651-71bb-4e47-baa6-2286dc780d96",
+      "ashby:reliable-robotics:4aa17839-d94c-478f-9ce9-9974df00314b",
+      "ashby:reliable-robotics:5f247482-543f-4b65-8b22-7b4f3a31776c",
+      "ashby:reliable-robotics:b5068379-a36c-4b10-ab38-1c0282f24a69",
+      "ashby:reliable-robotics:f4324206-46a8-460d-b674-53d6e0c4423a"
+     ],
+     "count": 7
     }
    }
   },
@@ -2801,9 +2822,10 @@
       "greenhouse:sharkninjaoperatingllc:4713810006",
       "greenhouse:sharkninjaoperatingllc:4713812006",
       "greenhouse:sharkninjaoperatingllc:4718812006",
+      "greenhouse:sharkninjaoperatingllc:4719580006",
       "greenhouse:sharkninjaoperatingllc:4721651006"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -3541,5 +3563,5 @@
    }
   }
  },
- "updated_at": "2026-11-13T07:03:32Z"
+ "updated_at": "2026-11-13T19:59:59Z"
 }
