@@ -5,15 +5,119 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-13T20:00:03Z</updated>
+  <updated>2026-11-14T06:44:15Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Manufacturing-Engineering-Co-op_JR-051444</id>
-    <title>Brunswick: Mercury Marine: Manufacturing Engineering Co-op</title>
-    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Manufacturing-Engineering-Co-op_JR-051444"/>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356697</id>
+    <title>ASML: Internship - Mechatronics Engineer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356697"/>
+    <updated>2026-11-14T06:44:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Wilton, CT, USA · $18–$48/hr · MATLAB, Simulink · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hcjy.fa.us2.oraclecloud.com:13162</id>
+    <title>Cooper Companies: Packaging Engineering Co-Op</title>
+    <link href="https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13162"/>
+    <updated>2026-11-14T06:44:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Victor, NY, United States · $25/hr · SolidWorks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:lightmatter:5473869008</id>
+    <title>Lightmatter: Hardware Test Engineering, Intern (Summer 2027)</title>
+    <link href="https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008"/>
+    <updated>2026-11-14T06:44:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Mountain View, CA · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:reliable-robotics:9e609f4f-cf1c-4171-9140-54e05c5195de</id>
+    <title>Reliable Robotics: Reliability Engineering Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/reliable-robotics/9e609f4f-cf1c-4171-9140-54e05c5195de"/>
+    <updated>2026-11-14T06:44:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Mountain View, CA · $105K · Python, SQL, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25016015</id>
+    <title>Texas Instruments: Product Engineering Failure Analysis Intern 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016015"/>
+    <updated>2026-11-14T06:44:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Materials Engineering · Dallas, TX, United States · Java, C++, MATLAB, LabVIEW · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:reliable-robotics:0af72d5a-87b7-49a1-b49e-424d28758c9e</id>
+    <title>Reliable Robotics: Hardware Test Engineering Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/reliable-robotics/0af72d5a-87b7-49a1-b49e-424d28758c9e"/>
+    <updated>2026-11-13T19:59:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Mountain View, CA · $105K · Python, C++, MATLAB, Siemens NX</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:reliable-robotics:1085bdf8-f023-4cf6-90ed-93a2f4f6ded8</id>
+    <title>Reliable Robotics: Manufacturing Engineering Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/reliable-robotics/1085bdf8-f023-4cf6-90ed-93a2f4f6ded8"/>
+    <updated>2026-11-13T19:59:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Mountain View, CA · $105K · SolidWorks, Siemens NX, CAD, DFM/DFA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:reliable-robotics:1d020651-71bb-4e47-baa6-2286dc780d96</id>
+    <title>Reliable Robotics: Flight Test Integration Engineer Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/reliable-robotics/1d020651-71bb-4e47-baa6-2286dc780d96"/>
+    <updated>2026-11-13T19:59:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Mountain View, CA · $105K · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:reliable-robotics:4aa17839-d94c-478f-9ce9-9974df00314b</id>
+    <title>Reliable Robotics: Mechanical Engineering Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/reliable-robotics/4aa17839-d94c-478f-9ce9-9974df00314b"/>
+    <updated>2026-11-13T19:59:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Mountain View, CA · $105K · Siemens NX, CAD, FEA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:reliable-robotics:5f247482-543f-4b65-8b22-7b4f3a31776c</id>
+    <title>Reliable Robotics: Flight Control Law Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/reliable-robotics/5f247482-543f-4b65-8b22-7b4f3a31776c"/>
+    <updated>2026-11-13T19:59:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · Mountain View, CA · $128K · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:reliable-robotics:b5068379-a36c-4b10-ab38-1c0282f24a69</id>
+    <title>Reliable Robotics: Electrical Systems Integration Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/reliable-robotics/b5068379-a36c-4b10-ab38-1c0282f24a69"/>
+    <updated>2026-11-13T19:59:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems Engineering · Mountain View, CA · $105K</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:reliable-robotics:f4324206-46a8-460d-b674-53d6e0c4423a</id>
+    <title>Reliable Robotics: System Integration &amp; Test Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/reliable-robotics/f4324206-46a8-460d-b674-53d6e0c4423a"/>
+    <updated>2026-11-13T19:59:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Mountain View, CA · $105K • 3k Housing Stipend For Qualified Applicants · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:fspco-op012325:8936932002</id>
+    <title>Flagship Pioneering: Pioneering Medicines: Research Co-Op, Mechanism of Action – Metabolic Disease</title>
+    <link href="https://job-boards.greenhouse.io/fspco-op012325/jobs/8936932002"/>
     <updated>2026-11-13T19:59:59Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Fond du Lac, WI · $18–$27.5/hr · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Mechanical Design · Cambridge, MA USA · $25–$35/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4719580006</id>
+    <title>SharkNinja: Summer 2027: Mechanical Engineering Intern, Ninja (May to August)</title>
+    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719580006"/>
+    <updated>2026-11-13T19:59:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Needham, MA, United States · $30/hr · Python, SolidWorks, Creo, CAD · H-1B track record: ~23 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:hcjy.fa.us2.oraclecloud.com:13160</id>
@@ -22,6 +126,14 @@
     <updated>2026-11-13T19:59:59Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Victor, NY, United States · $25/hr · SolidWorks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Manufacturing-Engineering-Co-op_JR-051444</id>
+    <title>Brunswick: Mercury Marine: Manufacturing Engineering Co-op</title>
+    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Manufacturing-Engineering-Co-op_JR-051444"/>
+    <updated>2026-11-13T19:59:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Fond du Lac, WI · $18–$27.5/hr · H-1B track record: ~54 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:dtna:/job/High-Point-NC-US/Manufacturing-Engineering-Intern---Thomas-Built-Bus_DT-20682</id>
@@ -38,14 +150,6 @@
     <updated>2026-11-13T19:59:59Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Bloomington, MN · $20–$30/hr · SolidWorks, Creo · H-1B track record: ~60 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:fspco-op012325:8936932002</id>
-    <title>Flagship Pioneering: Pioneering Medicines: Research Co-Op, Mechanism of Action – Metabolic Disease</title>
-    <link href="https://job-boards.greenhouse.io/fspco-op012325/jobs/8936932002"/>
-    <updated>2026-11-13T19:59:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Cambridge, MA USA · $25–$35/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:jabil:/job/St-PetersburgTampa-FL/Industrial-Engineering-Intern_J2470894</id>
@@ -70,70 +174,6 @@
     <updated>2026-11-13T19:59:59Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · United States-California-Sunnyvale · $21.5–$39/hr · Siemens NX · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reliable-robotics:b5068379-a36c-4b10-ab38-1c0282f24a69</id>
-    <title>Reliable Robotics: Electrical Systems Integration Intern (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/reliable-robotics/b5068379-a36c-4b10-ab38-1c0282f24a69"/>
-    <updated>2026-11-13T19:59:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems Engineering · Mountain View, CA · $105K</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reliable-robotics:5f247482-543f-4b65-8b22-7b4f3a31776c</id>
-    <title>Reliable Robotics: Flight Control Law Intern (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/reliable-robotics/5f247482-543f-4b65-8b22-7b4f3a31776c"/>
-    <updated>2026-11-13T19:59:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · Mountain View, CA · $128K · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reliable-robotics:f4324206-46a8-460d-b674-53d6e0c4423a</id>
-    <title>Reliable Robotics: System Integration &amp; Test Intern (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/reliable-robotics/f4324206-46a8-460d-b674-53d6e0c4423a"/>
-    <updated>2026-11-13T19:59:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Mountain View, CA · $105K • 3k Housing Stipend For Qualified Applicants · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reliable-robotics:0af72d5a-87b7-49a1-b49e-424d28758c9e</id>
-    <title>Reliable Robotics: Hardware Test Engineering Intern (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/reliable-robotics/0af72d5a-87b7-49a1-b49e-424d28758c9e"/>
-    <updated>2026-11-13T19:59:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Mountain View, CA · $105K · Python, C++, MATLAB, Siemens NX</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reliable-robotics:4aa17839-d94c-478f-9ce9-9974df00314b</id>
-    <title>Reliable Robotics: Mechanical Engineering Intern (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/reliable-robotics/4aa17839-d94c-478f-9ce9-9974df00314b"/>
-    <updated>2026-11-13T19:59:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Mountain View, CA · $105K · Siemens NX, CAD, FEA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reliable-robotics:1085bdf8-f023-4cf6-90ed-93a2f4f6ded8</id>
-    <title>Reliable Robotics: Manufacturing Engineering Intern (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/reliable-robotics/1085bdf8-f023-4cf6-90ed-93a2f4f6ded8"/>
-    <updated>2026-11-13T19:59:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Mountain View, CA · $105K · SolidWorks, Siemens NX, CAD, DFM/DFA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reliable-robotics:1d020651-71bb-4e47-baa6-2286dc780d96</id>
-    <title>Reliable Robotics: Flight Test Integration Engineer Intern (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/reliable-robotics/1d020651-71bb-4e47-baa6-2286dc780d96"/>
-    <updated>2026-11-13T19:59:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Mountain View, CA · $105K · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4719580006</id>
-    <title>SharkNinja: Summer 2027: Mechanical Engineering Intern, Ninja (May to August)</title>
-    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719580006"/>
-    <updated>2026-11-13T19:59:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Needham, MA, United States · $30/hr · Python, SolidWorks, Creo, CAD · H-1B track record: ~23 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:entegris:/job/San-Luis-Obispo-CA/Mechanical-Engineering-Intern---Summer-2027_REQ-15866</id>
@@ -381,7 +421,7 @@
     <link href="https://jobs.ashbyhq.com/shield/043c739e-ff80-4faa-b2be-5d1e96768dfa"/>
     <updated>2026-11-11T19:51:17Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Dallas, Texas · SolidWorks, Siemens NX, CATIA, Creo, CAD</summary>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Dallas, TX, US · SolidWorks, Siemens NX, CATIA, Creo, CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:shield:0eb4a172-b6b9-4bda-85e5-fe566b342c0e</id>
@@ -405,7 +445,7 @@
     <link href="https://jobs.ashbyhq.com/shield/ebdcc6cf-04da-47a7-971d-17e43f64c37c"/>
     <updated>2026-11-11T19:51:17Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Dallas, Texas · Python, SolidWorks, Siemens NX, Creo, CAD</summary>
+    <summary>Summer 2027 · Structures &amp; FEA · Dallas, TX, US · Python, SolidWorks, Siemens NX, Creo, CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:castelioncorporation:4503740009</id>
@@ -414,14 +454,6 @@
     <updated>2026-11-11T19:51:17Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Torrance, CA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Loram1:3743990016798175</id>
-    <title>Loram: Mechanical Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Loram1/3743990016798175"/>
-    <updated>2026-11-11T19:51:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Hamel, MN, United States · AutoCAD, CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:astrazeneca:/job/US---Gaithersburg---MD/Manufacturing-Sciences--Validation-Engineer-Intern_R-264093</id>
@@ -774,37 +806,5 @@
     <updated>2026-11-09T06:54:41Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Santa Clara,CA · H-1B track record: ~650 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/San-Jose-CA-USA/Internship--Computational-imaging-and-metrology-summer_J-00355102</id>
-    <title>ASML: Internship- Computational imaging and metrology summer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Computational-imaging-and-metrology-summer_J-00355102"/>
-    <updated>2026-11-07T06:21:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · San Jose, CA, USA · Python, C++, MATLAB · H-1B track record: ~384 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechanical-Design-Engineer_J-00356215</id>
-    <title>ASML: Internship - Mechanical Design Engineer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Design-Engineer_J-00356215"/>
-    <updated>2026-11-07T06:21:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Wilton, CT, USA · CAD, FEA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356543</id>
-    <title>ASML: Internship – Mechatronics Engineer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356543"/>
-    <updated>2026-11-07T06:21:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Wilton, CT, USA · Python, C++, MATLAB, Siemens NX, CAD · H-1B track record: ~384 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356548</id>
-    <title>ASML: Internship – Mechatronics Engineer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356548"/>
-    <updated>2026-11-07T06:21:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Wilton, CT, USA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

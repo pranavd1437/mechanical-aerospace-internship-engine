@@ -1695,10 +1695,11 @@
     "Summer 2027": {
      "first_posted": "2026-11-11",
      "role_ids": [
+      "greenhouse:lightmatter:5473869008",
       "greenhouse:lightmatter:5473871008",
       "greenhouse:lightmatter:5479684008"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2516,10 +2517,11 @@
       "ashby:reliable-robotics:1d020651-71bb-4e47-baa6-2286dc780d96",
       "ashby:reliable-robotics:4aa17839-d94c-478f-9ce9-9974df00314b",
       "ashby:reliable-robotics:5f247482-543f-4b65-8b22-7b4f3a31776c",
+      "ashby:reliable-robotics:9e609f4f-cf1c-4171-9140-54e05c5195de",
       "ashby:reliable-robotics:b5068379-a36c-4b10-ab38-1c0282f24a69",
       "ashby:reliable-robotics:f4324206-46a8-460d-b674-53d6e0c4423a"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -3563,5 +3565,5 @@
    }
   }
  },
- "updated_at": "2026-11-13T19:59:59Z"
+ "updated_at": "2026-11-14T06:44:11Z"
 }
