@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T06:44:15Z",
+ "generated_at": "2026-11-14T18:22:20Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -508,20 +508,6 @@
    "note": ""
   },
   {
-   "company": "Church & Dwight",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-02",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-02",
-   "days_until": -73,
-   "status": "open",
-   "url": "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Princeton-NJ/XMLNAME-2027-Undergraduate-Packaging-Engineer-Co-Op_R2026-15611",
-   "note": ""
-  },
-  {
    "company": "AECOM",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
@@ -704,20 +690,6 @@
    "note": ""
   },
   {
-   "company": "Allegion",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-09",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-09",
-   "days_until": -66,
-   "status": "open",
-   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Controls-Engineering_JR37366-1",
-   "note": ""
-  },
-  {
    "company": "Avery Dennison",
    "last_cycle_posted": "",
    "posted_on": "2026-09-09",
@@ -882,7 +854,7 @@
    "expected": "2026-09-11",
    "days_until": -64,
    "status": "open",
-   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Monument-CO/Manufacturing-Engineering-Intern---Medical-Device-Manufacturing_J2469027",
+   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Industrial-Engineering-Intern_J2470894",
    "note": ""
   },
   {
@@ -1834,7 +1806,7 @@
    "expected": "2026-11-11",
    "days_until": -3,
    "status": "open",
-   "url": "https://boards.greenhouse.io/lightmatter/jobs/5473871008?gh_jid=5473871008",
+   "url": "https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008",
    "note": ""
   },
   {
@@ -2258,6 +2230,20 @@
    "note": ""
   },
   {
+   "company": "Church & Dwight",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-02",
+   "days_until": -73,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "POET",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
@@ -2351,6 +2337,20 @@
    "source": "engine",
    "expected": "2026-09-08",
    "days_until": -67,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Allegion",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -66,
    "status": "dropped",
    "url": "",
    "note": ""

@@ -5,31 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-14T06:44:15Z</updated>
+  <updated>2026-11-14T18:22:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356697</id>
-    <title>ASML: Internship - Mechatronics Engineer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356697"/>
-    <updated>2026-11-14T06:44:11Z</updated>
+    <id>urn:intern-engine:workday:bloomenergy:/job/Fremont-California/Automation-Engineering-Intern_JR-25265</id>
+    <title>Bloom Energy: Automation Engineering Intern 🛂</title>
+    <link href="https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Fremont-California/Automation-Engineering-Intern_JR-25265"/>
+    <updated>2026-11-14T18:22:16Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Wilton, CT, USA · $18–$48/hr · MATLAB, Simulink · H-1B track record: ~384 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hcjy.fa.us2.oraclecloud.com:13162</id>
-    <title>Cooper Companies: Packaging Engineering Co-Op</title>
-    <link href="https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13162"/>
-    <updated>2026-11-14T06:44:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Victor, NY, United States · $25/hr · SolidWorks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:lightmatter:5473869008</id>
-    <title>Lightmatter: Hardware Test Engineering, Intern (Summer 2027)</title>
-    <link href="https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008"/>
-    <updated>2026-11-14T06:44:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Mountain View, CA · Python</summary>
+    <summary>Not stated · Controls &amp; Mechatronics · Fremont, California · $36–$50/hr · SolidWorks, AutoCAD, CAD · sponsorship: no-sponsorship · H-1B track record: ~49 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:reliable-robotics:9e609f4f-cf1c-4171-9140-54e05c5195de</id>
@@ -40,12 +24,36 @@
     <summary>Summer 2027 · Test &amp; Validation · Mountain View, CA · $105K · Python, SQL, CAD</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:lightmatter:5473869008</id>
+    <title>Lightmatter: Hardware Test Engineering, Intern (Summer 2027)</title>
+    <link href="https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008"/>
+    <updated>2026-11-14T06:44:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Mountain View, CA · Python</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25016015</id>
     <title>Texas Instruments: Product Engineering Failure Analysis Intern 🛂</title>
     <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016015"/>
     <updated>2026-11-14T06:44:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Materials Engineering · Dallas, TX, United States · Java, C++, MATLAB, LabVIEW · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hcjy.fa.us2.oraclecloud.com:13162</id>
+    <title>Cooper Companies: Packaging Engineering Co-Op</title>
+    <link href="https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13162"/>
+    <updated>2026-11-14T06:44:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Victor, NY, United States · $25/hr · SolidWorks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356697</id>
+    <title>ASML: Internship - Mechatronics Engineer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356697"/>
+    <updated>2026-11-14T06:44:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Wilton, CT, USA · $18–$48/hr · MATLAB, Simulink · H-1B track record: ~384 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:reliable-robotics:0af72d5a-87b7-49a1-b49e-424d28758c9e</id>
@@ -176,14 +184,6 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · United States-California-Sunnyvale · $21.5–$39/hr · Siemens NX · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:entegris:/job/San-Luis-Obispo-CA/Mechanical-Engineering-Intern---Summer-2027_REQ-15866</id>
-    <title>Entegris: Mechanical Engineering Intern - Summer 2027</title>
-    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Mechanical-Engineering-Intern---Summer-2027_REQ-15866"/>
-    <updated>2026-11-13T07:03:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · San Luis Obispo, CA · $20–$30/hr · SolidWorks, CAD · H-1B track record: ~60 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Aeronautical-Engineering-Intern---Sunnyvale-CA_R10260488</id>
     <title>Northrop Grumman: 2027 Aeronautical Engineering Intern - Sunnyvale CA 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Aeronautical-Engineering-Intern---Sunnyvale-CA_R10260488"/>
@@ -246,14 +246,6 @@
     <updated>2026-11-12T20:13:04Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · Ontario, California · $22–$24/hr · AutoCAD · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jabil:/job/Monument-CO/Manufacturing-Engineering-Intern---Medical-Device-Manufacturing_J2469027</id>
-    <title>Jabil: Manufacturing Engineering Intern - Medical Device Manufacturing</title>
-    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Monument-CO/Manufacturing-Engineering-Intern---Medical-Device-Manufacturing_J2469027"/>
-    <updated>2026-11-12T20:13:04Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Monument, CO · Python, SQL, CAD, CNC, Lean Manufacturing · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:jci:/job/Waynesboro-Pennsylvania-United-States-of-America/Computer-Science-CAD-Intern_WD30285046</id>
@@ -429,7 +421,7 @@
     <link href="https://jobs.ashbyhq.com/shield/0eb4a172-b6b9-4bda-85e5-fe566b342c0e"/>
     <updated>2026-11-11T19:51:17Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Seattle, Washington · Python, SolidWorks, ANSYS, FMEA</summary>
+    <summary>Summer 2027 · Test &amp; Validation · Seattle, WA, US · Python, SolidWorks, ANSYS, FMEA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:shield:38ba128e-815b-4a14-b4d2-446ffc190a33</id>
@@ -437,7 +429,7 @@
     <link href="https://jobs.ashbyhq.com/shield/38ba128e-815b-4a14-b4d2-446ffc190a33"/>
     <updated>2026-11-11T19:51:17Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Seattle, Washington · SolidWorks, Siemens NX, CATIA, CAD</summary>
+    <summary>Summer 2027 · Mechanical Design · Seattle, WA, US · SolidWorks, Siemens NX, CATIA, CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:shield:ebdcc6cf-04da-47a7-971d-17e43f64c37c</id>
@@ -806,5 +798,13 @@
     <updated>2026-11-09T06:54:41Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Santa Clara,CA · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/San-Jose-CA-USA/Internship--Computational-imaging-and-metrology-summer_J-00355102</id>
+    <title>ASML: Internship- Computational imaging and metrology summer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Computational-imaging-and-metrology-summer_J-00355102"/>
+    <updated>2026-11-07T06:21:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · San Jose, CA, USA · Python, C++, MATLAB · H-1B track record: ~384 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
