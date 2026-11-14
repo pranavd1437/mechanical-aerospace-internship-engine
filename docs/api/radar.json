@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T18:22:20Z",
+ "generated_at": "2026-11-14T22:47:04Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -1149,20 +1149,6 @@
    "days_until": -51,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/mill/jobs/4737767005",
-   "note": ""
-  },
-  {
-   "company": "ZOLL Medical Corporation",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-24",
-   "days_until": -51,
-   "status": "open",
-   "url": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Mechanical-Engineering-Intern_R20310",
    "note": ""
   },
   {
@@ -2533,6 +2519,20 @@
    "source": "engine",
    "expected": "2026-09-23",
    "days_until": -52,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "ZOLL Medical Corporation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": -51,
    "status": "dropped",
    "url": "",
    "note": ""
