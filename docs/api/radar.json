@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T06:57:00Z",
+ "generated_at": "2026-11-15T19:05:25Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -1838,6 +1838,20 @@
    "note": ""
   },
   {
+   "company": "Fanatics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-15",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507650009",
+   "note": ""
+  },
+  {
    "company": "Omnis",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2846,5 +2860,5 @@
    "note": ""
   }
  ],
- "count": 203
+ "count": 204
 }
