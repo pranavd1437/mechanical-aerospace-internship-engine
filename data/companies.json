@@ -3390,6 +3390,13 @@
     "ats": "ashby"
   },
   {
+    "name": "Beacon Mobility",
+    "slug": "gobeacon",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "beaconmobilitycareers"
+  },
+  {
     "name": "Beaconsoftware",
     "slug": "beaconsoftware",
     "ats": "ashby"
@@ -3829,6 +3836,13 @@
     "name": "Blitzy",
     "slug": "blitzy",
     "ats": "ashby"
+  },
+  {
+    "name": "Blizzard Entertainment",
+    "slug": "xboxgaming",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "Blizzard_External_Careers"
   },
   {
     "name": "Block",
@@ -10493,6 +10507,13 @@
     "ats": "ashby"
   },
   {
+    "name": "Fort Bend County",
+    "slug": "fortbendcountytx",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "externalcareers"
+  },
+  {
     "name": "Fortell",
     "slug": "fortell",
     "ats": "ashby"
@@ -13068,6 +13089,13 @@
     "ats": "ashby"
   },
   {
+    "name": "IAG Loyalty",
+    "slug": "iagloyalty",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "iagloyalty"
+  },
+  {
     "name": "Iambic Therapeutics",
     "slug": "iambic-therapeutics",
     "ats": "ashby"
@@ -15371,6 +15399,13 @@
     "name": "Liberis",
     "slug": "liberis",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Liberty Global",
+    "slug": "libertyglobal",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "Liberty_Global_Careers"
   },
   {
     "name": "Liberty Mutual Canada",
@@ -19554,6 +19589,13 @@
     "site": "sor_external_career_site"
   },
   {
+    "name": "Oregon State University",
+    "slug": "oregonstate",
+    "ats": "workday",
+    "wd": "wd501",
+    "site": "OSU_Careers_Site"
+  },
+  {
     "name": "Orennia",
     "slug": "orennia",
     "ats": "greenhouse"
@@ -21609,6 +21651,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Raft",
+    "slug": "raft",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Railway",
     "slug": "railway",
     "ats": "ashby"
@@ -21710,6 +21757,13 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "RaymondJamesCareers"
+  },
+  {
+    "name": "RBFCU",
+    "slug": "rbfcu",
+    "ats": "workday",
+    "wd": "wd503",
+    "site": "RegionalJobsSanAntonio"
   },
   {
     "name": "RBI",
@@ -22723,6 +22777,13 @@
     "name": "Runwise",
     "slug": "runwise",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Russell Investments",
+    "slug": "russell",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "russellinvestments"
   },
   {
     "name": "RWS",
@@ -27777,6 +27838,13 @@
     "name": "Vantage Point Solutions",
     "slug": "vantage-point-solutions-inc",
     "ats": "breezy"
+  },
+  {
+    "name": "Vantive",
+    "slug": "vantive",
+    "ats": "workday",
+    "wd": "wd108",
+    "site": "Vantive"
   },
   {
     "name": "Vantor",
