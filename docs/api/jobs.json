@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T22:47:04Z",
+ "generated_at": "2026-11-15T06:57:00Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 837,
+ "count": 835,
  "jobs": [
   {
    "id": "workday:bloomenergy:/job/Fremont-California/Automation-Engineering-Intern_JR-25265",
@@ -11365,53 +11365,6 @@
    "salary": "$40/hr",
    "skills": [],
    "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "ashby:base-power:fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406",
-   "company": "Base Power",
-   "title": "Hardware Reliability & Test Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Test & Validation",
-   "location": "Austin, TX",
-   "url": "https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406",
-   "posted_at": "2026-09-30T22:31:02.552+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-01T06:14:20Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python"
-   ],
-   "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "ashby:base-power:717274d7-09dc-4176-b307-07301074b87f",
-   "company": "Base Power",
-   "title": "Mechanical Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Austin, TX",
-   "url": "https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f",
-   "posted_at": "2026-09-30T21:34:37.852+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-30T22:29:39Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "SolidWorks",
-    "CAD"
-   ],
-   "source": "ashby",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
