@@ -346,9 +346,10 @@
      "first_posted": "2026-09-30",
      "role_ids": [
       "greenhouse:astronicscorporation:4420383009",
-      "greenhouse:astronicscorporation:4430399009"
+      "greenhouse:astronicscorporation:4430399009",
+      "greenhouse:astronicscorporation:4508864009"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2140,6 +2141,18 @@
     }
    }
   },
+  "nokia": {
+   "name": "Nokia",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-16",
+     "role_ids": [
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41816"
+     ],
+     "count": 1
+    }
+   }
+  },
   "northrop grumman": {
    "name": "Northrop Grumman",
    "cycles": {
@@ -2354,9 +2367,12 @@
      "first_posted": "2026-09-09",
      "role_ids": [
       "greenhouse:pacificfusion:4398312009",
-      "greenhouse:pacificfusion:4398388009"
+      "greenhouse:pacificfusion:4398388009",
+      "greenhouse:pacificfusion:4505488009",
+      "greenhouse:pacificfusion:4505884009",
+      "greenhouse:pacificfusion:4505980009"
      ],
-     "count": 2
+     "count": 5
     }
    }
   },
@@ -3581,5 +3597,5 @@
    }
   }
  },
- "updated_at": "2026-11-16T06:52:04Z"
+ "updated_at": "2026-11-16T22:28:12Z"
 }

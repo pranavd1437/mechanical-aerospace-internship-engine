@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-16T06:52:07Z</updated>
+  <updated>2026-11-16T22:28:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:astronicscorporation:4508864009</id>
+    <title>Astronics: Manufacturing Engineering Intern - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/astronicscorporation/jobs/4508864009"/>
+    <updated>2026-11-16T22:28:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Redmond, Washington, United States · $30/hr · Lean Manufacturing</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2372-1</id>
+    <title>Gorbel: Manufacturing Engineer Co-Op</title>
+    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2372-1"/>
+    <updated>2026-11-16T22:28:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · USA, New York, Victor</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2371-1</id>
+    <title>Gorbel: Manufacturing Engineer Co-Op</title>
+    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2371-1"/>
+    <updated>2026-11-16T22:28:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · USA, New York, Victor</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Intuitive:744000161896235</id>
+    <title>Intuitive Surgical: Mechanical Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Intuitive/744000161896235"/>
+    <updated>2026-11-16T22:28:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Blacksburg, VA, United States · Python, SolidWorks, CAD, LabVIEW, Tolerance Analysis · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41816</id>
+    <title>Nokia: Mechanical Design Intern</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41816"/>
+    <updated>2026-11-16T22:28:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · United States · CAD, Tolerance Analysis · H-1B track record: ~321 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pacificfusion:4505488009</id>
+    <title>Pacific Fusion: Summer 2027 Materials Science Internship 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/pacificfusion/jobs/4505488009"/>
+    <updated>2026-11-16T22:28:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Materials Engineering · San Leandro, CA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pacificfusion:4505884009</id>
+    <title>Pacific Fusion: Summer 2027 Nuclear Diagnostics Mechanical Engineer Internship 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/pacificfusion/jobs/4505884009"/>
+    <updated>2026-11-16T22:28:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · San Leandro, CA · SolidWorks, Creo, CAD, ANSYS, FEA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pacificfusion:4505980009</id>
+    <title>Pacific Fusion: Summer 2027 Structural Analysis Engineer Internship 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/pacificfusion/jobs/4505980009"/>
+    <updated>2026-11-16T22:28:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · San Leandro, CA · ANSYS, Abaqus, FEA · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:fanaticscollectibles:4507650009</id>
     <title>Fanatics: Summer 2027 Internship - Industrial Engineering Intern</title>
@@ -742,69 +806,5 @@
     <updated>2026-11-10T07:38:31Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Controls &amp; Mechatronics · Sunnyvale, CA, United States · C++, MATLAB · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874945</id>
-    <title>RTX: Industrial Engineering Co-op (Summer/Fall 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874945"/>
-    <updated>2026-11-10T07:38:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121 · SolidWorks, Creo, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:iadugs.fa.ocs.oraclecloud.com:1799</id>
-    <title>Legrand: Mechanical Engineering Intern</title>
-    <link href="https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1799"/>
-    <updated>2026-11-09T22:39:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · West Hartford, CT, United States · SolidWorks, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000160640529</id>
-    <title>AECOM: Mechanical Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000160640529"/>
-    <updated>2026-11-09T22:39:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Roanoke, VA, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:RESPECInc:744000160722709</id>
-    <title>RESPEC: Student Engineering Intern (Mechanical or Electrical)</title>
-    <link href="https://jobs.smartrecruiters.com/RESPECInc/744000160722709"/>
-    <updated>2026-11-09T22:39:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Anchorage, AK, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:abb:/job/USA-NC-Mebane/Mechanical-Engineering-Co-op--Summer-2027_JR00051089</id>
-    <title>ABB: Mechanical Engineering Co-op- Summer 2027 🛂</title>
-    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/Mechanical-Engineering-Co-op--Summer-2027_JR00051089"/>
-    <updated>2026-11-09T22:39:21Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · USA, NC, Mebane · $20–$34/hr · SolidWorks, Creo · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering--Computer-Engineering_JR37433-1</id>
-    <title>Allegion: Summer Intern - Advanced Manufacturing Engineering, Computer Engineering</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering--Computer-Engineering_JR37433-1"/>
-    <updated>2026-11-09T22:39:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Carmel, IN · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:freseniusmedicalcare:/job/Lawrence-MA-USA/V-V-Systems-Engineer-Co-op_R0277323</id>
-    <title>Fresenius Medical Care: V&amp;V Systems Engineer Co-op</title>
-    <link href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/V-V-Systems-Engineer-Co-op_R0277323"/>
-    <updated>2026-11-09T22:39:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · Lawrence, MA, USA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Packaging-Engineering-Intern_2642999-1</id>
-    <title>KLA: Packaging Engineering Intern</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Packaging-Engineering-Intern_2642999-1"/>
-    <updated>2026-11-09T22:39:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Milpitas, CA · $26–$36/hr · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

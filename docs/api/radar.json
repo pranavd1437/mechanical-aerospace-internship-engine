@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T06:52:07Z",
+ "generated_at": "2026-11-16T22:28:17Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -1236,6 +1236,20 @@
    "note": ""
   },
   {
+   "company": "Astronics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-30",
+   "days_until": -47,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4508864009",
+   "note": ""
+  },
+  {
    "company": "CACI",
    "last_cycle_posted": "",
    "posted_on": "2026-10-01",
@@ -1849,6 +1863,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507650009",
+   "note": ""
+  },
+  {
+   "company": "Nokia",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-16",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41816",
    "note": ""
   },
   {
@@ -2622,20 +2650,6 @@
    "note": ""
   },
   {
-   "company": "Astronics",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-30",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-30",
-   "days_until": -47,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "CoStar Group",
    "last_cycle_posted": "",
    "posted_on": "2026-10-01",
@@ -2860,5 +2874,5 @@
    "note": ""
   }
  ],
- "count": 204
+ "count": 205
 }
