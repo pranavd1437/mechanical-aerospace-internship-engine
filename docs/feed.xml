@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-15T19:05:25Z</updated>
+  <updated>2026-11-16T06:52:07Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:fanaticscollectibles:4507650009</id>
@@ -24,14 +24,6 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Sunnyvale, TX, United States · Lean Manufacturing · H-1B track record: ~42 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:fanaticscollectibles:4507793009</id>
-    <title>Fanatics: Summer 2027 Internship - Manufacturing Automation &amp; Controls Intern</title>
-    <link href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507793009"/>
-    <updated>2026-11-15T19:05:21Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Sunnyvale, TX, United States · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:fanaticscollectibles:4507781009</id>
     <title>Fanatics: Summer 2027 Internship - Manufacturing Engineering &amp; Capital Projects Intern</title>
     <link href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507781009"/>
@@ -43,6 +35,14 @@
     <id>urn:intern-engine:greenhouse:fanaticscollectibles:4507789009</id>
     <title>Fanatics: Summer 2027 Internship - Manufacturing Planning &amp; Analytics Intern</title>
     <link href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507789009"/>
+    <updated>2026-11-15T19:05:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Sunnyvale, TX, United States · H-1B track record: ~42 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:fanaticscollectibles:4507793009</id>
+    <title>Fanatics: Summer 2027 Internship - Manufacturing Automation &amp; Controls Intern</title>
+    <link href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507793009"/>
     <updated>2026-11-15T19:05:21Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Sunnyvale, TX, United States · H-1B track record: ~42 approvals (FY2022–2023)</summary>
