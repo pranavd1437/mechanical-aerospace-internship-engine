@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-16T22:28:16Z</updated>
+  <updated>2026-11-17T08:16:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:rippling:forterra:74bf4d28-aea6-4323-aee2-c5bded201e9d</id>
+    <title>Forterra: 2027 Intern - Mechanical Engineer</title>
+    <link href="https://ats.rippling.com/forterra/jobs/74bf4d28-aea6-4323-aee2-c5bded201e9d"/>
+    <updated>2026-11-17T08:16:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Clarksburg, MD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nwis:/job/Springfield-VA/Mechanical-Engineer-Intern_JR102272</id>
+    <title>Nightwing Intelligence Solutions: Mechanical Engineer Intern</title>
+    <link href="https://nwis.wd12.myworkdayjobs.com/NW/job/Springfield-VA/Mechanical-Engineer-Intern_JR102272"/>
+    <updated>2026-11-17T08:16:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Springfield, VA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:regent:6b044f00-b7e8-4141-8cd8-2d77fa40eea0</id>
+    <title>REGENT: Guidance, Navigation and Control (GNC) Intern</title>
+    <link href="https://jobs.ashbyhq.com/REGENT/6b044f00-b7e8-4141-8cd8-2d77fa40eea0"/>
+    <updated>2026-11-17T08:16:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · North Kingstown, Rhode Island, USA · C++, MATLAB, Simulink</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:astronicscorporation:4508864009</id>
     <title>Astronics: Manufacturing Engineering Intern - Summer 2027</title>
@@ -14,38 +38,6 @@
     <updated>2026-11-16T22:28:12Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Redmond, Washington, United States · $30/hr · Lean Manufacturing</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2372-1</id>
-    <title>Gorbel: Manufacturing Engineer Co-Op</title>
-    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2372-1"/>
-    <updated>2026-11-16T22:28:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · USA, New York, Victor</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2371-1</id>
-    <title>Gorbel: Manufacturing Engineer Co-Op</title>
-    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2371-1"/>
-    <updated>2026-11-16T22:28:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · USA, New York, Victor</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Intuitive:744000161896235</id>
-    <title>Intuitive Surgical: Mechanical Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Intuitive/744000161896235"/>
-    <updated>2026-11-16T22:28:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Blacksburg, VA, United States · Python, SolidWorks, CAD, LabVIEW, Tolerance Analysis · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41816</id>
-    <title>Nokia: Mechanical Design Intern</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41816"/>
-    <updated>2026-11-16T22:28:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · United States · CAD, Tolerance Analysis · H-1B track record: ~321 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:pacificfusion:4505488009</id>
@@ -70,6 +62,38 @@
     <updated>2026-11-16T22:28:12Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · San Leandro, CA · ANSYS, Abaqus, FEA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41816</id>
+    <title>Nokia: Mechanical Design Intern</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41816"/>
+    <updated>2026-11-16T22:28:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · United States · CAD, Tolerance Analysis · H-1B track record: ~321 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Intuitive:744000161896235</id>
+    <title>Intuitive Surgical: Mechanical Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Intuitive/744000161896235"/>
+    <updated>2026-11-16T22:28:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Blacksburg, VA, United States · Python, SolidWorks, CAD, LabVIEW, Tolerance Analysis · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2371-1</id>
+    <title>Gorbel: Manufacturing Engineer Co-Op</title>
+    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2371-1"/>
+    <updated>2026-11-16T22:28:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · USA, New York, Victor</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2372-1</id>
+    <title>Gorbel: Manufacturing Engineer Co-Op</title>
+    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2372-1"/>
+    <updated>2026-11-16T22:28:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · USA, New York, Victor</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:fanaticscollectibles:4507650009</id>
@@ -517,7 +541,7 @@
     <link href="https://jobs.ashbyhq.com/shield/043c739e-ff80-4faa-b2be-5d1e96768dfa"/>
     <updated>2026-11-11T19:51:17Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Dallas, TX, US · SolidWorks, Siemens NX, CATIA, Creo, CAD</summary>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Dallas, TX, US · $35 – $90 · SolidWorks, Siemens NX, CATIA, Creo, CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:shield:0eb4a172-b6b9-4bda-85e5-fe566b342c0e</id>
@@ -533,7 +557,7 @@
     <link href="https://jobs.ashbyhq.com/shield/38ba128e-815b-4a14-b4d2-446ffc190a33"/>
     <updated>2026-11-11T19:51:17Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Seattle, WA, US · SolidWorks, Siemens NX, CATIA, CAD</summary>
+    <summary>Summer 2027 · Mechanical Design · Seattle, WA, US · $35 – $95 per hour · SolidWorks, Siemens NX, CATIA, CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:shield:ebdcc6cf-04da-47a7-971d-17e43f64c37c</id>
@@ -782,29 +806,5 @@
     <updated>2026-11-10T07:38:31Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Test &amp; Validation · Palo Alto, CA · CNC · sponsorship: citizens-only · H-1B track record: ~24 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:pivotal:9aeda482-373d-4916-82a6-180748708ac2</id>
-    <title>Pivotal Software: Manufacturing Engineering Internship (Summer 2027) 🇺🇸</title>
-    <link href="https://jobs.lever.co/pivotal/9aeda482-373d-4916-82a6-180748708ac2"/>
-    <updated>2026-11-10T07:38:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Palo Alto, CA · 25 USD/hr · CNC, Six Sigma · sponsorship: citizens-only · H-1B track record: ~24 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:pivotal:b7f01112-1ca4-47c4-bd34-c291206bd506</id>
-    <title>Pivotal Software: Internship, Mechanical Engineering (Summer 2027) 🇺🇸</title>
-    <link href="https://jobs.lever.co/pivotal/b7f01112-1ca4-47c4-bd34-c291206bd506"/>
-    <updated>2026-11-10T07:38:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Palo Alto, CA · SolidWorks, CATIA, CAD, Tolerance Analysis · sponsorship: citizens-only · H-1B track record: ~24 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Intuitive:744000160747319</id>
-    <title>Intuitive Surgical: Robotics and Controls Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Intuitive/744000160747319"/>
-    <updated>2026-11-10T07:38:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Sunnyvale, CA, United States · C++, MATLAB · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
