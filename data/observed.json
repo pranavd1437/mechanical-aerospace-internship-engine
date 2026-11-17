@@ -774,6 +774,32 @@
     }
    }
   },
+  "dlr group": {
+   "name": "DLR Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "greenhouse:dlrgroup:5441008008",
+      "greenhouse:dlrgroup:5441148008",
+      "greenhouse:dlrgroup:5441213008",
+      "greenhouse:dlrgroup:5441262008",
+      "greenhouse:dlrgroup:5441300008",
+      "greenhouse:dlrgroup:5441370008",
+      "greenhouse:dlrgroup:5441384008",
+      "greenhouse:dlrgroup:5441778008",
+      "greenhouse:dlrgroup:5441805008",
+      "greenhouse:dlrgroup:5441813008",
+      "greenhouse:dlrgroup:5441865008",
+      "greenhouse:dlrgroup:5441869008",
+      "greenhouse:dlrgroup:5441876008",
+      "greenhouse:dlrgroup:5441878008",
+      "greenhouse:dlrgroup:5441879008"
+     ],
+     "count": 15
+    }
+   }
+  },
   "doordash": {
    "name": "DoorDash",
    "cycles": {
@@ -1714,9 +1740,10 @@
      "role_ids": [
       "greenhouse:lightmatter:5473869008",
       "greenhouse:lightmatter:5473871008",
+      "greenhouse:lightmatter:5474690008",
       "greenhouse:lightmatter:5479684008"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -3597,5 +3624,5 @@
    }
   }
  },
- "updated_at": "2026-11-17T08:16:41Z"
+ "updated_at": "2026-11-17T21:14:38Z"
 }
