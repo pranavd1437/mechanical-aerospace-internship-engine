@@ -5,15 +5,79 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-18T07:52:46Z</updated>
+  <updated>2026-11-18T20:48:53Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:kiongroup:/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-op_JR-0095911</id>
-    <title>Dematic: Controls Engineering Intern/Co-op</title>
-    <link href="https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-op_JR-0095911"/>
-    <updated>2026-11-18T07:52:43Z</updated>
+    <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2439868</id>
+    <title>Cummins: EATON - Mechanical Engineering Internship (ECJV)</title>
+    <link href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439868"/>
+    <updated>2026-11-18T20:48:51Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Grand Rapids, MI, United States · H-1B track record: ~59 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Mechanical Design · Galesburg, MI, United States · H-1B track record: ~917 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:dlrgroup:5486642008</id>
+    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5486642008"/>
+    <updated>2026-11-18T20:48:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Chicago, Illinois, United States · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:dlrgroup:5486592008</id>
+    <title>DLR Group: Structural Engineering Intern | Summer 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5486592008"/>
+    <updated>2026-11-18T20:48:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · Chicago, Illinois, United States · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jasperholdings:/job/Jasper-IN/Advanced-Manufacturing-Technician-Internship--Summer-2027_R-100859</id>
+    <title>Jasperholdings: Advanced Manufacturing Technician Internship: Summer 2027</title>
+    <link href="https://jasperholdings.wd504.myworkdayjobs.com/jet_careers/job/Jasper-IN/Advanced-Manufacturing-Technician-Internship--Summer-2027_R-100859"/>
+    <updated>2026-11-18T20:48:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Jasper, IN · CNC</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:MissionCriticalGroup:3743990016936456</id>
+    <title>Mission Critical Group: 2027 Summer Internship - Mechanical Engineering</title>
+    <link href="https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016936456"/>
+    <updated>2026-11-18T20:48:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Harleysville, Pennsylvania, United States · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:MissionCriticalGroup:3743990016934722</id>
+    <title>Mission Critical Group: 2027 Summer Internship - Mechanical Engineering</title>
+    <link href="https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016934722"/>
+    <updated>2026-11-18T20:48:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Brookston, Indiana, United States · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rehlko:/job/SheboyganWI/Manufacturing-Engineering-Co-Op-2027_R05223</id>
+    <title>Rehiko: Manufacturing Engineering Co-Op 2027</title>
+    <link href="https://rehlko.wd12.myworkdayjobs.com/Reh/job/SheboyganWI/Manufacturing-Engineering-Co-Op-2027_R05223"/>
+    <updated>2026-11-18T20:48:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Sheboygan,WI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thekineticgroup:/job/Lonoke-AR/Quality-Engineering-Internship---Remington-Ammunition_R0012985</id>
+    <title>The Kinetic Group: Quality Engineering Internship - Remington Ammunition</title>
+    <link href="https://thekineticgroup.wd1.myworkdayjobs.com/EXTERNAL_TKG/job/Lonoke-AR/Quality-Engineering-Internship---Remington-Ammunition_R0012985"/>
+    <updated>2026-11-18T20:48:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Lonoke, AR</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thekineticgroup:/job/Lonoke-AR/Manufacturing-Engineering-Internship---Remington_R0012982</id>
+    <title>The Kinetic Group: Manufacturing Engineering Internship - Remington</title>
+    <link href="https://thekineticgroup.wd1.myworkdayjobs.com/EXTERNAL_TKG/job/Lonoke-AR/Manufacturing-Engineering-Internship---Remington_R0012982"/>
+    <updated>2026-11-18T20:48:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Lonoke, AR</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000162190929</id>
@@ -22,6 +86,14 @@
     <updated>2026-11-18T07:52:43Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Boulder, CO, United States · SolidWorks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kiongroup:/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-op_JR-0095911</id>
+    <title>Dematic: Controls Engineering Intern/Co-op</title>
+    <link href="https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-op_JR-0095911"/>
+    <updated>2026-11-18T07:52:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Grand Rapids, MI, United States · H-1B track record: ~59 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:maticrobots:2f93fe19-0d71-4972-98da-8baf9d4ab05e</id>
@@ -253,7 +325,7 @@
     <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2371-1"/>
     <updated>2026-11-16T22:28:12Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · USA, New York, Victor</summary>
+    <summary>Not stated · Manufacturing &amp; Quality · USA, New York, Victor · $23–$25/hr · SolidWorks, AutoCAD, CAD, Lean Manufacturing</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2372-1</id>
@@ -261,7 +333,7 @@
     <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2372-1"/>
     <updated>2026-11-16T22:28:12Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · USA, New York, Victor</summary>
+    <summary>Not stated · Manufacturing &amp; Quality · USA, New York, Victor · $23–$25/hr · SolidWorks, AutoCAD, CAD, Lean Manufacturing</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:fanaticscollectibles:4507650009</id>
@@ -326,14 +398,6 @@
     <updated>2026-11-14T06:44:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Test &amp; Validation · Mountain View, CA · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25016015</id>
-    <title>Texas Instruments: Product Engineering Failure Analysis Intern 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016015"/>
-    <updated>2026-11-14T06:44:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Materials Engineering · Dallas, TX, United States · Java, C++, MATLAB, LabVIEW · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:hcjy.fa.us2.oraclecloud.com:13162</id>
@@ -742,69 +806,5 @@
     <updated>2026-11-11T19:51:17Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Torrance, CA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:astrazeneca:/job/US---Gaithersburg---MD/Manufacturing-Sciences--Validation-Engineer-Intern_R-264093</id>
-    <title>AstraZeneca: Manufacturing Sciences, Validation Engineer Intern</title>
-    <link href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Sciences--Validation-Engineer-Intern_R-264093"/>
-    <updated>2026-11-11T19:51:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US - Gaithersburg - MD · $37–$39/hr · H-1B track record: ~115 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:astrazeneca:/job/US---Rockville---MD/Manufacturing-Analyst-Intern_R-264060</id>
-    <title>AstraZeneca: Manufacturing Analyst Intern</title>
-    <link href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Rockville---MD/Manufacturing-Analyst-Intern_R-264060"/>
-    <updated>2026-11-11T19:51:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · US - Rockville - MD · $37–$39/hr · H-1B track record: ~115 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cranecompany:/job/Auburn-California/CNC-Machinist-Intern_JR102829</id>
-    <title>Crane Co.: CNC Machinist Intern 🇺🇸</title>
-    <link href="https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Auburn-California/CNC-Machinist-Intern_JR102829"/>
-    <updated>2026-11-11T19:51:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Auburn, California · $24–$27.5/hr · CNC, Lean Manufacturing · sponsorship: citizens-only · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:mars:/job/USA-Pennsylvania-Elizabethtown/Summer-2027-Mars-Snacking-Manufacturing-Internship---Muncy--PA_R172446-1</id>
-    <title>Mars: Summer 2027 Mars Snacking Manufacturing Internship - Muncy, PA</title>
-    <link href="https://mars.wd3.myworkdayjobs.com/external/job/USA-Pennsylvania-Elizabethtown/Summer-2027-Mars-Snacking-Manufacturing-Internship---Muncy--PA_R172446-1"/>
-    <updated>2026-11-11T19:51:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA-Pennsylvania-Elizabethtown</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:mars:/job/USA-Tennessee-Franklin/Summer-2027-Mars-Snacking-Manufacturing-Internship---Jackson--TN_R172450-1</id>
-    <title>Mars: Summer 2027 Mars Snacking Manufacturing Internship - Jackson, TN</title>
-    <link href="https://mars.wd3.myworkdayjobs.com/external/job/USA-Tennessee-Franklin/Summer-2027-Mars-Snacking-Manufacturing-Internship---Jackson--TN_R172450-1"/>
-    <updated>2026-11-11T19:51:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · USA-Tennessee-Franklin</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Mechanical-Engineer-Intern--Redondo-Beach-CA_R10260186</id>
-    <title>Northrop Grumman: 2027 Mechanical Engineer Intern- Redondo Beach CA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Mechanical-Engineer-Intern--Redondo-Beach-CA_R10260186"/>
-    <updated>2026-11-11T19:51:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · United States-California-Redondo Beach · $21.5–$39/hr · SolidWorks, Siemens NX, CATIA, CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260260</id>
-    <title>Northrop Grumman: 2027 Manufacturing Engineering Intern - Charlottesville VA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260260"/>
-    <updated>2026-11-11T19:51:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Virginia-Charlottesville · $18.5–$33.5/hr · CAD, CAM · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:slihrms:/job/USMILansing3100-West-Road/Structural-Engineering-Intern---Summer-2027_R-171365</id>
-    <title>AtkinsRéalis: Structural Engineering Intern - Summer 2027</title>
-    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USMILansing3100-West-Road/Structural-Engineering-Intern---Summer-2027_R-171365"/>
-    <updated>2026-11-11T19:51:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · US.MI.Lansing.3100 West Road · CAD</summary>
   </entry>
 </feed>

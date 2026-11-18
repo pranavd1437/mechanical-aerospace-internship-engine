@@ -794,9 +794,11 @@
       "greenhouse:dlrgroup:5441869008",
       "greenhouse:dlrgroup:5441876008",
       "greenhouse:dlrgroup:5441878008",
-      "greenhouse:dlrgroup:5441879008"
+      "greenhouse:dlrgroup:5441879008",
+      "greenhouse:dlrgroup:5486592008",
+      "greenhouse:dlrgroup:5486642008"
      ],
-     "count": 15
+     "count": 17
     }
    }
   },
@@ -1553,6 +1555,18 @@
     }
    }
   },
+  "jasperholdings": {
+   "name": "Jasperholdings",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-16",
+     "role_ids": [
+      "workday:jasperholdings:/job/Jasper-IN/Advanced-Manufacturing-Technician-Internship--Summer-2027_R-100859"
+     ],
+     "count": 1
+    }
+   }
+  },
   "jm family": {
    "name": "JM Family",
    "cycles": {
@@ -2008,6 +2022,19 @@
       "greenhouse:mill:4737767005"
      ],
      "count": 1
+    }
+   }
+  },
+  "mission critical group": {
+   "name": "Mission Critical Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-18",
+     "role_ids": [
+      "smartrecruiters:MissionCriticalGroup:3743990016934722",
+      "smartrecruiters:MissionCriticalGroup:3743990016936456"
+     ],
+     "count": 2
     }
    }
   },
@@ -2560,6 +2587,18 @@
      "first_posted": "2026-07-15",
      "role_ids": [
       "ashby:reflect-orbital:51d75a91-c088-4f00-89bc-4be8250b09f9"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "rehiko": {
+   "name": "Rehiko",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-18",
+     "role_ids": [
+      "workday:rehlko:/job/SheboyganWI/Manufacturing-Engineering-Co-Op-2027_R05223"
      ],
      "count": 1
     }
@@ -3624,5 +3663,5 @@
    }
   }
  },
- "updated_at": "2026-11-18T07:52:43Z"
+ "updated_at": "2026-11-18T20:48:51Z"
 }

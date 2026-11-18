@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T07:52:46Z",
+ "generated_at": "2026-11-18T20:48:53Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -154,7 +154,7 @@
    "expected": "2026-08-17",
    "days_until": -93,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95758",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94617",
    "note": ""
   },
   {
@@ -1432,6 +1432,20 @@
    "note": ""
   },
   {
+   "company": "Jasperholdings",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-16",
+   "days_until": -33,
+   "status": "open",
+   "url": "https://jasperholdings.wd504.myworkdayjobs.com/jet_careers/job/Jasper-IN/Advanced-Manufacturing-Technician-Internship--Summer-2027_R-100859",
+   "note": ""
+  },
+  {
    "company": "Badger Meter",
    "last_cycle_posted": "",
    "posted_on": "2026-10-19",
@@ -1863,6 +1877,34 @@
    "days_until": -2,
    "status": "open",
    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41816",
+   "note": ""
+  },
+  {
+   "company": "Mission Critical Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-18",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016936456",
+   "note": ""
+  },
+  {
+   "company": "Rehiko",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-18",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://rehlko.wd12.myworkdayjobs.com/Reh/job/SheboyganWI/Manufacturing-Engineering-Co-Op-2027_R05223",
    "note": ""
   },
   {
@@ -2902,5 +2944,5 @@
    "note": ""
   }
  ],
- "count": 207
+ "count": 210
 }
