@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-17T21:14:41Z</updated>
+  <updated>2026-11-18T07:52:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:greenhouse:castelioncorporation:4509759009</id>
-    <title>Castelion: Intern, Harness Manufacturing 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/castelioncorporation/jobs/4509759009"/>
+    <id>urn:intern-engine:workday:kiongroup:/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-op_JR-0095911</id>
+    <title>Dematic: Controls Engineering Intern/Co-op</title>
+    <link href="https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-op_JR-0095911"/>
+    <updated>2026-11-18T07:52:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Grand Rapids, MI, United States · H-1B track record: ~59 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000162190929</id>
+    <title>Veolia: Mechanical Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162190929"/>
+    <updated>2026-11-18T07:52:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Boulder, CO, United States · SolidWorks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:maticrobots:2f93fe19-0d71-4972-98da-8baf9d4ab05e</id>
+    <title>Matic: Electrical Design Engineer Intern</title>
+    <link href="https://jobs.ashbyhq.com/MaticRobots/2f93fe19-0d71-4972-98da-8baf9d4ab05e"/>
     <updated>2026-11-17T21:14:38Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Torrance, CA · SolidWorks, Siemens NX, CAD, Teamcenter · sponsorship: citizens-only</summary>
+    <summary>Not stated · Mechanical Design · Menlo Park, CA · $25–$35/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:castelioncorporation:4509752009</id>
@@ -24,60 +40,12 @@
     <summary>Not stated · Manufacturing &amp; Quality · Torrance, CA · SolidWorks, Siemens NX, CAD, Teamcenter, DFM/DFA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:dlrgroup:5441876008</id>
-    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441876008"/>
+    <id>urn:intern-engine:greenhouse:castelioncorporation:4509759009</id>
+    <title>Castelion: Intern, Harness Manufacturing 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/castelioncorporation/jobs/4509759009"/>
     <updated>2026-11-17T21:14:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Cleveland, Ohio, United States · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:dlrgroup:5441879008</id>
-    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441879008"/>
-    <updated>2026-11-17T21:14:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Washington, D.C. · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:dlrgroup:5441778008</id>
-    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441778008"/>
-    <updated>2026-11-17T21:14:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Orlando, Florida, United States · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:dlrgroup:5441262008</id>
-    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441262008"/>
-    <updated>2026-11-17T21:14:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Los Angeles, California, United States · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:dlrgroup:5441865008</id>
-    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441865008"/>
-    <updated>2026-11-17T21:14:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Overland Park, Kansas, United States · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:dlrgroup:5441813008</id>
-    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441813008"/>
-    <updated>2026-11-17T21:14:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Charlotte, North Carolina, United States; Durham, North Carolina, United States · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:dlrgroup:5441148008</id>
-    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441148008"/>
-    <updated>2026-11-17T21:14:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Minneapolis, Minnesota, United States · sponsorship: no-sponsorship</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Torrance, CA · SolidWorks, Siemens NX, CAD, Teamcenter · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:dlrgroup:5441008008</id>
@@ -88,20 +56,12 @@
     <summary>Summer 2027 · Mechanical Design · Portland, Oregon, United States; Seattle, Washington, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:dlrgroup:5441384008</id>
+    <id>urn:intern-engine:greenhouse:dlrgroup:5441148008</id>
     <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441384008"/>
+    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441148008"/>
     <updated>2026-11-17T21:14:38Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Denver, Colorado, United States; Phoenix, Arizona, United States · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:dlrgroup:5441878008</id>
-    <title>DLR Group: Structural Engineering Intern | Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441878008"/>
-    <updated>2026-11-17T21:14:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Cleveland, Ohio, United States · sponsorship: no-sponsorship</summary>
+    <summary>Summer 2027 · Mechanical Design · Minneapolis, Minnesota, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:dlrgroup:5441213008</id>
@@ -110,6 +70,14 @@
     <updated>2026-11-17T21:14:38Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · Minneapolis, Minnesota, United States · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:dlrgroup:5441262008</id>
+    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441262008"/>
+    <updated>2026-11-17T21:14:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Los Angeles, California, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:dlrgroup:5441300008</id>
@@ -128,12 +96,20 @@
     <summary>Summer 2027 · Structures &amp; FEA · Denver, Colorado, United States; Phoenix, Arizona, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:dlrgroup:5441869008</id>
-    <title>DLR Group: Structural Engineering Intern | Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441869008"/>
+    <id>urn:intern-engine:greenhouse:dlrgroup:5441384008</id>
+    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441384008"/>
     <updated>2026-11-17T21:14:38Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Charlotte, North Carolina, United States · sponsorship: no-sponsorship</summary>
+    <summary>Summer 2027 · Mechanical Design · Denver, Colorado, United States; Phoenix, Arizona, United States · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:dlrgroup:5441778008</id>
+    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441778008"/>
+    <updated>2026-11-17T21:14:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Orlando, Florida, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:dlrgroup:5441805008</id>
@@ -144,20 +120,60 @@
     <summary>Summer 2027 · Structures &amp; FEA · Dallas, Texas, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:dlrgroup:5441813008</id>
+    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441813008"/>
+    <updated>2026-11-17T21:14:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Charlotte, North Carolina, United States; Durham, North Carolina, United States · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:dlrgroup:5441865008</id>
+    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441865008"/>
+    <updated>2026-11-17T21:14:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Overland Park, Kansas, United States · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:dlrgroup:5441869008</id>
+    <title>DLR Group: Structural Engineering Intern | Summer 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441869008"/>
+    <updated>2026-11-17T21:14:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · Charlotte, North Carolina, United States · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:dlrgroup:5441876008</id>
+    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441876008"/>
+    <updated>2026-11-17T21:14:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Cleveland, Ohio, United States · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:dlrgroup:5441878008</id>
+    <title>DLR Group: Structural Engineering Intern | Summer 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441878008"/>
+    <updated>2026-11-17T21:14:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · Cleveland, Ohio, United States · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:dlrgroup:5441879008</id>
+    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441879008"/>
+    <updated>2026-11-17T21:14:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Washington, D.C. · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:greenhouse:lightmatter:5474690008</id>
     <title>Lightmatter: Product &amp; Test Engineering, Intern Summer 2027</title>
     <link href="https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008"/>
     <updated>2026-11-17T21:14:38Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Test &amp; Validation · Mountain View, CA · Python, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:maticrobots:2f93fe19-0d71-4972-98da-8baf9d4ab05e</id>
-    <title>Matic: Electrical Design Engineer Intern</title>
-    <link href="https://jobs.ashbyhq.com/MaticRobots/2f93fe19-0d71-4972-98da-8baf9d4ab05e"/>
-    <updated>2026-11-17T21:14:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Menlo Park, CA · $25–$35/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:regent:6b044f00-b7e8-4141-8cd8-2d77fa40eea0</id>
@@ -790,21 +806,5 @@
     <updated>2026-11-11T19:51:17Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · US.MI.Lansing.3100 West Road · CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:regent:8bd9c9a5-04f4-4321-b837-9888a70d363d</id>
-    <title>REGENT: Aerodynamics Engineering Intern (Summer)</title>
-    <link href="https://jobs.ashbyhq.com/REGENT/8bd9c9a5-04f4-4321-b837-9888a70d363d"/>
-    <updated>2026-11-11T06:49:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Thermal, Fluids &amp; Propulsion · North Kingstown, Rhode Island, USA · Python, CFD, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:regent:9e314bda-fce1-444b-9874-bacd332880f9</id>
-    <title>REGENT: Test Engineering Intern (Summer)</title>
-    <link href="https://jobs.ashbyhq.com/REGENT/9e314bda-fce1-444b-9874-bacd332880f9"/>
-    <updated>2026-11-11T06:49:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Test &amp; Validation · North Kingstown, Rhode Island, USA · Python, MATLAB</summary>
   </entry>
 </feed>
