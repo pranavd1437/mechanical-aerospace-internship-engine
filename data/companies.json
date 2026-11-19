@@ -14380,6 +14380,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Jessup University",
+    "slug": "WilliamJessupUniversityBayAreaCampus",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Jigsaw",
     "slug": "jigsaw",
     "ats": "ashby"
@@ -16314,6 +16319,11 @@
   {
     "name": "Makai Labs",
     "slug": "makai-labs",
+    "ats": "ashby"
+  },
+  {
+    "name": "MakerMaker",
+    "slug": "makermaker",
     "ats": "ashby"
   },
   {
@@ -24597,6 +24607,14 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "SouthernTide"
+  },
+  {
+    "name": "Southern Water",
+    "slug": "southernwater",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "SouthernWater",
+    "host": "wd3.myworkdaysite.com"
   },
   {
     "name": "SouthState Bank",
