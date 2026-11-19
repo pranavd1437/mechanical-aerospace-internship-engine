@@ -5,23 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-18T20:48:53Z</updated>
+  <updated>2026-11-19T07:43:34Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2439868</id>
-    <title>Cummins: EATON - Mechanical Engineering Internship (ECJV)</title>
-    <link href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439868"/>
-    <updated>2026-11-18T20:48:51Z</updated>
+    <id>urn:intern-engine:ashby:regent:6e880bc1-e111-47ce-962e-8253767a58e7</id>
+    <title>REGENT: Manufacturing Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/REGENT/6e880bc1-e111-47ce-962e-8253767a58e7"/>
+    <updated>2026-11-19T07:43:30Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Galesburg, MI, United States · H-1B track record: ~917 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:dlrgroup:5486642008</id>
-    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5486642008"/>
-    <updated>2026-11-18T20:48:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Chicago, Illinois, United States · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Manufacturing &amp; Quality · North Kingstown, Rhode Island, USA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:dlrgroup:5486592008</id>
@@ -32,20 +24,20 @@
     <summary>Summer 2027 · Structures &amp; FEA · Chicago, Illinois, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:jasperholdings:/job/Jasper-IN/Advanced-Manufacturing-Technician-Internship--Summer-2027_R-100859</id>
-    <title>Jasperholdings: Advanced Manufacturing Technician Internship: Summer 2027</title>
-    <link href="https://jasperholdings.wd504.myworkdayjobs.com/jet_careers/job/Jasper-IN/Advanced-Manufacturing-Technician-Internship--Summer-2027_R-100859"/>
+    <id>urn:intern-engine:greenhouse:dlrgroup:5486642008</id>
+    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5486642008"/>
     <updated>2026-11-18T20:48:51Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Jasper, IN · CNC</summary>
+    <summary>Summer 2027 · Mechanical Design · Chicago, Illinois, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:MissionCriticalGroup:3743990016936456</id>
-    <title>Mission Critical Group: 2027 Summer Internship - Mechanical Engineering</title>
-    <link href="https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016936456"/>
+    <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2439868</id>
+    <title>Cummins: EATON - Mechanical Engineering Internship (ECJV)</title>
+    <link href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439868"/>
     <updated>2026-11-18T20:48:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Harleysville, Pennsylvania, United States · AutoCAD</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Galesburg, MI, United States · H-1B track record: ~917 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:MissionCriticalGroup:3743990016934722</id>
@@ -56,6 +48,22 @@
     <summary>Summer 2027 · Mechanical Design · Brookston, Indiana, United States · AutoCAD</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:smartrecruiters:MissionCriticalGroup:3743990016936456</id>
+    <title>Mission Critical Group: 2027 Summer Internship - Mechanical Engineering</title>
+    <link href="https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016936456"/>
+    <updated>2026-11-18T20:48:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Harleysville, Pennsylvania, United States · AutoCAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jasperholdings:/job/Jasper-IN/Advanced-Manufacturing-Technician-Internship--Summer-2027_R-100859</id>
+    <title>Jasperholdings: Advanced Manufacturing Technician Internship: Summer 2027</title>
+    <link href="https://jasperholdings.wd504.myworkdayjobs.com/jet_careers/job/Jasper-IN/Advanced-Manufacturing-Technician-Internship--Summer-2027_R-100859"/>
+    <updated>2026-11-18T20:48:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · Jasper, IN · CNC</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:rehlko:/job/SheboyganWI/Manufacturing-Engineering-Co-Op-2027_R05223</id>
     <title>Rehiko: Manufacturing Engineering Co-Op 2027</title>
     <link href="https://rehlko.wd12.myworkdayjobs.com/Reh/job/SheboyganWI/Manufacturing-Engineering-Co-Op-2027_R05223"/>
@@ -64,17 +72,17 @@
     <summary>Summer 2027 · Manufacturing &amp; Quality · Sheboygan,WI</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:thekineticgroup:/job/Lonoke-AR/Quality-Engineering-Internship---Remington-Ammunition_R0012985</id>
-    <title>The Kinetic Group: Quality Engineering Internship - Remington Ammunition</title>
-    <link href="https://thekineticgroup.wd1.myworkdayjobs.com/EXTERNAL_TKG/job/Lonoke-AR/Quality-Engineering-Internship---Remington-Ammunition_R0012985"/>
+    <id>urn:intern-engine:workday:thekineticgroup:/job/Lonoke-AR/Manufacturing-Engineering-Internship---Remington_R0012982</id>
+    <title>The Kinetic Group: Manufacturing Engineering Internship - Remington</title>
+    <link href="https://thekineticgroup.wd1.myworkdayjobs.com/EXTERNAL_TKG/job/Lonoke-AR/Manufacturing-Engineering-Internship---Remington_R0012982"/>
     <updated>2026-11-18T20:48:51Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Lonoke, AR</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:thekineticgroup:/job/Lonoke-AR/Manufacturing-Engineering-Internship---Remington_R0012982</id>
-    <title>The Kinetic Group: Manufacturing Engineering Internship - Remington</title>
-    <link href="https://thekineticgroup.wd1.myworkdayjobs.com/EXTERNAL_TKG/job/Lonoke-AR/Manufacturing-Engineering-Internship---Remington_R0012982"/>
+    <id>urn:intern-engine:workday:thekineticgroup:/job/Lonoke-AR/Quality-Engineering-Internship---Remington-Ammunition_R0012985</id>
+    <title>The Kinetic Group: Quality Engineering Internship - Remington Ammunition</title>
+    <link href="https://thekineticgroup.wd1.myworkdayjobs.com/EXTERNAL_TKG/job/Lonoke-AR/Quality-Engineering-Internship---Remington-Ammunition_R0012985"/>
     <updated>2026-11-18T20:48:51Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Lonoke, AR</summary>
@@ -158,14 +166,6 @@
     <updated>2026-11-17T21:14:38Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · Los Angeles, California, United States · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:dlrgroup:5441370008</id>
-    <title>DLR Group: Structural Engineering Intern | Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441370008"/>
-    <updated>2026-11-17T21:14:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Denver, Colorado, United States; Phoenix, Arizona, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:dlrgroup:5441384008</id>
