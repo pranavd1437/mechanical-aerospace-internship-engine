@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-19T07:43:34Z</updated>
+  <updated>2026-11-19T20:52:57Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:pivotal:2c5e6abf-3244-4e46-9c18-fab3fc1c050d</id>
+    <title>Pivotal Software: Internship, GNC Engineering (Summer 2027) 🇺🇸</title>
+    <link href="https://jobs.lever.co/pivotal/2c5e6abf-3244-4e46-9c18-fab3fc1c050d"/>
+    <updated>2026-11-19T20:52:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · Palo Alto, CA · 30–35 USD/hr · Python, MATLAB, Simulink, Git · sponsorship: citizens-only · H-1B track record: ~24 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000162544079</id>
+    <title>Renesas Electronics: Digital Design Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000162544079"/>
+    <updated>2026-11-19T20:52:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Duluth, GEORGIA, United States · Python, Bash, Linux, Git, Verilog · H-1B track record: ~68 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:scoutspace:5489233008</id>
+    <title>Scout Space: GNC and Astrodynamics Engineering Intern 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/scoutspace/jobs/5489233008"/>
+    <updated>2026-11-19T20:52:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Controls &amp; Mechatronics · Reston, VA - Remote · $30/hr · Python, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:scoutspace:5489237008</id>
+    <title>Scout Space: Mechanical Engineering Intern 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/scoutspace/jobs/5489237008"/>
+    <updated>2026-11-19T20:52:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Reston, VA · $30/hr · Python, MATLAB, SolidWorks, CAD, GD&amp;T · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:13a615e3-acc0-4e5e-a829-51a54dde80ed</id>
+    <title>Shield AI: 2027 Summer Intern - Aerostructures Intern - 6472 - 6427 - 6415</title>
+    <link href="https://jobs.ashbyhq.com/shield/13a615e3-acc0-4e5e-a829-51a54dde80ed"/>
+    <updated>2026-11-19T20:52:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · Seattle, WA, US · $35 – $75 per hour · SolidWorks, Siemens NX, CATIA, Creo, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:shield:13a615e3-acc0-4e5e-a829-51a54dde80ed</id>
+    <title>Shield AI: 2027 Summer Intern - Aerostructures Intern - 6472 - 6427 - 6415</title>
+    <link href="https://jobs.ashbyhq.com/shield/13a615e3-acc0-4e5e-a829-51a54dde80ed"/>
+    <updated>2026-11-19T20:52:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Structures &amp; FEA · Seattle, WA, US · $35 – $75 per hour · SolidWorks, Siemens NX, CATIA, Creo, CAD</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:regent:6e880bc1-e111-47ce-962e-8253767a58e7</id>
     <title>REGENT: Manufacturing Engineering Intern</title>
@@ -245,7 +293,7 @@
     <link href="https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008"/>
     <updated>2026-11-17T21:14:38Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Mountain View, CA · Python, Git</summary>
+    <summary>Summer 2027 · Test &amp; Validation · Boston, MA · Python, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:regent:6b044f00-b7e8-4141-8cd8-2d77fa40eea0</id>
@@ -758,53 +806,5 @@
     <updated>2026-11-12T07:32:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · US.NC.Raleigh.1616 East Mill Brook Road · AutoCAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:regent:1197920e-95f8-42e9-b4a6-1c40ec7137bd</id>
-    <title>REGENT: Composite Structures Engineering Intern (Summer)</title>
-    <link href="https://jobs.ashbyhq.com/REGENT/1197920e-95f8-42e9-b4a6-1c40ec7137bd"/>
-    <updated>2026-11-11T19:51:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Structures &amp; FEA · North Kingstown, Rhode Island, USA · Siemens NX, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:shield:043c739e-ff80-4faa-b2be-5d1e96768dfa</id>
-    <title>Shield AI: Summer 2027 - Advanced Manufacturing Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/shield/043c739e-ff80-4faa-b2be-5d1e96768dfa"/>
-    <updated>2026-11-11T19:51:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Dallas, TX, US · $35 – $90 · SolidWorks, Siemens NX, CATIA, Creo, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:shield:0eb4a172-b6b9-4bda-85e5-fe566b342c0e</id>
-    <title>Shield AI: June 2027 Co-op - Reliability Engineering #5953</title>
-    <link href="https://jobs.ashbyhq.com/shield/0eb4a172-b6b9-4bda-85e5-fe566b342c0e"/>
-    <updated>2026-11-11T19:51:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Seattle, WA, US · Python, SolidWorks, ANSYS, FMEA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:shield:38ba128e-815b-4a14-b4d2-446ffc190a33</id>
-    <title>Shield AI: Summer 2027 - Mechanical Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/shield/38ba128e-815b-4a14-b4d2-446ffc190a33"/>
-    <updated>2026-11-11T19:51:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Seattle, WA, US · $35 – $95 per hour · SolidWorks, Siemens NX, CATIA, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:shield:ebdcc6cf-04da-47a7-971d-17e43f64c37c</id>
-    <title>Shield AI: Structures / Mechanical Test Co-op - January 2027 Co-op</title>
-    <link href="https://jobs.ashbyhq.com/shield/ebdcc6cf-04da-47a7-971d-17e43f64c37c"/>
-    <updated>2026-11-11T19:51:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Dallas, TX, US · Python, SolidWorks, Siemens NX, Creo, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:castelioncorporation:4503740009</id>
-    <title>Castelion: Propulsion Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/castelioncorporation/jobs/4503740009"/>
-    <updated>2026-11-11T19:51:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Torrance, CA · sponsorship: citizens-only</summary>
   </entry>
 </feed>
