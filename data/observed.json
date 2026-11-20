@@ -1821,6 +1821,18 @@
     }
    }
   },
+  "lucid motors": {
+   "name": "Lucid Motors",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-20",
+     "role_ids": [
+      "greenhouse:lucidmotors:5290899007"
+     ],
+     "count": 1
+    }
+   }
+  },
   "lumbermen s": {
    "name": "Lumbermen's",
    "cycles": {
@@ -2338,10 +2350,11 @@
      "first_posted": "2026-10-12",
      "role_ids": [
       "workday:oatey:/job/Cleveland-OH-Manufacturing/Materials-Intern---Cleveland-Manufacturing_R7196",
+      "workday:oatey:/job/Omaha-NE-Manufacturing/Mechanical-Engineering-Intern_R7306-1",
       "workday:oatey:/job/Shakopee-MN-Manufacturing/Design-Engineering-Intern_R7272",
       "workday:oatey:/job/Shakopee-MN-Manufacturing/Engineering-Intern--Manufacturing---Automation_R7258"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2426,9 +2439,10 @@
       "greenhouse:pacificfusion:4398388009",
       "greenhouse:pacificfusion:4505488009",
       "greenhouse:pacificfusion:4505884009",
-      "greenhouse:pacificfusion:4505980009"
+      "greenhouse:pacificfusion:4505980009",
+      "greenhouse:pacificfusion:4515017009"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -3689,5 +3703,5 @@
    }
   }
  },
- "updated_at": "2026-11-20T07:42:01Z"
+ "updated_at": "2026-11-20T20:41:49Z"
 }

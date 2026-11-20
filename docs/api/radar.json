@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T07:42:05Z",
+ "generated_at": "2026-11-20T20:41:52Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -154,7 +154,7 @@
    "expected": "2026-08-17",
    "days_until": -95,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94617",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95758",
    "note": ""
   },
   {
@@ -714,7 +714,7 @@
    "expected": "2026-09-09",
    "days_until": -72,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/LLNL/3743990015127766",
+   "url": "https://jobs.smartrecruiters.com/LLNL/3743990016985026",
    "note": ""
   },
   {
@@ -728,7 +728,7 @@
    "expected": "2026-09-09",
    "days_until": -72,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/llnl/3743990015127766",
+   "url": "https://jobs.smartrecruiters.com/llnl/3743990016985026",
    "note": ""
   },
   {
@@ -1950,6 +1950,20 @@
    "note": ""
   },
   {
+   "company": "Lucid Motors",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-20",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007",
+   "note": ""
+  },
+  {
    "company": "Forterra",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2972,5 +2986,5 @@
    "note": ""
   }
  ],
- "count": 212
+ "count": 213
 }

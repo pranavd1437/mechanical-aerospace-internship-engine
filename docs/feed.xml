@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-20T07:42:05Z</updated>
+  <updated>2026-11-20T20:41:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:lucidmotors:5290899007</id>
+    <title>Lucid Motors: Intern, Vehicle Motion Controls Engineer, Summer 2027</title>
+    <link href="https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007"/>
+    <updated>2026-11-20T20:41:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · Newark, CA · Python, C++, MATLAB, Simulink, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oatey:/job/Omaha-NE-Manufacturing/Mechanical-Engineering-Intern_R7306-1</id>
+    <title>OATEY: Mechanical Engineering Intern</title>
+    <link href="https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Omaha-NE-Manufacturing/Mechanical-Engineering-Intern_R7306-1"/>
+    <updated>2026-11-20T20:41:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Omaha, NE (Manufacturing)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pacificfusion:4515017009</id>
+    <title>Pacific Fusion: Summer 2027 Mechanical Engineering - Precision Positioning and Alignment Internship 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/pacificfusion/jobs/4515017009"/>
+    <updated>2026-11-20T20:41:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · San Leandro, CA · Python, MATLAB, SolidWorks, Creo, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:samsungsemiconductor:8197312003</id>
+    <title>Samsung: Intern, Serdes Analog Design Engineer</title>
+    <link href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003"/>
+    <updated>2026-11-20T07:42:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · San Jose, California, United States · Python, MATLAB, Verilog</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibwujb.fa.ocs.oraclecloud.com:11169</id>
+    <title>Ralliant: Electrical Design Engineer Intern (Summer 2027)</title>
+    <link href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169"/>
+    <updated>2026-11-20T07:42:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Beaverton, OR, United States · Python, C++, MATLAB</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:LLNL:3743990016985026</id>
     <title>Lawrence Livermore National Laboratory (LLNL): Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸</title>
@@ -22,22 +62,6 @@
     <updated>2026-11-20T07:42:01Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Materials Engineering · Livermore, CA, United States · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibwujb.fa.ocs.oraclecloud.com:11169</id>
-    <title>Ralliant: Electrical Design Engineer Intern (Summer 2027)</title>
-    <link href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169"/>
-    <updated>2026-11-20T07:42:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Beaverton, OR, United States · Python, C++, MATLAB</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:samsungsemiconductor:8197312003</id>
-    <title>Samsung: Intern, Serdes Analog Design Engineer</title>
-    <link href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003"/>
-    <updated>2026-11-20T07:42:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · San Jose, California, United States · Python, MATLAB, Verilog</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:13a615e3-acc0-4e5e-a829-51a54dde80ed</id>
@@ -353,7 +377,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:pacificfusion:4505884009</id>
-    <title>Pacific Fusion: Summer 2027 Nuclear Diagnostics Mechanical Engineer Internship 🇺🇸</title>
+    <title>Pacific Fusion: Summer 2027 Nuclear Diagnostics Mechanical Engineering Internship 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/pacificfusion/jobs/4505884009"/>
     <updated>2026-11-16T22:28:12Z</updated>
     <category term="Summer 2027"/>
@@ -782,29 +806,5 @@
     <updated>2026-11-12T07:32:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Maryland-Elkridge · $20.5–$37.25/hr · Siemens NX, CAD, Teamcenter · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260251</id>
-    <title>Northrop Grumman: 2027 Manufacturing Engineering Intern - Charlottesville VA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260251"/>
-    <updated>2026-11-12T07:32:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Virginia-Charlottesville · $18.5–$33.5/hr · CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260268-1</id>
-    <title>Northrop Grumman: 2027 Manufacturing Engineering Intern - Charlottesville VA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260268-1"/>
-    <updated>2026-11-12T07:32:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Virginia-Charlottesville · $18.5–$33.5/hr · CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Waynesboro-VA_R10260271</id>
-    <title>Northrop Grumman: 2027 Manufacturing Engineering Intern - Waynesboro VA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Waynesboro-VA_R10260271"/>
-    <updated>2026-11-12T07:32:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Virginia-Charlottesville · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>
