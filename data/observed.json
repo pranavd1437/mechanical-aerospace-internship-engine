@@ -1699,9 +1699,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-09",
      "role_ids": [
-      "smartrecruiters:LLNL:3743990015127766"
+      "smartrecruiters:LLNL:3743990015127766",
+      "smartrecruiters:LLNL:3743990016985026"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1767,9 +1768,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-09",
      "role_ids": [
-      "smartrecruiters:llnl:3743990015127766"
+      "smartrecruiters:llnl:3743990015127766",
+      "smartrecruiters:llnl:3743990016985026"
      ],
-     "count": 1
+     "count": 2
     },
     "Fall 2026": {
      "first_posted": "2026-06-15",
@@ -2563,9 +2565,10 @@
      "first_posted": "2026-09-29",
      "role_ids": [
       "oracle:ibwujb.fa.ocs.oraclecloud.com:10680",
-      "oracle:ibwujb.fa.ocs.oraclecloud.com:10681"
+      "oracle:ibwujb.fa.ocs.oraclecloud.com:10681",
+      "oracle:ibwujb.fa.ocs.oraclecloud.com:11169"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2893,6 +2896,19 @@
       "ashby:scout-ai:fba467c4-30e8-4ee1-8ac9-20b48e132076"
      ],
      "count": 1
+    }
+   }
+  },
+  "scout space": {
+   "name": "Scout Space",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-19",
+     "role_ids": [
+      "greenhouse:scoutspace:5489233008",
+      "greenhouse:scoutspace:5489237008"
+     ],
+     "count": 2
     }
    }
   },
@@ -3673,5 +3689,5 @@
    }
   }
  },
- "updated_at": "2026-11-19T20:52:54Z"
+ "updated_at": "2026-11-20T07:42:01Z"
 }

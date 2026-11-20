@@ -5,39 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-19T20:52:57Z</updated>
+  <updated>2026-11-20T07:42:05Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:lever:pivotal:2c5e6abf-3244-4e46-9c18-fab3fc1c050d</id>
-    <title>Pivotal Software: Internship, GNC Engineering (Summer 2027) 🇺🇸</title>
-    <link href="https://jobs.lever.co/pivotal/2c5e6abf-3244-4e46-9c18-fab3fc1c050d"/>
-    <updated>2026-11-19T20:52:54Z</updated>
+    <id>urn:intern-engine:smartrecruiters:LLNL:3743990016985026</id>
+    <title>Lawrence Livermore National Laboratory (LLNL): Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/LLNL/3743990016985026"/>
+    <updated>2026-11-20T07:42:01Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · Palo Alto, CA · 30–35 USD/hr · Python, MATLAB, Simulink, Git · sponsorship: citizens-only · H-1B track record: ~24 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Materials Engineering · Livermore, CA, United States · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000162544079</id>
-    <title>Renesas Electronics: Digital Design Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000162544079"/>
-    <updated>2026-11-19T20:52:54Z</updated>
+    <id>urn:intern-engine:smartrecruiters:llnl:3743990016985026</id>
+    <title>LLNL: Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/llnl/3743990016985026"/>
+    <updated>2026-11-20T07:42:01Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Duluth, GEORGIA, United States · Python, Bash, Linux, Git, Verilog · H-1B track record: ~68 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Materials Engineering · Livermore, CA, United States · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:scoutspace:5489233008</id>
-    <title>Scout Space: GNC and Astrodynamics Engineering Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/scoutspace/jobs/5489233008"/>
-    <updated>2026-11-19T20:52:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Reston, VA - Remote · $30/hr · Python, C++ · sponsorship: citizens-only</summary>
+    <id>urn:intern-engine:oracle:ibwujb.fa.ocs.oraclecloud.com:11169</id>
+    <title>Ralliant: Electrical Design Engineer Intern (Summer 2027)</title>
+    <link href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169"/>
+    <updated>2026-11-20T07:42:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Beaverton, OR, United States · Python, C++, MATLAB</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:scoutspace:5489237008</id>
-    <title>Scout Space: Mechanical Engineering Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/scoutspace/jobs/5489237008"/>
-    <updated>2026-11-19T20:52:54Z</updated>
+    <id>urn:intern-engine:greenhouse:samsungsemiconductor:8197312003</id>
+    <title>Samsung: Intern, Serdes Analog Design Engineer</title>
+    <link href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003"/>
+    <updated>2026-11-20T07:42:01Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Reston, VA · $30/hr · Python, MATLAB, SolidWorks, CAD, GD&amp;T · sponsorship: citizens-only</summary>
+    <summary>Not stated · Mechanical Design · San Jose, California, United States · Python, MATLAB, Verilog</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:13a615e3-acc0-4e5e-a829-51a54dde80ed</id>
@@ -54,6 +54,38 @@
     <updated>2026-11-19T20:52:54Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · Seattle, WA, US · $35 – $75 per hour · SolidWorks, Siemens NX, CATIA, Creo, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:scoutspace:5489233008</id>
+    <title>Scout Space: GNC and Astrodynamics Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/scoutspace/jobs/5489233008"/>
+    <updated>2026-11-19T20:52:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · Reston, VA - Remote · $30/hr · Python, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:scoutspace:5489237008</id>
+    <title>Scout Space: Mechanical Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/scoutspace/jobs/5489237008"/>
+    <updated>2026-11-19T20:52:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Reston, VA · $30/hr · Python, MATLAB, SolidWorks, CAD, GD&amp;T · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:pivotal:2c5e6abf-3244-4e46-9c18-fab3fc1c050d</id>
+    <title>Pivotal Software: Internship, GNC Engineering (Summer 2027) 🇺🇸</title>
+    <link href="https://jobs.lever.co/pivotal/2c5e6abf-3244-4e46-9c18-fab3fc1c050d"/>
+    <updated>2026-11-19T20:52:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Controls &amp; Mechatronics · Palo Alto, CA · 30–35 USD/hr · Python, MATLAB, Simulink, Git · sponsorship: citizens-only · H-1B track record: ~24 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000162544079</id>
+    <title>Renesas Electronics: Digital Design Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000162544079"/>
+    <updated>2026-11-19T20:52:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Duluth, GEORGIA, United States · Python, Bash, Linux, Git, Verilog · H-1B track record: ~68 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:regent:6e880bc1-e111-47ce-962e-8253767a58e7</id>
@@ -125,7 +157,7 @@
     <link href="https://thekineticgroup.wd1.myworkdayjobs.com/EXTERNAL_TKG/job/Lonoke-AR/Manufacturing-Engineering-Internship---Remington_R0012982"/>
     <updated>2026-11-18T20:48:51Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Lonoke, AR</summary>
+    <summary>Not stated · Manufacturing &amp; Quality · Lonoke, AR · SolidWorks, CAD, Six Sigma, Lean Manufacturing, HTML/CSS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:thekineticgroup:/job/Lonoke-AR/Quality-Engineering-Internship---Remington-Ammunition_R0012985</id>
@@ -133,7 +165,7 @@
     <link href="https://thekineticgroup.wd1.myworkdayjobs.com/EXTERNAL_TKG/job/Lonoke-AR/Quality-Engineering-Internship---Remington-Ammunition_R0012985"/>
     <updated>2026-11-18T20:48:51Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Lonoke, AR</summary>
+    <summary>Not stated · Manufacturing &amp; Quality · Lonoke, AR · HTML/CSS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000162190929</id>
@@ -208,14 +240,6 @@
     <summary>Summer 2027 · Mechanical Design · Los Angeles, California, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:dlrgroup:5441300008</id>
-    <title>DLR Group: Structural Engineering Intern | Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441300008"/>
-    <updated>2026-11-17T21:14:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Los Angeles, California, United States · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:dlrgroup:5441384008</id>
     <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
     <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441384008"/>
@@ -262,14 +286,6 @@
     <updated>2026-11-17T21:14:38Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · Charlotte, North Carolina, United States · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:dlrgroup:5441876008</id>
-    <title>DLR Group: Mechanical Engineering Intern | Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441876008"/>
-    <updated>2026-11-17T21:14:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Cleveland, Ohio, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:dlrgroup:5441878008</id>
@@ -438,14 +454,6 @@
     <updated>2026-11-14T06:44:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Test &amp; Validation · Mountain View, CA · $105K · Python, SQL, CAD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:lightmatter:5473869008</id>
-    <title>Lightmatter: Hardware Test Engineering, Intern (Summer 2027)</title>
-    <link href="https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008"/>
-    <updated>2026-11-14T06:44:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Mountain View, CA · Python</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:hcjy.fa.us2.oraclecloud.com:13162</id>
@@ -798,13 +806,5 @@
     <updated>2026-11-12T07:32:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Virginia-Charlottesville · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:slihrms:/job/USNCRaleigh1616-East-Mill-Brook-Road/Roadway-Design-Engineering-Intern---Summer-2027_R-162556</id>
-    <title>AtkinsRéalis: Roadway Design Engineering Intern - Summer 2027</title>
-    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USNCRaleigh1616-East-Mill-Brook-Road/Roadway-Design-Engineering-Intern---Summer-2027_R-162556"/>
-    <updated>2026-11-12T07:32:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · US.NC.Raleigh.1616 East Mill Brook Road · AutoCAD</summary>
   </entry>
 </feed>
