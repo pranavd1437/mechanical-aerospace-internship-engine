@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-20T20:41:52Z</updated>
+  <updated>2026-11-21T07:25:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:99351</id>
+    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99351"/>
+    <updated>2026-11-21T07:25:15Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Greenville, SC, United States · AutoCAD</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lucidmotors:5290899007</id>
     <title>Lucid Motors: Intern, Vehicle Motion Controls Engineer, Summer 2027</title>
@@ -16,20 +24,20 @@
     <summary>Summer 2027 · Controls &amp; Mechatronics · Newark, CA · Python, C++, MATLAB, Simulink, Git</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:oatey:/job/Omaha-NE-Manufacturing/Mechanical-Engineering-Intern_R7306-1</id>
-    <title>OATEY: Mechanical Engineering Intern</title>
-    <link href="https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Omaha-NE-Manufacturing/Mechanical-Engineering-Intern_R7306-1"/>
-    <updated>2026-11-20T20:41:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Omaha, NE (Manufacturing)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:pacificfusion:4515017009</id>
     <title>Pacific Fusion: Summer 2027 Mechanical Engineering - Precision Positioning and Alignment Internship 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/pacificfusion/jobs/4515017009"/>
     <updated>2026-11-20T20:41:49Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · San Leandro, CA · Python, MATLAB, SolidWorks, Creo, CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oatey:/job/Omaha-NE-Manufacturing/Mechanical-Engineering-Intern_R7306-1</id>
+    <title>OATEY: Mechanical Engineering Intern</title>
+    <link href="https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Omaha-NE-Manufacturing/Mechanical-Engineering-Intern_R7306-1"/>
+    <updated>2026-11-20T20:41:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Omaha, NE (Manufacturing)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:samsungsemiconductor:8197312003</id>
@@ -104,14 +112,6 @@
     <summary>Summer 2027 · Controls &amp; Mechatronics · Palo Alto, CA · 30–35 USD/hr · Python, MATLAB, Simulink, Git · sponsorship: citizens-only · H-1B track record: ~24 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000162544079</id>
-    <title>Renesas Electronics: Digital Design Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000162544079"/>
-    <updated>2026-11-19T20:52:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Duluth, GEORGIA, United States · Python, Bash, Linux, Git, Verilog · H-1B track record: ~68 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:ashby:regent:6e880bc1-e111-47ce-962e-8253767a58e7</id>
     <title>REGENT: Manufacturing Engineering Intern</title>
     <link href="https://jobs.ashbyhq.com/REGENT/6e880bc1-e111-47ce-962e-8253767a58e7"/>
@@ -134,14 +134,6 @@
     <updated>2026-11-18T20:48:51Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Chicago, Illinois, United States · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2439868</id>
-    <title>Cummins: EATON - Mechanical Engineering Internship (ECJV)</title>
-    <link href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439868"/>
-    <updated>2026-11-18T20:48:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Galesburg, MI, United States · H-1B track record: ~917 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:MissionCriticalGroup:3743990016934722</id>
@@ -310,14 +302,6 @@
     <updated>2026-11-17T21:14:38Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Structures &amp; FEA · Charlotte, North Carolina, United States · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:dlrgroup:5441878008</id>
-    <title>DLR Group: Structural Engineering Intern | Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441878008"/>
-    <updated>2026-11-17T21:14:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Structures &amp; FEA · Cleveland, Ohio, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:dlrgroup:5441879008</id>
@@ -806,5 +790,21 @@
     <updated>2026-11-12T07:32:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Maryland-Elkridge · $20.5–$37.25/hr · Siemens NX, CAD, Teamcenter · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260251</id>
+    <title>Northrop Grumman: 2027 Manufacturing Engineering Intern - Charlottesville VA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260251"/>
+    <updated>2026-11-12T07:32:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Virginia-Charlottesville · $18.5–$33.5/hr · CAD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260268-1</id>
+    <title>Northrop Grumman: 2027 Manufacturing Engineering Intern - Charlottesville VA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260268-1"/>
+    <updated>2026-11-12T07:32:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Virginia-Charlottesville · $18.5–$33.5/hr · CAD · sponsorship: citizens-only</summary>
   </entry>
 </feed>
