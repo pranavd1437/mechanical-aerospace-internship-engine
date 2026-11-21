@@ -3709,6 +3709,11 @@
     "site": "external"
   },
   {
+    "name": "Biohub",
+    "slug": "biohub",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Biointellisense",
     "slug": "biointellisense",
     "ats": "lever"
@@ -4151,6 +4156,11 @@
     "name": "Boom Supersonic",
     "slug": "boom-supersonic",
     "ats": "rippling"
+  },
+  {
+    "name": "Boomi",
+    "slug": "boomilp",
+    "ats": "greenhouse"
   },
   {
     "name": "Booz Allen",
@@ -5374,6 +5384,13 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "centerstonecareers"
+  },
+  {
+    "name": "Centier Bank",
+    "slug": "centier",
+    "ats": "workday",
+    "wd": "wd501",
+    "site": "centierbankcareers"
   },
   {
     "name": "Centific",
@@ -8138,6 +8155,11 @@
     "ats": "lever"
   },
   {
+    "name": "Diversified Services Network",
+    "slug": "dsn",
+    "ats": "workable"
+  },
+  {
     "name": "DLA Piper",
     "slug": "dlapiper",
     "ats": "workday",
@@ -9229,6 +9251,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "EP Wealth Advisors",
+    "slug": "epwealth",
+    "ats": "lever"
+  },
+  {
     "name": "Epia Neuro",
     "slug": "epianeuro",
     "ats": "ashby"
@@ -10241,6 +10268,13 @@
     "ats": "workday",
     "wd": "wd501",
     "site": "FNBCORP"
+  },
+  {
+    "name": "First PREMIER Bank",
+    "slug": "firstpremier",
+    "ats": "workday",
+    "wd": "wd503",
+    "site": "PREMIER_Careers"
   },
   {
     "name": "First Quality",
@@ -14782,6 +14816,11 @@
     "site": "kenvue"
   },
   {
+    "name": "Keplar",
+    "slug": "keplar",
+    "ats": "ashby"
+  },
+  {
     "name": "Kepler Communications",
     "slug": "kepler",
     "ats": "lever"
@@ -14977,6 +15016,11 @@
     "name": "Koalafi",
     "slug": "koalafi",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Kobalt Labs",
+    "slug": "kobalt",
+    "ats": "ashby"
   },
   {
     "name": "KoBold Metals",
@@ -17631,6 +17675,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Mom's Meals",
+    "slug": "momsmeals",
+    "ats": "lever"
+  },
+  {
     "name": "Moment Energy",
     "slug": "momentenergy",
     "ats": "greenhouse"
@@ -17950,6 +17999,11 @@
     "ats": "workday",
     "wd": "wd10",
     "site": "MMEC"
+  },
+  {
+    "name": "Multiply",
+    "slug": "multiplyai",
+    "ats": "ashby"
   },
   {
     "name": "Multiply Labs",
@@ -23542,6 +23596,11 @@
     "ats": "lever"
   },
   {
+    "name": "Secureframe",
+    "slug": "secureframe",
+    "ats": "ashby"
+  },
+  {
     "name": "Securian Financial Group",
     "slug": "hq",
     "ats": "workday",
@@ -28197,6 +28256,13 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Veolia",
+    "slug": "veoliauki",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "VESCareers"
+  },
+  {
     "name": "Vera Bradley",
     "slug": "verabradley",
     "ats": "workday",
@@ -28321,6 +28387,11 @@
     "ats": "workday",
     "wd": "wd501",
     "site": "vertex_careers"
+  },
+  {
+    "name": "Vertex Service Partners",
+    "slug": "vertexservicepartners",
+    "ats": "greenhouse"
   },
   {
     "name": "Very Good Security",
