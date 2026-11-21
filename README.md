@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/pranavd1437/mechanical-aerospace-internship-engine/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/pranavd1437/mechanical-aerospace-internship-engine/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fpranavd1437.github.io%2Fmechanical-aerospace-internship-engine%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%206%20hours-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)
 
-### 861 open roles (468 listed below) · 56 new this week
+### 862 open roles (469 listed below) · 56 new this week
 
-5,076 employers tracked · updated Nov 21, 2026 at 07:25 UTC
+5,087 employers tracked · updated Nov 21, 2026 at 19:35 UTC
 
-_602 have a cycle the employer stated · 259 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_602 have a cycle the employer stated · 260 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)** · **[📡 RSS](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)** · **[⚙️ JSON API](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/api/jobs.json)**
 
@@ -40,7 +40,7 @@ Every link comes straight from the source — so it's real and current, not a st
 | 📆 **A real date on nearly every role** | Taken from the job portal itself wherever the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run. |
 | 🧰 **Skill tags + pay, extracted** | Every posting's text is scanned for the tools it wants (SolidWorks, GD&T, ANSYS, …) and the pay it states — searchable on the [dashboard](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/), and included in the CSV and API. |
 | 🔔 **Alerts your way** | Follow the [RSS feed](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml), or connect it to an RSS-capable alert tool. The dashboard's saved roles stay in your browser. |
-| ⚙️ **An engine, not a spreadsheet** | 5,249 job-board endpoints (5,076 distinct employers; some run more than one board) polled every six hours across 12 ATS platforms. Full source and tests in this repo. |
+| ⚙️ **An engine, not a spreadsheet** | 5,262 job-board endpoints (5,087 distinct employers; some run more than one board) polled every six hours across 12 ATS platforms. Full source and tests in this repo. |
 
 ## Scope
 
@@ -404,14 +404,15 @@ If it helps you, a star means a lot and tells me to keep going.
 | Mill | Product Design Engineering Intern, Fall/Winter 2026 🛂 | Mechanical Design | San Bruno, California | Siemens NX, CAD, FEA, DFM/DFA | Mar 17, 2026 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4674154005) |
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Materials Engineering | Westboro, Massachusetts, USA | CAD | Dec 17, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 
-## Recently posted — cycle not stated  (158 roles)
+## Recently posted — cycle not stated  (159 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent mechanical & aerospace internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Samsung | Intern, Serdes Analog Design Engineer 🆕 | Mechanical Design | San Jose, California, United States | Python, MATLAB, Verilog | Nov 19, 2026 | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003) |
-| REGENT | Manufacturing Engineering Intern 🆕 | Manufacturing & Quality | North Kingstown, Rhode Island, USA | No skills listed | Nov 18, 2026 | [Apply](https://jobs.ashbyhq.com/REGENT/6e880bc1-e111-47ce-962e-8253767a58e7) |
+| Mom's Meals | Production Intern (Mechanical Engineering) 🆕 | Mechanical Design | Oklahoma City, OK | Six Sigma | Nov 18, 2026 | [Apply](https://jobs.lever.co/momsmeals/ff278459-9abf-43af-9898-2d16cfb0ac74) |
+| REGENT | Manufacturing Engineering Intern | Manufacturing & Quality | North Kingstown, Rhode Island, USA | No skills listed | Nov 18, 2026 | [Apply](https://jobs.ashbyhq.com/REGENT/6e880bc1-e111-47ce-962e-8253767a58e7) |
 | Veolia | Mechanical Engineering Intern | Mechanical Design | Boulder, CO, United States | SolidWorks | Nov 18, 2026 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162190929) |
 | Dematic ✓ | Controls Engineering Intern/Co-op | Controls & Mechatronics | Grand Rapids, MI, United States | No skills listed | Nov 18, 2026 | [Apply](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-op_JR-0095911) |
 | Castelion | Intern, PCBA Manufacturing 🇺🇸 | Manufacturing & Quality | Torrance, CA | SolidWorks, Siemens NX, CAD, Teamcenter | Nov 17, 2026 | [Apply](https://job-boards.greenhouse.io/castelioncorporation/jobs/4509752009) |
@@ -666,7 +667,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,203 of 5,249 registered boards returned successfully across 12 ATS platforms (93% of boards attempted, 61% of the full registry) · completed in 155.5s · 30 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 3,267 of 5,262 registered boards returned successfully across 12 ATS platforms (88% of boards attempted, 62% of the full registry) · completed in 482.2s · 30 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

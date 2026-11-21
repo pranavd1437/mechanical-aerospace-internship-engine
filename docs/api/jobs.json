@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T07:25:20Z",
+ "generated_at": "2026-11-21T19:35:16Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 861,
+ "count": 862,
  "jobs": [
   {
    "id": "oracle:emit.fa.ca3.oraclecloud.com:99351",
@@ -270,6 +270,29 @@
    ],
    "source": "lever",
    "h1b_approvals": 24,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "lever:momsmeals:ff278459-9abf-43af-9898-2d16cfb0ac74",
+   "company": "Mom's Meals",
+   "title": "Production Intern (Mechanical Engineering)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Mechanical Design",
+   "location": "Oklahoma City, OK",
+   "url": "https://jobs.lever.co/momsmeals/ff278459-9abf-43af-9898-2d16cfb0ac74",
+   "posted_at": "2026-11-18T15:44:56Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-11-21T19:35:12Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Six Sigma"
+   ],
+   "source": "lever",
+   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },

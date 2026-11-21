@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-21T07:25:20Z</updated>
+  <updated>2026-11-21T19:35:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:momsmeals:ff278459-9abf-43af-9898-2d16cfb0ac74</id>
+    <title>Mom's Meals: Production Intern (Mechanical Engineering)</title>
+    <link href="https://jobs.lever.co/momsmeals/ff278459-9abf-43af-9898-2d16cfb0ac74"/>
+    <updated>2026-11-21T19:35:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Oklahoma City, OK · Six Sigma</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:99351</id>
     <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
@@ -795,14 +803,6 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260251</id>
     <title>Northrop Grumman: 2027 Manufacturing Engineering Intern - Charlottesville VA 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260251"/>
-    <updated>2026-11-12T07:32:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Virginia-Charlottesville · $18.5–$33.5/hr · CAD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260268-1</id>
-    <title>Northrop Grumman: 2027 Manufacturing Engineering Intern - Charlottesville VA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260268-1"/>
     <updated>2026-11-12T07:32:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Virginia-Charlottesville · $18.5–$33.5/hr · CAD · sponsorship: citizens-only</summary>
