@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/pranavd1437/mechanical-aerospace-internship-engine/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/pranavd1437/mechanical-aerospace-internship-engine/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fpranavd1437.github.io%2Fmechanical-aerospace-internship-engine%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%206%20hours-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)
 
-### 862 open roles (469 listed below) · 56 new this week
+### 863 open roles (470 listed below) · 57 new this week
 
-5,087 employers tracked · updated Nov 21, 2026 at 19:35 UTC
+5,087 employers tracked · updated Nov 22, 2026 at 07:05 UTC
 
-_602 have a cycle the employer stated · 260 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_603 have a cycle the employer stated · 260 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)** · **[📡 RSS](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)** · **[⚙️ JSON API](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/api/jobs.json)**
 
@@ -84,10 +84,11 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (293 employer-stated)
+## Summer 2027  (294 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Neros Technologies | Mechanical Engineer Intern - Summer 2027 🆕 | Mechanical Design | Torrance, California, United States | SolidWorks, Siemens NX, CAD, FEA | Nov 21, 2026 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007) |
 | WSP | Mechanical Engineering Intern - Summer 2027 🆕 | Mechanical Design | Greenville, SC, United States | AutoCAD | Nov 20, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99351) |
 | Lucid Motors | Intern, Vehicle Motion Controls Engineer, Summer 2027 🆕 | Controls & Mechatronics | Newark, CA | Python, C++, MATLAB, Simulink | Nov 20, 2026 | [Apply](https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007) |
 | Pacific Fusion | Summer 2027 Mechanical Engineering - Precision Positioning and Alignment Internship 🇺🇸 🆕 | Mechanical Design | San Leandro, CA | Python, MATLAB, SolidWorks, Creo | Nov 20, 2026 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4515017009) |
@@ -95,16 +96,16 @@ If it helps you, a star means a lot and tells me to keep going.
 | Lawrence Livermore National Laboratory (LLNL) | Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸 🆕 | Materials Engineering | Livermore, CA, United States | No skills listed | Nov 20, 2026 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016985026) |
 | LLNL | Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸 🆕 | Materials Engineering | Livermore, CA, United States | No skills listed | Nov 20, 2026 | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016985026) |
 | Ralliant | Electrical Design Engineer Intern (Summer 2027) 🆕 | Mechanical Design | Beaverton, OR, United States | Python, C++, MATLAB | Nov 19, 2026 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169) |
-| Scout Space 🆁 | GNC and Astrodynamics Engineering Intern (Summer 2027) 🇺🇸 🆕 | Controls & Mechatronics | Reston, VA - Remote | Python, C++ | Nov 19, 2026 | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489233008) |
-| Scout Space | Mechanical Engineering Intern (Summer 2027) 🇺🇸 🆕 | Mechanical Design | Reston, VA | Python, MATLAB, SolidWorks, CAD | Nov 19, 2026 | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489237008) |
-| Pivotal Software ✓ | Internship, GNC Engineering (Summer 2027) 🇺🇸 🆕 | Controls & Mechatronics | Palo Alto, CA | Python, MATLAB, Simulink, Git | Nov 19, 2026 | [Apply](https://jobs.lever.co/pivotal/2c5e6abf-3244-4e46-9c18-fab3fc1c050d) |
+| Scout Space 🆁 | GNC and Astrodynamics Engineering Intern (Summer 2027) 🇺🇸 | Controls & Mechatronics | Reston, VA - Remote | Python, C++ | Nov 19, 2026 | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489233008) |
+| Scout Space | Mechanical Engineering Intern (Summer 2027) 🇺🇸 | Mechanical Design | Reston, VA | Python, MATLAB, SolidWorks, CAD | Nov 19, 2026 | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489237008) |
+| Pivotal Software ✓ | Internship, GNC Engineering (Summer 2027) 🇺🇸 | Controls & Mechatronics | Palo Alto, CA | Python, MATLAB, Simulink, Git | Nov 19, 2026 | [Apply](https://jobs.lever.co/pivotal/2c5e6abf-3244-4e46-9c18-fab3fc1c050d) |
 | DLR Group | Structural Engineering Intern / Summer 2027 🛂 | Structures & FEA | Chicago, Illinois, United States | No skills listed | Nov 18, 2026 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5486592008) |
 | DLR Group | Mechanical Engineering Intern / Summer 2027 🛂 | Mechanical Design | Chicago, Illinois, United States | No skills listed | Nov 18, 2026 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5486642008) |
 | Mission Critical Group | 2027 Summer Internship - Mechanical Engineering | Mechanical Design | Brookston, Indiana, United States | AutoCAD | Nov 18, 2026 | [Apply](https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016934722) |
 | Mission Critical Group | 2027 Summer Internship - Mechanical Engineering | Mechanical Design | Harleysville +2 more | AutoCAD | Nov 18, 2026 | [Apply](https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016936456) |
 | Rehiko | Manufacturing Engineering Co-Op 2027 | Manufacturing & Quality | Sheboygan,WI | No skills listed | Nov 18, 2026 | [Apply](https://rehlko.wd12.myworkdayjobs.com/Reh/job/SheboyganWI/Manufacturing-Engineering-Co-Op-2027_R05223) |
-| Shield AI | 2027 Summer Intern - Aerostructures Intern - 6472 - 6427 - 6415 🆕 | Structures & FEA | Seattle, WA, US | SolidWorks, Siemens NX, CATIA, Creo | Nov 17, 2026 | [Apply](https://jobs.ashbyhq.com/shield/13a615e3-acc0-4e5e-a829-51a54dde80ed) |
-| Shield AI | 2027 Summer Intern - Aerostructures Intern - 6472 - 6427 - 6415 🆕 | Structures & FEA | Seattle, WA, US | SolidWorks, Siemens NX, CATIA, Creo | Nov 17, 2026 | [Apply](https://jobs.ashbyhq.com/shield/13a615e3-acc0-4e5e-a829-51a54dde80ed) |
+| Shield AI | 2027 Summer Intern - Aerostructures Intern - 6472 - 6427 - 6415 | Structures & FEA | Seattle, WA, US | SolidWorks, Siemens NX, CATIA, Creo | Nov 17, 2026 | [Apply](https://jobs.ashbyhq.com/shield/13a615e3-acc0-4e5e-a829-51a54dde80ed) |
+| Shield AI | 2027 Summer Intern - Aerostructures Intern - 6472 - 6427 - 6415 | Structures & FEA | Seattle, WA, US | SolidWorks, Siemens NX, CATIA, Creo | Nov 17, 2026 | [Apply](https://jobs.ashbyhq.com/shield/13a615e3-acc0-4e5e-a829-51a54dde80ed) |
 | Lightmatter | Product & Test Engineering, Intern Summer 2027 | Test & Validation | Boston, MA | Python, Git | Nov 17, 2026 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008) |
 | Astronics | Manufacturing Engineering Intern - Summer 2027 | Manufacturing & Quality | Redmond, Washington, United States | Lean Manufacturing | Nov 16, 2026 | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4508864009) |
 | Pacific Fusion | Summer 2027 Materials Science Internship 🇺🇸 | Materials Engineering | San Leandro, CA | No skills listed | Nov 16, 2026 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505488009) |
@@ -600,7 +601,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | 🎯 MKS Instruments | Aug 11 | dropped Aug 11 · closed | 🗓️ dropped |
 | 🎯 Nexus Engineering Group | Aug 12 | dropped Aug 12 · closed | 🗓️ dropped |
 
-_213 companies on the [full radar](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/#radar). **206** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_214 companies on the [full radar](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/#radar). **207** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 40 roles that left the list in the last 14 days</summary>
@@ -667,7 +668,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,267 of 5,262 registered boards returned successfully across 12 ATS platforms (88% of boards attempted, 62% of the full registry) · completed in 482.2s · 30 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 3,240 of 5,262 registered boards returned successfully across 12 ATS platforms (93% of boards attempted, 61% of the full registry) · completed in 137.7s · 30 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

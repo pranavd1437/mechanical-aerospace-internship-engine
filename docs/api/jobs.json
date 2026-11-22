@@ -1,9 +1,36 @@
 {
- "generated_at": "2026-11-21T19:35:16Z",
+ "generated_at": "2026-11-22T07:05:52Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 862,
+ "count": 863,
  "jobs": [
+  {
+   "id": "greenhouse:nerostechnologies:4648209007",
+   "company": "Neros Technologies",
+   "title": "Mechanical Engineer Intern - Summer 2027",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Mechanical Design",
+   "location": "Torrance, California, United States",
+   "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007",
+   "posted_at": "2026-11-21T17:39:11-05:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-11-22T07:05:49Z",
+   "sponsorship": "unknown",
+   "salary": "$55/hr",
+   "skills": [
+    "SolidWorks",
+    "Siemens NX",
+    "CAD",
+    "FEA",
+    "CNC"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "oracle:emit.fa.ca3.oraclecloud.com:99351",
    "company": "WSP",

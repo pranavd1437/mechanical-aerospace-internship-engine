@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-21T19:35:16Z</updated>
+  <updated>2026-11-22T07:05:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:nerostechnologies:4648209007</id>
+    <title>Neros Technologies: Mechanical Engineer Intern - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007"/>
+    <updated>2026-11-22T07:05:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Torrance, California, United States · $55/hr · SolidWorks, Siemens NX, CAD, FEA, CNC</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:momsmeals:ff278459-9abf-43af-9898-2d16cfb0ac74</id>
     <title>Mom's Meals: Production Intern (Mechanical Engineering)</title>
@@ -798,13 +806,5 @@
     <updated>2026-11-12T07:32:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Maryland-Elkridge · $20.5–$37.25/hr · Siemens NX, CAD, Teamcenter · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260251</id>
-    <title>Northrop Grumman: 2027 Manufacturing Engineering Intern - Charlottesville VA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260251"/>
-    <updated>2026-11-12T07:32:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Virginia-Charlottesville · $18.5–$33.5/hr · CAD · sponsorship: citizens-only</summary>
   </entry>
 </feed>
