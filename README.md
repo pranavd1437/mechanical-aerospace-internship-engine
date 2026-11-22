@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/pranavd1437/mechanical-aerospace-internship-engine/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/pranavd1437/mechanical-aerospace-internship-engine/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fpranavd1437.github.io%2Fmechanical-aerospace-internship-engine%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%206%20hours-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)
 
-### 863 open roles (470 listed below) · 57 new this week
+### 862 open roles (470 listed below) · 52 new this week
 
-5,087 employers tracked · updated Nov 22, 2026 at 07:05 UTC
+5,089 employers tracked · updated Nov 22, 2026 at 20:01 UTC
 
-_603 have a cycle the employer stated · 260 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_603 have a cycle the employer stated · 259 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/)** · **[📡 RSS](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml)** · **[⚙️ JSON API](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/api/jobs.json)**
 
@@ -40,7 +40,7 @@ Every link comes straight from the source — so it's real and current, not a st
 | 📆 **A real date on nearly every role** | Taken from the job portal itself wherever the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run. |
 | 🧰 **Skill tags + pay, extracted** | Every posting's text is scanned for the tools it wants (SolidWorks, GD&T, ANSYS, …) and the pay it states — searchable on the [dashboard](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/), and included in the CSV and API. |
 | 🔔 **Alerts your way** | Follow the [RSS feed](https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml), or connect it to an RSS-capable alert tool. The dashboard's saved roles stay in your browser. |
-| ⚙️ **An engine, not a spreadsheet** | 5,262 job-board endpoints (5,087 distinct employers; some run more than one board) polled every six hours across 12 ATS platforms. Full source and tests in this repo. |
+| ⚙️ **An engine, not a spreadsheet** | 5,264 job-board endpoints (5,089 distinct employers; some run more than one board) polled every six hours across 12 ATS platforms. Full source and tests in this repo. |
 
 ## Scope
 
@@ -93,9 +93,9 @@ If it helps you, a star means a lot and tells me to keep going.
 | Lucid Motors | Intern, Vehicle Motion Controls Engineer, Summer 2027 🆕 | Controls & Mechatronics | Newark, CA | Python, C++, MATLAB, Simulink | Nov 20, 2026 | [Apply](https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007) |
 | Pacific Fusion | Summer 2027 Mechanical Engineering - Precision Positioning and Alignment Internship 🇺🇸 🆕 | Mechanical Design | San Leandro, CA | Python, MATLAB, SolidWorks, Creo | Nov 20, 2026 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4515017009) |
 | OATEY | Mechanical Engineering Intern 🆕 | Mechanical Design | Omaha, NE (Manufacturing) | No skills listed | Nov 20, 2026 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Omaha-NE-Manufacturing/Mechanical-Engineering-Intern_R7306-1) |
-| Lawrence Livermore National Laboratory (LLNL) | Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸 🆕 | Materials Engineering | Livermore, CA, United States | No skills listed | Nov 20, 2026 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016985026) |
-| LLNL | Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸 🆕 | Materials Engineering | Livermore, CA, United States | No skills listed | Nov 20, 2026 | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016985026) |
-| Ralliant | Electrical Design Engineer Intern (Summer 2027) 🆕 | Mechanical Design | Beaverton, OR, United States | Python, C++, MATLAB | Nov 19, 2026 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169) |
+| Lawrence Livermore National Laboratory (LLNL) | Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸 | Materials Engineering | Livermore, CA, United States | No skills listed | Nov 20, 2026 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016985026) |
+| LLNL | Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸 | Materials Engineering | Livermore, CA, United States | No skills listed | Nov 20, 2026 | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016985026) |
+| Ralliant | Electrical Design Engineer Intern (Summer 2027) | Mechanical Design | Beaverton, OR, United States | Python, C++, MATLAB | Nov 19, 2026 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169) |
 | Scout Space 🆁 | GNC and Astrodynamics Engineering Intern (Summer 2027) 🇺🇸 | Controls & Mechatronics | Reston, VA - Remote | Python, C++ | Nov 19, 2026 | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489233008) |
 | Scout Space | Mechanical Engineering Intern (Summer 2027) 🇺🇸 | Mechanical Design | Reston, VA | Python, MATLAB, SolidWorks, CAD | Nov 19, 2026 | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489237008) |
 | Pivotal Software ✓ | Internship, GNC Engineering (Summer 2027) 🇺🇸 | Controls & Mechatronics | Palo Alto, CA | Python, MATLAB, Simulink, Git | Nov 19, 2026 | [Apply](https://jobs.lever.co/pivotal/2c5e6abf-3244-4e46-9c18-fab3fc1c050d) |
@@ -411,7 +411,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Samsung | Intern, Serdes Analog Design Engineer 🆕 | Mechanical Design | San Jose, California, United States | Python, MATLAB, Verilog | Nov 19, 2026 | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003) |
+| Samsung | Intern, Serdes Analog Design Engineer | Mechanical Design | San Jose, California, United States | Python, MATLAB, Verilog | Nov 19, 2026 | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003) |
 | Mom's Meals | Production Intern (Mechanical Engineering) 🆕 | Mechanical Design | Oklahoma City, OK | Six Sigma | Nov 18, 2026 | [Apply](https://jobs.lever.co/momsmeals/ff278459-9abf-43af-9898-2d16cfb0ac74) |
 | REGENT | Manufacturing Engineering Intern | Manufacturing & Quality | North Kingstown, Rhode Island, USA | No skills listed | Nov 18, 2026 | [Apply](https://jobs.ashbyhq.com/REGENT/6e880bc1-e111-47ce-962e-8253767a58e7) |
 | Veolia | Mechanical Engineering Intern | Mechanical Design | Boulder, CO, United States | SolidWorks | Nov 18, 2026 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162190929) |
@@ -668,7 +668,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,240 of 5,262 registered boards returned successfully across 12 ATS platforms (93% of boards attempted, 61% of the full registry) · completed in 137.7s · 30 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 3,300 of 5,264 registered boards returned successfully across 12 ATS platforms (68% of boards attempted, 62% of the full registry) · completed in 752.9s · 30 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

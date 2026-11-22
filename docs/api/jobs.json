@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T07:05:52Z",
+ "generated_at": "2026-11-22T20:01:44Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 863,
+ "count": 862,
  "jobs": [
   {
    "id": "greenhouse:nerostechnologies:4648209007",
@@ -16377,29 +16377,6 @@
    ],
    "source": "workday",
    "h1b_approvals": 2,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:avav:/job/Simi-Valley-CA/Quality-Engineering-Intern_8586",
-   "company": "Avav",
-   "title": "Quality Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Manufacturing & Quality",
-   "location": "Simi Valley, CA",
-   "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Quality-Engineering-Intern_8586",
-   "posted_at": "2026-09-10T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-10T21:02:53Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "SolidWorks"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
