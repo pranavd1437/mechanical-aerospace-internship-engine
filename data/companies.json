@@ -10317,6 +10317,13 @@
     "site": "ext"
   },
   {
+    "name": "Fiskars Group",
+    "slug": "fiskars",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "FiskarsGroup"
+  },
+  {
     "name": "Five Below",
     "slug": "fivebelow",
     "ats": "workday",
@@ -24782,6 +24789,13 @@
     "name": "SpawGlass",
     "slug": "spawglass",
     "ats": "lever"
+  },
+  {
+    "name": "Specialized",
+    "slug": "specialized",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "Specialized_External_Career_Site"
   },
   {
     "name": "Specter",
