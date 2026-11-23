@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T20:01:44Z",
+ "generated_at": "2026-11-23T07:54:48Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 862,
+ "count": 858,
  "jobs": [
   {
    "id": "greenhouse:nerostechnologies:4648209007",
@@ -10107,100 +10107,6 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": 23,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:syskahennessy:8177728",
-   "company": "Syska Hennessy Group",
-   "title": "Mechanical Engineering Summer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Hamilton, NJ",
-   "url": "https://job-boards.greenhouse.io/syskahennessy/jobs/8177728",
-   "posted_at": "2026-10-08T11:45:32-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-08T23:34:08Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "AutoCAD"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "smartrecruiters:Wabtec:3743990016001786",
-   "company": "Wabtec",
-   "title": "Mechanical Engineer Intern - Production Operations",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Oak Creek, WI, United States",
-   "url": "https://jobs.smartrecruiters.com/Wabtec/3743990016001786",
-   "posted_at": "2026-10-08T19:53:57.390Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-08T23:34:08Z",
-   "sponsorship": "unknown",
-   "salary": "$17–$25/hr",
-   "skills": [
-    "Creo"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": 47,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "smartrecruiters:Wabtec:3743990016001814",
-   "company": "Wabtec",
-   "title": "Controls Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Controls & Mechatronics",
-   "location": "Oak Creek, WI, United States",
-   "url": "https://jobs.smartrecruiters.com/Wabtec/3743990016001814",
-   "posted_at": "2026-10-08T19:55:56.698Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-08T23:34:08Z",
-   "sponsorship": "unknown",
-   "salary": "$20–$33/hr",
-   "skills": [
-    "C++",
-    "Creo",
-    "AutoCAD"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": 47,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "smartrecruiters:Wabtec:3743990016001927",
-   "company": "Wabtec",
-   "title": "Mechanical Engineer Intern - New Product Development",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Oak Creek, WI, United States",
-   "url": "https://jobs.smartrecruiters.com/Wabtec/3743990016001927",
-   "posted_at": "2026-10-08T19:55:08.653Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-08T23:34:08Z",
-   "sponsorship": "unknown",
-   "salary": "$17–$25/hr",
-   "skills": [
-    "Creo"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": 47,
    "program": "Internship",
    "remote": false
   },
