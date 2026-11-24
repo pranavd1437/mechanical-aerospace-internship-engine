@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-23T07:54:48Z</updated>
+  <updated>2026-11-24T00:04:00Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000163324070</id>
+    <title>AECOM: Highway Design Engineering Intern 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000163324070"/>
+    <updated>2026-11-24T00:03:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Mechanicsburg, PA, United States · CAD · sponsorship: no-sponsorship · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com:1456</id>
+    <title>Duracell: PS Manufacturing - Intern</title>
+    <link href="https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1456"/>
+    <updated>2026-11-24T00:03:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Fairburn, GA, United States · CAD, Six Sigma</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:exowatt:944f1678-7a96-41f2-93ac-5971097279ac</id>
+    <title>Exowatt: Mechanical Engineering Spring Intern (Austin, TX)</title>
+    <link href="https://jobs.lever.co/exowatt/944f1678-7a96-41f2-93ac-5971097279ac"/>
+    <updated>2026-11-24T00:03:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Austin, TX · Python, MATLAB, SolidWorks, Creo, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:exowatt:d31ed418-2635-4c70-a82d-b851dda2a844</id>
+    <title>Exowatt: Mechanical Engineering Spring Intern (Miami, FL)</title>
+    <link href="https://jobs.lever.co/exowatt/d31ed418-2635-4c70-a82d-b851dda2a844"/>
+    <updated>2026-11-24T00:03:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Miami, FL · Python, MATLAB, SolidWorks, Creo, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:iadugs.fa.ocs.oraclecloud.com:1983</id>
+    <title>Legrand: Mechanical Engineering Intern</title>
+    <link href="https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1983"/>
+    <updated>2026-11-24T00:03:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Mechanical Design · Canonsburg, PA, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oatey:/job/Omaha-NE-Manufacturing/Reliability-Engineering-Intern_R7315</id>
+    <title>OATEY: Reliability Engineering Intern</title>
+    <link href="https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Omaha-NE-Manufacturing/Reliability-Engineering-Intern_R7315"/>
+    <updated>2026-11-24T00:03:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Omaha, NE (Manufacturing)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:SeniorPlc1:3743990017044886</id>
+    <title>Senior plc: Manufacturing Engineering Intern 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/SeniorPlc1/3743990017044886"/>
+    <updated>2026-11-24T00:03:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Burbank, California, United States · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:nerostechnologies:4648209007</id>
     <title>Neros Technologies: Mechanical Engineer Intern - Summer 2027</title>
@@ -750,61 +806,5 @@
     <updated>2026-11-12T07:32:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems Engineering · Somerville, MA · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:lightmatter:5473871008</id>
-    <title>Lightmatter: Packaging Thermal and Mechanical Analysis Internship - Summer 2027</title>
-    <link href="https://boards.greenhouse.io/lightmatter/jobs/5473871008?gh_jid=5473871008"/>
-    <updated>2026-11-12T07:32:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Mountain View, CA · Python, ANSYS, Abaqus, COMSOL, FEA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:lightmatter:5479684008</id>
-    <title>Lightmatter: Packaging Mechanical Design Internship - Summer 2027</title>
-    <link href="https://boards.greenhouse.io/lightmatter/jobs/5479684008?gh_jid=5479684008"/>
-    <updated>2026-11-12T07:32:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Mountain View, CA · Python, SolidWorks, Creo, CAD, GD&amp;T</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4721651006</id>
-    <title>SharkNinja: Summer 2027: Control Systems &amp; Algorithms Intern (May to August)</title>
-    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721651006"/>
-    <updated>2026-11-12T07:32:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Controls &amp; Mechatronics · Needham, MA, United States · C++, MATLAB, Simulink · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:avav:/job/Lawrence-KS/GNC---Autonomy-Engineering-Intern_9363</id>
-    <title>Avav: GNC / Autonomy Engineering Intern 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Lawrence-KS/GNC---Autonomy-Engineering-Intern_9363"/>
-    <updated>2026-11-12T07:32:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Controls &amp; Mechatronics · Lawrence, KS · MATLAB, Simulink · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:moog:/job/Blacksburg-VA/Intern--Design-Engineering_R-26-21242</id>
-    <title>Moog: Intern, Design Engineering</title>
-    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Design-Engineering_R-26-21242"/>
-    <updated>2026-11-12T07:32:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Blacksburg, VA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Elkridge/XMLNAME-2027-Industrial-Engineering-Intern---Elkridge-MD_R10260314</id>
-    <title>Northrop Grumman: 2027 Industrial Engineering Intern - Elkridge MD 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Industrial-Engineering-Intern---Elkridge-MD_R10260314"/>
-    <updated>2026-11-12T07:32:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Maryland-Elkridge · $20.5–$37.25/hr · Siemens NX, CAD, Teamcenter · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Elkridge/XMLNAME-2027-Manufacturing-Engineering-Intern---Elkridge-MD_R10260318</id>
-    <title>Northrop Grumman: 2027 Manufacturing Engineering Intern - Elkridge MD 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Manufacturing-Engineering-Intern---Elkridge-MD_R10260318"/>
-    <updated>2026-11-12T07:32:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Maryland-Elkridge · $20.5–$37.25/hr · Siemens NX, CAD, Teamcenter · sponsorship: citizens-only</summary>
   </entry>
 </feed>
