@@ -3010,6 +3010,7 @@
       "ashby:shield:0eb4a172-b6b9-4bda-85e5-fe566b342c0e",
       "ashby:shield:13a615e3-acc0-4e5e-a829-51a54dde80ed",
       "ashby:shield:38ba128e-815b-4a14-b4d2-446ffc190a33",
+      "ashby:shield:d5931c9e-b020-46f1-9344-9ea17768fad8",
       "ashby:shield:ebdcc6cf-04da-47a7-971d-17e43f64c37c",
       "ashby:shieldai:043c739e-ff80-4faa-b2be-5d1e96768dfa",
       "ashby:shieldai:0eb4a172-b6b9-4bda-85e5-fe566b342c0e",
@@ -3022,7 +3023,7 @@
       "lever:shieldai:c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
       "lever:shieldai:da54c482-fe62-4f60-98b1-55ac0b82b3bc"
      ],
-     "count": 21
+     "count": 22
     }
    }
   },
@@ -3718,5 +3719,5 @@
    }
   }
  },
- "updated_at": "2026-11-24T10:06:40Z"
+ "updated_at": "2026-11-24T22:42:25Z"
 }

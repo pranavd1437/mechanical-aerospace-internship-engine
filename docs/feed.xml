@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-24T10:06:44Z</updated>
+  <updated>2026-11-24T22:42:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:iadugs.fa.ocs.oraclecloud.com:1903</id>
+    <title>Legrand: Manufacturing Engineering Intern</title>
+    <link href="https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1903"/>
+    <updated>2026-11-24T22:42:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Canonsburg, PA, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:shield:d5931c9e-b020-46f1-9344-9ea17768fad8</id>
+    <title>Shield AI: 2027 Summer Intern - Mechanical Engineering - 6436</title>
+    <link href="https://jobs.ashbyhq.com/shield/d5931c9e-b020-46f1-9344-9ea17768fad8"/>
+    <updated>2026-11-24T22:42:25Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Dallas, TX, US · $35 – $75 per hour · SolidWorks, Siemens NX, CATIA, CAD</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000163378029</id>
     <title>Veolia: Mechanical Engineer Intern 🛂</title>
@@ -790,21 +806,5 @@
     <updated>2026-11-12T07:32:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · Somerville, MA · Python, SQL, SolidWorks, CAD, GD&amp;T</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:formlabsinternships:8381595</id>
-    <title>Formlabsinternships: Hardware Systems Integration Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/formlabsinternships/jobs/8381595"/>
-    <updated>2026-11-12T07:32:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems Engineering · Somerville, MA · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:lightmatter:5473871008</id>
-    <title>Lightmatter: Packaging Thermal and Mechanical Analysis Internship - Summer 2027</title>
-    <link href="https://boards.greenhouse.io/lightmatter/jobs/5473871008?gh_jid=5473871008"/>
-    <updated>2026-11-12T07:32:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Mountain View, CA · Python, ANSYS, Abaqus, COMSOL, FEA</summary>
   </entry>
 </feed>
