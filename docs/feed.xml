@@ -5,23 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-24T00:04:00Z</updated>
+  <updated>2026-11-24T10:06:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000163324070</id>
-    <title>AECOM: Highway Design Engineering Intern 🛂</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000163324070"/>
-    <updated>2026-11-24T00:03:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Mechanicsburg, PA, United States · CAD · sponsorship: no-sponsorship · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com:1456</id>
-    <title>Duracell: PS Manufacturing - Intern</title>
-    <link href="https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1456"/>
-    <updated>2026-11-24T00:03:56Z</updated>
+    <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000163378029</id>
+    <title>Veolia: Mechanical Engineer Intern 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163378029"/>
+    <updated>2026-11-24T10:06:40Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Fairburn, GA, United States · CAD, Six Sigma</summary>
+    <summary>Not stated · Mechanical Design · West Orange, TX, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:exowatt:944f1678-7a96-41f2-93ac-5971097279ac</id>
@@ -40,6 +32,14 @@
     <summary>Not stated · Mechanical Design · Miami, FL · Python, MATLAB, SolidWorks, Creo, CAD</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com:1456</id>
+    <title>Duracell: PS Manufacturing - Intern</title>
+    <link href="https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1456"/>
+    <updated>2026-11-24T00:03:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Fairburn, GA, United States · CAD, Six Sigma</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:oracle:iadugs.fa.ocs.oraclecloud.com:1983</id>
     <title>Legrand: Mechanical Engineering Intern</title>
     <link href="https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1983"/>
@@ -48,12 +48,12 @@
     <summary>Not stated · Mechanical Design · Canonsburg, PA, United States</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:oatey:/job/Omaha-NE-Manufacturing/Reliability-Engineering-Intern_R7315</id>
-    <title>OATEY: Reliability Engineering Intern</title>
-    <link href="https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Omaha-NE-Manufacturing/Reliability-Engineering-Intern_R7315"/>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000163324070</id>
+    <title>AECOM: Highway Design Engineering Intern 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000163324070"/>
     <updated>2026-11-24T00:03:56Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Test &amp; Validation · Omaha, NE (Manufacturing)</summary>
+    <summary>Summer 2027 · Mechanical Design · Mechanicsburg, PA, United States · CAD · sponsorship: no-sponsorship · H-1B track record: ~246 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:SeniorPlc1:3743990017044886</id>
@@ -62,6 +62,14 @@
     <updated>2026-11-24T00:03:56Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Manufacturing &amp; Quality · Burbank, California, United States · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oatey:/job/Omaha-NE-Manufacturing/Reliability-Engineering-Intern_R7315</id>
+    <title>OATEY: Reliability Engineering Intern</title>
+    <link href="https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Omaha-NE-Manufacturing/Reliability-Engineering-Intern_R7315"/>
+    <updated>2026-11-24T00:03:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Test &amp; Validation · Omaha, NE (Manufacturing)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:nerostechnologies:4648209007</id>
@@ -78,14 +86,6 @@
     <updated>2026-11-21T19:35:12Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Mechanical Design · Oklahoma City, OK · Six Sigma</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:99351</id>
-    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99351"/>
-    <updated>2026-11-21T07:25:15Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Greenville, SC, United States · AutoCAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lucidmotors:5290899007</id>
@@ -448,14 +448,6 @@
     <summary>Summer 2027 · Structures &amp; FEA · San Leandro, CA · ANSYS, Abaqus, FEA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41816</id>
-    <title>Nokia: Mechanical Design Intern</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41816"/>
-    <updated>2026-11-16T22:28:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · United States · CAD, Tolerance Analysis · H-1B track record: ~321 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:Intuitive:744000161896235</id>
     <title>Intuitive Surgical: Mechanical Engineering Intern</title>
     <link href="https://jobs.smartrecruiters.com/Intuitive/744000161896235"/>
@@ -806,5 +798,13 @@
     <updated>2026-11-12T07:32:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems Engineering · Somerville, MA · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:lightmatter:5473871008</id>
+    <title>Lightmatter: Packaging Thermal and Mechanical Analysis Internship - Summer 2027</title>
+    <link href="https://boards.greenhouse.io/lightmatter/jobs/5473871008?gh_jid=5473871008"/>
+    <updated>2026-11-12T07:32:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Thermal, Fluids &amp; Propulsion · Mountain View, CA · Python, ANSYS, Abaqus, COMSOL, FEA</summary>
   </entry>
 </feed>

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T00:04:00Z",
+ "generated_at": "2026-11-24T10:06:44Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -1152,20 +1152,6 @@
    "note": ""
   },
   {
-   "company": "Helion Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-29",
-   "days_until": -56,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d",
-   "note": ""
-  },
-  {
    "company": "Howmet Aerospace",
    "last_cycle_posted": "",
    "posted_on": "2026-09-29",
@@ -1586,20 +1572,6 @@
    "note": ""
   },
   {
-   "company": "Parallel Systems",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-26",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-26",
-   "days_until": -29,
-   "status": "open",
-   "url": "https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007",
-   "note": ""
-  },
-  {
    "company": "Castelion",
    "last_cycle_posted": "",
    "posted_on": "2026-10-27",
@@ -1891,20 +1863,6 @@
    "days_until": -9,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507650009",
-   "note": ""
-  },
-  {
-   "company": "Nokia",
-   "last_cycle_posted": "",
-   "posted_on": "2026-11-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-11-16",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41816",
    "note": ""
   },
   {
@@ -2748,6 +2706,20 @@
    "note": ""
   },
   {
+   "company": "Helion Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": -56,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Leidos",
    "last_cycle_posted": "",
    "posted_on": "2026-09-29",
@@ -2930,6 +2902,20 @@
    "note": ""
   },
   {
+   "company": "Parallel Systems",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-26",
+   "days_until": -29,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Radiance Technologies",
    "last_cycle_posted": "",
    "posted_on": "2026-10-27",
@@ -2981,6 +2967,20 @@
    "source": "engine",
    "expected": "2026-11-09",
    "days_until": -15,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Nokia",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-16",
+   "days_until": -8,
    "status": "dropped",
    "url": "",
    "note": ""
