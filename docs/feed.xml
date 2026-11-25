@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://pranavd1437.github.io/mechanical-aerospace-internship-engine/feed.xml" rel="self"/>
   <link href="https://github.com/pranavd1437/mechanical-aerospace-internship-engine"/>
-  <updated>2026-11-24T22:42:29Z</updated>
+  <updated>2026-11-25T08:51:19Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/pranavd1437/mechanical-aerospace-internship-engine</uri></author>
   <entry>
-    <id>urn:intern-engine:oracle:iadugs.fa.ocs.oraclecloud.com:1903</id>
-    <title>Legrand: Manufacturing Engineering Intern</title>
-    <link href="https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1903"/>
-    <updated>2026-11-24T22:42:25Z</updated>
+    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000163583264</id>
+    <title>NBCUniversal: Universal Studios Hollywood, Technical Services, Mechanical Engineering Internship – Summer 2027</title>
+    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000163583264"/>
+    <updated>2026-11-25T08:51:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Mechanical Design · Universal City, CALIFORNIA, United States · $22–$25/hr · SolidWorks, AutoCAD, CAD, AWS · H-1B track record: ~105 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:neuralink:8197808003</id>
+    <title>Neuralink: Electrical Test Engineer Intern</title>
+    <link href="https://boards.greenhouse.io/neuralink/jobs/8197808003?gh_jid=8197808003"/>
+    <updated>2026-11-25T08:51:16Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Manufacturing &amp; Quality · Canonsburg, PA, United States</summary>
+    <summary>Not stated · Test &amp; Validation · South San Francisco, California, United States · $35/hr · Python, C++, Rust</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:shield:7378153f-32ca-426c-a157-8069d5b284c8</id>
+    <title>Shield AI: June 2027 Co-op - Mission Systems Engineering - 5813</title>
+    <link href="https://jobs.ashbyhq.com/shield/7378153f-32ca-426c-a157-8069d5b284c8"/>
+    <updated>2026-11-25T08:51:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems Engineering · Dallas, TX, US · $35 – $75 per hour · Python, MATLAB, CAD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:shield:d5931c9e-b020-46f1-9344-9ea17768fad8</id>
@@ -22,6 +38,14 @@
     <updated>2026-11-24T22:42:25Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Mechanical Design · Dallas, TX, US · $35 – $75 per hour · SolidWorks, Siemens NX, CATIA, CAD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:iadugs.fa.ocs.oraclecloud.com:1903</id>
+    <title>Legrand: Manufacturing Engineering Intern</title>
+    <link href="https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1903"/>
+    <updated>2026-11-24T22:42:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Manufacturing &amp; Quality · Canonsburg, PA, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000163378029</id>
@@ -464,14 +488,6 @@
     <summary>Summer 2027 · Structures &amp; FEA · San Leandro, CA · ANSYS, Abaqus, FEA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:Intuitive:744000161896235</id>
-    <title>Intuitive Surgical: Mechanical Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Intuitive/744000161896235"/>
-    <updated>2026-11-16T22:28:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Mechanical Design · Blacksburg, VA, United States · Python, SolidWorks, CAD, LabVIEW, Tolerance Analysis · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2371-1</id>
     <title>Gorbel: Manufacturing Engineer Co-Op</title>
     <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2371-1"/>
@@ -790,21 +806,5 @@
     <updated>2026-11-12T20:13:04Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Manufacturing &amp; Quality · United States-Maryland-Annapolis · $20.5–$37.25/hr · Siemens NX, CAD, GD&amp;T, DFM/DFA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ttc:/job/Lake-Mills-WI/Mechanical-Engineering-Intern---HammerHead_JR17392</id>
-    <title>The Toro Company: Mechanical Engineering Intern - HammerHead 🛂</title>
-    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Lake-Mills-WI/Mechanical-Engineering-Intern---HammerHead_JR17392"/>
-    <updated>2026-11-12T20:13:04Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Mechanical Design · Lake Mills, WI · SolidWorks, CAD · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:formlabsinternships:8161818</id>
-    <title>Formlabsinternships: Manufacturing Engineering Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/formlabsinternships/jobs/8161818"/>
-    <updated>2026-11-12T07:32:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Manufacturing &amp; Quality · Somerville, MA · Python, SQL, SolidWorks, CAD, GD&amp;T</summary>
   </entry>
 </feed>
