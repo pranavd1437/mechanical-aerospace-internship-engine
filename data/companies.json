@@ -2015,6 +2015,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Appodeal",
+    "slug": "appodeal",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Apptronik",
     "slug": "apptronik",
     "ats": "greenhouse"
@@ -7724,6 +7729,11 @@
     "site": "DavidYurmanCareers"
   },
   {
+    "name": "Davidson Kempner",
+    "slug": "5364856uhdfnvbkldfnbhrpkdfgbdvtyhro",
+    "ats": "greenhouse"
+  },
+  {
     "name": "DaVita",
     "slug": "davita",
     "ats": "workday",
@@ -8276,6 +8286,11 @@
     "name": "Domino's",
     "slug": "Dominos",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Dominodatalab",
+    "slug": "dominodatalab",
+    "ats": "greenhouse"
   },
   {
     "name": "Domo",
@@ -20361,6 +20376,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "PatientPoint",
+    "slug": "patientpointinviteonly",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Patreon",
     "slug": "patreon",
     "ats": "ashby"
@@ -21472,6 +21492,11 @@
     "site": "Prologis_External_Careers"
   },
   {
+    "name": "Prolucid Technologies",
+    "slug": "prolucid-technologies",
+    "ats": "workable"
+  },
+  {
     "name": "Promise Robotics",
     "slug": "promiserobotics",
     "ats": "lever"
@@ -22115,6 +22140,11 @@
     "name": "Reach Financial",
     "slug": "reach",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Reach Labs",
+    "slug": "reachpower",
+    "ats": "lever"
   },
   {
     "name": "Reach3 Insights",
@@ -26598,6 +26628,11 @@
     "name": "The Swift Group",
     "slug": "theswiftgroup",
     "ats": "greenhouse"
+  },
+  {
+    "name": "The Tech Interactive",
+    "slug": "the-tech",
+    "ats": "rippling"
   },
   {
     "name": "The Toro Company",
