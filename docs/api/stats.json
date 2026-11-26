@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-25T21:56:21Z",
- "duration_seconds": 458.1,
+ "generated_at": "2026-11-26T08:38:45Z",
+ "duration_seconds": 265.6,
  "companies_total": 5294,
  "companies_by_source": {
   "greenhouse": 1250,
@@ -16,56 +16,58 @@
   "breezy": 20,
   "eightfold": 1
  },
- "quarantined": 743,
- "fetched_ok": 3352,
- "fetch_errors": 1199,
+ "quarantined": 1518,
+ "fetched_ok": 3274,
+ "fetch_errors": 502,
  "errors_by_source": {
-  "workday": 1185,
-  "greenhouse": 3,
-  "workable": 7,
-  "ashby": 3,
-  "lever": 1
+  "greenhouse": 51,
+  "recruitee": 2,
+  "workday": 314,
+  "ashby": 56,
+  "lever": 40,
+  "rippling": 7,
+  "workable": 32
  },
- "fetch_success_rate": 0.737,
- "fetch_success_rate_registry": 0.633,
- "snapshots_complete": 3324,
- "snapshots_partial": 28,
- "roles_matched": 262,
- "dropped_no_year_in_title": 114,
- "dropped_offcycle_by_text": 84,
+ "fetch_success_rate": 0.867,
+ "fetch_success_rate_registry": 0.618,
+ "snapshots_complete": 3245,
+ "snapshots_partial": 29,
+ "roles_matched": 243,
+ "dropped_no_year_in_title": 106,
+ "dropped_offcycle_by_text": 80,
  "dropped_by_description_scope": 0,
  "roles_cycle_inferred": 260,
  "roles_by_source": {
   "amazon": 3,
   "ashby": 49,
   "breezy": 2,
-  "greenhouse": 119,
+  "greenhouse": 118,
   "lever": 32,
-  "oracle": 15,
+  "oracle": 14,
   "rippling": 4,
   "smartrecruiters": 56,
   "workday": 584
  },
  "roles_by_cycle": {
-  "Summer 2027": 586,
+  "Summer 2027": 584,
   "Fall 2026": 18,
   "Not stated": 260
  },
  "roles_by_region": {
-  "US": 864
+  "US": 862
  },
  "sponsorship_counts": {
   "no-sponsorship": 82,
-  "unknown": 528,
-  "citizens-only": 252,
+  "unknown": 527,
+  "citizens-only": 251,
   "offers": 2
  },
  "posted_date_coverage": 0.995,
- "enriched_this_run": 2,
- "enrichment_detail_fetches": 2,
+ "enriched_this_run": 0,
+ "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
- "new_this_run": 5,
- "open_total": 864,
+ "new_this_run": 0,
+ "open_total": 862,
  "detection_latency": {
   "median_minutes": 315.0,
   "p95_minutes": 537.3,
@@ -75,6 +77,6 @@
  },
  "posting_lifetime": {
   "median_days": 24,
-  "sample_size": 1031
+  "sample_size": 1033
  }
 }
