@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T21:44:39Z",
+ "generated_at": "2026-11-27T08:48:37Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 862,
+ "count": 859,
  "jobs": [
   {
    "id": "oracle:cva.fa.us1.oraclecloud.com:10806",
@@ -5047,31 +5047,6 @@
    "remote": false
   },
   {
-   "id": "lever:loftorbital:03f948ff-0767-4bb0-a13b-345321d63d71",
-   "company": "Loft Orbital",
-   "title": "Summer 2027 Internship – Thermal & Manufacturing Engineering",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Thermal, Fluids & Propulsion",
-   "location": "Golden, CO",
-   "url": "https://jobs.lever.co/loftorbital/03f948ff-0767-4bb0-a13b-345321d63d71",
-   "posted_at": "2026-10-30T00:33:01Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-30T22:35:11Z",
-   "sponsorship": "unknown",
-   "salary": "$30/hr",
-   "skills": [
-    "Python",
-    "SolidWorks",
-    "CAD"
-   ],
-   "source": "lever",
-   "h1b_approvals": 2,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "smartrecruiters:BoschGroup:744000158774229",
    "company": "Bosch",
    "title": "Manufacturing Engineering Intern (Jan 2027)",
@@ -5989,52 +5964,6 @@
     "DFM/DFA"
    ],
    "source": "ashby",
-   "h1b_approvals": 2,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "lever:loftorbital:34edd0b7-2a5b-4efa-a379-860097784534",
-   "company": "Loft Orbital",
-   "title": "Summer 2027 Internship – Mechanical Engineering",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Mechanical Design",
-   "location": "Golden, CO",
-   "url": "https://jobs.lever.co/loftorbital/34edd0b7-2a5b-4efa-a379-860097784534",
-   "posted_at": "2026-10-27T23:53:53Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-30T22:35:11Z",
-   "sponsorship": "unknown",
-   "salary": "$30/hr",
-   "skills": [
-    "CAD"
-   ],
-   "source": "lever",
-   "h1b_approvals": 2,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "lever:loftorbital:be396d08-738d-4f3d-bea4-cbbdc88c3db9",
-   "company": "Loft Orbital",
-   "title": "Summer 2027 Internship – Test Engineering",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Test & Validation",
-   "location": "Golden, CO",
-   "url": "https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9",
-   "posted_at": "2026-10-27T23:42:23Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-30T22:35:11Z",
-   "sponsorship": "unknown",
-   "salary": "$30/hr",
-   "skills": [
-    "Python"
-   ],
-   "source": "lever",
    "h1b_approvals": 2,
    "program": "Internship",
    "remote": false
