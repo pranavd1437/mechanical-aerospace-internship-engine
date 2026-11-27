@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T08:48:37Z",
+ "generated_at": "2026-11-27T21:29:33Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "companies": [
@@ -141,6 +141,20 @@
    "days_until": -102,
    "status": "open",
    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Fort-Worth-TX/Structural-Engineering-Intern---Fort-Worth--TX_R-16423",
+   "note": ""
+  },
+  {
+   "company": "WSP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -102,
+   "status": "open",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95758",
    "note": ""
   },
   {
@@ -2127,20 +2141,6 @@
    "source": "engine",
    "expected": "2026-08-13",
    "days_until": -106,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "WSP",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -102,
    "status": "dropped",
    "url": "",
    "note": ""
