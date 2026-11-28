@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T21:29:33Z",
+ "generated_at": "2026-11-28T08:08:37Z",
  "source": "https://github.com/pranavd1437/mechanical-aerospace-internship-engine",
  "h1b_window": "FY2022–2023",
- "count": 860,
+ "count": 858,
  "jobs": [
   {
    "id": "oracle:cva.fa.us1.oraclecloud.com:10806",
@@ -9665,29 +9665,6 @@
    "remote": false
   },
   {
-   "id": "greenhouse:syskahennessy:8267624",
-   "company": "Syska Hennessy Group",
-   "title": "Mechanical Engineer Summer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "Tampa, FL",
-   "url": "https://job-boards.greenhouse.io/syskahennessy/jobs/8267624",
-   "posted_at": "2026-10-13T19:05:08-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-14T05:09:44Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "AutoCAD"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702",
    "company": "RTX",
    "title": "Mechanical Design Engineering Intern (Summer 2027)",
@@ -9713,30 +9690,6 @@
    ],
    "source": "workday",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:asteraearlycareer2027:4739915005",
-   "company": "Astera Labs",
-   "title": "AMS Digital Design Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Mechanical Design",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739915005",
-   "posted_at": "2026-10-13T14:21:38-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-13T23:01:25Z",
-   "sponsorship": "unknown",
-   "salary": "$35/hr",
-   "skills": [
-    "Python",
-    "Verilog"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 29,
    "program": "Internship",
    "remote": false
   },
